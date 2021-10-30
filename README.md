@@ -1,0 +1,3 @@
+# PikminBloomAssets
+
+Pikmin Bloom Assets

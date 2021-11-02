@@ -177,7 +177,7 @@
     },
     {
       "Id": -6626892811565975355,
-      "Text": "You've cleared this challenge",
+      "Text": "This challenge has been cleared.",
       "PluralText": ""
     },
     {
@@ -651,6 +651,51 @@
       "PluralText": ""
     },
     {
+      "Id": 5320297670336684306,
+      "Text": "Closed Beta Test Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 5854515286252222551,
+      "Text": "Participated in the closed beta test.\nThanks for your support!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3022620190845947247,
+      "Text": "Community Day Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -6699418209639980821,
+      "Text": "Participated in your first community day.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7803739877475083134,
+      "Text": "Date of event",
+      "PluralText": ""
+    },
+    {
+      "Id": 6925621606219371599,
+      "Text": "Event period",
+      "PluralText": ""
+    },
+    {
+      "Id": -5241899019475767311,
+      "Text": "{0} - {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5651923994148711211,
+      "Text": "Participate in the closed beta test",
+      "PluralText": ""
+    },
+    {
+      "Id": -3676749983211875161,
+      "Text": "Participate in your first community day",
+      "PluralText": ""
+    },
+    {
       "Id": -2977119981155483501,
       "Text": "You have about {1} flowers ({0} minutes) to plant as you walk.",
       "PluralText": ""
@@ -792,7 +837,7 @@
     },
     {
       "Id": -704332539942314270,
-      "Text": "Enter your date of birth",
+      "Text": "<b>Enter your date of birth</b>\n<size=24><color=\"red\">*It cannot be changed once submitted</color></size>",
       "PluralText": ""
     },
     {
@@ -872,7 +917,7 @@
     },
     {
       "Id": 6143448343296213180,
-      "Text": "You need to allow Pikmin Bloom to track your activity across other companies' apps and websites.",
+      "Text": "In order to use Facebook account to login, you need to allow Pikmin Bloom to track your activity across other companies' apps and websites.",
       "PluralText": ""
     },
     {
@@ -899,6 +944,16 @@
       "Id": 8075309045017996307,
       "Text": "{0} day ago",
       "PluralText": "{0} days ago"
+    },
+    {
+      "Id": 7903859597229341766,
+      "Text": "t",
+      "PluralText": ""
+    },
+    {
+      "Id": -8852826481264038680,
+      "Text": "MMM d, yyyy",
+      "PluralText": ""
     },
     {
       "Id": 4219317091569690286,
@@ -1437,7 +1492,7 @@
     },
     {
       "Id": 815476265258911662,
-      "Text": "Are you sure you want to remove {0} from your friend list?",
+      "Text": "Are you sure you want to remove {0} from your friend list?\n※They will also be deleted from your friends list in other Niantic games (Pokémon GO, Ingress, etc)",
       "PluralText": ""
     },
     {
@@ -2522,7 +2577,7 @@
     },
     {
       "Id": 3214873227997900620,
-      "Text": "{0} steps stored...",
+      "Text": "{0} step stored...",
       "PluralText": "{0} steps stored..."
     },
     {
@@ -3697,7 +3752,7 @@
     },
     {
       "Id": 7241783822745396733,
-      "Text": "◆ Your username can't be changed later.",
+      "Text": "<b>◆ Your username can't be changed later.</b>",
       "PluralText": ""
     },
     {
@@ -3813,11 +3868,6 @@
     {
       "Id": -3554859661836135291,
       "Text": "Child accounts are not supported yet. Sorry for the inconvenience.",
-      "PluralText": ""
-    },
-    {
-      "Id": -7841180612166439923,
-      "Text": "Unable to log in. Please check that this account exists and you have correctly selected between Log In and New Account.",
       "PluralText": ""
     },
     {
@@ -4257,7 +4307,7 @@
     },
     {
       "Id": 1068478314446187744,
-      "Text": "Postcards",
+      "Text": "Postcard",
       "PluralText": "Postcards"
     },
     {
@@ -4437,7 +4487,7 @@
     },
     {
       "Id": 6521686360035640082,
-      "Text": "flowers",
+      "Text": "petals",
       "PluralText": ""
     },
     {
@@ -4647,7 +4697,7 @@
     },
     {
       "Id": -8116989067799095779,
-      "Text": "Record your walks even while the app closed!",
+      "Text": "Record your walks even while the app is closed!",
       "PluralText": ""
     },
     {
@@ -5322,7 +5372,7 @@
     },
     {
       "Id": 5787432922722343690,
-      "Text": "Cleared on {0}!",
+      "Text": "Acquired on {0}!",
       "PluralText": ""
     },
     {
@@ -9041,6 +9091,11 @@
       "PluralText": ""
     },
     {
+      "Id": 388652148881364942,
+      "Text": "Can’t unlink this account. You need to link with another account before unlinking this account.",
+      "PluralText": ""
+    },
+    {
       "Id": -3566549781637734677,
       "Text": "Pick up and hold a Pikmin here to see details",
       "PluralText": ""
@@ -9942,7 +9997,7 @@
     },
     {
       "Id": 7019943443769829466,
-      "Text": "AToy Airplane",
+      "Text": "Toy Airplane",
       "PluralText": ""
     },
     {
@@ -10802,17 +10857,17 @@
     },
     {
       "Id": 7186205489242392836,
-      "Text": "Special Pack",
+      "Text": "Flower Pack",
       "PluralText": ""
     },
     {
       "Id": 8531645827598836335,
-      "Text": "Super Pack",
+      "Text": "Special Pack",
       "PluralText": ""
     },
     {
       "Id": -2307192030998706023,
-      "Text": "Adventure Pack",
+      "Text": "Bloom Pack",
       "PluralText": ""
     },
     {
@@ -10932,7 +10987,7 @@
     },
     {
       "Id": -3718907272190744923,
-      "Text": "You cannot login with a non-kids account.",
+      "Text": "This is an adult account. \nYou are too young to log in with this account.",
       "PluralText": ""
     },
     {
@@ -11041,6 +11096,11 @@
       "PluralText": ""
     },
     {
+      "Id": -7841180612166439923,
+      "Text": "Unable to log in. Please check that this account exists and you have correctly selected between Log In and New Account.",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "Pikmin plucked!",
       "PluralText": ""
@@ -11098,6 +11158,16 @@
     {
       "Id": 8859969091453911087,
       "Text": "A special type of slot that grows Pikmin faster. This slot will disappear after you pluck the grown Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 9094542193200475510,
+      "Text": "Make sure you're in a safe location while using AR.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1647433295564063950,
+      "Text": "Make sure you're in a safe location while using AR. Make sure you have proper parental supervision while using AR.",
       "PluralText": ""
     },
     {
@@ -11386,6 +11456,16 @@
       "PluralText": ""
     },
     {
+      "Id": 7609008915263360958,
+      "Text": "Your username will be visible to other users when you become friends. Choose carefully.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1133831709893173315,
+      "Text": "Are you sure? You will not be able to change your username.",
+      "PluralText": ""
+    },
+    {
       "Id": 5930764704849029031,
       "Text": "Supermarket",
       "PluralText": ""
@@ -11397,7 +11477,7 @@
     },
     {
       "Id": 4232141314118770660,
-      "Text": "You can now use the detector to find hidden items!",
+      "Text": "You can now use the detector to find nearby items!",
       "PluralText": ""
     },
     {

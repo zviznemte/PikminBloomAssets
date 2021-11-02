@@ -21,10 +21,10 @@ id	constant	phrase	plural phrase
 -5675915195141523149	NINTENDO_LOGIN_BONUS_DIALOG_DESCRIPTION	Una piantina speciale è stata aggiunta alla tua lista piantine.	
 6467743691056327219	NINTENDO_LOGIN_BONUS_DIALOG_DESCRIPTION_2	Ora puoi scegliere il Mii del tuo account Nintendo.	
 -4873722125508925441	INCONSISTENT_AGE_LEVEL_WITH_ADULT_PLAYER	Non puoi accedere con un account per bambini.	
--3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	Puoi accedere solo con un account per bambini.	
+-3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	Questo è un account per adulti. \nSei troppo giovane per accedere a questo account.	
 -1814714920489092509	NINTENDO_LOGIN_NO_MII_SET_DIALOG_DESCRIPTION	Nell'account collegato non ci sono Mii impostati. Crea un nuovo Mii toccando il pulsante [Crea Mii].	
 -472925358362562323	ACCOUNT_LINK_CANCEL	Il collegamento all'account è stato annullato.	
--5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	In order to use your Facebook account, you need to allow Pikmin Bloom to use your app and website activities.\nNote: If tracking permission is not enabled in your privacy settings, please follow these instructions to enable it (You'll also need to configure individual setting for Pikmin Bloom after the permission is enabled) \n\n1. Open Settings and Go to “Privacy”\n2. Tap “Tracking” and Enable “Allow Apps to Request to Track”	
+-5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Devi autorizzare Pikmin Bloom a utilizzare la tua attività nelle app e nei siti Web per poter utilizzare il tuo account Facebook.	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	Le autorizzazioni necessarie non sono state concesse.	
 -4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Scollega account Facebook	
 -6261744157366888903	LOGIN_FAILED_ERROR	Si è verificato un errore durante l'accesso al tuo account.	
@@ -36,13 +36,14 @@ id	constant	phrase	plural phrase
 8644943804602915250	LOGIN_PROVIDER_FACEBOOK	Facebook	
 -380381717348982401	LOGIN_PROVIDER_APPLE	Apple	
 1670268103353373479	LOGIN_PROVIDER_NINTENDO	Nintendo	
-5129733746667304330	LINK_FAILURE_WITH_KIDS_ACCOUNT	You cannot link with kids accounts.	
+5129733746667304330	LINK_FAILURE_WITH_KIDS_ACCOUNT	Non puoi collegarti ad account per bambini.	
 -5106856330037283941	TITLE_ACCOUNT_PERMANENTLY_BANNED	Avviso di chiusura dell'account	
 6896609452290178645	TITLE_ACCOUNT_TEMPORARILY_SUSPENDED	Avviso di sospensione dell'account	
 8682783416889457618	WARNING_ACCOUNT_PERMANENTLY_BANNED	Il tuo account è stato chiuso definitivamente perché hai violato i termini di servizio.	
 -1146777523130602812	WARNING_ACCOUNT_TEMPORARILY_SUSPENDED	Il tuo account è stato sospeso perché hai violato i termini di servizio. La sospensione durerà per circa 30 giorni. Qualsiasi trasgressione ulteriore avrà come conseguenza la chiusura definitiva dell'account.	
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	Questo dispositivo, il suo sistema operativo o qualche altro software non sono compatibili con Pikmin Bloom.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	L'indirizzo e-mail %s non è autorizzato. Riprova con l'indirizzo e-mail che hai usato per registrarti al programma di beta test.	
+-7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	Impossibile effettuare l'accesso. Controlla che questo account sia esistente e di aver selezionato l'opzione corretta fra "Accedi" e "Crea un nuovo account".	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Indietro	
 8485757493794925261	ACTION_CANCEL	Annulla	
 -897094175043611554	ACTION_CANT_SIGN_IN	Problemi con l'accesso?	
@@ -63,7 +64,7 @@ id	constant	phrase	plural phrase
 -1206191158594113497	PRIVACY_POLICY_PLEASE_REVIEW	Leggi la Policy sulla privacy di Niantic per avere informazioni su come trattiamo i tuoi dati personali.	
 -3503304310691560857	PRIVACY_POLICY_URL	https://nianticlabs.com/privacy-embedded-embedded/it/	
 6930828639460369314	PRIVACY_POLICY_VIEW	Leggi la Policy sulla privacy	
--704332539942314270	PROMPT_ENTER_BIRTH_DATE	Inserisci la tua data di nascita	
+-704332539942314270	PROMPT_ENTER_BIRTH_DATE	<b>Inserisci la tua data di nascita</b>\n<size=24><color="red">*Non potrai cambiarla in seguito.</color></size>	
 1248583376533854016	SPLASH_SCREEN_SAFETY_WARNING	Ricorda di fare attenzione a ciò che ti circonda in ogni momento.	
 -2348885925547706723	STATUS_POPUP_ERROR	Errore	
 4407614562937896451	STATUS_POPUP_NETWORK_ERROR	Errore di rete	

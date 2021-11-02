@@ -21,10 +21,10 @@ id	constant	phrase	plural phrase
 -5675915195141523149	NINTENDO_LOGIN_BONUS_DIALOG_DESCRIPTION	Une pousse spéciale a été ajoutée à votre liste de pousses.	
 6467743691056327219	NINTENDO_LOGIN_BONUS_DIALOG_DESCRIPTION_2	Vous pouvez désormais choisir le Mii de votre compte Nintendo.	
 -4873722125508925441	INCONSISTENT_AGE_LEVEL_WITH_ADULT_PLAYER	Vous ne pouvez pas vous connecter avec un compte enfant.	
--3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	Vous ne pouvez vous connecter qu'avec un compte enfant.	
+-3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	Ceci s'agit d'un compte adulte. \nVous êtes trop jeune pour vous connecter à ce compte.	
 -1814714920489092509	NINTENDO_LOGIN_NO_MII_SET_DIALOG_DESCRIPTION	Le compte lié n'a pas de Mii défini. Veuillez créer un nouveau Mii en appuyant sur le bouton [Créer un Mii].	
 -472925358362562323	ACCOUNT_LINK_CANCEL	L'association au compte a été annulée.	
--5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	In order to use your Facebook account, you need to allow Pikmin Bloom to use your app and website activities.\nNote: If tracking permission is not enabled in your privacy settings, please follow these instructions to enable it (You'll also need to configure individual setting for Pikmin Bloom after the permission is enabled) \n\n1. Open Settings and Go to “Privacy”\n2. Tap “Tracking” and Enable “Allow Apps to Request to Track”	
+-5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Afin d'utiliser votre compte Facebook, vous devez autoriser Pikmin Bloom à utiliser les activités de votre application et de votre site web.	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	Les autorisations requises n'ont pas été accordées.	
 -4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Dissocier le compte Facebook	
 -6261744157366888903	LOGIN_FAILED_ERROR	Une erreur est survenue lors de la connexion à votre compte.	
@@ -36,13 +36,14 @@ id	constant	phrase	plural phrase
 8644943804602915250	LOGIN_PROVIDER_FACEBOOK	Facebook	
 -380381717348982401	LOGIN_PROVIDER_APPLE	Apple	
 1670268103353373479	LOGIN_PROVIDER_NINTENDO	Nintendo	
-5129733746667304330	LINK_FAILURE_WITH_KIDS_ACCOUNT	You cannot link with kids accounts.	
+5129733746667304330	LINK_FAILURE_WITH_KIDS_ACCOUNT	Vous ne pouvez pas vous associer à des comptes enfant.	
 -5106856330037283941	TITLE_ACCOUNT_PERMANENTLY_BANNED	Notification de désactivation du compte	
 6896609452290178645	TITLE_ACCOUNT_TEMPORARILY_SUSPENDED	Notification de suspension du compte	
 8682783416889457618	WARNING_ACCOUNT_PERMANENTLY_BANNED	Votre compte a été définitivement désactivé pour non-respect des conditions d'utilisation.	
 -1146777523130602812	WARNING_ACCOUNT_TEMPORARILY_SUSPENDED	Votre compte a été suspendu pour non-respect des conditions d'utilisation. Cette suspension sera effective pendant une trentaine de jours. En cas de récidive, votre compte sera définitivement désactivé.	
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	Cet appareil, son système d'exploitation ou d'autres éléments logiciels ne sont pas compatibles avec Pikmin Bloom.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	L'adresse e-mail %s n'est pas autorisée. Réessayez avec l'adresse e-mail que vous avez utilisée lors de votre inscription au programme bêta.	
+-7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	La connexion a échoué. Si vous n'avez pas encore de compte, sélectionnez Nouveau compte.	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Retour	
 8485757493794925261	ACTION_CANCEL	Annuler	
 -897094175043611554	ACTION_CANT_SIGN_IN	Vous n'arrivez pas à vous connecter ?	
@@ -63,7 +64,7 @@ id	constant	phrase	plural phrase
 -1206191158594113497	PRIVACY_POLICY_PLEASE_REVIEW	Veuillez lire la politique de confidentialité de Niantic pour savoir comment sont traitées vos informations personnelles.	
 -3503304310691560857	PRIVACY_POLICY_URL	https://nianticlabs.com/privacy-embedded-embedded/fr	
 6930828639460369314	PRIVACY_POLICY_VIEW	Consulter la politique de confidentialité	
--704332539942314270	PROMPT_ENTER_BIRTH_DATE	Entrez votre date de naissance	
+-704332539942314270	PROMPT_ENTER_BIRTH_DATE	<b>Entrez votre date de naissance</b>\n<size=24><color="red">*Vous ne pourrez pas le changer plus tard.</color></size>	
 1248583376533854016	SPLASH_SCREEN_SAFETY_WARNING	Prêtez attention à ce qui vous entoure quand vous jouez.	
 -2348885925547706723	STATUS_POPUP_ERROR	Erreur	
 4407614562937896451	STATUS_POPUP_NETWORK_ERROR	Erreur de réseau	
@@ -79,6 +80,6 @@ id	constant	phrase	plural phrase
 -6134105492375826462	ACTION_TRY_AGAIN	Try Again	
 -9075047459596506242	ACTION_DONE	Terminé	
 -6671261524127209282	OPEN_APP_SETTINGS_ACTION_OPEN	Ouvrir les paramètres	
-6143448343296213180	OPEN_APP_SETTINGS_IOS_APP_TRACKING	Vous devez autoriser Pikmin Bloom à suivre votre activité sur les applications et sites web d'autres sociétés.	
+6143448343296213180	OPEN_APP_SETTINGS_IOS_APP_TRACKING	Pour vous connecter via Facebook, veuillez autoriser Pikmin Bloom à suivre votre activité sur les applications et sites web d'autres sociétés.	
 -1695401554888225946	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_1	1. Go to Settings, and Privacy	
 -6268125898998694242	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_2	2. From Tracking, turn on Pikmin Bloom	

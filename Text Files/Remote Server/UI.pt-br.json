@@ -177,7 +177,7 @@
     },
     {
       "Id": -6626892811565975355,
-      "Text": "Você completou este desafio",
+      "Text": "Este desafio foi concluído.",
       "PluralText": ""
     },
     {
@@ -651,6 +651,51 @@
       "PluralText": ""
     },
     {
+      "Id": 5320297670336684306,
+      "Text": "Closed Beta Test Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 5854515286252222551,
+      "Text": "Participou do teste beta fechado.\nObrigado pelo apoio!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3022620190845947247,
+      "Text": "Community Day Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -6699418209639980821,
+      "Text": "Participou do primeiro dia da comunidade.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7803739877475083134,
+      "Text": "Data do evento",
+      "PluralText": ""
+    },
+    {
+      "Id": 6925621606219371599,
+      "Text": "Período do evento",
+      "PluralText": ""
+    },
+    {
+      "Id": -5241899019475767311,
+      "Text": "{0} - {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5651923994148711211,
+      "Text": "Participe do teste beta fechado",
+      "PluralText": ""
+    },
+    {
+      "Id": -3676749983211875161,
+      "Text": "Participou do primeiro dia da comunidade",
+      "PluralText": ""
+    },
+    {
       "Id": -2977119981155483501,
       "Text": "Você tem cerca de {1} flores ({0} minutos) para plantar na caminhada.",
       "PluralText": ""
@@ -792,7 +837,7 @@
     },
     {
       "Id": -704332539942314270,
-      "Text": "Insira sua data de nascimento.",
+      "Text": "<b>Insira sua data de nascimento</b>\n<size=24><color=\"red\">*Não poderá ser alterada mais tarde.</color></size>",
       "PluralText": ""
     },
     {
@@ -897,8 +942,18 @@
     },
     {
       "Id": 8075309045017996307,
-      "Text": "{0} day ago",
-      "PluralText": "{0} days ago"
+      "Text": "Há {0} dia",
+      "PluralText": "Há {0} dias"
+    },
+    {
+      "Id": 7903859597229341766,
+      "Text": "t",
+      "PluralText": ""
+    },
+    {
+      "Id": -8852826481264038680,
+      "Text": "MMM d, yyyy",
+      "PluralText": ""
     },
     {
       "Id": 4219317091569690286,
@@ -1183,7 +1238,7 @@
     {
       "Id": -4781863217097845354,
       "Text": "{0} s",
-      "PluralText": " s"
+      "PluralText": "{0} s"
     },
     {
       "Id": -6177288554217248536,
@@ -1437,7 +1492,7 @@
     },
     {
       "Id": 815476265258911662,
-      "Text": "Quer mesmo remover {0} da sua lista de amigos?",
+      "Text": "Quer mesmo remover {0} da lista de amigos?",
       "PluralText": ""
     },
     {
@@ -2522,8 +2577,8 @@
     },
     {
       "Id": 3214873227997900620,
-      "Text": "{0} passos armazenados...",
-      "PluralText": "{0} passos carregados..."
+      "Text": "{0} passo armazenados...",
+      "PluralText": "{0} passos armazenados..."
     },
     {
       "Id": -3489299734402127844,
@@ -3697,7 +3752,7 @@
     },
     {
       "Id": 7241783822745396733,
-      "Text": "◆ Seu nome de usuário não poderá ser alterado mais tarde.",
+      "Text": "<b>◆ Seu nome de usuário não poderá ser alterado mais tarde.</b>",
       "PluralText": ""
     },
     {
@@ -3813,11 +3868,6 @@
     {
       "Id": -3554859661836135291,
       "Text": "Contas de criança ainda não são compatíveis. Sentimos pela inconveniência.",
-      "PluralText": ""
-    },
-    {
-      "Id": -7841180612166439923,
-      "Text": "Não foi possível iniciar a sessão. Verifique se você está usando uma conta que já existe e que fez a seleção certa entre \"Iniciar sessão\" e \"Criar nova conta\".",
       "PluralText": ""
     },
     {
@@ -4167,8 +4217,8 @@
     },
     {
       "Id": -8116911019193917855,
-      "Text": "Only {0} Pikmin can go on this expedition.",
-      "PluralText": "Only {0} Pikmin can go on this expedition."
+      "Text": "Apenas {0} Pikmin pode participar desta expedição.",
+      "PluralText": "Apenas {0} Pikmin podem participar desta expedição."
     },
     {
       "Id": 4067631588892920722,
@@ -4437,7 +4487,7 @@
     },
     {
       "Id": 6521686360035640082,
-      "Text": "flores",
+      "Text": "pétalas",
       "PluralText": ""
     },
     {
@@ -8972,8 +9022,8 @@
     },
     {
       "Id": -5435529146641075038,
-      "Text": "Falta só mais {0} passo para bater o recorde de ontem.",
-      "PluralText": "Faltam só mais {0} passos para bater o recorde de ontem."
+      "Text": "Você está a {0} passo do total de ontem.",
+      "PluralText": "Você está a {0} passos do total de ontem."
     },
     {
       "Id": -7809560376681706899,
@@ -9037,12 +9087,17 @@
     },
     {
       "Id": -6578098001920249031,
-      "Text": "Reagistrar minhas pegadas",
+      "Text": "Registrar minhas pegadas",
       "PluralText": ""
     },
     {
       "Id": -3083488371237758636,
       "Text": "Registra suas pegadas diárias conforme você se desloca. Permite coletar itens e iniciar expedições pelo caminho.",
+      "PluralText": ""
+    },
+    {
+      "Id": 388652148881364942,
+      "Text": "Can’t unlink this account. You need to link with another account before unlinking this account.",
       "PluralText": ""
     },
     {
@@ -9177,7 +9232,7 @@
     },
     {
       "Id": 3176448955965822443,
-      "Text": "Veja quais informações são compartilhadas com amigos.",
+      "Text": "Veja quais informações são \ncompartilhadas com amigos.",
       "PluralText": ""
     },
     {
@@ -9317,7 +9372,7 @@
     },
     {
       "Id": -2141913929259742967,
-      "Text": "Toy Airplane",
+      "Text": "Aviãozinho",
       "PluralText": ""
     },
     {
@@ -9917,12 +9972,12 @@
     },
     {
       "Id": -8592158364526909739,
-      "Text": "Aviõezinhos",
+      "Text": "Aviãozinho",
       "PluralText": ""
     },
     {
       "Id": -4085672144591051782,
-      "Text": "Aviõezinho",
+      "Text": "Aviãozinho",
       "PluralText": ""
     },
     {
@@ -9932,7 +9987,7 @@
     },
     {
       "Id": -8230706235844791193,
-      "Text": "Aviõezinho",
+      "Text": "Aviãozinho",
       "PluralText": ""
     },
     {
@@ -9942,12 +9997,12 @@
     },
     {
       "Id": -436709531100923185,
-      "Text": "Aviõezinho",
+      "Text": "Aviãozinho",
       "PluralText": ""
     },
     {
       "Id": 7019943443769829466,
-      "Text": "Aviõezinho",
+      "Text": "Aviãozinho",
       "PluralText": ""
     },
     {
@@ -10852,7 +10907,7 @@
     },
     {
       "Id": -5212070237193999921,
-      "Text": "Special nectar that will fill a Pikmin with joy, and greatly increase your friendship level.",
+      "Text": "Néctar especial que deixa o Pikmin feliz e aumenta o nível de amizade.",
       "PluralText": ""
     },
     {
@@ -10937,7 +10992,7 @@
     },
     {
       "Id": -3718907272190744923,
-      "Text": "Não é possível fazer login com uma conta de adulto.",
+      "Text": "Não é possível fazer login com uma conta de adulto.\nVocê é muito jovem para fazer o login com esta conta.",
       "PluralText": ""
     },
     {
@@ -10952,7 +11007,7 @@
     },
     {
       "Id": -5635259498562488152,
-      "Text": "In order to use your Facebook account, you need to allow Pikmin Bloom to use your app and website activities.\nNote: If tracking permission is not enabled in your privacy settings, please follow these instructions to enable it (You'll also need to configure individual setting for Pikmin Bloom after the permission is enabled) \n\n1. Open Settings and Go to “Privacy”\n2. Tap “Tracking” and Enable “Allow Apps to Request to Track”",
+      "Text": "Permita que o Pikmin Bloom use suas atividades nos apps e sites para usar sua conta do Facebook.",
       "PluralText": ""
     },
     {
@@ -11012,7 +11067,7 @@
     },
     {
       "Id": 5129733746667304330,
-      "Text": "You cannot link with kids accounts.",
+      "Text": "Não é possível vincular com contas de crianças.",
       "PluralText": ""
     },
     {
@@ -11043,6 +11098,11 @@
     {
       "Id": 262310736144758494,
       "Text": "O endereço de e-mail {0} não recebeu permissão. Tente novamente com o endereço de e-mail que você usou para se inscrever no programa beta.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7841180612166439923,
+      "Text": "Não foi possível iniciar a sessão. Verifique se você está usando uma conta que já existe e que fez a seleção certa entre \"Iniciar sessão\" e \"Criar nova conta\".",
       "PluralText": ""
     },
     {
@@ -11103,6 +11163,16 @@
     {
       "Id": 8859969091453911087,
       "Text": "Um tipo de espaço especial em que o Pikmin cresce mais rápido. Desaparece depois que o Pikmin crescido é colhido.",
+      "PluralText": ""
+    },
+    {
+      "Id": 9094542193200475510,
+      "Text": "Lembre-se de ficar em local seguro quando usar a RA.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1647433295564063950,
+      "Text": "Lembre-se de ficar em local seguro e que seus pais estejam por perto quando usar a RA.",
       "PluralText": ""
     },
     {
@@ -11391,6 +11461,16 @@
       "PluralText": ""
     },
     {
+      "Id": 7609008915263360958,
+      "Text": "Your username will be visible to other users when you become friends. Choose carefully.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1133831709893173315,
+      "Text": "Are you sure? You will not be able to change your username.",
+      "PluralText": ""
+    },
+    {
       "Id": 5930764704849029031,
       "Text": "Supermercado",
       "PluralText": ""
@@ -11402,7 +11482,7 @@
     },
     {
       "Id": 4232141314118770660,
-      "Text": "Agora é possível usar o radar para encontrar itens escondidos!",
+      "Text": "Agora você pode usar o aurímetro para encontrar itens próximos!",
       "PluralText": ""
     },
     {
@@ -11507,12 +11587,12 @@
     },
     {
       "Id": -6546911927841364814,
-      "Text": "Pikmin are back from the Expedition to {0} after {1}!",
+      "Text": "Os Pikmin voltaram da expedição a {0} depois de {1}!",
       "PluralText": ""
     },
     {
       "Id": -2477311914983404123,
-      "Text": "Pikmin are back from the Challenge at {1}!",
+      "Text": "Os Pikmin voltaram do desafio em {1}!",
       "PluralText": ""
     },
     {

@@ -21,10 +21,10 @@ id	constant	phrase	plural phrase
 -5675915195141523149	NINTENDO_LOGIN_BONUS_DIALOG_DESCRIPTION	특별한 모종이 모종 목록에 추가되었습니다.	
 6467743691056327219	NINTENDO_LOGIN_BONUS_DIALOG_DESCRIPTION_2	이제 닌텐도 어카운트의 Mii를 선택할 수 있습니다.	
 -4873722125508925441	INCONSISTENT_AGE_LEVEL_WITH_ADULT_PLAYER	어린이 어카운트로는 로그인할 수 없습니다.	
--3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	성인용 어카운트로는 로그인할 수 없습니다.	
+-3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	이 계정은 성인용 계정입니다.\n귀하의 연령으로는 등록이 불가능합니다.	
 -1814714920489092509	NINTENDO_LOGIN_NO_MII_SET_DIALOG_DESCRIPTION	연결된 어카운트에는 Mii가 설정되어 있지 않습니다. [Mii 작성] 버튼을 눌러 새로운 Mii를 작성하세요.	
 -472925358362562323	ACCOUNT_LINK_CANCEL	어카운트 연동이 취소되었습니다.	
--5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	In order to use your Facebook account, you need to allow Pikmin Bloom to use your app and website activities.\nNote: If tracking permission is not enabled in your privacy settings, please follow these instructions to enable it (You'll also need to configure individual setting for Pikmin Bloom after the permission is enabled) \n\n1. Open Settings and Go to “Privacy”\n2. Tap “Tracking” and Enable “Allow Apps to Request to Track”	
+-5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Facebook 계정을 사용하려면 Pikmin Bloom이 귀하의 앱 및 웹사이트 활동을 추적할 수 있도록 허용해야 합니다.	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	필요한 권한이 허용되지 않았습니다.	
 -4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Facebook 계정 연동 해제	
 -6261744157366888903	LOGIN_FAILED_ERROR	어카운트에 로그인하지 못했습니다.	
@@ -36,7 +36,7 @@ id	constant	phrase	plural phrase
 8644943804602915250	LOGIN_PROVIDER_FACEBOOK	Facebook	
 -380381717348982401	LOGIN_PROVIDER_APPLE	Apple	
 1670268103353373479	LOGIN_PROVIDER_NINTENDO	Nintendo	
-5129733746667304330	LINK_FAILURE_WITH_KIDS_ACCOUNT	You cannot link with kids accounts.	
+5129733746667304330	LINK_FAILURE_WITH_KIDS_ACCOUNT	어린이의 어카운트와는 연결할 수 없습니다.	
 -5106856330037283941	TITLE_ACCOUNT_PERMANENTLY_BANNED	어카운트 영구 정지 알림	
 6896609452290178645	TITLE_ACCOUNT_TEMPORARILY_SUSPENDED	어카운트 동결 알림	
 8682783416889457618	WARNING_ACCOUNT_PERMANENTLY_BANNED	이용 약관 위반으로 인해 어카운트가 영구 정지되었습니다.	
@@ -44,6 +44,7 @@ id	constant	phrase	plural phrase
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	이용 중인 단말기의 OS 버전 비대응, 또는 특정 동작(ROOT화 등)이 확인되었으므로
 Pikmin Bloom 기동에 실패했습니다.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	「%s」 이 메일 주소는 액세스가 허가되지 않았습니다. 베타 프로그램 등록 시의 메일 주소로 다시 시도해 주십시오.	
+-7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	어카운트가 존재하지 않아 로그인하지 못했습니다. 어카운트가 존재하는지 확인해 주십시오.	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	이전 페이지로	
 8485757493794925261	ACTION_CANCEL	취소	
 -897094175043611554	ACTION_CANT_SIGN_IN	로그인이 안 되나요?	
@@ -64,7 +65,7 @@ Pikmin Bloom 기동에 실패했습니다.
 -1206191158594113497	PRIVACY_POLICY_PLEASE_REVIEW	당사가 고객님의 개인 데이터를 처리하는 방법에 대하여 Niantic 개인정보취급방침을 확인해 주십시오.	
 -3503304310691560857	PRIVACY_POLICY_URL	https://nianticlabs.com/privacy-embedded/ko/	
 6930828639460369314	PRIVACY_POLICY_VIEW	개인정보취급방침 확인	
--704332539942314270	PROMPT_ENTER_BIRTH_DATE	생년월일을 입력해 주십시오	
+-704332539942314270	PROMPT_ENTER_BIRTH_DATE	<b>생일을 입력해 주시기 바랍니다</b>\n<size=24><color="red">*이후에 변경이 불가능합니다.</color></size>	
 1248583376533854016	SPLASH_SCREEN_SAFETY_WARNING	주변을 잘 살피고 항상 주의를 기울이며\n플레이해 주십시오.	
 -2348885925547706723	STATUS_POPUP_ERROR	에러	
 4407614562937896451	STATUS_POPUP_NETWORK_ERROR	네트워크 에러	

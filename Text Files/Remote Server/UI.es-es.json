@@ -177,7 +177,7 @@
     },
     {
       "Id": -6626892811565975355,
-      "Text": "Has superado este desafío.",
+      "Text": "Se ha completado este desafío.",
       "PluralText": ""
     },
     {
@@ -651,8 +651,53 @@
       "PluralText": ""
     },
     {
+      "Id": 5320297670336684306,
+      "Text": "Closed Beta Test Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 5854515286252222551,
+      "Text": "Has participado en la beta de prueba.\n¡Gracias por tu apoyo!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3022620190845947247,
+      "Text": "Community Day Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -6699418209639980821,
+      "Text": "Has participado en tu primer Día de la Comunidad.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7803739877475083134,
+      "Text": "Fecha del evento",
+      "PluralText": ""
+    },
+    {
+      "Id": 6925621606219371599,
+      "Text": "Periodo del evento",
+      "PluralText": ""
+    },
+    {
+      "Id": -5241899019475767311,
+      "Text": "{0} - {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5651923994148711211,
+      "Text": "Participa en la beta de prueba",
+      "PluralText": ""
+    },
+    {
+      "Id": -3676749983211875161,
+      "Text": "Has participado en tu primer Día de la Comunidad",
+      "PluralText": ""
+    },
+    {
       "Id": -2977119981155483501,
-      "Text": "Te quedan aproximadamente {1} flores que plantar en {0} minutos mientras paseas.",
+      "Text": "A este ritmo, vas a plantar unas {1} flores en {0} minutos.",
       "PluralText": ""
     },
     {
@@ -792,7 +837,7 @@
     },
     {
       "Id": -704332539942314270,
-      "Text": "Introduce tu fecha de nacimiento.",
+      "Text": "<b>Introduce tu fecha de nacimiento</b>\n<size=24><color=\"red\">* No se podrá cambiar más adelante.</color></size>",
       "PluralText": ""
     },
     {
@@ -872,7 +917,7 @@
     },
     {
       "Id": 6143448343296213180,
-      "Text": "Debes permitir que Pikmin Bloom haga un seguimiento de tu actividad en las aplicaciones y los sitios web de otras compañías.",
+      "Text": "Para iniciar sesión a través de Facebook, debes permitir que Pikmin Bloom haga un seguimiento de tu actividad en las aplicaciones y los sitios web de otras compañías.",
       "PluralText": ""
     },
     {
@@ -897,8 +942,18 @@
     },
     {
       "Id": 8075309045017996307,
-      "Text": "{0} day ago",
-      "PluralText": "{0} days ago"
+      "Text": "Hace {0} día",
+      "PluralText": "Hace {0} días"
+    },
+    {
+      "Id": 7903859597229341766,
+      "Text": "t",
+      "PluralText": ""
+    },
+    {
+      "Id": -8852826481264038680,
+      "Text": "MMM d, yyyy",
+      "PluralText": ""
     },
     {
       "Id": 4219317091569690286,
@@ -953,7 +1008,7 @@
     {
       "Id": 8196396509726455323,
       "Text": "Ciruela pasa",
-      "PluralText": "Ciruelas"
+      "PluralText": "Ciruelas pasas"
     },
     {
       "Id": -8815932292541859464,
@@ -3697,7 +3752,7 @@
     },
     {
       "Id": 7241783822745396733,
-      "Text": "◆ No se podrá cambiar el nombre de usuario más adelante.",
+      "Text": "<b>◆ No se podrá cambiar el nombre de usuario más adelante.</b>",
       "PluralText": ""
     },
     {
@@ -3813,11 +3868,6 @@
     {
       "Id": -3554859661836135291,
       "Text": "Esta aplicación aún no es compatible con las cuentas infantiles. Sentimos las molestias.",
-      "PluralText": ""
-    },
-    {
-      "Id": -7841180612166439923,
-      "Text": "No se ha podido iniciar la sesión. Comprueba que estás intentando acceder a una cuenta existente o selecciona \"Crear cuenta nueva\" si es la opción correcta.",
       "PluralText": ""
     },
     {
@@ -4167,8 +4217,8 @@
     },
     {
       "Id": -8116911019193917855,
-      "Text": "Only {0} Pikmin can go on this expedition.",
-      "PluralText": "Only {0} Pikmin can go on this expedition."
+      "Text": "Solo {0} Pikmin puede participar en esta expedición.",
+      "PluralText": "Solo {0} Pikmin pueden participar en esta expedición."
     },
     {
       "Id": 4067631588892920722,
@@ -4437,7 +4487,7 @@
     },
     {
       "Id": 6521686360035640082,
-      "Text": "flor",
+      "Text": "pétalos",
       "PluralText": ""
     },
     {
@@ -4477,7 +4527,7 @@
     },
     {
       "Id": 3801059470508108836,
-      "Text": "Selecciona un pelotón",
+      "Text": "Gestionar el pelotón",
       "PluralText": ""
     },
     {
@@ -5557,7 +5607,7 @@
     },
     {
       "Id": 4104708856667969130,
-      "Text": "Descubierto:",
+      "Text": "Descubrimiento:",
       "PluralText": ""
     },
     {
@@ -5617,7 +5667,7 @@
     },
     {
       "Id": -2447684186571770075,
-      "Text": "{2}, {0}d{1} {0}MMM{1}",
+      "Text": "{2}, {0}d{1} de {0}MMM{1}",
       "PluralText": ""
     },
     {
@@ -8857,7 +8907,7 @@
     },
     {
       "Id": -3155882445104713597,
-      "Text": "Para usar esta función, tus padres tienen que darte este permiso: {0}. Pídeles que lo activen.",
+      "Text": "Se requiere permiso para usar esta función: {0}. Pide ayuda a un adulto para gestionar los ajustes de permisos.",
       "PluralText": ""
     },
     {
@@ -9038,6 +9088,11 @@
     {
       "Id": -3083488371237758636,
       "Text": "Registra y almacena a diario las huellas de tus desplazamientos para conseguir objetos y expediciones por el camino.",
+      "PluralText": ""
+    },
+    {
+      "Id": 388652148881364942,
+      "Text": "Can’t unlink this account. You need to link with another account before unlinking this account.",
       "PluralText": ""
     },
     {
@@ -10707,17 +10762,17 @@
     },
     {
       "Id": 5208950353399122572,
-      "Text": "Almacenamiento de néctar",
+      "Text": "Depósito de néctar",
       "PluralText": ""
     },
     {
       "Id": 1444403048522236257,
-      "Text": "Almacenamiento de pétalos",
+      "Text": "Depósito de pétalos",
       "PluralText": ""
     },
     {
       "Id": 2969858063978988202,
-      "Text": "Almacenamiento de Pikmin",
+      "Text": "Depósito de Pikmin",
       "PluralText": ""
     },
     {
@@ -10727,7 +10782,7 @@
     },
     {
       "Id": 6882057205724568887,
-      "Text": "Almacenamiento de plántulas",
+      "Text": "Depósito de plántulas",
       "PluralText": ""
     },
     {
@@ -10847,7 +10902,7 @@
     },
     {
       "Id": -5212070237193999921,
-      "Text": "Special nectar that will fill a Pikmin with joy, and greatly increase your friendship level.",
+      "Text": "Alegra la vida a los Pikmin y aumenta mucho vuestro nivel de amistad.",
       "PluralText": ""
     },
     {
@@ -10932,7 +10987,7 @@
     },
     {
       "Id": -3718907272190744923,
-      "Text": "No puedes iniciar sesión con una cuenta no infantil.",
+      "Text": "No puedes iniciar sesión con una cuenta no infantil.\nNo tienes edad suficiente para utilizar esta cuenta.",
       "PluralText": ""
     },
     {
@@ -10947,7 +11002,7 @@
     },
     {
       "Id": -5635259498562488152,
-      "Text": "In order to use your Facebook account, you need to allow Pikmin Bloom to use your app and website activities.\nNote: If tracking permission is not enabled in your privacy settings, please follow these instructions to enable it (You'll also need to configure individual setting for Pikmin Bloom after the permission is enabled) \n\n1. Open Settings and Go to “Privacy”\n2. Tap “Tracking” and Enable “Allow Apps to Request to Track”",
+      "Text": "Para usar tu cuenta de Facebook, debes permitir que Pikmin Bloom use tus actividades en las aplicaciones y los sitios web.",
       "PluralText": ""
     },
     {
@@ -11007,7 +11062,7 @@
     },
     {
       "Id": 5129733746667304330,
-      "Text": "You cannot link with kids accounts.",
+      "Text": "No se puede vincular con cuentas infantiles.",
       "PluralText": ""
     },
     {
@@ -11038,6 +11093,11 @@
     {
       "Id": 262310736144758494,
       "Text": "No es posible acceder con la dirección {0}. Vuelve a intentarlo con la dirección de correo electrónico que utilizaras para registrarte en el programa beta.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7841180612166439923,
+      "Text": "No se ha podido iniciar la sesión. Comprueba que estás intentando acceder a una cuenta existente o selecciona \"Crear cuenta nueva\" si es la opción correcta.",
       "PluralText": ""
     },
     {
@@ -11098,6 +11158,16 @@
     {
       "Id": 8859969091453911087,
       "Text": "Hace que los Pikmin crezcan más rápido. Desaparecerá cuando arranques el Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 9094542193200475510,
+      "Text": "Al usar el modo RA, asegúrate de estar en un lugar seguro.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1647433295564063950,
+      "Text": "Al usar el modo RA, asegúrate de estar en un lugar seguro y bajo la supervisión parental adecuada.",
       "PluralText": ""
     },
     {
@@ -11386,6 +11456,16 @@
       "PluralText": ""
     },
     {
+      "Id": 7609008915263360958,
+      "Text": "Your username will be visible to other users when you become friends. Choose carefully.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1133831709893173315,
+      "Text": "Are you sure? You will not be able to change your username.",
+      "PluralText": ""
+    },
+    {
       "Id": 5930764704849029031,
       "Text": "Supermercado",
       "PluralText": ""
@@ -11397,7 +11477,7 @@
     },
     {
       "Id": 4232141314118770660,
-      "Text": "¡Ya puedes usar el detector para encontrar objetos ocultos!",
+      "Text": "¡Ya puedes usar el detector para encontrar objetos cercanos!",
       "PluralText": ""
     },
     {
@@ -11502,12 +11582,12 @@
     },
     {
       "Id": -6546911927841364814,
-      "Text": "Pikmin are back from the Expedition to {0} after {1}!",
+      "Text": "¡Los Pikmin han regresado de la expedición a {0} tras {1}!",
       "PluralText": ""
     },
     {
       "Id": -2477311914983404123,
-      "Text": "Pikmin are back from the Challenge at {1}!",
+      "Text": "¡Los Pikmin han regresado del desafío en {1}!",
       "PluralText": ""
     },
     {

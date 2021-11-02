@@ -67,7 +67,7 @@
     },
     {
       "Id": 9042407978800728739,
-      "Text": "Weißer-Pilz",
+      "Text": "Weißer-Pilz-Herausforderung",
       "PluralText": ""
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "Id": -6626892811565975355,
-      "Text": "Du hast diese Herausforderung geschafft",
+      "Text": "Diese Herausforderung ist geschafft.",
       "PluralText": ""
     },
     {
@@ -452,12 +452,12 @@
     },
     {
       "Id": -4419821050306087220,
-      "Text": "Suchfunktion freigeschaltet!",
+      "Text": "Detektor freigeschaltet!",
       "PluralText": ""
     },
     {
       "Id": -122941537395759032,
-      "Text": "Nun kannst du das Radar verwenden, um versteckte Items aufzuspüren!",
+      "Text": "Nun kannst du nach versteckten Items suchen!",
       "PluralText": ""
     },
     {
@@ -651,6 +651,51 @@
       "PluralText": ""
     },
     {
+      "Id": 5320297670336684306,
+      "Text": "Closed Beta Test Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 5854515286252222551,
+      "Text": "Teilnahme an der geschlossenen Beta.\nDanke für deine Hilfe!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3022620190845947247,
+      "Text": "Community Day Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -6699418209639980821,
+      "Text": "Teilnahme an deinem ersten Community-Tag.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7803739877475083134,
+      "Text": "Eventdatum",
+      "PluralText": ""
+    },
+    {
+      "Id": 6925621606219371599,
+      "Text": "Eventzeitraum",
+      "PluralText": ""
+    },
+    {
+      "Id": -5241899019475767311,
+      "Text": "{0} – {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5651923994148711211,
+      "Text": "Nimm an der geschlossenen Beta teil",
+      "PluralText": ""
+    },
+    {
+      "Id": -3676749983211875161,
+      "Text": "Teilnahme an deinem ersten Community-Tag",
+      "PluralText": ""
+    },
+    {
       "Id": -2977119981155483501,
       "Text": "Du hast noch etwa {1} Blumen ({0} Minuten), die du beim Gehen pflanzen kannst.",
       "PluralText": ""
@@ -682,7 +727,7 @@
     },
     {
       "Id": -7452895546178510415,
-      "Text": "Expeditionen beim Blumenpflanzen gefunden",
+      "Text": "Beim Blumenpflanzen gefundene Expeditionen",
       "PluralText": ""
     },
     {
@@ -782,7 +827,7 @@
     },
     {
       "Id": -3503304310691560857,
-      "Text": "https://nianticlabs.com/privacy-embedded-embedded/de/",
+      "Text": "https://nianticlabs.com/privacy-embedded/de/",
       "PluralText": ""
     },
     {
@@ -792,7 +837,7 @@
     },
     {
       "Id": -704332539942314270,
-      "Text": "Gib dein Geburtsdatum ein.",
+      "Text": "<b>Gib dein Geburtsdatum ein</b>\n<size=24><color=\"red\">*Es kann später nicht mehr geändert werden.</color></size>",
       "PluralText": ""
     },
     {
@@ -832,7 +877,7 @@
     },
     {
       "Id": -4565876984145690393,
-      "Text": "https://nianticlabs.com/terms-embedded-embedded/de/",
+      "Text": "https://nianticlabs.com/terms-embedded/de/",
       "PluralText": ""
     },
     {
@@ -897,8 +942,18 @@
     },
     {
       "Id": 8075309045017996307,
-      "Text": "{0} day ago",
-      "PluralText": "{0} days ago"
+      "Text": "Vor {0} Tag",
+      "PluralText": "Vor {0} Tagen"
+    },
+    {
+      "Id": 7903859597229341766,
+      "Text": "t",
+      "PluralText": ""
+    },
+    {
+      "Id": -8852826481264038680,
+      "Text": "MMM d, yyyy",
+      "PluralText": ""
     },
     {
       "Id": 4219317091569690286,
@@ -1437,7 +1492,7 @@
     },
     {
       "Id": 815476265258911662,
-      "Text": "Möchtest du {0} wirklich aus deiner Freundesliste entfernen?",
+      "Text": "Möchtest du {0} wirklich aus deiner Freundesliste entfernen? \n※Der Nutzer wird dann auch von deiner Freundesliste in anderen Niantic-Spielen (Pokémon GO, Ingress etc.) entfernt",
       "PluralText": ""
     },
     {
@@ -2727,8 +2782,8 @@
     },
     {
       "Id": -5781650243164164736,
-      "Text": "Einmal-Keimnische",
-      "PluralText": "Einmal-Keimnischen"
+      "Text": "Einmal-\nKeimnische",
+      "PluralText": "Einmal-\nKeimnischen"
     },
     {
       "Id": -455732675362905593,
@@ -3147,7 +3202,7 @@
     },
     {
       "Id": 488211615181262112,
-      "Text": "Rote Tulpen-Blütenblätter",
+      "Text": "Rote \nTulpen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -3157,7 +3212,7 @@
     },
     {
       "Id": 1317897721747169965,
-      "Text": "Gelbe Tulpen-Blütenblätter",
+      "Text": "Gelbe \nTulpen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -3167,7 +3222,7 @@
     },
     {
       "Id": -5756778563052165192,
-      "Text": "Blaue Tulpen-Blütenblätter",
+      "Text": "Blaue \nTulpen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -3197,17 +3252,17 @@
     },
     {
       "Id": 897850282119867368,
-      "Text": "Rote Tulpen-Blütenblätter",
+      "Text": "Rote \nTulpen-\nBlütenblätter",
       "PluralText": ""
     },
     {
       "Id": 6754388114635080353,
-      "Text": "Blaue Tulpen-Blütenblätter",
+      "Text": "Blaue \nTulpen-\nBlütenblätter",
       "PluralText": ""
     },
     {
       "Id": -1820106916843553228,
-      "Text": "Gelbe Tulpen-Blütenblätter",
+      "Text": "Gelbe \nTulpen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -3697,7 +3752,7 @@
     },
     {
       "Id": 7241783822745396733,
-      "Text": "◆ Dein Nutzername kann später nicht mehr geändert werden.",
+      "Text": "<b>◆ Dein Nutzername kann später nicht mehr geändert werden.</b>",
       "PluralText": ""
     },
     {
@@ -3813,11 +3868,6 @@
     {
       "Id": -3554859661836135291,
       "Text": "Konten für Kinder werden noch nicht unterstützt. Wir bitten dies zu entschuldigen.",
-      "PluralText": ""
-    },
-    {
-      "Id": -7841180612166439923,
-      "Text": "Die Anmeldung ist fehlgeschlagen. Bitte überprüfe, ob dieses Konto wirklich besteht und du aus den Optionen „Anmelden“ und „Neues Konto“ die richtige ausgewählt hast.",
       "PluralText": ""
     },
     {
@@ -4167,8 +4217,8 @@
     },
     {
       "Id": -8116911019193917855,
-      "Text": "Only {0} Pikmin can go on this expedition.",
-      "PluralText": "Only {0} Pikmin can go on this expedition."
+      "Text": "Es können max. {0} Pikmin auf diese Expedition gehen.",
+      "PluralText": "Es können max. {0} Pikmin auf diese Expedition gehen."
     },
     {
       "Id": 4067631588892920722,
@@ -4417,7 +4467,7 @@
     },
     {
       "Id": -2570526104617371871,
-      "Text": "Lass ein <b>Pikmin vom Typ „{0}“</b> wachsen",
+      "Text": "Wachsen lassen: <b>{0}</b>",
       "PluralText": ""
     },
     {
@@ -4437,7 +4487,7 @@
     },
     {
       "Id": 6521686360035640082,
-      "Text": "Blumen",
+      "Text": "Blütenblätter",
       "PluralText": ""
     },
     {
@@ -4527,7 +4577,7 @@
     },
     {
       "Id": 745446189855992719,
-      "Text": "Du erhältst mehr Laufpunkte und Keime wachsen <color=red>{0}{0}</color> schneller.",
+      "Text": "Du erhältst mehr Laufpunkte und Keime wachsen <color=red>{0}</color> schneller!",
       "PluralText": ""
     },
     {
@@ -4842,7 +4892,7 @@
     },
     {
       "Id": -3519473276629438588,
-      "Text": "Probier es aus! Laufe einfach mal 10 Schritte...",
+      "Text": "Probier es aus! Gehe einfach mal 10 Schritte...",
       "PluralText": ""
     },
     {
@@ -5042,7 +5092,7 @@
     },
     {
       "Id": 3840972064299278913,
-      "Text": "Pikmin vom Typ „{0}“ aus {1}",
+      "Text": "{0} aus {1}",
       "PluralText": ""
     },
     {
@@ -5322,7 +5372,7 @@
     },
     {
       "Id": 5787432922722343690,
-      "Text": "Erfüllt mit {0}!",
+      "Text": "Erfüllt am {0}!",
       "PluralText": ""
     },
     {
@@ -8857,7 +8907,7 @@
     },
     {
       "Id": -3155882445104713597,
-      "Text": "Deine Eltern müssen die {0}-Berechtigung aktivieren, damit du diese Funktion nutzen kannst. Bitte deine Eltern, sie zu aktivieren.",
+      "Text": "Damit du diese Funktion nutzen kannst, müssen deine Eltern die folgende Berechtigung aktivieren: {0}. Bitte deine Eltern, sie zu aktivieren.",
       "PluralText": ""
     },
     {
@@ -8892,7 +8942,7 @@
     },
     {
       "Id": -9056372994145186915,
-      "Text": "Du kannst kein Pikmin steuern, das gerade eine Postkarte schickt.",
+      "Text": "Du kannst kein Pikmin steuern, das gerade eine Postkarte überbringt.",
       "PluralText": ""
     },
     {
@@ -8907,7 +8957,7 @@
     },
     {
       "Id": -3142399773056517014,
-      "Text": "Dieses Pikmin schickt eine Postkarte!",
+      "Text": "Dieses Pikmin überbringt eine Postkarte!",
       "PluralText": ""
     },
     {
@@ -8957,7 +9007,7 @@
     },
     {
       "Id": -4023410602330865333,
-      "Text": "Dein Pikmin möchte an seinem Geburtsort ein Item aufsammeln. Zum Aufsammeln losschicken?",
+      "Text": "Dein Pikmin möchte an dem Ort, an dem es entdeckt wurde, ein Item aufsammeln. Zum Aufsammeln losschicken?",
       "PluralText": ""
     },
     {
@@ -9041,8 +9091,13 @@
       "PluralText": ""
     },
     {
+      "Id": 388652148881364942,
+      "Text": "Can’t unlink this account. You need to link with another account before unlinking this account.",
+      "PluralText": ""
+    },
+    {
       "Id": -3566549781637734677,
-      "Text": "Nimm ein Pikmin auf und halte es hier, um Details zu sehen",
+      "Text": "Nimm ein Pikmin auf und halte es hierher, um Details zu sehen",
       "PluralText": ""
     },
     {
@@ -9172,7 +9227,7 @@
     },
     {
       "Id": 3176448955965822443,
-      "Text": "Erfahre, welche Informationen mit Freunden geteilt werden.",
+      "Text": "Erfahre, welche Informationen \nmit Freunden geteilt werden.",
       "PluralText": ""
     },
     {
@@ -9312,7 +9367,7 @@
     },
     {
       "Id": -2141913929259742967,
-      "Text": "Toy Airplane",
+      "Text": "Spielflugzeug",
       "PluralText": ""
     },
     {
@@ -10542,7 +10597,7 @@
     },
     {
       "Id": 3091000634633754817,
-      "Text": "Weiße-/nStiefmütterchen-/nBlütenblätter",
+      "Text": "Weiße- \nStiefmütterchen- \nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -10552,7 +10607,7 @@
     },
     {
       "Id": -2867562690232622118,
-      "Text": "Rote-Stiefmütterchen-Blütenblätter",
+      "Text": "Rote-\nStiefmütterchen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -10562,7 +10617,7 @@
     },
     {
       "Id": 3708164131995477827,
-      "Text": "Blaue-Stiefmütterchen-Blütenblätter",
+      "Text": "Blaue-\nStiefmütterchen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -10572,7 +10627,7 @@
     },
     {
       "Id": 8326323467173449443,
-      "Text": "Gelbe-Stiefmütterchen-Blütenblätter",
+      "Text": "Gelbe-\nStiefmütterchen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -10582,7 +10637,7 @@
     },
     {
       "Id": 8296394967604803523,
-      "Text": "Weiße-Rosen-Blütenblätter",
+      "Text": "Weiße-\nRosen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -10592,7 +10647,7 @@
     },
     {
       "Id": 1957381142379795765,
-      "Text": "Rote-Rosen-Blütenblätter",
+      "Text": "Rote-\nRosen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -10602,7 +10657,7 @@
     },
     {
       "Id": -2323987814533997182,
-      "Text": "Blaue-Rosen-Blütenblätter",
+      "Text": "Blaue-\nRosen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -10612,7 +10667,7 @@
     },
     {
       "Id": 7002019632548440639,
-      "Text": "Gelbe-Rosen-Blütenblätter",
+      "Text": "Gelbe-\nRosen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -10647,12 +10702,12 @@
     },
     {
       "Id": 3765462814872576723,
-      "Text": "Suchen",
+      "Text": "Detektor",
       "PluralText": ""
     },
     {
       "Id": -119174417584230429,
-      "Text": "Mithilfe der Suchfunktion kannst du nach Items in der Nähe suchen.",
+      "Text": "Mithilfe des Detektors kannst du nach Items in der Nähe suchen.",
       "PluralText": ""
     },
     {
@@ -10792,12 +10847,12 @@
     },
     {
       "Id": -5890782198410936728,
-      "Text": "Suchfunktion",
+      "Text": "Detektor",
       "PluralText": ""
     },
     {
       "Id": -7886536215148875625,
-      "Text": "Lade die Suchfunktion wieder auf.",
+      "Text": "Lade den Detektor wieder auf.",
       "PluralText": ""
     },
     {
@@ -10807,7 +10862,7 @@
     },
     {
       "Id": 8531645827598836335,
-      "Text": "Superkiste",
+      "Text": "Superpaket",
       "PluralText": ""
     },
     {
@@ -10847,7 +10902,7 @@
     },
     {
       "Id": -5212070237193999921,
-      "Text": "Special nectar that will fill a Pikmin with joy, and greatly increase your friendship level.",
+      "Text": "Dieser Spezialnektar macht Pikmin glücklich und erhöht dein Freundschaftslevel deutlich.",
       "PluralText": ""
     },
     {
@@ -10932,7 +10987,7 @@
     },
     {
       "Id": -3718907272190744923,
-      "Text": "Du kannst dich nur mit einem Kinder-Account anmelden.",
+      "Text": "Dies ist ein Account für Erwachsene. \nDu bist zu jung, um dich über diesen anzumelden.",
       "PluralText": ""
     },
     {
@@ -10947,7 +11002,7 @@
     },
     {
       "Id": -5635259498562488152,
-      "Text": "In order to use your Facebook account, you need to allow Pikmin Bloom to use your app and website activities.\nNote: If tracking permission is not enabled in your privacy settings, please follow these instructions to enable it (You'll also need to configure individual setting for Pikmin Bloom after the permission is enabled) \n\n1. Open Settings and Go to “Privacy”\n2. Tap “Tracking” and Enable “Allow Apps to Request to Track”",
+      "Text": "Um dein Facebook-Konto nutzen zu können, musst du Pikmin Bloom erlauben, deine Aktivität in Apps und auf Websites zu verwenden.",
       "PluralText": ""
     },
     {
@@ -11007,7 +11062,7 @@
     },
     {
       "Id": 5129733746667304330,
-      "Text": "You cannot link with kids accounts.",
+      "Text": "Verknüpfung mit Kinderkonten nicht möglich.",
       "PluralText": ""
     },
     {
@@ -11038,6 +11093,11 @@
     {
       "Id": 262310736144758494,
       "Text": "Die E-Mail-Adresse „{0}“ hat keine Zugangsberechtigung. Bitte versuche es erneut mit der E-Mail-Adresse, mit der du dich für das Betatest-Programm registriert hast.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7841180612166439923,
+      "Text": "Die Anmeldung ist fehlgeschlagen. Bitte überprüfe, ob dieses Konto wirklich besteht und du aus den Optionen „Anmelden“ und „Neues Konto“ die richtige ausgewählt hast.",
       "PluralText": ""
     },
     {
@@ -11098,6 +11158,16 @@
     {
       "Id": 8859969091453911087,
       "Text": "Eine besondere Nische, in der Pikmin schneller wachsen. Sie verschwindet, wenn du das ausgewachsene Pikmin gepflückt hast.",
+      "PluralText": ""
+    },
+    {
+      "Id": 9094542193200475510,
+      "Text": "Achte bei der Verwendung des AR-Modus darauf, dass du dich in einer sicheren Umgebung befindest.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1647433295564063950,
+      "Text": "Achte bei der Verwendung des AR-Modus darauf, dass du dich in einer sicheren Umgebung befindest und ein Erwachsener in der Nähe ist.",
       "PluralText": ""
     },
     {
@@ -11352,12 +11422,12 @@
     },
     {
       "Id": 3808619414438744018,
-      "Text": "Pikmin gehen gemeinsam und helfen dir, deine Erinnerungen festzuhalten.",
+      "Text": "Deine Pikmin folgen dir und helfen dir, deine Erinnerungen festzuhalten.",
       "PluralText": ""
     },
     {
       "Id": -7393792981866922906,
-      "Text": "Du kannst dir deine Erinnerungen auf der Karte und in deinem Tagebuch über diesen Startbildschirm ansehen. Bitte sieh sie dir an.",
+      "Text": "Dies ist der Startbildschirm. Hier kannst du dir deine Erinnerungen auf der Karte und in deinem Tagebuch ansehen.",
       "PluralText": ""
     },
     {
@@ -11367,7 +11437,7 @@
     },
     {
       "Id": -8372022397975350884,
-      "Text": "Nimm den Honig und wirf ihn einem Pikmin zu!",
+      "Text": "Nimm den Nektar und wirf ihn einem Pikmin zu!",
       "PluralText": ""
     },
     {
@@ -11377,12 +11447,22 @@
     },
     {
       "Id": -2263551176674591486,
-      "Text": "Ein unerwarteter Fehler ist aufgetreten. Bitte kehre zum Titelbildschirm zurück und versuche noch mal zu spielen. Wenn damit das Problem nicht behoben wird, wende dich bitte an den Support.",
+      "Text": "Ein unerwarteter Fehler ist aufgetreten. Bitte kehre zum Titelbildschirm zurück und versuche das Spiel neu zu starten. Wenn damit das Problem nicht behoben wird, wende dich bitte an den Support.",
       "PluralText": ""
     },
     {
       "Id": -8322116063181744873,
       "Text": "Titelbildschirm",
+      "PluralText": ""
+    },
+    {
+      "Id": 7609008915263360958,
+      "Text": "Your username will be visible to other users when you become friends. Choose carefully.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1133831709893173315,
+      "Text": "Are you sure? You will not be able to change your username.",
       "PluralText": ""
     },
     {
@@ -11392,12 +11472,12 @@
     },
     {
       "Id": -6560102870785273981,
-      "Text": "Gemischtwarenladen",
+      "Text": "Minimarkt",
       "PluralText": ""
     },
     {
       "Id": 4232141314118770660,
-      "Text": "Nun kannst du nach versteckten Items suchen!",
+      "Text": "Nun kannst du mit dem Detektor Items in der Nähe aufspüren!",
       "PluralText": ""
     },
     {
@@ -11502,12 +11582,12 @@
     },
     {
       "Id": -6546911927841364814,
-      "Text": "Pikmin are back from the Expedition to {0} after {1}!",
+      "Text": "Pikmin sind von ihrer Expedition in {0} nach {1} zurück!",
       "PluralText": ""
     },
     {
       "Id": -2477311914983404123,
-      "Text": "Pikmin are back from the Challenge at {1}!",
+      "Text": "Pikmin sind zurück von der Herausforderung in {1}!",
       "PluralText": ""
     },
     {

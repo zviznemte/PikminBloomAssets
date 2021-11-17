@@ -4,7 +4,7 @@ id	constant	phrase	plural phrase
 120322519350465199	RPC_NETWORK_ERROR_DIALOG_MESSAGE	Falha na comunicação com o servidor. Verifique o ambiente e as configurações de rede do dispositivo e tente novamente.	
 1295101996930540142	RPC_NETWORK_ERROR_DIALOG_RETRY	Tentar novamente	
 8035254070518805654	RPC_NETWORK_ERROR_DIALOG_LOGOUT	Sair	
--3050645190285210651	RPC_LOW_NETWORK_CONNECTIVITY	Low network connectivity.	
+-3050645190285210651	RPC_LOW_NETWORK_CONNECTIVITY	Baixa conectividade.	
 4512608309946328130	LOGIN_PROVIDER_SUPER_AWESOME	NIANTIC KIDS	
 -8965300778396787175	SUPER_AWESOME_REGISTER_URL	https://niantic-sso.kws.superawesome.tv/pt-br/register	
 6270310653121693548	SUPER_AWESOME_FORGOT_PASSWORD_URL	https://niantic-sso.kws.superawesome.tv/pt-br/password/forgot	
@@ -21,10 +21,10 @@ id	constant	phrase	plural phrase
 -5675915195141523149	NINTENDO_LOGIN_BONUS_DIALOG_DESCRIPTION	Uma plântula especial foi adicionada à lista de plântulas.	
 6467743691056327219	NINTENDO_LOGIN_BONUS_DIALOG_DESCRIPTION_2	Agora você pode escolher o Mii da sua conta Nintendo.	
 -4873722125508925441	INCONSISTENT_AGE_LEVEL_WITH_ADULT_PLAYER	Não é possível fazer login com uma conta de criança.	
--3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	Não é possível fazer login com uma conta de adulto.\nVocê é muito jovem para fazer o login com esta conta.	
+-3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	Esta é uma conta de adulto. \nVocê é jovem demais para fazer login com ela.	
 -1814714920489092509	NINTENDO_LOGIN_NO_MII_SET_DIALOG_DESCRIPTION	A conta vinculada não tem um Mii configurado. Use o botão [Criar Mii] para criar um novo Mii.	
 -472925358362562323	ACCOUNT_LINK_CANCEL	O vínculo da conta foi cancelado.	
--5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Permita que o Pikmin Bloom use suas atividades nos apps e sites para usar sua conta do Facebook.	
+-5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Para poder usar sua conta do Facebook, você precisará permitir que o Pikmin Bloom use suas atividades em apps e sites.\nObservação: se a permissão de monitoramento não estiver habilitada em suas configurações de privacidade, siga as instruções a seguir para habilitar (você também precisará configurar a opção individual do Pikmin Bloom depois de dar a permissão) \n\n1. Abra as configurações e acesse “Privacidade”\n2. Toque em “Monitoramento” e ative a opção “Permitir que aplicativos solicitem monitoramento”	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	As permissões necessárias não foram concedidas.	
 -4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Desvincular conta do Facebook	
 -6261744157366888903	LOGIN_FAILED_ERROR	Ocorreu um erro ao iniciar a sessão com sua conta.	
@@ -44,13 +44,16 @@ id	constant	phrase	plural phrase
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	Este dispositivo, sistema operacional ou demais software não são compatíveis com Pikmin Bloom.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	O endereço de e-mail %s não recebeu permissão. Tente novamente com o endereço de e-mail que você usou para se inscrever no programa beta.	
 -7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	Não foi possível iniciar a sessão. Verifique se você está usando uma conta que já existe e que fez a seleção certa entre "Iniciar sessão" e "Criar nova conta".	
+-386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	Não é possível vincular contas existentes da Niantic com a conta Nintendo. Se quiser fazer isso, faça login com as contas existentes primeiro e depois vincule com a conta Nintendo.	
+3873863273646286372	NINTENDO_ACCOUNT_NEW_USER_WARNING_TITLE	Você joga outros jogos da Niantic?	
+-7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&s=release-notes-and-known-issues&f=faq-and-known-issues&l=pt	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Voltar	
 8485757493794925261	ACTION_CANCEL	Cancelar	
 -897094175043611554	ACTION_CANT_SIGN_IN	Problemas ao iniciar a sessão?	
--701238199946088913	ACTION_NEW_PLAYER	New Player	
+-701238199946088913	ACTION_NEW_PLAYER	Novo Jogador	
 -843760519162212112	ACTION_OK	OK	
 -1905600046462074990	ACTION_PRIVACY_POLICY	Política de privacidade	
-131236457311110717	ACTION_RETURNING_PLAYER	Returning Player	
+131236457311110717	ACTION_RETURNING_PLAYER	Jogador Existente	
 -8148623245113534862	ANDROID_BACKGROUND_FLOWER_PLANTING_NOTICE	Plantando flores em segundo plano...	
 -1073428221599870577	ANDROID_NOTIFICATION_CHANNEL_MISC_NAME	Notificações gerais	
 1748382193634037488	ANDROID_NOTIFICATION_CHANNEL_FOREGROUND_SERVICE_NOTICE_NAME	Indicador de atividade em segundo plano	
@@ -62,9 +65,9 @@ id	constant	phrase	plural phrase
 -5805314665824740601	FLOWER_PLANTING_FINISHED_PUSH_TITLE	Pikmin Bloom	
 -806278199259073555	FLOWER_PLANTING_FINISHED	Terminou de plantar flores!	
 -1206191158594113497	PRIVACY_POLICY_PLEASE_REVIEW	Consulte a Política de privacidade da Niantic para informações sobre como processamos seus dados pessoais.	
--3503304310691560857	PRIVACY_POLICY_URL	https://nianticlabs.com/privacy-embedded-embedded/pt_br/	
+-3503304310691560857	PRIVACY_POLICY_URL	https://nianticlabs.com/privacy-embedded/pt_br/	
 6930828639460369314	PRIVACY_POLICY_VIEW	Consultar a Política de privacidade	
--704332539942314270	PROMPT_ENTER_BIRTH_DATE	<b>Insira sua data de nascimento</b>\n<size=24><color="red">*Não poderá ser alterada mais tarde.</color></size>	
+-704332539942314270	PROMPT_ENTER_BIRTH_DATE	Digite sua data de aniversário\n*Não será possível alterá-la depois.	
 1248583376533854016	SPLASH_SCREEN_SAFETY_WARNING	Esteja sempre alerta.\nPreste atenção nos seus arredores.	
 -2348885925547706723	STATUS_POPUP_ERROR	Erro	
 4407614562937896451	STATUS_POPUP_NETWORK_ERROR	Erro de conexão	
@@ -72,14 +75,15 @@ id	constant	phrase	plural phrase
 -2660547823152141402	TERMS_OF_SERVICE_DIALOG_DECLINE	NÃO ACEITAR	
 -3117578319555381206	TERMS_OF_SERVICE_DIALOG_MESSAGE	Leia e aceite os termos de serviço antes de continuar.	
 -6172635984702376120	TERMS_OF_SERVICE_DIALOG_OPEN_TERMS_LINK	Ver os termos de serviço	
--4565876984145690393	TERMS_URL	https://nianticlabs.com/terms-embedded-embedded/pt_br/	
+-4565876984145690393	TERMS_URL	https://nianticlabs.com/terms-embedded/pt_br/	
 -7309335694267259600	TITLE_COPYRIGHT_1	© 2021 Niantic, Inc.	
 -586797165528962190	TITLE_COPYRIGHT_2A	Pikmin e personagens Mii / Arte / Música	
 2218647699492075618	TITLE_COPYRIGHT_2B	© 2021 Nintendo	
--7360387916112774534	NO_INTERNET_CONNECTION	Unable to connect. Please check your internet connection and try again.	
--6134105492375826462	ACTION_TRY_AGAIN	Try Again	
+-7360387916112774534	NO_INTERNET_CONNECTION	Impossível conectar. Verifique sua conexão com a internet e tente de novo.  	
+-6134105492375826462	ACTION_TRY_AGAIN	Tente novamente	
 -9075047459596506242	ACTION_DONE	Concluído	
 -6671261524127209282	OPEN_APP_SETTINGS_ACTION_OPEN	Acesse as configurações.	
 6143448343296213180	OPEN_APP_SETTINGS_IOS_APP_TRACKING	É necessário dar permissão a Pikmin Bloom para rastrear sua atividade nos aplicativos e páginas de outras empresas.	
--1695401554888225946	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_1	1. Go to Settings, and Privacy	
--6268125898998694242	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_2	2. From Tracking, turn on Pikmin Bloom	
+-1695401554888225946	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_1	1. Acesse Configurações e, depois, Privacidade  	
+-6268125898998694242	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_2	2. Em Rastreamento, ative o Pikmin Bloom  	
+5380927072664436927	ACTION_CONTINUE	Continuar	

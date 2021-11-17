@@ -44,6 +44,9 @@ id	constant	phrase	plural phrase
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	お使いの端末のOSのバージョンが非対応、または、特定の操作（ROOT化など）が検出されたため、Pikmin Bloom を起動できません。	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	メールアドレス「%s」はアクセスが許可されていません。ベータプログラム登録時のメールアドレスで再度お試しください。	
 -7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	アカウントが存在しないため、ログインできませんでした。アカウントが存在することを確認してください。	
+-386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	ニンテンドーアカウントでログインすると、既存の Nianticゲームアカウントと連携ができません。連携したい場合は、既存のNianticアカウントでログインし、後からニンテンドーアカウントを連携してください。	
+3873863273646286372	NINTENDO_ACCOUNT_NEW_USER_WARNING_TITLE	他のNianticゲームをプレイしていますか？	
+-7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&s=release-notes-and-known-issues&f=faq-and-known-issues&l=ja	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	前のページへ戻る	
 8485757493794925261	ACTION_CANCEL	キャンセル	
 -897094175043611554	ACTION_CANT_SIGN_IN	ログインできませんか？	
@@ -83,3 +86,4 @@ id	constant	phrase	plural phrase
 6143448343296213180	OPEN_APP_SETTINGS_IOS_APP_TRACKING	Facebookでログインするためには、Pikmin Bloomが他社のアプリやウェブサイト上でのあなたのアクティビティにアクセスすることを許可する必要があります。	
 -1695401554888225946	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_1	1. 設定からプライバシーへ	
 -6268125898998694242	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_2	2. トラッキングからPikmin Bloomをオンにします	
+5380927072664436927	ACTION_CONTINUE	続ける	

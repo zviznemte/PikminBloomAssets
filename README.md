@@ -1,6 +1,6 @@
 # Pikmin Bloom Assets
 
-A repoistory of datamined assets which includes sprites, models, text files, and more.
+A repository of data mined assets which includes sprites, models, text files, and more.
 
 **3D Models**
 

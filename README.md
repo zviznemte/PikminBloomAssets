@@ -1,5 +1,7 @@
 # Pikmin Bloom Assets
 
+UPDATE January 7, 2022: Added new year decor pikmins, new text
+
 A repoistory of datamined assets which includes sprites, models, text files, and more.
 
 **3D Models**

@@ -122,7 +122,7 @@
     },
     {
       "Id": 1723863176209661523,
-      "Text": "¡Desafío al canto!",
+      "Text": "¡Adelante!",
       "PluralText": ""
     },
     {
@@ -197,12 +197,12 @@
     },
     {
       "Id": -3189891252292873838,
-      "Text": "The challenge has been finished!",
+      "Text": "¡Ha finalizado el desafío!",
       "PluralText": ""
     },
     {
       "Id": 5289152595084005204,
-      "Text": "Challenge score:",
+      "Text": "Puntuación de desafío:",
       "PluralText": ""
     },
     {
@@ -227,7 +227,17 @@
     },
     {
       "Id": -3050645190285210651,
-      "Text": "Low network connectivity.",
+      "Text": "Conectividad de red baja.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3988394576067598908,
+      "Text": "paso",
+      "PluralText": "pasos"
+    },
+    {
+      "Id": -3313836264261861270,
+      "Text": "No se han podido obtener datos de ubicación válidos. Comprueba tus ajustes y permisos de GPS para usar los datos de ubicación.",
       "PluralText": ""
     },
     {
@@ -652,17 +662,17 @@
     },
     {
       "Id": 5320297670336684306,
-      "Text": "Closed Beta Test Badge",
+      "Text": "Insignia de la versión beta",
       "PluralText": ""
     },
     {
       "Id": 5854515286252222551,
-      "Text": "Has participado en la beta de prueba.\n¡Gracias por tu apoyo!",
+      "Text": "Has participado en la prueba de la versión beta.\n¡Gracias por tu apoyo!",
       "PluralText": ""
     },
     {
       "Id": -3022620190845947247,
-      "Text": "Community Day Badge",
+      "Text": "Insignia del Día de la Comunidad",
       "PluralText": ""
     },
     {
@@ -687,7 +697,7 @@
     },
     {
       "Id": 5651923994148711211,
-      "Text": "Participa en la beta de prueba",
+      "Text": "Participa en la prueba de la versión beta",
       "PluralText": ""
     },
     {
@@ -696,8 +706,38 @@
       "PluralText": ""
     },
     {
+      "Id": -2296842614687755324,
+      "Text": "Insignia de flor de Pascua",
+      "PluralText": ""
+    },
+    {
+      "Id": 568198959390301858,
+      "Text": "¡Participaste en el Día de la Comunidad de diciembre!",
+      "PluralText": ""
+    },
+    {
+      "Id": 1940117697141063680,
+      "Text": "¡Participaste en el Día de la Comunidad de diciembre!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1571842385581729349,
+      "Text": "Insignia de camelia",
+      "PluralText": ""
+    },
+    {
+      "Id": 5722554518108526655,
+      "Text": "¡Participaste en el Día de la Comunidad de enero!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4267605988984367370,
+      "Text": "¡Participaste en el Día de la Comunidad de enero!",
+      "PluralText": ""
+    },
+    {
       "Id": -2977119981155483501,
-      "Text": "A este ritmo, vas a plantar unas {1} flores en {0} minutos.",
+      "Text": "Tienes para plantar unas {1} flores ({0} minutos) mientras caminas.",
       "PluralText": ""
     },
     {
@@ -752,7 +792,7 @@
     },
     {
       "Id": -701238199946088913,
-      "Text": "New Player",
+      "Text": "Nuevo jugador",
       "PluralText": ""
     },
     {
@@ -767,7 +807,7 @@
     },
     {
       "Id": 131236457311110717,
-      "Text": "Returning Player",
+      "Text": "Jugador existente",
       "PluralText": ""
     },
     {
@@ -827,7 +867,7 @@
     },
     {
       "Id": -3503304310691560857,
-      "Text": "https://nianticlabs.com/privacy-embedded-embedded/es/",
+      "Text": "https://nianticlabs.com/privacy-embedded/es/",
       "PluralText": ""
     },
     {
@@ -837,7 +877,7 @@
     },
     {
       "Id": -704332539942314270,
-      "Text": "<b>Introduce tu fecha de nacimiento</b>\n<size=24><color=\"red\">* No se podrá cambiar más adelante.</color></size>",
+      "Text": "<b>Introduce tu fecha de nacimiento.</b>\n<size=24><color=\"red\">* No podrás cambiarla más adelante.</color></size>",
       "PluralText": ""
     },
     {
@@ -897,12 +937,12 @@
     },
     {
       "Id": -7360387916112774534,
-      "Text": "Unable to connect. Please check your internet connection and try again.",
+      "Text": "No se ha podido conectar. Comprueba tu conexión a internet y vuelve a intentarlo.",
       "PluralText": ""
     },
     {
       "Id": -6134105492375826462,
-      "Text": "Try Again",
+      "Text": "Vuelve a intentarlo.",
       "PluralText": ""
     },
     {
@@ -917,17 +957,22 @@
     },
     {
       "Id": 6143448343296213180,
-      "Text": "Para iniciar sesión a través de Facebook, debes permitir que Pikmin Bloom haga un seguimiento de tu actividad en las aplicaciones y los sitios web de otras compañías.",
+      "Text": "Para iniciar sesión a través de Facebook, debes permitir que Pikmin Bloom pueda rastrear tu actividad en las aplicaciones y los sitios web de otras compañías.",
       "PluralText": ""
     },
     {
       "Id": -1695401554888225946,
-      "Text": "1. Go to Settings, and Privacy",
+      "Text": "1. Accede a \"Ajustes\" y a \"Privacidad\".",
       "PluralText": ""
     },
     {
       "Id": -6268125898998694242,
-      "Text": "2. From Tracking, turn on Pikmin Bloom",
+      "Text": "2. En \"Rastreo\", activa Pikmin Bloom.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5380927072664436927,
+      "Text": "Continuar",
       "PluralText": ""
     },
     {
@@ -952,7 +997,22 @@
     },
     {
       "Id": -8852826481264038680,
-      "Text": "MMM d, yyyy",
+      "Text": "d MMM yyyy",
+      "PluralText": ""
+    },
+    {
+      "Id": 7917496586707507751,
+      "Text": "MMMM yyyy",
+      "PluralText": ""
+    },
+    {
+      "Id": 8059995306440019335,
+      "Text": "{0} a. m.",
+      "PluralText": ""
+    },
+    {
+      "Id": -964901627478265242,
+      "Text": "{0} p. m.",
       "PluralText": ""
     },
     {
@@ -1492,7 +1552,7 @@
     },
     {
       "Id": 815476265258911662,
-      "Text": "¿Seguro que quieres eliminar a {0} de tu lista de amigos?",
+      "Text": "¿Seguro que quieres eliminar a {0} de tu lista de amigos?\n* También se eliminará de tu lista de amigos en el resto de los juegos de Niantic (Pokémon GO, Ingress, etc.).",
       "PluralText": ""
     },
     {
@@ -2933,7 +2993,7 @@
     {
       "Id": -7100288616334902626,
       "Text": "Haz que florezca {0} flor de Pikmin.",
-      "PluralText": "Haz que florezcan {0} algodones de seda."
+      "PluralText": "Haz que florezcan {0} flores de Pikmin"
     },
     {
       "Id": -8343305813623325951,
@@ -3037,7 +3097,7 @@
     },
     {
       "Id": -5578083780128074712,
-      "Text": "Ayuda",
+      "Text": "Soporte de usuario",
       "PluralText": ""
     },
     {
@@ -4142,7 +4202,7 @@
     },
     {
       "Id": 5052545467998194877,
-      "Text": "Los Pikmin pelados están tan cansados que no pueden beber néctar ni salir de expedición, pero ¡no te preocupes!",
+      "Text": "Los Pikmin pelados están tan cansados que no pueden comer néctar, pero ¡no te preocupes!",
       "PluralText": ""
     },
     {
@@ -4457,7 +4517,7 @@
     },
     {
       "Id": -6061706936715501273,
-      "Text": "Recoge <b>{0} pétalos de flor</b> de Pikmin",
+      "Text": "Recoge <b>{0} pétalos de flor</b>.",
       "PluralText": ""
     },
     {
@@ -4537,7 +4597,7 @@
     },
     {
       "Id": 5325321588896106299,
-      "Text": "¡Terminada!",
+      "Text": "¡Listo!",
       "PluralText": ""
     },
     {
@@ -4564,6 +4624,11 @@
       "Id": -4408277784991289698,
       "Text": "Pasos totales:",
       "PluralText": ""
+    },
+    {
+      "Id": 117593858057462819,
+      "Text": "Puntos de paseo totales:",
+      "PluralText": "Puntos de paseo totales:"
     },
     {
       "Id": -2105286407263728783,
@@ -4697,7 +4762,7 @@
     },
     {
       "Id": -8116989067799095779,
-      "Text": "¡También se contarán los pasos que des con la aplicación cerrada!",
+      "Text": "¡Se contarán los pasos que des aunque tengas cerrada la aplicación!",
       "PluralText": ""
     },
     {
@@ -5667,7 +5732,7 @@
     },
     {
       "Id": -2447684186571770075,
-      "Text": "{2}, {0}d{1} de {0}MMM{1}",
+      "Text": "{2}, {0}d{1} {0}MMM{1}",
       "PluralText": ""
     },
     {
@@ -9011,6 +9076,11 @@
       "PluralText": ""
     },
     {
+      "Id": -2782904119527628801,
+      "Text": "Pikmin",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "¡Has dado {0} paso más que ayer!",
       "PluralText": "¡Has dado {0} pasos más que ayer!"
@@ -9056,6 +9126,46 @@
       "PluralText": ""
     },
     {
+      "Id": 2745256175921062008,
+      "Text": "Reseña",
+      "PluralText": ""
+    },
+    {
+      "Id": -461098576451344619,
+      "Text": "Ir al chat de ayuda",
+      "PluralText": ""
+    },
+    {
+      "Id": -5687839552254377799,
+      "Text": "Sí",
+      "PluralText": ""
+    },
+    {
+      "Id": -747608602514571749,
+      "Text": "No",
+      "PluralText": ""
+    },
+    {
+      "Id": -2129875408236408702,
+      "Text": "¡Gracias por jugar!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4758796469783514479,
+      "Text": "¡Gracias por jugar a Pikmin Bloom!\n\n¿Te está gustando la aplicación?",
+      "PluralText": ""
+    },
+    {
+      "Id": 3822475941977565413,
+      "Text": "¡Nos alegramos de que estés disfrutando Pikmin Bloom!\n\nAyúdanos a mejorar aún más la aplicación dejándonos una reseña.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4446626877431678271,
+      "Text": "Sentimos que no estés disfrutando la aplicación.\n\n¿Tienes algún comentario o sugerencia?\n\nCuéntanoslo a través de nuestro chat de ayuda.",
+      "PluralText": ""
+    },
+    {
       "Id": 4200417875639190897,
       "Text": "Eliminar historial de flores y datos de ubicación",
       "PluralText": ""
@@ -9092,7 +9202,42 @@
     },
     {
       "Id": 388652148881364942,
-      "Text": "Can’t unlink this account. You need to link with another account before unlinking this account.",
+      "Text": "No se puede desvincular esta cuenta; debes vincular otra antes.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2372979060195365747,
+      "Text": "Ese nombre no está disponible.",
+      "PluralText": "Ese nombre no está disponible."
+    },
+    {
+      "Id": -6684333802516779697,
+      "Text": "Sugerir fotos en el resumen del día",
+      "PluralText": ""
+    },
+    {
+      "Id": -4340637847176944589,
+      "Text": "Los Pikmin te traerán fotos hechas con tu cámara y las guardarán en tu diario.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5361751023396924044,
+      "Text": "Mostrar ubicación en momentos compartidos",
+      "PluralText": ""
+    },
+    {
+      "Id": -1254076838821138844,
+      "Text": "Mostrar las ubicaciones reales que aparezcan en la pantalla al compartir momentos del juego con el botón de compartir.",
+      "PluralText": ""
+    },
+    {
+      "Id": -9000074859503888032,
+      "Text": "¿Mostrar información de ubicación al compartir capturas de pantalla?",
+      "PluralText": ""
+    },
+    {
+      "Id": -6290349941188007062,
+      "Text": "Para que aparezca la información de ubicación en las capturas de pantalla que compartas, marca la opción \"Mostrar ubicación en momentos compartidos\". Puedes cambiarla en cualquier momento en los ajustes.",
       "PluralText": ""
     },
     {
@@ -9264,6 +9409,16 @@
       "Id": -2850049959480076450,
       "Text": "Solicitudes de amistad",
       "PluralText": ""
+    },
+    {
+      "Id": 4532780449312777931,
+      "Text": "Ya no puedes añadir a más amigos.",
+      "PluralText": "Ya no puedes añadir a más amigos."
+    },
+    {
+      "Id": -837182238931387011,
+      "Text": "El usuario al que estas intentando invitar ya no puede añadir a más amigos.",
+      "PluralText": "El usuario al que estas intentando invitar ya no puede añadir a más amigos."
     },
     {
       "Id": 8097188312712959647,
@@ -10701,6 +10856,56 @@
       "PluralText": ""
     },
     {
+      "Id": 95669287817097931,
+      "Text": "Camelia",
+      "PluralText": ""
+    },
+    {
+      "Id": -3598200408796095031,
+      "Text": "Flor de Pascua",
+      "PluralText": ""
+    },
+    {
+      "Id": -3587534075949377580,
+      "Text": "Pétalos de flor de Pascua blanca",
+      "PluralText": ""
+    },
+    {
+      "Id": 3432387438224822155,
+      "Text": "Si los plantas, saldrán flores de Pascua blancas.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7557107635601271293,
+      "Text": "Pétalos de flor de Pascua roja",
+      "PluralText": ""
+    },
+    {
+      "Id": -8608357451649418120,
+      "Text": "Si los plantas, saldrán flores de Pascua rojas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7457273527496966384,
+      "Text": "Pétalos de camelia blanca",
+      "PluralText": ""
+    },
+    {
+      "Id": 7357396080572608376,
+      "Text": "Si los plantas, saldrán camelias blancas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3591315758956558119,
+      "Text": "Pétalos de camelia roja",
+      "PluralText": ""
+    },
+    {
+      "Id": 6603547891947695934,
+      "Text": "Si los plantas, saldrán camelias rojas.",
+      "PluralText": ""
+    },
+    {
       "Id": 3765462814872576723,
       "Text": "Detector",
       "PluralText": ""
@@ -10857,17 +11062,17 @@
     },
     {
       "Id": 7186205489242392836,
-      "Text": "Paquete especial",
+      "Text": "Paquete de flores",
       "PluralText": ""
     },
     {
       "Id": 8531645827598836335,
-      "Text": "Superpaquete",
+      "Text": "Paquete especial",
       "PluralText": ""
     },
     {
       "Id": -2307192030998706023,
-      "Text": "Paquete de aventuras",
+      "Text": "Superpaquete de flores",
       "PluralText": ""
     },
     {
@@ -10897,12 +11102,132 @@
     },
     {
       "Id": -6954826006857629987,
-      "Text": "Special Nectar",
+      "Text": "Néctar especial",
       "PluralText": ""
     },
     {
       "Id": -5212070237193999921,
       "Text": "Alegra la vida a los Pikmin y aumenta mucho vuestro nivel de amistad.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7454479308736330024,
+      "Text": "Pétalos de pensamiento azul",
+      "PluralText": ""
+    },
+    {
+      "Id": -2930649847235432491,
+      "Text": "Si los plantas, saldrán pensamientos azules.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3947084292228859940,
+      "Text": "Pétalos de rosa azul",
+      "PluralText": ""
+    },
+    {
+      "Id": 56626993594716866,
+      "Text": "Si los plantas, saldrán rosas azules.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6520220847558678017,
+      "Text": "Pétalos de pensamiento rojo",
+      "PluralText": ""
+    },
+    {
+      "Id": 4435468842661373999,
+      "Text": "Si los plantas, saldrán pensamientos rojos.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7040868979877479988,
+      "Text": "Pétalos de rosa roja",
+      "PluralText": ""
+    },
+    {
+      "Id": -139546504905617138,
+      "Text": "Si los plantas, saldrán rosas rojas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4264036452350425318,
+      "Text": "Pétalos de pensamiento blanco",
+      "PluralText": ""
+    },
+    {
+      "Id": 2273538976534168838,
+      "Text": "Si los plantas, saldrán pensamientos blancos.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3116504079813305474,
+      "Text": "Pétalos de rosa blanca",
+      "PluralText": ""
+    },
+    {
+      "Id": 2031303789871064276,
+      "Text": "Si los plantas, saldrán rosas blancas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6136771400770159501,
+      "Text": "Pétalos de pensamiento amarillo",
+      "PluralText": ""
+    },
+    {
+      "Id": -7898737300362499714,
+      "Text": "Si los plantas, saldrán pensamientos amarillos.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7665627337256321797,
+      "Text": "Pétalos de rosa amarilla",
+      "PluralText": ""
+    },
+    {
+      "Id": 6563439749493694496,
+      "Text": "Si los plantas, saldrán rosas amarillas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4777105290626441002,
+      "Text": "Pétalos de flor de Pascua blanca",
+      "PluralText": ""
+    },
+    {
+      "Id": -3958787240183377681,
+      "Text": "Si los plantas, saldrán flores de Pascua blancas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3794234327046929450,
+      "Text": "Pétalos de camelia blanca",
+      "PluralText": ""
+    },
+    {
+      "Id": 2619663079000639365,
+      "Text": "Si los plantas, saldrán camelias blancas.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4593127789853355830,
+      "Text": "Pétalos de flor de Pascua roja",
+      "PluralText": ""
+    },
+    {
+      "Id": 5053662237672523648,
+      "Text": "Si los plantas, saldrán flores de Pascua rojas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5790953762767400019,
+      "Text": "Pétalos de camelia roja",
+      "PluralText": ""
+    },
+    {
+      "Id": -4673790164089086459,
+      "Text": "Si los plantas, saldrán camelias rojas.",
       "PluralText": ""
     },
     {
@@ -10987,7 +11312,7 @@
     },
     {
       "Id": -3718907272190744923,
-      "Text": "No puedes iniciar sesión con una cuenta no infantil.\nNo tienes edad suficiente para utilizar esta cuenta.",
+      "Text": "Esta es una cuenta de adultos.\nEres demasiado joven para iniciar sesión con esta cuenta.",
       "PluralText": ""
     },
     {
@@ -11002,7 +11327,7 @@
     },
     {
       "Id": -5635259498562488152,
-      "Text": "Para usar tu cuenta de Facebook, debes permitir que Pikmin Bloom use tus actividades en las aplicaciones y los sitios web.",
+      "Text": "Para usar tu cuenta de Facebook, debes permitir que Pikmin Bloom pueda rastrear tu actividad en las aplicaciones y los sitios web.\nNota: Si tienes desactivado el permiso de rastreo en los ajustes de privacidad, sigue estos pasos para activarlo (una vez activado, tendrás que hacer lo propio para Pikmin Bloom específicamente):\n\n1. Accede a los ajustes y selecciona \"Privacidad\".\n2. Toca “Rastreo” y activa la opción “Permitir que las apps soliciten rastrearte”.",
       "PluralText": ""
     },
     {
@@ -11101,6 +11426,31 @@
       "PluralText": ""
     },
     {
+      "Id": -386184206609956069,
+      "Text": "Si inicias sesión con tu cuenta Nintendo, no podrás vincular una cuenta existente de Niantic.\nSi quieres vincular una cuenta de Niantic, inicia sesión con tu cuenta existente de Niantic y vincula después tu cuenta Nintendo.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3873863273646286372,
+      "Text": "¿Juegas a otros juegos de Niantic?",
+      "PluralText": ""
+    },
+    {
+      "Id": -7190375469370652674,
+      "Text": "https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp{0}Bs=release-notes-and-known-issues&amp{1}Bf=faq-and-known-issues&amp{2}Bl=es&l=es",
+      "PluralText": ""
+    },
+    {
+      "Id": 8289170337175643231,
+      "Text": "Actualmente, Pikmin Bloom no está disponible en tu zona geográfica. Sentimos las molestias que esto pueda ocasionar.",
+      "PluralText": ""
+    },
+    {
+      "Id": 499521323141124426,
+      "Text": "https://app.parents.nianticlabs.com/es/login",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "¡Pikmin arrancado!",
       "PluralText": ""
@@ -11162,12 +11512,12 @@
     },
     {
       "Id": 9094542193200475510,
-      "Text": "Al usar el modo RA, asegúrate de estar en un lugar seguro.",
+      "Text": "Utiliza el modo RA únicamente en lugares seguros.",
       "PluralText": ""
     },
     {
       "Id": 1647433295564063950,
-      "Text": "Al usar el modo RA, asegúrate de estar en un lugar seguro y bajo la supervisión parental adecuada.",
+      "Text": "Utiliza el modo RA únicamente en lugares seguros y bajo la supervisión de un adulto responsable.",
       "PluralText": ""
     },
     {
@@ -11253,6 +11603,36 @@
     {
       "Id": 4499654709863125418,
       "Text": "¡Le vas a enviar una postal a {0}!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3035784556593021698,
+      "Text": "¡Consigue postales de expediciones o amigos!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8772308295106745498,
+      "Text": "Enviar a un amigo",
+      "PluralText": ""
+    },
+    {
+      "Id": 692626348739045392,
+      "Text": "Enviar postal",
+      "PluralText": ""
+    },
+    {
+      "Id": 6268607759135030686,
+      "Text": "Cambiar Pikmin",
+      "PluralText": ""
+    },
+    {
+      "Id": -6579406613886910651,
+      "Text": "Elige un Pikmin para llevar",
+      "PluralText": ""
+    },
+    {
+      "Id": -269803371686521984,
+      "Text": "Skip",
       "PluralText": ""
     },
     {
@@ -11416,6 +11796,46 @@
       "PluralText": ""
     },
     {
+      "Id": 8933066767022550223,
+      "Text": "Néctar de flor de Pascua blanca",
+      "PluralText": ""
+    },
+    {
+      "Id": -8492305564556278812,
+      "Text": "Hace crecer una flor de Pascua blanca en la cabeza de los Pikmin. Es un néctar poco común.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2953310960670644019,
+      "Text": "Néctar de flor de Pascua roja",
+      "PluralText": ""
+    },
+    {
+      "Id": -9018633654334654304,
+      "Text": "Hace crecer una flor de Pascua roja en la cabeza de los Pikmin. Es un néctar poco común.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5902799192433135126,
+      "Text": "Néctar de camelia blanca",
+      "PluralText": ""
+    },
+    {
+      "Id": 4586842926656080165,
+      "Text": "Hace crecer una camelia blanca en la cabeza de los Pikmin. Es un néctar poco común.",
+      "PluralText": ""
+    },
+    {
+      "Id": 123079582638169703,
+      "Text": "Néctar de camelia roja",
+      "PluralText": ""
+    },
+    {
+      "Id": 841222153195669321,
+      "Text": "Hace crecer una camelia roja en la cabeza de los Pikmin. Es un néctar poco común.",
+      "PluralText": ""
+    },
+    {
       "Id": -6414135360193770810,
       "Text": "¡Todo listo!",
       "PluralText": ""
@@ -11457,12 +11877,17 @@
     },
     {
       "Id": 7609008915263360958,
-      "Text": "Your username will be visible to other users when you become friends. Choose carefully.",
+      "Text": "Las personas que añadas a tu lista de amigos podrán ver tu nombre de usuario. Elige con precaución.",
       "PluralText": ""
     },
     {
       "Id": -1133831709893173315,
-      "Text": "Are you sure? You will not be able to change your username.",
+      "Text": "¿Seguro que quieres continuar? No podrás cambiar tu nombre de usuario.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4045068220769436539,
+      "Text": "¡Ya puedes mandar a los Pikmin a su primera expedición! Toca el mapa para ello.",
       "PluralText": ""
     },
     {
@@ -11474,6 +11899,41 @@
       "Id": -6560102870785273981,
       "Text": "Tienda",
       "PluralText": ""
+    },
+    {
+      "Id": -553006157797316424,
+      "Text": "Día de la Comunidad",
+      "PluralText": ""
+    },
+    {
+      "Id": 1520634467778954415,
+      "Text": "Inicio: {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": -9048165667501443266,
+      "Text": "¡Día de la Comunidad en marcha!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8133274335474384587,
+      "Text": "¡Planta {0}!",
+      "PluralText": ""
+    },
+    {
+      "Id": 710700800988121989,
+      "Text": "¡Solo te falta {0} flor!",
+      "PluralText": "¡Solo te faltan {0} flores!"
+    },
+    {
+      "Id": 3478961755073471567,
+      "Text": "Da {0} paso.",
+      "PluralText": "Da {0} pasos"
+    },
+    {
+      "Id": -3573053222825736468,
+      "Text": "¡Solo te falta {0} paso!",
+      "PluralText": "¡Solo te faltan {0} pasos!"
     },
     {
       "Id": 4232141314118770660,

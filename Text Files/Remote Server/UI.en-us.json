@@ -231,6 +231,16 @@
       "PluralText": ""
     },
     {
+      "Id": -3988394576067598908,
+      "Text": "step",
+      "PluralText": "steps"
+    },
+    {
+      "Id": -3313836264261861270,
+      "Text": "Could not obtain valid location information. Please check your GPS settings and permissions to use location information.",
+      "PluralText": ""
+    },
+    {
       "Id": 9031174962354778674,
       "Text": "If you enable this setting, your information can be used to deliver personalized ads to you regarding Pikmin Bloom exclusive offers, promotions, and events.",
       "PluralText": ""
@@ -696,6 +706,36 @@
       "PluralText": ""
     },
     {
+      "Id": -2296842614687755324,
+      "Text": "Poinsettia Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 568198959390301858,
+      "Text": "You planted {0} poinsettias at Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 1940117697141063680,
+      "Text": "Plant a lot of poinsettias at Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1571842385581729349,
+      "Text": "Camellia Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 5722554518108526655,
+      "Text": "You planted {0} camellias at Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4267605988984367370,
+      "Text": "Plant a lot of camellias at Community Day!",
+      "PluralText": ""
+    },
+    {
       "Id": -2977119981155483501,
       "Text": "You have about {1} flowers ({0} minutes) to plant as you walk.",
       "PluralText": ""
@@ -931,6 +971,11 @@
       "PluralText": ""
     },
     {
+      "Id": 5380927072664436927,
+      "Text": "Continue",
+      "PluralText": ""
+    },
+    {
       "Id": -1774673968425093183,
       "Text": "ddd, MMM d, yyyy",
       "PluralText": ""
@@ -953,6 +998,21 @@
     {
       "Id": -8852826481264038680,
       "Text": "MMM d, yyyy",
+      "PluralText": ""
+    },
+    {
+      "Id": 7917496586707507751,
+      "Text": "MMMM yyyy",
+      "PluralText": ""
+    },
+    {
+      "Id": 8059995306440019335,
+      "Text": "{0} am",
+      "PluralText": ""
+    },
+    {
+      "Id": -964901627478265242,
+      "Text": "{0} pm",
       "PluralText": ""
     },
     {
@@ -4142,7 +4202,7 @@
     },
     {
       "Id": 5052545467998194877,
-      "Text": "Bare Pikmin are too tired to eat nectar or go on expeditions—but there's no need to worry!",
+      "Text": "Bare Pikmin are too tired to eat nectar—but there's no need to worry!",
       "PluralText": ""
     },
     {
@@ -4457,7 +4517,7 @@
     },
     {
       "Id": -6061706936715501273,
-      "Text": "Pick <b>{0} flower petals</b> from Pikmin",
+      "Text": "Pick <b>{0} flower petals</b>",
       "PluralText": ""
     },
     {
@@ -9011,6 +9071,16 @@
       "PluralText": ""
     },
     {
+      "Id": -2782904119527628801,
+      "Text": "Pikmin",
+      "PluralText": ""
+    },
+    {
+      "Id": -8286828344336723672,
+      "Text": "Unable to share Pikmin with this name",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "You have walked {0} more step than yesterday!",
       "PluralText": "You have walked {0} more steps than yesterday!"
@@ -9056,6 +9126,46 @@
       "PluralText": ""
     },
     {
+      "Id": 2745256175921062008,
+      "Text": "Review",
+      "PluralText": ""
+    },
+    {
+      "Id": -461098576451344619,
+      "Text": "Go to support chat",
+      "PluralText": ""
+    },
+    {
+      "Id": -5687839552254377799,
+      "Text": "Yes",
+      "PluralText": ""
+    },
+    {
+      "Id": -747608602514571749,
+      "Text": "No",
+      "PluralText": ""
+    },
+    {
+      "Id": -2129875408236408702,
+      "Text": "Thank you for playing",
+      "PluralText": ""
+    },
+    {
+      "Id": 4758796469783514479,
+      "Text": "Thank you for playing Pikmin Bloom Did you enjoy the app?",
+      "PluralText": ""
+    },
+    {
+      "Id": 3822475941977565413,
+      "Text": "We are glad you are enjoying the app To improve the app further more, can you review Pikmin Bloom?",
+      "PluralText": ""
+    },
+    {
+      "Id": -4446626877431678271,
+      "Text": "We are sorry you are not enjoying the app.\n\n Do you have comments and suggestions Please let us know through the support chat.",
+      "PluralText": ""
+    },
+    {
       "Id": 4200417875639190897,
       "Text": "Delete Flower History and Location Log",
       "PluralText": ""
@@ -9093,6 +9203,41 @@
     {
       "Id": 388652148881364942,
       "Text": "Can’t unlink this account. You need to link with another account before unlinking this account.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2372979060195365747,
+      "Text": "That name is unavailable.",
+      "PluralText": "That name is unavailable."
+    },
+    {
+      "Id": -6684333802516779697,
+      "Text": "Suggest photos in Daily Lookback",
+      "PluralText": ""
+    },
+    {
+      "Id": -4340637847176944589,
+      "Text": "Pikmin will bring photos from your camera roll to save them in your Lifelog.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5361751023396924044,
+      "Text": "Show Location in Shared Moments",
+      "PluralText": ""
+    },
+    {
+      "Id": -1254076838821138844,
+      "Text": "When you share in-game moments with the share button, show any real-life locations displayed on-screen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -9000074859503888032,
+      "Text": "Show location information when sharing screenshots?",
+      "PluralText": ""
+    },
+    {
+      "Id": -6290349941188007062,
+      "Text": "To show location information in shared screenshots, check \"Show Location in Shared Moments\". This can be changed at any time in Settings.",
       "PluralText": ""
     },
     {
@@ -9264,6 +9409,16 @@
       "Id": -2850049959480076450,
       "Text": "Friend requests",
       "PluralText": ""
+    },
+    {
+      "Id": 4532780449312777931,
+      "Text": "You have reached the maximum number of friends.",
+      "PluralText": "You have reached the maximum number of friends."
+    },
+    {
+      "Id": -837182238931387011,
+      "Text": "The user you are trying to invite has reached the maximum number of friends.",
+      "PluralText": "The user you are trying to invite has reached the maximum number of friends."
     },
     {
       "Id": 8097188312712959647,
@@ -10701,6 +10856,56 @@
       "PluralText": ""
     },
     {
+      "Id": 95669287817097931,
+      "Text": "Camellia",
+      "PluralText": ""
+    },
+    {
+      "Id": -3598200408796095031,
+      "Text": "Poinsettia",
+      "PluralText": ""
+    },
+    {
+      "Id": -3587534075949377580,
+      "Text": "White Poinsettia Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 3432387438224822155,
+      "Text": "White Poinsettia peals. Use them to plant White Poinsettias.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7557107635601271293,
+      "Text": "Red Poinsettia Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -8608357451649418120,
+      "Text": "Red Poinsettia peals. Use them to plant Red Poinsettias.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7457273527496966384,
+      "Text": "White Camellia Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7357396080572608376,
+      "Text": "White Camellia peals. Use them to plant White Camellias.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3591315758956558119,
+      "Text": "Red Camellia Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 6603547891947695934,
+      "Text": "Red Camellia peals. Use them to plant Red Camellias.",
+      "PluralText": ""
+    },
+    {
       "Id": 3765462814872576723,
       "Text": "Detector",
       "PluralText": ""
@@ -10906,6 +11111,126 @@
       "PluralText": ""
     },
     {
+      "Id": -7454479308736330024,
+      "Text": "Blue Pansy Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -2930649847235432491,
+      "Text": "Blue pansy petals. You can use them to plant blue pansies.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3947084292228859940,
+      "Text": "Blue Rose Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 56626993594716866,
+      "Text": "Blue rose petals. You can use them to plant blue roses.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6520220847558678017,
+      "Text": "Red Pansy Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 4435468842661373999,
+      "Text": "Red pansy petals. You can use them to plant red pansies.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7040868979877479988,
+      "Text": "Red Rose Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -139546504905617138,
+      "Text": "Red rose petals. You can use them to plant red roses.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4264036452350425318,
+      "Text": "White Pansy Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 2273538976534168838,
+      "Text": "White pansy petals. You can use them to plant white pansies.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3116504079813305474,
+      "Text": "White Rose Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 2031303789871064276,
+      "Text": "White rose petals. You can use them to plant white roses.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6136771400770159501,
+      "Text": "Yellow Pansy Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -7898737300362499714,
+      "Text": "Yellow pansy petals. You can use them to plant yellow pansies.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7665627337256321797,
+      "Text": "Yellow Rose Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 6563439749493694496,
+      "Text": "Yellow rose petals. You can use them to plant yellow roses.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4777105290626441002,
+      "Text": "White Poinsettia Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -3958787240183377681,
+      "Text": "White poinsettia petals. You can use them to plant white poinsettias.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3794234327046929450,
+      "Text": "White Camellia Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 2619663079000639365,
+      "Text": "White camellia petals. You can use them to plant white camellias.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4593127789853355830,
+      "Text": "Red Poinsettia Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 5053662237672523648,
+      "Text": "Red poinsettia petals. You can use them to plant red poinsettias.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5790953762767400019,
+      "Text": "Red Camellia Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -4673790164089086459,
+      "Text": "Red camellia petals. You can use them to plant red camellias.",
+      "PluralText": ""
+    },
+    {
       "Id": 4512608309946328130,
       "Text": "NIANTIC KIDS",
       "PluralText": ""
@@ -11101,6 +11426,31 @@
       "PluralText": ""
     },
     {
+      "Id": -386184206609956069,
+      "Text": "If you log in with your Nintendo account, you will not be able to link your existing Niantic game account.\nIf you want to link your Niantic account, please log in with your existing Niantic account and link your Nintendo account later.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3873863273646286372,
+      "Text": "Do you play other Niantic games?",
+      "PluralText": ""
+    },
+    {
+      "Id": -7190375469370652674,
+      "Text": "https://niantic.helpshift.com/a/pikmin-bloom/?p=web&s=release-notes-and-known-issues&f=faq-and-known-issues&l=en",
+      "PluralText": ""
+    },
+    {
+      "Id": 8289170337175643231,
+      "Text": "Pikmin Bloom is currently not available in your area. We apologize for any inconvenience this may cause.",
+      "PluralText": ""
+    },
+    {
+      "Id": 499521323141124426,
+      "Text": "https://app.parents.nianticlabs.com/en/login",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "Pikmin plucked!",
       "PluralText": ""
@@ -11253,6 +11603,36 @@
     {
       "Id": 4499654709863125418,
       "Text": "Sending the postcard to {0}!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3035784556593021698,
+      "Text": "Get postcards from expeditions or friends!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8772308295106745498,
+      "Text": "Send to friend",
+      "PluralText": ""
+    },
+    {
+      "Id": 692626348739045392,
+      "Text": "Send postcard",
+      "PluralText": ""
+    },
+    {
+      "Id": 6268607759135030686,
+      "Text": "Switch Pikmin",
+      "PluralText": ""
+    },
+    {
+      "Id": -6579406613886910651,
+      "Text": "Choose a Pikmin to carry",
+      "PluralText": ""
+    },
+    {
+      "Id": -269803371686521984,
+      "Text": "Skip",
       "PluralText": ""
     },
     {
@@ -11416,6 +11796,46 @@
       "PluralText": ""
     },
     {
+      "Id": 8933066767022550223,
+      "Text": "White Poinsettia Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -8492305564556278812,
+      "Text": "Rare nectar that will make a white poinsettia grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2953310960670644019,
+      "Text": "Red Poinsettia Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -9018633654334654304,
+      "Text": "Rare nectar that will make a red poinsettia grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5902799192433135126,
+      "Text": "White Camellia Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 4586842926656080165,
+      "Text": "Rare nectar that will make a white camellia grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 123079582638169703,
+      "Text": "Red Camellia Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 841222153195669321,
+      "Text": "Rare nectar that will make a red camellia grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
       "Id": -6414135360193770810,
       "Text": "We're all set!",
       "PluralText": ""
@@ -11466,6 +11886,11 @@
       "PluralText": ""
     },
     {
+      "Id": -4045068220769436539,
+      "Text": "You can now send Pikmin out on expeditions! Tap the map to send your Pikmin on their first expedition!",
+      "PluralText": ""
+    },
+    {
       "Id": 5930764704849029031,
       "Text": "Supermarket",
       "PluralText": ""
@@ -11474,6 +11899,41 @@
       "Id": -6560102870785273981,
       "Text": "Mini-mart",
       "PluralText": ""
+    },
+    {
+      "Id": -553006157797316424,
+      "Text": "Community Day",
+      "PluralText": ""
+    },
+    {
+      "Id": 1520634467778954415,
+      "Text": "Starts from {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": -9048165667501443266,
+      "Text": "Community Day underway!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8133274335474384587,
+      "Text": "Plant {0}!",
+      "PluralText": ""
+    },
+    {
+      "Id": 710700800988121989,
+      "Text": "{0} flower to go!",
+      "PluralText": "{0} flowers to go!"
+    },
+    {
+      "Id": 3478961755073471567,
+      "Text": "Walk {0} step!",
+      "PluralText": "Walk {0} steps!"
+    },
+    {
+      "Id": -3573053222825736468,
+      "Text": "{0} step to go",
+      "PluralText": "{0} steps to go"
     },
     {
       "Id": 4232141314118770660,

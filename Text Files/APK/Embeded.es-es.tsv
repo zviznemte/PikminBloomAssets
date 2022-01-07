@@ -44,9 +44,11 @@ id	constant	phrase	plural phrase
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	Este dispositivo, el sistema operativo o algún otro software no es compatible con Pikmin Bloom.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	No es posible acceder con la dirección %s. Vuelve a intentarlo con la dirección de correo electrónico que utilizaras para registrarte en el programa beta.	
 -7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	No se ha podido iniciar la sesión. Comprueba que estás intentando acceder a una cuenta existente o selecciona "Crear cuenta nueva" si es la opción correcta.	
--386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	No se pueden vincular cuentas de Niantic existentes con una cuenta Nintendo. Si quieres hacerlo, primero inicia sesión con la cuenta existente y después vincúlala con tu cuenta Nintendo.	
+-386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	Si inicias sesión con tu cuenta Nintendo, no podrás vincular una cuenta existente de Niantic.\nSi quieres vincular una cuenta de Niantic, inicia sesión con tu cuenta existente de Niantic y vincula después tu cuenta Nintendo.	
 3873863273646286372	NINTENDO_ACCOUNT_NEW_USER_WARNING_TITLE	¿Juegas a otros juegos de Niantic?	
--7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&s=release-notes-and-known-issues&f=faq-and-known-issues&l=es	
+-7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=es&l=es	
+8289170337175643231	WARNING_REGION_NOT_ALLOWED	Actualmente, Pikmin Bloom no está disponible en tu zona geográfica. Sentimos las molestias que esto pueda ocasionar.	
+499521323141124426	NIANTIC_KIDS_LOGIN_URL	https://app.parents.nianticlabs.com/es/login	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Atrás	
 8485757493794925261	ACTION_CANCEL	Cancelar	
 -897094175043611554	ACTION_CANT_SIGN_IN	No puedo iniciar sesión.	

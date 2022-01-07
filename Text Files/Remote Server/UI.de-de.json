@@ -42,42 +42,42 @@
     },
     {
       "Id": 3223924136086727121,
-      "Text": "Brauner-Pilz",
+      "Text": "Brauner Pilz",
       "PluralText": ""
     },
     {
       "Id": 4058392184849663003,
-      "Text": "Roter-Pilz",
+      "Text": "Roter Pilz",
       "PluralText": ""
     },
     {
       "Id": -5602487222769379968,
-      "Text": "Grauer-Pilz",
+      "Text": "Grauer Pilz",
       "PluralText": ""
     },
     {
       "Id": -206063049833368873,
-      "Text": "Blauer-Pilz",
+      "Text": "Blauer Pilz",
       "PluralText": ""
     },
     {
       "Id": -6075024059231051776,
-      "Text": "Gelber-Pilz",
+      "Text": "Gelber Pilz",
       "PluralText": ""
     },
     {
       "Id": 9042407978800728739,
-      "Text": "Weißer-Pilz-Herausforderung",
+      "Text": "Weißer Pilz",
       "PluralText": ""
     },
     {
       "Id": 1008635883070659880,
-      "Text": "Lila-Pilz",
+      "Text": "Lila Pilz",
       "PluralText": ""
     },
     {
       "Id": -5506371032750835944,
-      "Text": "Rosa-Pilz-Herausforderung",
+      "Text": "Rosa Pilz",
       "PluralText": ""
     },
     {
@@ -197,12 +197,12 @@
     },
     {
       "Id": -3189891252292873838,
-      "Text": "The challenge has been finished!",
+      "Text": "Diese Herausforderung wurde beendet!",
       "PluralText": ""
     },
     {
       "Id": 5289152595084005204,
-      "Text": "Challenge score:",
+      "Text": "Herausforderungspunkte:",
       "PluralText": ""
     },
     {
@@ -227,7 +227,17 @@
     },
     {
       "Id": -3050645190285210651,
-      "Text": "Low network connectivity.",
+      "Text": "Schwache Netzwerkverbindung.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3988394576067598908,
+      "Text": "Schritt",
+      "PluralText": "Schritte"
+    },
+    {
+      "Id": -3313836264261861270,
+      "Text": "Es konnten keine gültigen Standortinformationen erhoben werden. Bitte überprüfe deine GPS-Einstellungen und Berechtigungen, um Standortdaten zu nutzen.",
       "PluralText": ""
     },
     {
@@ -652,22 +662,22 @@
     },
     {
       "Id": 5320297670336684306,
-      "Text": "Closed Beta Test Badge",
+      "Text": "Geschlossene-Beta-Medaille",
       "PluralText": ""
     },
     {
       "Id": 5854515286252222551,
-      "Text": "Teilnahme an der geschlossenen Beta.\nDanke für deine Hilfe!",
+      "Text": "Du hast an der geschlossenen Beta teilgenommen.\nDanke für deine Hilfe!",
       "PluralText": ""
     },
     {
       "Id": -3022620190845947247,
-      "Text": "Community Day Badge",
+      "Text": "Community-Tag-Medaille",
       "PluralText": ""
     },
     {
       "Id": -6699418209639980821,
-      "Text": "Teilnahme an deinem ersten Community-Tag.",
+      "Text": "Du hast an deinem ersten Community-Tag teilgenommen.",
       "PluralText": ""
     },
     {
@@ -692,7 +702,37 @@
     },
     {
       "Id": -3676749983211875161,
-      "Text": "Teilnahme an deinem ersten Community-Tag",
+      "Text": "Nimm an deinem ersten Community-Tag teil",
+      "PluralText": ""
+    },
+    {
+      "Id": -2296842614687755324,
+      "Text": "Weihnachtsstern-Medaille",
+      "PluralText": ""
+    },
+    {
+      "Id": 568198959390301858,
+      "Text": "Du hast am Community-Tag im Dezember teilgenommen!",
+      "PluralText": ""
+    },
+    {
+      "Id": 1940117697141063680,
+      "Text": "Du hast am Community-Tag im Dezember teilgenommen!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1571842385581729349,
+      "Text": "Kamelien-Medaille",
+      "PluralText": ""
+    },
+    {
+      "Id": 5722554518108526655,
+      "Text": "Du hast am Community-Tag im Januar teilgenommen!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4267605988984367370,
+      "Text": "Du hast am Community-Tag im Januar teilgenommen!",
       "PluralText": ""
     },
     {
@@ -732,7 +772,7 @@
     },
     {
       "Id": 1597770283805058050,
-      "Text": "Pflanze viele Blumen an, um Münzen zu erhalten!",
+      "Text": "Pflanze viele Blumen, um Münzen zu erhalten!",
       "PluralText": ""
     },
     {
@@ -752,7 +792,7 @@
     },
     {
       "Id": -701238199946088913,
-      "Text": "New Player",
+      "Text": "Neuer Spieler",
       "PluralText": ""
     },
     {
@@ -767,7 +807,7 @@
     },
     {
       "Id": 131236457311110717,
-      "Text": "Returning Player",
+      "Text": "Zurückkehrender Spieler",
       "PluralText": ""
     },
     {
@@ -837,7 +877,7 @@
     },
     {
       "Id": -704332539942314270,
-      "Text": "<b>Gib dein Geburtsdatum ein</b>\n<size=24><color=\"red\">*Es kann später nicht mehr geändert werden.</color></size>",
+      "Text": "<b>Gib dein Geburtsdatum ein.</b>\n<size=24><color=\"red\">*Du kannst es später nicht mehr ändern.</color></size>",
       "PluralText": ""
     },
     {
@@ -897,12 +937,12 @@
     },
     {
       "Id": -7360387916112774534,
-      "Text": "Unable to connect. Please check your internet connection and try again.",
+      "Text": "Verbindung nicht möglich. Überprüfe deine Internetverbindung und versuche es erneut.",
       "PluralText": ""
     },
     {
       "Id": -6134105492375826462,
-      "Text": "Try Again",
+      "Text": "Bitte versuche es erneut.",
       "PluralText": ""
     },
     {
@@ -917,17 +957,22 @@
     },
     {
       "Id": 6143448343296213180,
-      "Text": "Du musst Pikmin Bloom erlauben, deine Aktivität in Apps und auf Websites anderer Unternehmen zu verfolgen.",
+      "Text": "Um dich mit deinem Facebook-Konto anmelden zu können, musst du Pikmin Bloom erlauben, deine Aktivitäten in Apps und auf Websites anderer Unternehmen zu tracken.",
       "PluralText": ""
     },
     {
       "Id": -1695401554888225946,
-      "Text": "1. Go to Settings, and Privacy",
+      "Text": "1. Wähle in den Einstellungen „Datenschutz“ aus.",
       "PluralText": ""
     },
     {
       "Id": -6268125898998694242,
-      "Text": "2. From Tracking, turn on Pikmin Bloom",
+      "Text": "2. Aktiviere „Pikmin Bloom“ unter „Tracking“.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5380927072664436927,
+      "Text": "Fortfahren",
       "PluralText": ""
     },
     {
@@ -952,7 +997,22 @@
     },
     {
       "Id": -8852826481264038680,
-      "Text": "MMM d, yyyy",
+      "Text": "d. MMM yyyy",
+      "PluralText": ""
+    },
+    {
+      "Id": 7917496586707507751,
+      "Text": "MMMM yyyy",
+      "PluralText": ""
+    },
+    {
+      "Id": 8059995306440019335,
+      "Text": "{0} Uhr",
+      "PluralText": ""
+    },
+    {
+      "Id": -964901627478265242,
+      "Text": "{0} Uhr",
       "PluralText": ""
     },
     {
@@ -1032,7 +1092,7 @@
     },
     {
       "Id": -698999894567824864,
-      "Text": "Grüne Trauben",
+      "Text": "Grüne Traube",
       "PluralText": "Grüne Trauben"
     },
     {
@@ -1492,7 +1552,7 @@
     },
     {
       "Id": 815476265258911662,
-      "Text": "Möchtest du {0} wirklich aus deiner Freundesliste entfernen? \n※Der Nutzer wird dann auch von deiner Freundesliste in anderen Niantic-Spielen (Pokémon GO, Ingress etc.) entfernt",
+      "Text": "Möchtest du {0} wirklich aus deiner Freundesliste entfernen? \nDer Nutzer wird dann auch von deiner Freundesliste in anderen Niantic-Spielen (Pokémon GO, Ingress etc.) entfernt.",
       "PluralText": ""
     },
     {
@@ -3127,7 +3187,7 @@
     },
     {
       "Id": 2765155309499078795,
-      "Text": "Das Lieblingssnack deiner Pikmin!",
+      "Text": "Der Lieblingssnack deiner Pikmin!",
       "PluralText": ""
     },
     {
@@ -3192,7 +3252,7 @@
     },
     {
       "Id": 5046078900390371910,
-      "Text": "Sonnenblumen-Blütenblätter",
+      "Text": "Sonnenblumen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -3267,7 +3327,7 @@
     },
     {
       "Id": -149986292681800512,
-      "Text": "Sonnenblumen-Blütenblätter",
+      "Text": "Sonnenblumen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -4142,7 +4202,7 @@
     },
     {
       "Id": 5052545467998194877,
-      "Text": "Blumenlose Pikmin sind zu erschöpft, um Nektar zu trinken oder sich auf Expeditionen zu begeben. Doch das ist kein Grund zur Sorge!",
+      "Text": "Blumenlose Pikmin sind zu erschöpft, um Nektar zu trinken. Doch das ist kein Grund zur Sorge!",
       "PluralText": ""
     },
     {
@@ -4457,7 +4517,7 @@
     },
     {
       "Id": -6061706936715501273,
-      "Text": "Sammle <b>{0} Blütenblätter</b> von Pikmin",
+      "Text": "Sammle <b>{0} Blütenblätter</b>",
       "PluralText": ""
     },
     {
@@ -9011,6 +9071,11 @@
       "PluralText": ""
     },
     {
+      "Id": -2782904119527628801,
+      "Text": "Pikmin",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "Du bist {0} Schritt mehr gegangen als gestern!",
       "PluralText": "Du bist {0} Schritte mehr gegangen als gestern!"
@@ -9056,6 +9121,46 @@
       "PluralText": ""
     },
     {
+      "Id": 2745256175921062008,
+      "Text": "Bewerten",
+      "PluralText": ""
+    },
+    {
+      "Id": -461098576451344619,
+      "Text": "Zum Support-Chat",
+      "PluralText": ""
+    },
+    {
+      "Id": -5687839552254377799,
+      "Text": "Ja",
+      "PluralText": ""
+    },
+    {
+      "Id": -747608602514571749,
+      "Text": "Nein",
+      "PluralText": ""
+    },
+    {
+      "Id": -2129875408236408702,
+      "Text": "Danke fürs Spielen!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4758796469783514479,
+      "Text": "Danke, dass du Pikmin Bloom spielst!\n\nGefällt dir die App?",
+      "PluralText": ""
+    },
+    {
+      "Id": 3822475941977565413,
+      "Text": "Wir freuen uns, dass dir Pikmin Bloom gefällt!\n\nHilf uns, die App noch zu verbessern, und bewerte uns.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4446626877431678271,
+      "Text": "Schade, dass dir die App nicht gefällt.\n\nHast du vielleicht Kommentare oder Vorschläge?\n\nMelde dich doch über unseren Support-Chat.",
+      "PluralText": ""
+    },
+    {
       "Id": 4200417875639190897,
       "Text": "Gepflanzte Blumen und Ortsverzeichnis löschen",
       "PluralText": ""
@@ -9092,7 +9197,42 @@
     },
     {
       "Id": 388652148881364942,
-      "Text": "Can’t unlink this account. You need to link with another account before unlinking this account.",
+      "Text": "Die Verknüpfung des Kontos kann nicht aufgehoben werden. Du musst zuerst ein anderes Konto verknüpfen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2372979060195365747,
+      "Text": "Dieser Name kann nicht verwendet werden.",
+      "PluralText": "Dieser Name kann nicht verwendet werden."
+    },
+    {
+      "Id": -6684333802516779697,
+      "Text": "Fotos für den Tagesrückblick vorschlagen",
+      "PluralText": ""
+    },
+    {
+      "Id": -4340637847176944589,
+      "Text": "Pikmin bringen Fotos aus deiner Galerie, um sie in deinem Tagebuch zu speichern.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5361751023396924044,
+      "Text": "Ortsangabe bei geteilten Momenten anzeigen",
+      "PluralText": ""
+    },
+    {
+      "Id": -1254076838821138844,
+      "Text": "Wenn du Spielmomente mit der Teilen-Schaltfläche teilst, werden die echten Ortsangaben auf dem Bildschirm angezeigt.",
+      "PluralText": ""
+    },
+    {
+      "Id": -9000074859503888032,
+      "Text": "Ortsangabe beim Teilen von Screenshots anzeigen?",
+      "PluralText": ""
+    },
+    {
+      "Id": -6290349941188007062,
+      "Text": "Um die Ortsangabe bei geteilten Screenshots anzuzeigen, wähle die Option „Ortsangabe bei geteilten Momenten anzeigen“. Dies kannst du jederzeit in den Einstellungen ändern.",
       "PluralText": ""
     },
     {
@@ -9264,6 +9404,16 @@
       "Id": -2850049959480076450,
       "Text": "Freundesanfragen",
       "PluralText": ""
+    },
+    {
+      "Id": 4532780449312777931,
+      "Text": "Du hast die maximale Anzahl an Freunden erreicht.",
+      "PluralText": "Du hast die maximale Anzahl an Freunden erreicht."
+    },
+    {
+      "Id": -837182238931387011,
+      "Text": "Der Nutzer, den du einladen willst, hat die maximale Anzahl an Freunden bereits erreicht.",
+      "PluralText": "Der Nutzer, den du einladen willst, hat die maximale Anzahl an Freunden bereits erreicht."
     },
     {
       "Id": 8097188312712959647,
@@ -10701,6 +10851,56 @@
       "PluralText": ""
     },
     {
+      "Id": 95669287817097931,
+      "Text": "Kamelie",
+      "PluralText": ""
+    },
+    {
+      "Id": -3598200408796095031,
+      "Text": "Weihnachtsstern",
+      "PluralText": ""
+    },
+    {
+      "Id": -3587534075949377580,
+      "Text": "Weiße Weihnachtsstern-Blütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 3432387438224822155,
+      "Text": "Pflanze mit diesen weißen Weihnachtsstern-Blütenblättern weiße Weihnachtssterne.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7557107635601271293,
+      "Text": "Rote Weihnachtsstern-Blütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": -8608357451649418120,
+      "Text": "Pflanze mit diesen roten Weihnachtsstern-Blütenblättern rote Weihnachtssterne.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7457273527496966384,
+      "Text": "Weiße Kamelien-Blütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 7357396080572608376,
+      "Text": "Pflanze mit diesen weißen Kamelien-Blütenblättern weiße Kamelien.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3591315758956558119,
+      "Text": "Rote Kamelien-Blütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 6603547891947695934,
+      "Text": "Pflanze mit diesen roten Kamelien-Blütenblättern rote Kamelien.",
+      "PluralText": ""
+    },
+    {
       "Id": 3765462814872576723,
       "Text": "Detektor",
       "PluralText": ""
@@ -10857,17 +11057,17 @@
     },
     {
       "Id": 7186205489242392836,
-      "Text": "Spezialpaket",
+      "Text": "Blumenpaket",
       "PluralText": ""
     },
     {
       "Id": 8531645827598836335,
-      "Text": "Superpaket",
+      "Text": "Spezialpaket",
       "PluralText": ""
     },
     {
       "Id": -2307192030998706023,
-      "Text": "Abenteuerpaket",
+      "Text": "Blütenpaket",
       "PluralText": ""
     },
     {
@@ -10897,12 +11097,132 @@
     },
     {
       "Id": -6954826006857629987,
-      "Text": "Special Nectar",
+      "Text": "Spezialnektar",
       "PluralText": ""
     },
     {
       "Id": -5212070237193999921,
-      "Text": "Dieser Spezialnektar macht Pikmin glücklich und erhöht dein Freundschaftslevel deutlich.",
+      "Text": "Dieser Spezialnektar macht Pikmin glücklich und erhöht euren Freundschaftslevel deutlich.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7454479308736330024,
+      "Text": "Blaue-\nStiefmütterchen-\nBlütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": -2930649847235432491,
+      "Text": "Mit diesen Blütenblättern kannst du blaue Stiefmütterchen pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3947084292228859940,
+      "Text": "Blaue-\nRosen-\nBlütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 56626993594716866,
+      "Text": "Mit diesen Blütenblättern kannst du blaue Rosen pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6520220847558678017,
+      "Text": "Rote-\nStiefmütterchen-\nBlütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 4435468842661373999,
+      "Text": "Mit diesen Blütenblättern kannst du rote Stiefmütterchen pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7040868979877479988,
+      "Text": "Rote-\nRosen-\nBlütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": -139546504905617138,
+      "Text": "Mit diesen Blütenblättern kannst du rote Rosen pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4264036452350425318,
+      "Text": "Weiße- \nStiefmütterchen- \nBlütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 2273538976534168838,
+      "Text": "Mit diesen Blütenblättern kannst du weiße Stiefmütterchen pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3116504079813305474,
+      "Text": "Weiße-\nRosen-\nBlütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 2031303789871064276,
+      "Text": "Mit diesen Blütenblättern kannst du weiße Rosen pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6136771400770159501,
+      "Text": "Gelbe-\nStiefmütterchen-\nBlütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": -7898737300362499714,
+      "Text": "Mit diesen Blütenblättern kannst du gelbe Stiefmütterchen pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7665627337256321797,
+      "Text": "Gelbe-\nRosen-\nBlütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 6563439749493694496,
+      "Text": "Mit diesen Blütenblättern kannst du gelbe Rosen pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4777105290626441002,
+      "Text": "Weiße Weihnachtsstern-Blütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": -3958787240183377681,
+      "Text": "Pflanze mit diesen weißen Weihnachtsstern-Blütenblättern weiße Weihnachtssterne.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3794234327046929450,
+      "Text": "Weiße Kamelien-Blütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 2619663079000639365,
+      "Text": "Pflanze mit diesen weißen Kamelien-Blütenblättern weiße Kamelien.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4593127789853355830,
+      "Text": "Rote Weihnachtsstern-Blütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 5053662237672523648,
+      "Text": "Pflanze mit diesen roten Weihnachtsstern-Blütenblättern rote Weihnachtssterne.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5790953762767400019,
+      "Text": "Rote Kamelien-Blütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": -4673790164089086459,
+      "Text": "Pflanze mit diesen roten Kamelien-Blütenblättern rote Kamelien.",
       "PluralText": ""
     },
     {
@@ -10987,7 +11307,7 @@
     },
     {
       "Id": -3718907272190744923,
-      "Text": "Dies ist ein Account für Erwachsene. \nDu bist zu jung, um dich über diesen anzumelden.",
+      "Text": "Dies ist ein Erwachsenen-Account. \nDu bist zu jung, um dich mit diesem Account anzumelden.",
       "PluralText": ""
     },
     {
@@ -11002,7 +11322,7 @@
     },
     {
       "Id": -5635259498562488152,
-      "Text": "Um dein Facebook-Konto nutzen zu können, musst du Pikmin Bloom erlauben, deine Aktivität in Apps und auf Websites zu verwenden.",
+      "Text": "Um dein Facebook-Konto nutzen zu können, musst du Pikmin Bloom erlauben, deine Aktivitäten in Apps und auf Websites zu verwenden.\nHinweis: Wenn die Tracking-Berechtigung in den Datenschutz-Einstellungen nicht aktiviert ist, befolge diese Anweisungen, um sie zu aktivieren. (Du musst ebenfalls individuelle Einstellungen für Pikmin Bloom vornehmen, nachdem die Berechtigung aktiviert wurde) \n\n1. Öffne „Einstellungen“ und dann „Datenschutz“\n2. Wähle „Tracking“ aus und aktiviere „Apps erlauben, Tracking anzufordern“.",
       "PluralText": ""
     },
     {
@@ -11062,7 +11382,7 @@
     },
     {
       "Id": 5129733746667304330,
-      "Text": "Verknüpfung mit Kinderkonten nicht möglich.",
+      "Text": "Verknüpfung mit Kinder-Accounts nicht möglich.",
       "PluralText": ""
     },
     {
@@ -11098,6 +11418,31 @@
     {
       "Id": -7841180612166439923,
       "Text": "Die Anmeldung ist fehlgeschlagen. Bitte überprüfe, ob dieses Konto wirklich besteht und du aus den Optionen „Anmelden“ und „Neues Konto“ die richtige ausgewählt hast.",
+      "PluralText": ""
+    },
+    {
+      "Id": -386184206609956069,
+      "Text": "Wenn du dich mit deinem Nintendo-Account anmeldest, kannst du ihn nicht mit deinem bestehenden Niantic-Konto verknüpfen.\n Wenn du dein Niantic-Konto verknüpfen willst, melde dich bitte mit deinem bestehenden Niantic-Konto an und verknüpfe deinen Nintendo-Account danach.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3873863273646286372,
+      "Text": "Spielst du andere Niantic-Spiele?",
+      "PluralText": ""
+    },
+    {
+      "Id": -7190375469370652674,
+      "Text": "https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp{0}Bs=release-notes-and-known-issues&amp{1}Bf=faq-and-known-issues&amp{2}Bl=de&l=de",
+      "PluralText": ""
+    },
+    {
+      "Id": 8289170337175643231,
+      "Text": "Pikmin Bloom ist derzeit in deiner Region nicht verfügbar. Wir entschuldigen uns für etwaige Unannehmlichkeiten.",
+      "PluralText": ""
+    },
+    {
+      "Id": 499521323141124426,
+      "Text": "https://app.parents.nianticlabs.com/de/login",
       "PluralText": ""
     },
     {
@@ -11167,7 +11512,7 @@
     },
     {
       "Id": 1647433295564063950,
-      "Text": "Achte bei der Verwendung des AR-Modus darauf, dass du dich in einer sicheren Umgebung befindest und ein Erwachsener in der Nähe ist.",
+      "Text": "Achte bei der Verwendung des AR-Modus darauf, dass du dich in einer sicheren Umgebung befindest und dich ein Erwachsener beaufsichtigt.",
       "PluralText": ""
     },
     {
@@ -11256,6 +11601,36 @@
       "PluralText": ""
     },
     {
+      "Id": 3035784556593021698,
+      "Text": "Erhalte Postkarten von Expeditionen oder Freunden!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8772308295106745498,
+      "Text": "An Freund senden",
+      "PluralText": ""
+    },
+    {
+      "Id": 692626348739045392,
+      "Text": "Postkarte senden",
+      "PluralText": ""
+    },
+    {
+      "Id": 6268607759135030686,
+      "Text": "Pikmin wechseln",
+      "PluralText": ""
+    },
+    {
+      "Id": -6579406613886910651,
+      "Text": "Wähle ein Pikmin zum Tragen",
+      "PluralText": ""
+    },
+    {
+      "Id": -269803371686521984,
+      "Text": "Skip",
+      "PluralText": ""
+    },
+    {
       "Id": 357857585624279041,
       "Text": "Abgebrochen.",
       "PluralText": ""
@@ -11327,7 +11702,7 @@
     },
     {
       "Id": 6165321942839832604,
-      "Text": "Weiße-Stiefmütterchen-Nektar",
+      "Text": "Weiße-Stiefmütterchen-\nNektar",
       "PluralText": ""
     },
     {
@@ -11416,6 +11791,46 @@
       "PluralText": ""
     },
     {
+      "Id": 8933066767022550223,
+      "Text": "Weißer-Weihnachtsstern-Nektar",
+      "PluralText": ""
+    },
+    {
+      "Id": -8492305564556278812,
+      "Text": "Dieser seltene Nektar lässt einen weißen Weihnachtsstern auf den Köpfen deiner Pikmin wachsen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2953310960670644019,
+      "Text": "Roter-Weihnachtsstern-Nektar",
+      "PluralText": ""
+    },
+    {
+      "Id": -9018633654334654304,
+      "Text": "Dieser seltene Nektar lässt einen roten Weihnachtsstern auf den Köpfen deiner Pikmin wachsen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5902799192433135126,
+      "Text": "Weiße-Kamelien-Nektar",
+      "PluralText": ""
+    },
+    {
+      "Id": 4586842926656080165,
+      "Text": "Dieser seltene Nektar lässt eine weiße Kamelie auf den Köpfen deiner Pikmin wachsen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 123079582638169703,
+      "Text": "Rote-Kamelien-Nektar",
+      "PluralText": ""
+    },
+    {
+      "Id": 841222153195669321,
+      "Text": "Dieser seltene Nektar lässt eine rote Kamelie auf den Köpfen deiner Pikmin wachsen.",
+      "PluralText": ""
+    },
+    {
       "Id": -6414135360193770810,
       "Text": "Wir sind fertig!",
       "PluralText": ""
@@ -11457,12 +11872,17 @@
     },
     {
       "Id": 7609008915263360958,
-      "Text": "Your username will be visible to other users when you become friends. Choose carefully.",
+      "Text": "Dein Nutzername ist für andere sichtbar, wenn sie deine Freunde werden. Wähle ihn mit Bedacht.",
       "PluralText": ""
     },
     {
       "Id": -1133831709893173315,
-      "Text": "Are you sure? You will not be able to change your username.",
+      "Text": "Bist du sicher? Du kannst deinen Nutzernamen nicht mehr ändern.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4045068220769436539,
+      "Text": "Nun kannst du Pikmin auf Expeditionen schicken! Tippe auf die Karte, um deine Pikmin auf ihre erste Expedition zu schicken!",
       "PluralText": ""
     },
     {
@@ -11474,6 +11894,41 @@
       "Id": -6560102870785273981,
       "Text": "Minimarkt",
       "PluralText": ""
+    },
+    {
+      "Id": -553006157797316424,
+      "Text": "Community-Tag",
+      "PluralText": ""
+    },
+    {
+      "Id": 1520634467778954415,
+      "Text": "Beginnt ab {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": -9048165667501443266,
+      "Text": "Der Community-Tag läuft!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8133274335474384587,
+      "Text": "Pflanze: {0}!",
+      "PluralText": ""
+    },
+    {
+      "Id": 710700800988121989,
+      "Text": "Noch {0} Blume!",
+      "PluralText": "Noch {0} Blumen!"
+    },
+    {
+      "Id": 3478961755073471567,
+      "Text": "Laufe {0} Schritt!",
+      "PluralText": "Laufe {0} Schritte!"
+    },
+    {
+      "Id": -3573053222825736468,
+      "Text": "Noch {0} Schritt",
+      "PluralText": "Noch {0} Schritte"
     },
     {
       "Id": 4232141314118770660,
@@ -11587,7 +12042,7 @@
     },
     {
       "Id": -2477311914983404123,
-      "Text": "Pikmin sind zurück von der Herausforderung in {1}!",
+      "Text": "Pikmin sind von der Herausforderung in {1} zurück!",
       "PluralText": ""
     },
     {

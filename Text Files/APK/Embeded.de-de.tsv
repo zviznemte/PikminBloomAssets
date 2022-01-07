@@ -24,7 +24,7 @@ id	constant	phrase	plural phrase
 -3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	Dies ist ein Erwachsenen-Account. \nDu bist zu jung, um dich mit diesem Account anzumelden.	
 -1814714920489092509	NINTENDO_LOGIN_NO_MII_SET_DIALOG_DESCRIPTION	Es wurde kein Mii für das verknüpfte Konto festgelegt. Bitte erstelle ein neues Mii, indem du auf „[Mii erstellen]“ tippst.	
 -472925358362562323	ACCOUNT_LINK_CANCEL	Verknüpfung wurde abgebrochen.	
--5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Um dein Facebook-Konto nutzen zu können, musst du Pikmin Bloom erlauben, deine Aktivität in Apps und auf Websites zu verwenden.	
+-5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Um dein Facebook-Konto nutzen zu können, musst du Pikmin Bloom erlauben, deine Aktivitäten in Apps und auf Websites zu verwenden.\nHinweis: Wenn die Tracking-Berechtigung in den Datenschutz-Einstellungen nicht aktiviert ist, befolge diese Anweisungen, um sie zu aktivieren. (Du musst ebenfalls individuelle Einstellungen für Pikmin Bloom vornehmen, nachdem die Berechtigung aktiviert wurde) \n\n1. Öffne „Einstellungen“ und dann „Datenschutz“\n2. Wähle „Tracking“ aus und aktiviere „Apps erlauben, Tracking anzufordern“.	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	Die nötigen Berechtigungen wurden nicht gewährt.	
 -4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Verknüpfung mit Facebook-Konto aufheben	
 -6261744157366888903	LOGIN_FAILED_ERROR	Während der Anmeldung mit deinem Konto ist ein Fehler aufgetreten.	
@@ -44,9 +44,11 @@ id	constant	phrase	plural phrase
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	Dieses Gerät, sein Betriebssystem oder andere Software ist nicht mit Pikmin Bloom kompatibel.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	Die E-Mail-Adresse „%s“ hat keine Zugangsberechtigung. Bitte versuche es erneut mit der E-Mail-Adresse, mit der du dich für das Betatest-Programm registriert hast.	
 -7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	Die Anmeldung ist fehlgeschlagen. Bitte überprüfe, ob dieses Konto wirklich besteht und du aus den Optionen „Anmelden“ und „Neues Konto“ die richtige ausgewählt hast.	
--386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	Du kannst keine bestehenden Niantic-Konten mit einem Nintendo-Account verbinden. Wenn du bestehende Niantic-Konten mit einem Nintendo-Account verbinden willst, logge dich bitte zuerst mit den bestehenden Konten ein und stelle dann die Verbindung mit deinem Nintendo-Account her.	
+-386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	Wenn du dich mit deinem Nintendo-Account anmeldest, kannst du ihn nicht mit deinem bestehenden Niantic-Konto verknüpfen.\n Wenn du dein Niantic-Konto verknüpfen willst, melde dich bitte mit deinem bestehenden Niantic-Konto an und verknüpfe deinen Nintendo-Account danach.	
 3873863273646286372	NINTENDO_ACCOUNT_NEW_USER_WARNING_TITLE	Spielst du andere Niantic-Spiele?	
--7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&s=release-notes-and-known-issues&f=faq-and-known-issues&l=de	
+-7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=de&l=de	
+8289170337175643231	WARNING_REGION_NOT_ALLOWED	Pikmin Bloom ist derzeit in deiner Region nicht verfügbar. Wir entschuldigen uns für etwaige Unannehmlichkeiten.	
+499521323141124426	NIANTIC_KIDS_LOGIN_URL	https://app.parents.nianticlabs.com/de/login	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Zurück	
 8485757493794925261	ACTION_CANCEL	Abbrechen	
 -897094175043611554	ACTION_CANT_SIGN_IN	Probleme beim Anmelden?	
@@ -85,5 +87,5 @@ id	constant	phrase	plural phrase
 -6671261524127209282	OPEN_APP_SETTINGS_ACTION_OPEN	Einstellungen öffnen	
 6143448343296213180	OPEN_APP_SETTINGS_IOS_APP_TRACKING	Um dich mit deinem Facebook-Konto anmelden zu können, musst du Pikmin Bloom erlauben, deine Aktivitäten in Apps und auf Websites anderer Unternehmen zu tracken.	
 -1695401554888225946	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_1	1. Wähle in den Einstellungen „Datenschutz“ aus.	
--6268125898998694242	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_2	2. Aktiviere Pikmin Bloom unter Tracking.	
+-6268125898998694242	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_2	2. Aktiviere „Pikmin Bloom“ unter „Tracking“.	
 5380927072664436927	ACTION_CONTINUE	Fortfahren	

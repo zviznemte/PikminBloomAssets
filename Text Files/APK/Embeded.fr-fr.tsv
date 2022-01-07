@@ -44,9 +44,11 @@ id	constant	phrase	plural phrase
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	Cet appareil, son système d'exploitation ou d'autres éléments logiciels ne sont pas compatibles avec Pikmin Bloom.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	L'adresse e-mail %s n'est pas autorisée. Réessayez avec l'adresse e-mail que vous avez utilisée lors de votre inscription au programme bêta.	
 -7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	La connexion a échoué. Si vous n'avez pas encore de compte, sélectionnez Nouveau compte.	
--386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	Vous ne pouvez pas lier des comptes Niantic existants avec un compte Nintendo. Si vous souhaitez lier des comptes Niantic existants avec un compte Nintendo, veuillez d'abord vous connecter avec les comptes déjà existants puis les lier avec votre compte Nintendo.	
+-386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	Si vous vous connectez avec votre compte Nintendo, vous ne pourrez pas associer votre compte de jeu Niantic existant. \n Si vous voulez associer votre compte Niantic, veuillez vous connecter avec votre compte Niantic existant et associer votre compte Nintendo plus tard.	
 3873863273646286372	NINTENDO_ACCOUNT_NEW_USER_WARNING_TITLE	Jouez-vous à d'autres jeux de Niantic ?	
--7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&s=release-notes-and-known-issues&f=faq-and-known-issues&l=fr	
+-7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=fr&l=fr	
+8289170337175643231	WARNING_REGION_NOT_ALLOWED	Pikmin Bloom est actuellement indisponible dans votre région. Nous nous excusons pour la gêne occasionnée.	
+499521323141124426	NIANTIC_KIDS_LOGIN_URL	https://app.parents.nianticlabs.com/fr/login	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Retour	
 8485757493794925261	ACTION_CANCEL	Annuler	
 -897094175043611554	ACTION_CANT_SIGN_IN	Vous n'arrivez pas à vous connecter ?	
@@ -79,7 +81,7 @@ id	constant	phrase	plural phrase
 -7309335694267259600	TITLE_COPYRIGHT_1	© 2021 Niantic, Inc.	
 -586797165528962190	TITLE_COPYRIGHT_2A	Pikmin et Mii / Illustrations / Musique	
 2218647699492075618	TITLE_COPYRIGHT_2B	© 2021 Nintendo	
--7360387916112774534	NO_INTERNET_CONNECTION	Impossible de se connecter. Veuillez vérifier votre connexion Internet et réessayer.	
+-7360387916112774534	NO_INTERNET_CONNECTION	Connexion impossible. Veuillez vérifier votre connexion Internet et réessayer.	
 -6134105492375826462	ACTION_TRY_AGAIN	Veuillez réessayer	
 -9075047459596506242	ACTION_DONE	Terminé	
 -6671261524127209282	OPEN_APP_SETTINGS_ACTION_OPEN	Ouvrir les paramètres	

@@ -4,7 +4,7 @@ id	constant	phrase	plural phrase
 120322519350465199	RPC_NETWORK_ERROR_DIALOG_MESSAGE	서버와의 통신에 실패했습니다. 기기의 네트워크 설정과 환경을 확인한 후, 다시 시도해 주세요.	
 1295101996930540142	RPC_NETWORK_ERROR_DIALOG_RETRY	재시도	
 8035254070518805654	RPC_NETWORK_ERROR_DIALOG_LOGOUT	로그아웃	
--3050645190285210651	RPC_LOW_NETWORK_CONNECTIVITY	네트워크 신호가 약합니다.	
+-3050645190285210651	RPC_LOW_NETWORK_CONNECTIVITY	통신 상태가 불안정합니다.	
 4512608309946328130	LOGIN_PROVIDER_SUPER_AWESOME	NIANTIC KIDS	
 -8965300778396787175	SUPER_AWESOME_REGISTER_URL	https://niantic-sso.kws.superawesome.tv/en/register	
 6270310653121693548	SUPER_AWESOME_FORGOT_PASSWORD_URL	https://niantic-sso.kws.superawesome.tv/en/password/forgot	
@@ -24,7 +24,7 @@ id	constant	phrase	plural phrase
 -3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	이것은 성인의 어카운트입니다.\n당신은 어린이로 구분되는 나이이므로 이 어카운트로 로그인할 수 없습니다.	
 -1814714920489092509	NINTENDO_LOGIN_NO_MII_SET_DIALOG_DESCRIPTION	연결된 어카운트에는 Mii가 설정되어 있지 않습니다. [Mii 작성] 버튼을 눌러 새로운 Mii를 작성하세요.	
 -472925358362562323	ACCOUNT_LINK_CANCEL	어카운트 연동이 취소되었습니다.	
--5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Facebook 계정을 사용하려면 Pikmin Bloom이 귀하의 앱 및 웹사이트 활동을 추적할 수 있도록 허용해야 합니다.\n참고: 개인정보 설정에서 추적 권한이 활성화되어있지 않다면 아래의 방법으로 활성화하세요(권한을 활성화한 후에는 Pikmin Bloom의 개별적인 설정 또한 지정해주어야 합니다).\n\n1. 설정을 열고 "개인정보"로 이동합니다.\n2. "추적"을 탭한 후, "앱이 추적을 요청하도록 허용"을 활성화합니다.	
+-5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Facebook 계정을 사용하려면 Pikmin Bloom이 귀하의 앱 및 웹사이트 활동을 추적할 수 있도록 허용해야 합니다.\n※ 개인 정보 보호 설정에서 추적 권한이 활성화되어 있지 않다면 아래의 방법으로 설정을 변경해 주십시오.(권한을 활성화한 후에는 Pikmin Bloom의 개별적인 설정 또한 지정해 주어야 합니다).\n\n1. 설정을 열고 "개인 정보 보호"로 이동합니다.\n2. "추적"을 탭한 후, "앱이 추적을 요청하도록 허용"을 활성화합니다.	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	필요한 권한이 허용되지 않았습니다.	
 -4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Facebook 계정 연동 해제	
 -6261744157366888903	LOGIN_FAILED_ERROR	어카운트에 로그인하지 못했습니다.	
@@ -45,9 +45,11 @@ id	constant	phrase	plural phrase
 Pikmin Bloom 기동에 실패했습니다.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	「%s」 이 메일 주소는 액세스가 허가되지 않았습니다. 베타 프로그램 등록 시의 메일 주소로 다시 시도해 주십시오.	
 -7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	어카운트가 존재하지 않아 로그인하지 못했습니다. 어카운트가 존재하는지 확인해 주십시오.	
--386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	기존의 Niantic 계정은 닌텐도 어카운트와 연결할 수 없습니다. 기존의 Niantic 계정을 닌텐도 어카운트와 연결하고 싶다면 기존 계정으로 먼저 로그인한 후에 닌텐도 어카운트와 연결하세요.	
+-386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	닌텐도 어카운트로 로그인할 경우, 기존의 Niantic 게임 계정과 연동하지 못합니다. \n Niantic 계정을 연동하고 싶다면 기존 Niantic 계정으로 로그인한 후에 닌텐도 어카운트를 연동해 주십시오.	
 3873863273646286372	NINTENDO_ACCOUNT_NEW_USER_WARNING_TITLE	다른 Niantic 게임도 플레이하고 계신가요?	
--7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&s=release-notes-and-known-issues&f=faq-and-known-issues&l=ko	
+-7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=ko&l=ko	
+8289170337175643231	WARNING_REGION_NOT_ALLOWED	해당 지역에서는 현재 Pikmin Bloom을 이용할 수 없습니다. 서비스 이용에 불편을 드려 대단히 죄송합니다.	
+499521323141124426	NIANTIC_KIDS_LOGIN_URL	https://app.parents.nianticlabs.com/ko/login	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	이전 페이지로	
 8485757493794925261	ACTION_CANCEL	취소	
 -897094175043611554	ACTION_CANT_SIGN_IN	로그인이 안 되나요?	
@@ -80,12 +82,12 @@ Pikmin Bloom 기동에 실패했습니다.
 -7309335694267259600	TITLE_COPYRIGHT_1	Copyright © 2021 Niantic, Inc.	
 -586797165528962190	TITLE_COPYRIGHT_2A	Pikmin and Mii Characters / Artwork / Music	
 2218647699492075618	TITLE_COPYRIGHT_2B	Copyright © 2021 Nintendo All Rights Reserved	
--7360387916112774534	NO_INTERNET_CONNECTION	접속할 수 없습니다. 인터넷 연결 상태를 확인하고 다시 시도해주세요.	
+-7360387916112774534	NO_INTERNET_CONNECTION	인터넷에 접속할 수 없습니다. 통신 상태를 확인하고 다시 시도해 주십시오.	
 -6134105492375826462	ACTION_TRY_AGAIN	다시 시도	
 -9075047459596506242	ACTION_DONE	완료	
 -6671261524127209282	OPEN_APP_SETTINGS_ACTION_OPEN	설정 열기	
 6143448343296213180	OPEN_APP_SETTINGS_IOS_APP_TRACKING	Facebook 계정으로 로그인하려면 Pikmin Bloom이 타사 앱 및 웹사이트에서 귀하의 활동에 접근할 수 있도록 허용해야 합니다.
 	
--1695401554888225946	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_1	1. 설정에서 개인정보 선택	
+-1695401554888225946	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_1	1. 설정에서 개인 정보 보호 선택	
 -6268125898998694242	OPEN_APP_SETTINGS_IOS_APP_TRACKING_STEP_2	2. 추적에서 Pikmin Bloom 켜기	
 5380927072664436927	ACTION_CONTINUE	계속하기	

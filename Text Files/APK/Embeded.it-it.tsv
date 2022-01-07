@@ -24,7 +24,7 @@ id	constant	phrase	plural phrase
 -3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	Questo è un account per adulti.\nSei troppo giovane per accedere con questo account.	
 -1814714920489092509	NINTENDO_LOGIN_NO_MII_SET_DIALOG_DESCRIPTION	Nell'account collegato non ci sono Mii impostati. Crea un nuovo Mii toccando il pulsante [Crea Mii].	
 -472925358362562323	ACCOUNT_LINK_CANCEL	Il collegamento all'account è stato annullato.	
--5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Devi autorizzare Pikmin Bloom a utilizzare la tua attività nelle app e nei siti Web per poter utilizzare il tuo account Facebook.\nNota: se il tracciamento non è autorizzato nelle impostazioni della privacy, segui queste istruzioni per abilitarlo (dovrai anche configurare le impostazioni individuali per Pikmin Bloom una volta concessa l'autorizzazione): \n\n \1. Apri le impostazioni e vai su "Privacy".\n2. Tocca "Tracciamento" e attiva "Richiesta tracciamento attività".	
+-5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Devi autorizzare Pikmin Bloom a usare la tua attività nelle app e nei siti web per poter utilizzare il tuo account Facebook.\nNota: se il tracciamento non è autorizzato nelle impostazioni della privacy, segui queste istruzioni per abilitarlo (dovrai anche configurare le impostazioni individuali per Pikmin Bloom una volta concessa l'autorizzazione): \n\n1. Apri le impostazioni e vai su "Privacy".\n2. Tocca "Tracciamento" e attiva "Richiesta tracciamento attività".	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	Le autorizzazioni necessarie non sono state concesse.	
 -4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Scollega account Facebook	
 -6261744157366888903	LOGIN_FAILED_ERROR	Si è verificato un errore durante l'accesso al tuo account.	
@@ -44,9 +44,11 @@ id	constant	phrase	plural phrase
 3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	Questo dispositivo, il suo sistema operativo o qualche altro software non sono compatibili con Pikmin Bloom.	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	L'indirizzo e-mail %s non è autorizzato. Riprova con l'indirizzo e-mail che hai usato per registrarti al programma di beta test.	
 -7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	Impossibile effettuare l'accesso. Controlla che questo account sia esistente e di aver selezionato l'opzione corretta fra "Accedi" e "Crea un nuovo account".	
--386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	Non è possibile collegare gli account Niantic esistenti all'account Nintendo. Se vuoi collegare gli account Niantic esistenti all'account Nintendo, effettua prima l'accesso con gli account esistenti e poi collegali al tuo account Nintendo.	
+-386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	Se accedi con il tuo account Nintendo, non potrai collegare il tuo account di gioco Niantic esistente.\nSe vuoi collegare il tuo account Niantic, accedi con il tuo account Niantic esistente e collega il tuo account Nintendo in seguito.	
 3873863273646286372	NINTENDO_ACCOUNT_NEW_USER_WARNING_TITLE	Utilizzi altri giochi Niantic?	
--7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&s=release-notes-and-known-issues&f=faq-and-known-issues&l=it	
+-7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=it&l=it	
+8289170337175643231	WARNING_REGION_NOT_ALLOWED	Pikmin Bloom non è attualmente disponibile nella tua zona. Ci scusiamo per qualsiasi inconveniente causato.	
+499521323141124426	NIANTIC_KIDS_LOGIN_URL	https://app.parents.nianticlabs.com/it/login	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Indietro	
 8485757493794925261	ACTION_CANCEL	Annulla	
 -897094175043611554	ACTION_CANT_SIGN_IN	Problemi con l'accesso?	

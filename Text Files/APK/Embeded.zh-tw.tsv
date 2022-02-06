@@ -24,7 +24,7 @@ id	constant	phrase	plural phrase
 -3718907272190744923	INCONSISTENT_AGE_LEVEL_WITH_KIDS_PLAYER	這是成人帳號。\n由於你的年齡被區分為兒童，故無法使用這個帳號登入。	
 -1814714920489092509	NINTENDO_LOGIN_NO_MII_SET_DIALOG_DESCRIPTION	已連動的帳號沒有Mii。請按[建立自己的Mii]按鈕來建立Mii吧。	
 -472925358362562323	ACCOUNT_LINK_CANCEL	已取消與帳號連動。	
--5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	如果要使用Facebook帳號，必須允許Pikmin Bloom使用你的應用程式或網頁活動。\n※如果隱私設定為不允許由應用程式追蹤，請先按照以下步驟更改設定。（之後需要個別進行設定。）\n\n1. 打開設定，選擇「隱私」\n2. 點擊「追蹤」，開啟「允許從App追蹤」	
+-5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	如果要使用Facebook帳號，必須允許Pikmin Bloom使用您的應用程式或網頁活動。\n※如果隱私設定為不允許由應用程式追蹤，請先按照以下步驟更改設定。（之後需要個別進行設定。）\n\n1. 打開設定，選擇「隱私」\n2. 點擊「追蹤」，開啟「允許從App追蹤」	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	無法取得必要的許可。	
 -4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	解除與Facebook帳號的連動	
 -6261744157366888903	LOGIN_FAILED_ERROR	無法登入此帳號。	
@@ -41,13 +41,13 @@ id	constant	phrase	plural phrase
 6896609452290178645	TITLE_ACCOUNT_TEMPORARILY_SUSPENDED	帳號凍結之通知	
 8682783416889457618	WARNING_ACCOUNT_PERMANENTLY_BANNED	帳號已因為違反使用條款而遭永久停權。	
 -1146777523130602812	WARNING_ACCOUNT_TEMPORARILY_SUSPENDED	帳號已因為違反使用條款而遭凍結。帳號的凍結狀態會維持約30天。解除凍結後，如果再次發現不正當的存取行為，帳號將被永久停權。	
-3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	沒有支援您裝置的OS版本，或是因檢測到特定的操作（ROOT化之類）而無法啟動Pikmin Bloom。	
+3550607850365094643	WARNING_UNAUTHORIZED_DEVICE	因您裝置的OS版本不支援，或是因檢測到特定的操作（ROOT化之類）而無法啟動Pikmin Bloom。	
 262310736144758494	WARNING_ACCOUNT_NOT_ALLOWED	沒有允許電郵地址「%s」的存取。請使用登記測試程式時的電郵地址再試一次。	
 -7841180612166439923	WARNING_ACCOUNT_DOES_NOT_EXIST	由於帳號不存在，所以無法登入。請確認帳號是否存在。	
 -386184206609956069	NINTENDO_ACCOUNT_NEW_USER_WARNING	如果登入Nintendo Account，將不能與已有的Niantic遊戲帳號連動。如果想要連動，請登入已有的Niantic帳號，之後再與Nintendo Account連動。	
 3873863273646286372	NINTENDO_ACCOUNT_NEW_USER_WARNING_TITLE	你有遊玩Niantic的其他遊戲嗎？	
 -7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=zh-hant&l=zh-hant	
-8289170337175643231	WARNING_REGION_NOT_ALLOWED	你的所在區域目前無法使用Pikmin Bloom。造成不便，敬請見諒。	
+8289170337175643231	WARNING_REGION_NOT_ALLOWED	您的所在區域目前無法使用Pikmin Bloom。造成不便，敬請見諒。	
 499521323141124426	NIANTIC_KIDS_LOGIN_URL	https://app.parents.nianticlabs.com/zh-tw/login	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	返回上一頁	
 8485757493794925261	ACTION_CANCEL	取消	

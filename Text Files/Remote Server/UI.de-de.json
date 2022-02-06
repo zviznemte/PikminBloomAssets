@@ -241,6 +241,86 @@
       "PluralText": ""
     },
     {
+      "Id": 1586610613728239971,
+      "Text": "Antworten",
+      "PluralText": ""
+    },
+    {
+      "Id": 8594167413670513926,
+      "Text": "t",
+      "PluralText": ""
+    },
+    {
+      "Id": -6951747874583412951,
+      "Text": "kg",
+      "PluralText": ""
+    },
+    {
+      "Id": -4003710305942612958,
+      "Text": "g",
+      "PluralText": ""
+    },
+    {
+      "Id": -4739640400670867950,
+      "Text": "km",
+      "PluralText": ""
+    },
+    {
+      "Id": -9178097942074658004,
+      "Text": "Punkt",
+      "PluralText": "Punkte"
+    },
+    {
+      "Id": -7352491062436389390,
+      "Text": "Sek.",
+      "PluralText": "Sek."
+    },
+    {
+      "Id": 1755058594397429630,
+      "Text": "Gewicht",
+      "PluralText": ""
+    },
+    {
+      "Id": 5054097312274684078,
+      "Text": "Tutorial",
+      "PluralText": ""
+    },
+    {
+      "Id": -4205525183225370910,
+      "Text": "Hinzufügen",
+      "PluralText": ""
+    },
+    {
+      "Id": -4617269144539043093,
+      "Text": "Speichern",
+      "PluralText": ""
+    },
+    {
+      "Id": -7176708379197015662,
+      "Text": "Erstellen",
+      "PluralText": ""
+    },
+    {
+      "Id": 455947363827071410,
+      "Text": "Umbenennen",
+      "PluralText": ""
+    },
+    {
+      "Id": 2757644933330403668,
+      "Text": "Nein, danke",
+      "PluralText": ""
+    },
+    {
+      "Id": 6808242498291533974,
+      "Text": "Aktivieren",
+      "PluralText": ""
+    },
+    {
+      "Id": 2844611347484798183,
+      "Text": "Sort by:",
+      "PluralText": ""
+    },
+    {
       "Id": 9031174962354778674,
       "Text": "Wenn du diese Einstellung aktivierst, können dir anhand deiner Informationen personalisierte Werbeanzeigen für exklusive Angebote, Aktionen und Events zu Pikmin Bloom angezeigt werden.",
       "PluralText": ""
@@ -623,17 +703,12 @@
     {
       "Id": 3612964440416980610,
       "Text": "Du warst auf {0} Expedition!",
-      "PluralText": "Du warst auf {0} Expeditionen!"
+      "PluralText": "<b>{0} {1}</b> wurden auf Expeditionen getragen!"
     },
     {
       "Id": -1919276800654817569,
       "Text": "Schicke mehr Pikmin auf Expeditionen, um deine Medaille aufzuwerten!",
       "PluralText": ""
-    },
-    {
-      "Id": 9057790161028093513,
-      "Text": "Du hast {0} Herausforderung geschafft!",
-      "PluralText": "Du hast {0} Herausforderungen geschafft!"
     },
     {
       "Id": -2354047255291567602,
@@ -677,7 +752,7 @@
     },
     {
       "Id": -6699418209639980821,
-      "Text": "Du hast an deinem ersten Community-Tag teilgenommen.",
+      "Text": "Du hast am Community-Tag zum ersten Mal 10 000 Schritte geschafft!",
       "PluralText": ""
     },
     {
@@ -702,7 +777,7 @@
     },
     {
       "Id": -3676749983211875161,
-      "Text": "Nimm an deinem ersten Community-Tag teil",
+      "Text": "Du hast an deinem ersten Community-Tag 10 000 Schritte geschafft!",
       "PluralText": ""
     },
     {
@@ -712,12 +787,12 @@
     },
     {
       "Id": 568198959390301858,
-      "Text": "Du hast am Community-Tag im Dezember teilgenommen!",
+      "Text": "Du hast am Community-Tag im Dezember 10 000 Schritte geschafft!",
       "PluralText": ""
     },
     {
       "Id": 1940117697141063680,
-      "Text": "Du hast am Community-Tag im Dezember teilgenommen!",
+      "Text": "Du hast am Community-Tag im Dezember 10 000 Schritte geschafft!",
       "PluralText": ""
     },
     {
@@ -727,12 +802,117 @@
     },
     {
       "Id": 5722554518108526655,
-      "Text": "Du hast am Community-Tag im Januar teilgenommen!",
+      "Text": "Du hast am Community-Tag im Januar 10.000 Schritte geschafft!",
       "PluralText": ""
     },
     {
       "Id": 4267605988984367370,
-      "Text": "Du hast am Community-Tag im Januar teilgenommen!",
+      "Text": "Du hast am Community-Tag im Januar 10 000 Schritte geschafft!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1772990415101194432,
+      "Text": "Noch <b>{0}{1}</b>!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2029525933228256258,
+      "Text": "Trage {0} {1} in Expeditionen",
+      "PluralText": ""
+    },
+    {
+      "Id": -7475417674917181896,
+      "Text": "Mein Expeditionsrekord",
+      "PluralText": ""
+    },
+    {
+      "Id": 7853538904956095846,
+      "Text": "Weiteste Expedition",
+      "PluralText": ""
+    },
+    {
+      "Id": -6657535878401861933,
+      "Text": "{0}, Expedition nach {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5163353420877856754,
+      "Text": "<b>{0}</b> hat <b>{1}</b> für die Rückkehr gebraucht!",
+      "PluralText": ""
+    },
+    {
+      "Id": -7345406534473129803,
+      "Text": "<b>{0}</b> und <b>{1}</b> haben <b>{2}</b> für die Rückkehr gebraucht!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3637509506607055795,
+      "Text": "<b>{0}</b>, <b>{1}</b> und <b>{2}</b> haben <b>{3}</b> für die Rückkehr gebraucht!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3930852527203257392,
+      "Text": "Du hast <b>{0}{1}</b> in einer Herausforderung gesammelt",
+      "PluralText": "Du hast {0}{1} in Herausforderungen gesammelt"
+    },
+    {
+      "Id": -4585279161755334562,
+      "Text": "Noch <b>{0}{1}</b>!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3412222707437735777,
+      "Text": "Herausforderungsmedaille",
+      "PluralText": "Herausforderungsmedaillen"
+    },
+    {
+      "Id": 7798884055473650454,
+      "Text": "Sammle {0}{1} Punkte in Herausforderungen",
+      "PluralText": ""
+    },
+    {
+      "Id": -2084673541074085258,
+      "Text": "Beste Punktzahl",
+      "PluralText": ""
+    },
+    {
+      "Id": 3036443730493876907,
+      "Text": "Mein Herausforderungsrekord",
+      "PluralText": ""
+    },
+    {
+      "Id": -3292488467640343340,
+      "Text": "Pflaumenblüten-Medaillen",
+      "PluralText": ""
+    },
+    {
+      "Id": 4607709131475388931,
+      "Text": "Du hast am Community-Tag im Februar 10.000 Schritte geschafft!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6538529372505513544,
+      "Text": "Du hast am Community-Tag im Februar 10.000 Schritte geschafft!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4475727564875574295,
+      "Text": "{0}, Herausforderung in {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": -4301131808498102954,
+      "Text": "Kirschblüten-Medaille",
+      "PluralText": ""
+    },
+    {
+      "Id": -1623918387378333509,
+      "Text": "Du hast am Community-Tag im März 10.000 Schritte geschafft!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5644989673897931792,
+      "Text": "Laufe 10.000 Schritte am Community-Tag im März!",
       "PluralText": ""
     },
     {
@@ -3092,7 +3272,7 @@
     },
     {
       "Id": -6653991179035461396,
-      "Text": "Weitere",
+      "Text": "Weiteres",
       "PluralText": ""
     },
     {
@@ -3797,7 +3977,7 @@
     },
     {
       "Id": -1060090071457646986,
-      "Text": "Pikmin Bloom möchte auf deine Fotos zugreifen. Bitte öffne die Einstellungen und gewähre der App den Zugriff auf deine Fotos.",
+      "Text": "Deine Pikmin den Alltag mit dir festhalten. Sie wählen Fotos von deiner Galerie als „Foto des Tages“ aus! Bitte öffne deine Geräteeinstellungen und erlaube ihnen den Zugriff auf deine Fotos.",
       "PluralText": ""
     },
     {
@@ -9076,6 +9256,16 @@
       "PluralText": ""
     },
     {
+      "Id": -8286828344336723672,
+      "Text": "Der Name dieses Pikmins ist unangemessen",
+      "PluralText": ""
+    },
+    {
+      "Id": -2384125540853607822,
+      "Text": "Verschieben",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "Du bist {0} Schritt mehr gegangen als gestern!",
       "PluralText": "Du bist {0} Schritte mehr gegangen als gestern!"
@@ -9217,12 +9407,12 @@
     },
     {
       "Id": -5361751023396924044,
-      "Text": "Ortsangabe bei geteilten Momenten anzeigen",
+      "Text": "Ortsangabe in Screenshots anzeigen",
       "PluralText": ""
     },
     {
       "Id": -1254076838821138844,
-      "Text": "Wenn du Spielmomente mit der Teilen-Schaltfläche teilst, werden die echten Ortsangaben auf dem Bildschirm angezeigt.",
+      "Text": "Echte Ortsangaben werden auf dem Bildschirm angezeigt, wenn du einen Screenshot mit der Teilen-Schaltfläche speicherst.",
       "PluralText": ""
     },
     {
@@ -9232,7 +9422,192 @@
     },
     {
       "Id": -6290349941188007062,
-      "Text": "Um die Ortsangabe bei geteilten Screenshots anzuzeigen, wähle die Option „Ortsangabe bei geteilten Momenten anzeigen“. Dies kannst du jederzeit in den Einstellungen ändern.",
+      "Text": "Wenn du echte Ortsangaben in Screenshots aufnehmen willst, aktiviere das Kästchen bei „Ortsangabe in Screenshots anzeigen“.\nDu kannst das jederzeit in den Einstellungen ändern.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8680624660144228208,
+      "Text": "Namen ändern",
+      "PluralText": ""
+    },
+    {
+      "Id": -4460328998556778532,
+      "Text": "Name",
+      "PluralText": ""
+    },
+    {
+      "Id": -2844272671113960897,
+      "Text": "Konto-ID",
+      "PluralText": ""
+    },
+    {
+      "Id": 2923982871181729376,
+      "Text": "Gib deinen Namen ein",
+      "PluralText": ""
+    },
+    {
+      "Id": 6728224550932768342,
+      "Text": "Gib deinen gewünschten Namen ein. Du kannst ihn auch später wieder ändern.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1621084628723751017,
+      "Text": "Namen ändern",
+      "PluralText": ""
+    },
+    {
+      "Id": -1817264436835283328,
+      "Text": "Dein Name muss mindestens {0} Zeichen haben.",
+      "PluralText": ""
+    },
+    {
+      "Id": -30271875368848632,
+      "Text": "Dein Name darf höchstens {0} Zeichen haben.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1387445377216514100,
+      "Text": "Du kannst diesen Namen nicht verwenden.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7204557190058885388,
+      "Text": "Konto löschen",
+      "PluralText": ""
+    },
+    {
+      "Id": -6558195749606517432,
+      "Text": "Sobald dein Konto für Pikmin Bloom gelöscht wurde, kann niemand mehr darauf zugreifen. Dieser Vorgang kann nicht rückgängig gemacht werden.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7819849817461711653,
+      "Text": "Möchtest du wirklich den Vorgang zur Kontolöschung in Gang setzen?",
+      "PluralText": ""
+    },
+    {
+      "Id": -6063344150877788871,
+      "Text": "Wenn du auf Ja tippst, schicken wir dir eine E-Mail, um den Vorgang zur Kontolöschung abzuschließen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6021109869597088728,
+      "Text": "Bitte verifiziere deine E-Mail zum Bestätigen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7893168827556468628,
+      "Text": "Wir schicken dir eine E-Mail, um den Vorgang zur Kontolöschung abzuschließen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7507007220429166700,
+      "Text": "Se enviará un correo electrónico a {0} para completar la eliminación de tu cuenta.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8147044070991298196,
+      "Text": "You have initiated deletion of your account. Once you’ve verified deletion by email, then your account deletion request will be finalized. This action cannot be undone.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4350186769130254812,
+      "Text": "Bitte verifiziere die E-Mail deines Erziehungsberechtigten zum Bestätigen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5417459419087356876,
+      "Text": "Wir schicken dir eine E-Mail, um den Vorgang zur Kontolöschung abzuschließen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1696682089298835237,
+      "Text": "Wir schicken deinen Eltern eine E-Mail an {0}, um die Löschung deines Kontos abzuschließen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5126266386490629843,
+      "Text": "Du hast die Löschung deines Kontos in Gang gesetzt. Sobald deine Eltern der Löschung per E-Mail zugestimmt haben, ist deine Kontolöschung abgeschlossen. Dieser Vorgang kann nicht rückgängig gemacht werden.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7604723680527944746,
+      "Text": "Du kannst lediglich Buchstaben und Zahlen verwenden.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6939816848488596599,
+      "Text": "Konto-ID ändern",
+      "PluralText": ""
+    },
+    {
+      "Id": 2765281425346352756,
+      "Text": "Diese ID kann nicht verwendet werden. Bitte wähle eine andere.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4915252147095915707,
+      "Text": "Empfohlen",
+      "PluralText": ""
+    },
+    {
+      "Id": -7476399864903394836,
+      "Text": "Möchtest du deine ID ändern?",
+      "PluralText": ""
+    },
+    {
+      "Id": -777386086471757322,
+      "Text": "Du kannst deine ID nur einmal ändern. Wenn du sie änderst, kannst du sie nicht zu deiner alten ID ändern.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5431737269954970119,
+      "Text": "Willst du deine ID wirklich zu <b>{0}</b> ändern? Du kannst sie nicht erneut ändern.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5947766513482616848,
+      "Text": "Konto-ID ändern",
+      "PluralText": ""
+    },
+    {
+      "Id": 3064579424304890011,
+      "Text": "Die ID muss mindestens {0} Zeichen haben.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4022432624831102566,
+      "Text": "Die ID darf höchstens {0} Buchstaben haben.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7270050971094451693,
+      "Text": "ID wurde aktualisiert",
+      "PluralText": ""
+    },
+    {
+      "Id": 6432054710676374952,
+      "Text": "ID konnte nicht aktualisiert werden",
+      "PluralText": ""
+    },
+    {
+      "Id": -5614230779693698378,
+      "Text": "Das ist dein Spitzname im Spiel. Er ist für andere Nutzer sichtbar und du kannst ihn jederzeit bearbeiten.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1880504717306533703,
+      "Text": "Eine einmalige ID, die bei Supportanfragen verwendet wird. Sie ist auch für andere Nutzer sichtbar.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4969930357019378617,
+      "Text": "Einige Sonderzeichen sind nicht erlaubt.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5827621809935774076,
+      "Text": "Einstellungen zum Blumenpflanzen",
       "PluralText": ""
     },
     {
@@ -9296,6 +9671,31 @@
       "PluralText": ""
     },
     {
+      "Id": -5775286658863700672,
+      "Text": "Du kannst deinen Namen jetzt hinzufügen und ändern. Mit diesem Namen wirst du dann bezeichnet und er wird überall im Spiel angezeigt. Du kannst deinen Namen in den Einstellungen ändern.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1477394859854898705,
+      "Text": "Du kannst deine privaten Zonen beim Blumenpflanzen jetzt in den Einstellungen ändern!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8539189630197469551,
+      "Text": "Private Zonen sind Gebiete, in denen Blumen nicht gepflanzt werden, wenn du im Blumenpflanz-Modus spazieren gehst.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4249808825556282446,
+      "Text": "Wenn du in deiner privaten Zone im Blumenpflanz-Modus spazieren gehst, werden die Blütenblätter ganz normal mit der Zeit verbraucht. Der Pflanzbonus ist auch wirksam.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4624927557437824771,
+      "Text": "Nutze private Zonen und pflanze unbesorgt Blumen!",
+      "PluralText": ""
+    },
+    {
       "Id": -5146076640042198176,
       "Text": "Mii auf die neuste Version aktualisieren?",
       "PluralText": ""
@@ -9323,6 +9723,11 @@
     {
       "Id": 7464124599707418127,
       "Text": "Mii bearbeiten",
+      "PluralText": ""
+    },
+    {
+      "Id": 4415836753590599935,
+      "Text": "Konto-ID",
       "PluralText": ""
     },
     {
@@ -9414,6 +9819,41 @@
       "Id": -837182238931387011,
       "Text": "Der Nutzer, den du einladen willst, hat die maximale Anzahl an Freunden bereits erreicht.",
       "PluralText": "Der Nutzer, den du einladen willst, hat die maximale Anzahl an Freunden bereits erreicht."
+    },
+    {
+      "Id": 369300901328071057,
+      "Text": "Konto-ID",
+      "PluralText": ""
+    },
+    {
+      "Id": 5850130050020385006,
+      "Text": "Friends",
+      "PluralText": ""
+    },
+    {
+      "Id": 9040202165962386165,
+      "Text": "Add friend",
+      "PluralText": ""
+    },
+    {
+      "Id": 6942862844237117013,
+      "Text": "Invite",
+      "PluralText": ""
+    },
+    {
+      "Id": -1792069573362755789,
+      "Text": "Friendship Start Date",
+      "PluralText": ""
+    },
+    {
+      "Id": 5833427434216514115,
+      "Text": "Name",
+      "PluralText": ""
+    },
+    {
+      "Id": -8733706737032106939,
+      "Text": "{0} Friend",
+      "PluralText": "{0} Friends"
     },
     {
       "Id": 8097188312712959647,
@@ -9572,7 +10012,7 @@
     },
     {
       "Id": -4759875390863668730,
-      "Text": "Kleeblatt",
+      "Text": "Vierblättriger Klee",
       "PluralText": ""
     },
     {
@@ -10502,37 +10942,37 @@
     },
     {
       "Id": -2324337371981306161,
-      "Text": "Kleeblatt",
+      "Text": "Vierblättriger Klee",
       "PluralText": ""
     },
     {
       "Id": 3866207058062655114,
-      "Text": "Kleeblatt",
+      "Text": "Vierblättriger Klee",
       "PluralText": ""
     },
     {
       "Id": 9101110827400782175,
-      "Text": "Kleeblatt",
+      "Text": "Vierblättriger Klee",
       "PluralText": ""
     },
     {
       "Id": -8314700096370246824,
-      "Text": "Kleeblatt",
+      "Text": "Vierblättriger Klee",
       "PluralText": ""
     },
     {
       "Id": -6260297932679255097,
-      "Text": "Kleeblatt",
+      "Text": "Vierblättriger Klee",
       "PluralText": ""
     },
     {
       "Id": -3562720665442340061,
-      "Text": "Kleeblatt",
+      "Text": "Vierblättriger Klee",
       "PluralText": ""
     },
     {
       "Id": 31299170106862305,
-      "Text": "Kleeblatt",
+      "Text": "Vierblättriger Klee",
       "PluralText": ""
     },
     {
@@ -10582,7 +11022,7 @@
     },
     {
       "Id": -8287811960078634154,
-      "Text": "Rotes Pikmin",
+      "Text": "Sticker",
       "PluralText": ""
     },
     {
@@ -10651,6 +11091,41 @@
       "PluralText": ""
     },
     {
+      "Id": -57741282103175696,
+      "Text": "Mondneujahr-Verzierung",
+      "PluralText": ""
+    },
+    {
+      "Id": -5955142218768679533,
+      "Text": "Mondneujahr-Verzierung",
+      "PluralText": ""
+    },
+    {
+      "Id": -8519633489221611212,
+      "Text": "Mondneujahr-Verzierung",
+      "PluralText": ""
+    },
+    {
+      "Id": -2084578222671832284,
+      "Text": "Dies ist ein rotes Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2624031679020679436,
+      "Text": "Dies ist ein gelbes Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6666875684361916296,
+      "Text": "Dies ist ein blaues Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -9024114417981736664,
+      "Text": "Mondneujahr-Verzierung",
+      "PluralText": ""
+    },
+    {
       "Id": -2667792163754801126,
       "Text": "Voraussetzung:",
       "PluralText": ""
@@ -10672,7 +11147,7 @@
     },
     {
       "Id": 2975729686072198175,
-      "Text": "{0}",
+      "Text": "{0} {1}",
       "PluralText": ""
     },
     {
@@ -10762,7 +11237,7 @@
     },
     {
       "Id": 2775128269575278624,
-      "Text": "Mit diesen Blütenblättern kannst du rote Stiefmütterchen pflanzen.",
+      "Text": "Mit diesen Blüten kannst du rote Stiefmütterchen pflanzen.",
       "PluralText": ""
     },
     {
@@ -10867,7 +11342,7 @@
     },
     {
       "Id": 3432387438224822155,
-      "Text": "Pflanze mit diesen weißen Weihnachtsstern-Blütenblättern weiße Weihnachtssterne.",
+      "Text": "Mit diesen Blüten kannst du weiße Weihnachtssterne pflanzen.",
       "PluralText": ""
     },
     {
@@ -10877,7 +11352,7 @@
     },
     {
       "Id": -8608357451649418120,
-      "Text": "Pflanze mit diesen roten Weihnachtsstern-Blütenblättern rote Weihnachtssterne.",
+      "Text": "Mit diesen Blüten kannst du rote Weihnachtssterne pflanzen.",
       "PluralText": ""
     },
     {
@@ -10887,7 +11362,7 @@
     },
     {
       "Id": 7357396080572608376,
-      "Text": "Pflanze mit diesen weißen Kamelien-Blütenblättern weiße Kamelien.",
+      "Text": "Mit diesen Blüten kannst du weiße Kamelien pflanzen.",
       "PluralText": ""
     },
     {
@@ -10897,7 +11372,37 @@
     },
     {
       "Id": 6603547891947695934,
-      "Text": "Pflanze mit diesen roten Kamelien-Blütenblättern rote Kamelien.",
+      "Text": "Mit diesen Blüten kannst du rote Kamelien pflanzen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6574731289959531607,
+      "Text": "Pflaumenblüte",
+      "PluralText": ""
+    },
+    {
+      "Id": 6747116258104464359,
+      "Text": "Pflaumenblütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 7204689648783089142,
+      "Text": "Pflanze mit diesen Pflaumenblütenblättern Pflaumenblüten.",
+      "PluralText": ""
+    },
+    {
+      "Id": 79021663453928334,
+      "Text": "Kirschblüte",
+      "PluralText": ""
+    },
+    {
+      "Id": 2713068879941896473,
+      "Text": "Kirschblütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": 7241234756670722723,
+      "Text": "Pflanze mit diesen weißen Kirschblütenblättern weiße Kirschblüten.",
       "PluralText": ""
     },
     {
@@ -10947,17 +11452,17 @@
     },
     {
       "Id": -1687790271688999816,
-      "Text": "Pflanze mit diesen Blütenblättern rote und rosa Blumen.",
+      "Text": "Mit diesen Blütenblättern kannst du rote und rosa Blumen pflanzen.",
       "PluralText": ""
     },
     {
       "Id": -3009570960521529672,
-      "Text": "Pflanze mit diesen Blütenblättern blaue und lila Blumen.",
+      "Text": "Mit diesen Blütenblättern kannst du blaue und lila Blumen pflanzen.",
       "PluralText": ""
     },
     {
       "Id": -4504053630238837481,
-      "Text": "Pflanze mit diesen Blütenblättern gelbe und orange Blumen.",
+      "Text": "Mit diesen Blütenblättern kannst du gelbe und orange Blumen pflanzen.",
       "PluralText": ""
     },
     {
@@ -11037,12 +11542,12 @@
     },
     {
       "Id": 7430215661096200025,
-      "Text": "Weiße Blütenblätter",
+      "Text": "Weiße Blüten",
       "PluralText": ""
     },
     {
       "Id": -1743018230310819739,
-      "Text": "Weiße Blütenblätter. Mit ihnen kannst du weiße Blumen pflanzen.",
+      "Text": "Mit diesen Blütenblättern kannst du weiße Blumen pflanzen.",
       "PluralText": ""
     },
     {
@@ -11107,7 +11612,7 @@
     },
     {
       "Id": -7454479308736330024,
-      "Text": "Blaue-\nStiefmütterchen-\nBlütenblätter",
+      "Text": "Blaue\nStiefmütterchen\n-Blütenblätter",
       "PluralText": ""
     },
     {
@@ -11117,7 +11622,7 @@
     },
     {
       "Id": -3947084292228859940,
-      "Text": "Blaue-\nRosen-\nBlütenblätter",
+      "Text": "Blaue\nRosen\n-Blütenblätter",
       "PluralText": ""
     },
     {
@@ -11127,17 +11632,17 @@
     },
     {
       "Id": -6520220847558678017,
-      "Text": "Rote-\nStiefmütterchen-\nBlütenblätter",
+      "Text": "Rote\nStiefmütterchen\n-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": 4435468842661373999,
-      "Text": "Mit diesen Blütenblättern kannst du rote Stiefmütterchen pflanzen.",
+      "Text": "Mit diesen Blüten kannst du rote Stiefmütterchen pflanzen.",
       "PluralText": ""
     },
     {
       "Id": -7040868979877479988,
-      "Text": "Rote-\nRosen-\nBlütenblätter",
+      "Text": "Rote\nRosen\n-Blütenblätter",
       "PluralText": ""
     },
     {
@@ -11147,7 +11652,7 @@
     },
     {
       "Id": -4264036452350425318,
-      "Text": "Weiße- \nStiefmütterchen- \nBlütenblätter",
+      "Text": "Weiße\nStiefmütterchen\n-Blütenblätter",
       "PluralText": ""
     },
     {
@@ -11157,7 +11662,7 @@
     },
     {
       "Id": 3116504079813305474,
-      "Text": "Weiße-\nRosen-\nBlütenblätter",
+      "Text": "Weiße\nRosen\n-Blütenblätter",
       "PluralText": ""
     },
     {
@@ -11167,7 +11672,7 @@
     },
     {
       "Id": -6136771400770159501,
-      "Text": "Gelbe-\nStiefmütterchen-\nBlütenblätter",
+      "Text": "Gelbe\nStiefmütterchen\n-Blütenblätter",
       "PluralText": ""
     },
     {
@@ -11187,27 +11692,27 @@
     },
     {
       "Id": -4777105290626441002,
-      "Text": "Weiße Weihnachtsstern-Blütenblätter",
+      "Text": "Weiße\nWeihnachtsstern\n-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": -3958787240183377681,
-      "Text": "Pflanze mit diesen weißen Weihnachtsstern-Blütenblättern weiße Weihnachtssterne.",
+      "Text": "Mit diesen Blütenblättern kannst du weißen Weihnachtssterne pflanzen.",
       "PluralText": ""
     },
     {
       "Id": -3794234327046929450,
-      "Text": "Weiße Kamelien-Blütenblätter",
+      "Text": "Weiße\nKamelien\n-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": 2619663079000639365,
-      "Text": "Pflanze mit diesen weißen Kamelien-Blütenblättern weiße Kamelien.",
+      "Text": "Mit diesen Blütenblättern kannst du weißen Kamelien pflanzen.",
       "PluralText": ""
     },
     {
       "Id": 4593127789853355830,
-      "Text": "Rote Weihnachtsstern-Blütenblätter",
+      "Text": "Rote\nWeihnachtsstern\n-Blütenblätter",
       "PluralText": ""
     },
     {
@@ -11217,12 +11722,32 @@
     },
     {
       "Id": -5790953762767400019,
-      "Text": "Rote Kamelien-Blütenblätter",
+      "Text": "Rote\nKamelien\n-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": -4673790164089086459,
       "Text": "Pflanze mit diesen roten Kamelien-Blütenblättern rote Kamelien.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3963921350333455685,
+      "Text": "Pflaumenblütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": -6791615934021741027,
+      "Text": "Pflanze mit diesen Pflaumenblütenblättern Pflaumenblüten.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1148348710487510945,
+      "Text": "Kirschblütenblätter",
+      "PluralText": ""
+    },
+    {
+      "Id": -3239137918315503329,
+      "Text": "Pflanze mit diesen Kirschblütenblättern Kirschblüten.",
       "PluralText": ""
     },
     {
@@ -11497,8 +12022,8 @@
     },
     {
       "Id": -8433014865977316847,
-      "Text": "Spezialnische",
-      "PluralText": "Spezialnischen"
+      "Text": "Spezialschale",
+      "PluralText": "Spezialschale"
     },
     {
       "Id": 8859969091453911087,
@@ -11627,8 +12152,33 @@
     },
     {
       "Id": -269803371686521984,
-      "Text": "Skip",
+      "Text": "Überspringen",
       "PluralText": ""
+    },
+    {
+      "Id": -8555720538816814376,
+      "Text": "Möchtest du\n{0} antworten?",
+      "PluralText": ""
+    },
+    {
+      "Id": -3409356109588161428,
+      "Text": "{0} ausgewählt",
+      "PluralText": ""
+    },
+    {
+      "Id": 5112596909089637071,
+      "Text": "Möchtest du die gewählte Postkarte wirklich löschen?",
+      "PluralText": "Möchtest du die gewählten Postkarten wirklich löschen?"
+    },
+    {
+      "Id": 6374116279282695527,
+      "Text": "Gewählte Postkarte gelöscht",
+      "PluralText": "Gewählte Postkarten gelöscht"
+    },
+    {
+      "Id": 8852486862410444001,
+      "Text": "Löschen fehlgeschlagen. Bitte versuche es erneut.",
+      "PluralText": "Löschen fehlgeschlagen. Bitte versuche es erneut."
     },
     {
       "Id": 357857585624279041,
@@ -11831,6 +12381,26 @@
       "PluralText": ""
     },
     {
+      "Id": -3573363817915139557,
+      "Text": "Pflaumenblütennektar",
+      "PluralText": ""
+    },
+    {
+      "Id": -4916551982684242053,
+      "Text": "Dieser seltene Nektar lässt eine Pflaumenblüte auf den Köpfen deiner Pikmin wachsen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1694092736792255084,
+      "Text": "Kirschblütennektar",
+      "PluralText": ""
+    },
+    {
+      "Id": 3926321551092211714,
+      "Text": "Dieser seltene Nektar lässt eine Kirschblüte auf den Köpfen deiner Pikmin wachsen.",
+      "PluralText": ""
+    },
+    {
       "Id": -6414135360193770810,
       "Text": "Wir sind fertig!",
       "PluralText": ""
@@ -11947,7 +12517,7 @@
     },
     {
       "Id": 3351633235524086435,
-      "Text": "Erhalte <b>{0} {1}</b> in {2}",
+      "Text": "Schaffe <b>{0}</b> {2} jeweils auf <b>{1}</b> oder höher.",
       "PluralText": ""
     },
     {
@@ -12143,6 +12713,11 @@
     {
       "Id": -5554863052295373606,
       "Text": "Foto hinzufügen",
+      "PluralText": ""
+    },
+    {
+      "Id": 5966799445474660313,
+      "Text": "Ungültiges Datum",
       "PluralText": ""
     }
   ]

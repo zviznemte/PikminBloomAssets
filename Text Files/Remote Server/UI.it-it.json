@@ -241,6 +241,86 @@
       "PluralText": ""
     },
     {
+      "Id": 1586610613728239971,
+      "Text": "Rispondi",
+      "PluralText": ""
+    },
+    {
+      "Id": 8594167413670513926,
+      "Text": "t",
+      "PluralText": ""
+    },
+    {
+      "Id": -6951747874583412951,
+      "Text": "kg",
+      "PluralText": ""
+    },
+    {
+      "Id": -4003710305942612958,
+      "Text": "g",
+      "PluralText": ""
+    },
+    {
+      "Id": -4739640400670867950,
+      "Text": "km",
+      "PluralText": ""
+    },
+    {
+      "Id": -9178097942074658004,
+      "Text": "pt",
+      "PluralText": "pti"
+    },
+    {
+      "Id": -7352491062436389390,
+      "Text": "sec",
+      "PluralText": "sec"
+    },
+    {
+      "Id": 1755058594397429630,
+      "Text": "Peso",
+      "PluralText": ""
+    },
+    {
+      "Id": 5054097312274684078,
+      "Text": "Tutorial",
+      "PluralText": ""
+    },
+    {
+      "Id": -4205525183225370910,
+      "Text": "Aggiungi",
+      "PluralText": ""
+    },
+    {
+      "Id": -4617269144539043093,
+      "Text": "Salva",
+      "PluralText": ""
+    },
+    {
+      "Id": -7176708379197015662,
+      "Text": "Crea",
+      "PluralText": ""
+    },
+    {
+      "Id": 455947363827071410,
+      "Text": "Rinomina",
+      "PluralText": ""
+    },
+    {
+      "Id": 2757644933330403668,
+      "Text": "No, grazie",
+      "PluralText": ""
+    },
+    {
+      "Id": 6808242498291533974,
+      "Text": "Attiva",
+      "PluralText": ""
+    },
+    {
+      "Id": 2844611347484798183,
+      "Text": "Sort by:",
+      "PluralText": ""
+    },
+    {
       "Id": 9031174962354778674,
       "Text": "Se attivi questa impostazione, potremo utilizzare le tue informazioni per inviarti annunci personalizzati su offerte esclusive, promozioni ed eventi di Pikmin Bloom.",
       "PluralText": ""
@@ -631,11 +711,6 @@
       "PluralText": ""
     },
     {
-      "Id": 9057790161028093513,
-      "Text": "Hai completato {0} sfida!",
-      "PluralText": "Hai completato {0} sfide!"
-    },
-    {
       "Id": -2354047255291567602,
       "Text": "Completa altre sfide per aumentare il grado del tuo distintivo!",
       "PluralText": ""
@@ -677,7 +752,7 @@
     },
     {
       "Id": -6699418209639980821,
-      "Text": "Hai partecipato al tuo primo Community Day.",
+      "Text": "Hai compiuto 10.000 passi durante il Community Day per la prima volta!",
       "PluralText": ""
     },
     {
@@ -702,7 +777,7 @@
     },
     {
       "Id": -3676749983211875161,
-      "Text": "Hai partecipato al tuo primo Community Day",
+      "Text": "Hai compiuto 10.000 passi durante il tuo primo Community Day!",
       "PluralText": ""
     },
     {
@@ -712,12 +787,12 @@
     },
     {
       "Id": 568198959390301858,
-      "Text": "Hai partecipato al Community Day di dicembre!",
+      "Text": "Hai compiuto 10.000 passi durante il Community Day di dicembre!",
       "PluralText": ""
     },
     {
       "Id": 1940117697141063680,
-      "Text": "Hai partecipato al Community Day di dicembre!",
+      "Text": "Hai compiuto 10.000 passi durante il Community Day di dicembre!",
       "PluralText": ""
     },
     {
@@ -727,12 +802,117 @@
     },
     {
       "Id": 5722554518108526655,
-      "Text": "Hai partecipato al Community Day di gennaio!",
+      "Text": "Hai compiuto 10.000 passi durante il Community Day di gennaio!",
       "PluralText": ""
     },
     {
       "Id": 4267605988984367370,
-      "Text": "Hai partecipato al Community Day di gennaio!",
+      "Text": "Hai compiuto 10.000 passi durante il Community Day di gennaio!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1772990415101194432,
+      "Text": "Ancora <b>{0}{1}</b>!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2029525933228256258,
+      "Text": "Porta {0}{1} nelle spedizioni",
+      "PluralText": ""
+    },
+    {
+      "Id": -7475417674917181896,
+      "Text": "Il mio record delle spedizioni",
+      "PluralText": ""
+    },
+    {
+      "Id": 7853538904956095846,
+      "Text": "Spedizione più lontana",
+      "PluralText": ""
+    },
+    {
+      "Id": -6657535878401861933,
+      "Text": "{0}, spedizione verso {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5163353420877856754,
+      "Text": "<b>{0}</b> ha impiegato <b>{1}</b> per tornare dalla spedizione!",
+      "PluralText": ""
+    },
+    {
+      "Id": -7345406534473129803,
+      "Text": "<b>{0}</b> e <b>{1}</b> hanno impiegato <b>{2}</b> per tornare dalla spedizione!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3637509506607055795,
+      "Text": "<b>{0}</b>, <b>{1}</b> e <b>{2}</b> hanno impiegato <b>{3}</b> per tornare dalla spedizione!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3930852527203257392,
+      "Text": "Hai ottenuto <b>{0}{1}</b> in una sfida",
+      "PluralText": "Hai ottenuto {0}{1} nelle sfide"
+    },
+    {
+      "Id": -4585279161755334562,
+      "Text": "Ancora <b>{0}{1}</b>!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3412222707437735777,
+      "Text": "Distintivo sfida",
+      "PluralText": "Distintivi sfida"
+    },
+    {
+      "Id": 7798884055473650454,
+      "Text": "Ottieni {0}{1} punti nelle sfide",
+      "PluralText": ""
+    },
+    {
+      "Id": -2084673541074085258,
+      "Text": "Miglior punteggio",
+      "PluralText": ""
+    },
+    {
+      "Id": 3036443730493876907,
+      "Text": "Il mio record delle sfide",
+      "PluralText": ""
+    },
+    {
+      "Id": -3292488467640343340,
+      "Text": "Distintivo fiore di prugno",
+      "PluralText": ""
+    },
+    {
+      "Id": 4607709131475388931,
+      "Text": "Hai compiuto 10.000 passi durante il Community Day di febbraio!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6538529372505513544,
+      "Text": "Hai compiuto 10.000 passi durante il Community Day di febbraio!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4475727564875574295,
+      "Text": "{0}, sfida presso {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": -4301131808498102954,
+      "Text": "Distintivo fiore di ciliegio",
+      "PluralText": ""
+    },
+    {
+      "Id": -1623918387378333509,
+      "Text": "Hai compiuto 10.000 passi durante il Community Day di marzo!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5644989673897931792,
+      "Text": "Compi 10.000 passi durante il Community Day di marzo!",
       "PluralText": ""
     },
     {
@@ -3612,7 +3792,7 @@
     },
     {
       "Id": -1556652057718494680,
-      "Text": "Per giocare alla Pikmin Bloom, devi autorizzare la Pikmin Bloom ad accedere ai tuoi dati relativi alla posizione.",
+      "Text": "Per giocare alla Pikmin Bloom, devi autorizzare Pikmin Bloom ad accedere ai tuoi dati relativi alla posizione.",
       "PluralText": ""
     },
     {
@@ -3797,7 +3977,7 @@
     },
     {
       "Id": -1060090071457646986,
-      "Text": "Pikmin Bloom vuole accedere alle tue foto. Vai alle impostazioni e consenti all'applicazione l'accesso alle foto.",
+      "Text": "I tuoi Pikmin vogliono contribuire al diario delle vostre esperienze quotidiane, quindi sceglieranno la \"foto del giorno\" tra quelle scattate da te! Apri le impostazioni del tuo telefono e consenti l'accesso alla tua galleria fotografica.",
       "PluralText": ""
     },
     {
@@ -9076,6 +9256,16 @@
       "PluralText": ""
     },
     {
+      "Id": -8286828344336723672,
+      "Text": "Il nome di questo Pikmin non è appropriato",
+      "PluralText": ""
+    },
+    {
+      "Id": -2384125540853607822,
+      "Text": "Sposta",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "Hai effettuato {0} passo in più rispetto a ieri!",
       "PluralText": "Hai effettuato {0} passi in più rispetto a ieri!"
@@ -9217,12 +9407,12 @@
     },
     {
       "Id": -5361751023396924044,
-      "Text": "Mostra la posizione nei momenti condivisi",
+      "Text": "Mostra informazioni sul luogo negli screenshot",
       "PluralText": ""
     },
     {
       "Id": -1254076838821138844,
-      "Text": "Quando condividi momenti di gioco con il pulsante \"Condividi\", tutte le posizioni reali sullo schermo saranno visibili.",
+      "Text": "Includi i luoghi reali visualizzati sullo schermo quando salvi uno screenshot usando il pulsante \"Condividi\".",
       "PluralText": ""
     },
     {
@@ -9232,7 +9422,192 @@
     },
     {
       "Id": -6290349941188007062,
-      "Text": "Per mostrare le informazioni sulla posizione negli screenshot condivisi, seleziona \"Mostra la posizione nei momenti condivisi\". Questo può essere modificato nelle impostazioni in qualsiasi momento.",
+      "Text": "Se vuoi includere luoghi reali nei tuoi screenshot, seleziona la casella di spunta \"Mostra informazioni sul luogo negli screenshot\". \nPuoi sempre cambiarla in seguito nella schermata delle impostazioni.\"",
+      "PluralText": ""
+    },
+    {
+      "Id": -8680624660144228208,
+      "Text": "Cambia nome",
+      "PluralText": ""
+    },
+    {
+      "Id": -4460328998556778532,
+      "Text": "Nome",
+      "PluralText": ""
+    },
+    {
+      "Id": -2844272671113960897,
+      "Text": "ID account",
+      "PluralText": ""
+    },
+    {
+      "Id": 2923982871181729376,
+      "Text": "Inserisci il tuo nome",
+      "PluralText": ""
+    },
+    {
+      "Id": 6728224550932768342,
+      "Text": "Inserisci il nome che vuoi usare. Puoi cambiarlo in qualunque momento.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1621084628723751017,
+      "Text": "Cambia nome",
+      "PluralText": ""
+    },
+    {
+      "Id": -1817264436835283328,
+      "Text": "Il tuo nome deve essere formato da almeno {0} carattere.",
+      "PluralText": ""
+    },
+    {
+      "Id": -30271875368848632,
+      "Text": "Il tuo nome deve essere formato al massimo da {0} caratteri.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1387445377216514100,
+      "Text": "Non puoi usare questo nome.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7204557190058885388,
+      "Text": "Cancella account",
+      "PluralText": ""
+    },
+    {
+      "Id": -6558195749606517432,
+      "Text": "Una volta cancellato il tuo account Pikmin Bloom, non sarà più accessibile né da te né da nessun altro. Questa azione non può essere annullata.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7819849817461711653,
+      "Text": "Vuoi davvero avviare il processo di cancellazione dell'account?",
+      "PluralText": ""
+    },
+    {
+      "Id": -6063344150877788871,
+      "Text": "Se tocchi \"Sì\", ti verrà inviata un'e-mail con le istruzioni per completare il processo di cancellazione dell'account.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6021109869597088728,
+      "Text": "Verifica il tuo indirizzo e-mail per confermare.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7893168827556468628,
+      "Text": "Verrà inviata un'e-mail per completare il processo di cancellazione dell'account.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7507007220429166700,
+      "Text": "Verrà inviata un'e-mail a {0} per finalizzare la cancellazione del tuo account.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8147044070991298196,
+      "Text": "You have initiated deletion of your account. Once you’ve verified deletion by email, then your account deletion request will be finalized. This action cannot be undone.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4350186769130254812,
+      "Text": "Verifica l'indirizzo e-mail del tuo tutore per confermare.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5417459419087356876,
+      "Text": "Ti verrà inviata un'e-mail per completare il processo di cancellazione dell'account.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1696682089298835237,
+      "Text": "Verrà inviata un'e-mail all'indirizzo del tuo genitore, {0}, per completare la cancellazione del tuo account.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5126266386490629843,
+      "Text": "Hai avviato la cancellazione del tuo account. Una volta che il tuo genitore avrà verificato la cancellazione via e-mail, la tua richiesta di cancellazione dell'account sarà finalizzata. Questa azione non può essere annullata.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7604723680527944746,
+      "Text": "Puoi usare solo lettere e numeri.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6939816848488596599,
+      "Text": "Nuovo ID",
+      "PluralText": ""
+    },
+    {
+      "Id": 2765281425346352756,
+      "Text": "Questo ID non può essere utilizzato. Scegline un altro.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4915252147095915707,
+      "Text": "Consigliati",
+      "PluralText": ""
+    },
+    {
+      "Id": -7476399864903394836,
+      "Text": "Vuoi cambiare il tuo ID?",
+      "PluralText": ""
+    },
+    {
+      "Id": -777386086471757322,
+      "Text": "Puoi cambiare il tuo ID solo una volta. Dopo la modifica, non potrai ripristinare il precedente ID.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5431737269954970119,
+      "Text": "Vuoi davvero cambiare il tuo ID in <b>{0}</b>? Non potrai modificarlo di nuovo.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5947766513482616848,
+      "Text": "Cambia ID account",
+      "PluralText": ""
+    },
+    {
+      "Id": 3064579424304890011,
+      "Text": "Il tuo ID deve essere formato da almeno {0} lettere.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4022432624831102566,
+      "Text": "Il tuo ID deve essere formato al massimo da {0} lettere.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7270050971094451693,
+      "Text": "ID aggiornato",
+      "PluralText": ""
+    },
+    {
+      "Id": 6432054710676374952,
+      "Text": "Impossibile aggiornare ID",
+      "PluralText": ""
+    },
+    {
+      "Id": -5614230779693698378,
+      "Text": "Questo sarà il tuo nickname nel gioco. Sarà visibile agli altri utenti e potrai modificarlo in qualsiasi momento.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1880504717306533703,
+      "Text": "Un ID univoco che verrà utilizzato nelle comunicazioni con l'assistenza. Sarà visibile anche agli altri utenti.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4969930357019378617,
+      "Text": "Non è possibile utilizzare caratteri speciali.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5827621809935774076,
+      "Text": "Impostazioni di piantafiori",
       "PluralText": ""
     },
     {
@@ -9296,6 +9671,31 @@
       "PluralText": ""
     },
     {
+      "Id": -5775286658863700672,
+      "Text": "Ora puoi aggiungere e cambiare il tuo nome. Questo nome sarà usato per riferirsi a te e sarà visualizzato in tutto il gioco. Puoi cambiare il tuo nome nella pagina delle impostazioni.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1477394859854898705,
+      "Text": "Ora puoi impostare le tue zone private per piantafiori dalla schermata delle impostazioni!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8539189630197469551,
+      "Text": "Le zone private sono aree in cui i fiori non verranno piantati quando cammini in modalità piantafiori.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4249808825556282446,
+      "Text": "Se cammini all'interno della tua zona privata in piantafiori, i petali verranno consumati nel tempo come al solito. Anche il potenziamento di piantafiori avrà effetto normalmente.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4624927557437824771,
+      "Text": "Sfrutta le zone private e goditi la modalità piantafiori in tutta tranquillità!",
+      "PluralText": ""
+    },
+    {
       "Id": -5146076640042198176,
       "Text": "Aggiornare il Mii all'ultima versione?",
       "PluralText": ""
@@ -9323,6 +9723,11 @@
     {
       "Id": 7464124599707418127,
       "Text": "Modifica Mii",
+      "PluralText": ""
+    },
+    {
+      "Id": 4415836753590599935,
+      "Text": "ID account",
       "PluralText": ""
     },
     {
@@ -9414,6 +9819,41 @@
       "Id": -837182238931387011,
       "Text": "L'utente che stai cercando di invitare ha raggiunto il numero massimo di amici.",
       "PluralText": "L'utente che stai cercando di invitare ha raggiunto il numero massimo di amici."
+    },
+    {
+      "Id": 369300901328071057,
+      "Text": "ID account",
+      "PluralText": ""
+    },
+    {
+      "Id": 5850130050020385006,
+      "Text": "Friends",
+      "PluralText": ""
+    },
+    {
+      "Id": 9040202165962386165,
+      "Text": "Add friend",
+      "PluralText": ""
+    },
+    {
+      "Id": 6942862844237117013,
+      "Text": "Invite",
+      "PluralText": ""
+    },
+    {
+      "Id": -1792069573362755789,
+      "Text": "Friendship Start Date",
+      "PluralText": ""
+    },
+    {
+      "Id": 5833427434216514115,
+      "Text": "Name",
+      "PluralText": ""
+    },
+    {
+      "Id": -8733706737032106939,
+      "Text": "{0} Friend",
+      "PluralText": "{0} Friends"
     },
     {
       "Id": 8097188312712959647,
@@ -10582,7 +11022,7 @@
     },
     {
       "Id": -8287811960078634154,
-      "Text": "Pikmin rosso",
+      "Text": "Adesivo",
       "PluralText": ""
     },
     {
@@ -10651,6 +11091,41 @@
       "PluralText": ""
     },
     {
+      "Id": -57741282103175696,
+      "Text": "Decorazione del Capodanno lunare",
+      "PluralText": ""
+    },
+    {
+      "Id": -5955142218768679533,
+      "Text": "Decorazione del Capodanno lunare",
+      "PluralText": ""
+    },
+    {
+      "Id": -8519633489221611212,
+      "Text": "Decorazione del Capodanno lunare",
+      "PluralText": ""
+    },
+    {
+      "Id": -2084578222671832284,
+      "Text": "Questo è un Pikmin rosso.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2624031679020679436,
+      "Text": "Questo è un Pikmin giallo.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6666875684361916296,
+      "Text": "Questo è un Pikmin blu.",
+      "PluralText": ""
+    },
+    {
+      "Id": -9024114417981736664,
+      "Text": "Decorazione del Capodanno lunare",
+      "PluralText": ""
+    },
+    {
       "Id": -2667792163754801126,
       "Text": "Prerequisito:",
       "PluralText": ""
@@ -10667,12 +11142,12 @@
     },
     {
       "Id": 7029987479437277128,
-      "Text": "Diventerà {0}",
+      "Text": "Sarà di tipo {0}",
       "PluralText": ""
     },
     {
       "Id": 2975729686072198175,
-      "Text": "{0}",
+      "Text": "{0} {1}",
       "PluralText": ""
     },
     {
@@ -10898,6 +11373,36 @@
     {
       "Id": 6603547891947695934,
       "Text": "Puoi usare questi petali per piantare camelie rosse.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6574731289959531607,
+      "Text": "Fiore di prugno",
+      "PluralText": ""
+    },
+    {
+      "Id": 6747116258104464359,
+      "Text": "Petali di fiore di prugno",
+      "PluralText": ""
+    },
+    {
+      "Id": 7204689648783089142,
+      "Text": "Puoi usare questi petali per piantare fiori di prugno.",
+      "PluralText": ""
+    },
+    {
+      "Id": 79021663453928334,
+      "Text": "Fiore di ciliegio",
+      "PluralText": ""
+    },
+    {
+      "Id": 2713068879941896473,
+      "Text": "Petali di fiore di ciliegio",
+      "PluralText": ""
+    },
+    {
+      "Id": 7241234756670722723,
+      "Text": "Puoi usare questi petali per piantare fiori di ciliegio bianchi.",
       "PluralText": ""
     },
     {
@@ -11223,6 +11728,26 @@
     {
       "Id": -4673790164089086459,
       "Text": "Puoi usare questi petali per piantare camelie rosse.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3963921350333455685,
+      "Text": "Petali di fiore di prugno",
+      "PluralText": ""
+    },
+    {
+      "Id": -6791615934021741027,
+      "Text": "Puoi usare questi petali per piantare fiori di prugno.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1148348710487510945,
+      "Text": "Petali di fiore di ciliegio",
+      "PluralText": ""
+    },
+    {
+      "Id": -3239137918315503329,
+      "Text": "Puoi usare questi petali per piantare fiori di ciliegio.",
       "PluralText": ""
     },
     {
@@ -11627,8 +12152,33 @@
     },
     {
       "Id": -269803371686521984,
-      "Text": "Skip",
+      "Text": "Salta",
       "PluralText": ""
+    },
+    {
+      "Id": -8555720538816814376,
+      "Text": "Vuoi rispondere a\n{0}?",
+      "PluralText": ""
+    },
+    {
+      "Id": -3409356109588161428,
+      "Text": "Selezionate: {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5112596909089637071,
+      "Text": "Vuoi davvero eliminare la cartolina selezionata?",
+      "PluralText": "Vuoi davvero eliminare le cartoline selezionate?"
+    },
+    {
+      "Id": 6374116279282695527,
+      "Text": "Cartolina selezionata eliminata",
+      "PluralText": "Cartoline selezionate eliminate"
+    },
+    {
+      "Id": 8852486862410444001,
+      "Text": "Errore durante l'eliminazione. Riprova.",
+      "PluralText": "Errore durante l'eliminazione. Riprova."
     },
     {
       "Id": 357857585624279041,
@@ -11831,6 +12381,26 @@
       "PluralText": ""
     },
     {
+      "Id": -3573363817915139557,
+      "Text": "Nettare di fiore di prugno",
+      "PluralText": ""
+    },
+    {
+      "Id": -4916551982684242053,
+      "Text": "Un raro nettare che farà crescere un fiore di prugno sulla testa di un Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1694092736792255084,
+      "Text": "Nettare di fiore di ciliegio",
+      "PluralText": ""
+    },
+    {
+      "Id": 3926321551092211714,
+      "Text": "Un raro nettare che farà crescere un fiore di ciliegio sulla testa di un Pikmin.",
+      "PluralText": ""
+    },
+    {
       "Id": -6414135360193770810,
       "Text": "È tutto pronto!",
       "PluralText": ""
@@ -11947,7 +12517,7 @@
     },
     {
       "Id": 3351633235524086435,
-      "Text": "Ottieni <b>{0} {1}</b> in {2}",
+      "Text": "Completa <b>{0}</b> {2} con <b>{1}</b> o più per ogni sfida.",
       "PluralText": ""
     },
     {
@@ -12143,6 +12713,11 @@
     {
       "Id": -5554863052295373606,
       "Text": "Aggiungi una foto",
+      "PluralText": ""
+    },
+    {
+      "Id": 5966799445474660313,
+      "Text": "Data non valida",
       "PluralText": ""
     }
   ]

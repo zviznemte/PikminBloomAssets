@@ -241,6 +241,86 @@
       "PluralText": ""
     },
     {
+      "Id": 1586610613728239971,
+      "Text": "Responder",
+      "PluralText": ""
+    },
+    {
+      "Id": 8594167413670513926,
+      "Text": "t",
+      "PluralText": ""
+    },
+    {
+      "Id": -6951747874583412951,
+      "Text": "kg",
+      "PluralText": ""
+    },
+    {
+      "Id": -4003710305942612958,
+      "Text": "g",
+      "PluralText": ""
+    },
+    {
+      "Id": -4739640400670867950,
+      "Text": "km",
+      "PluralText": ""
+    },
+    {
+      "Id": -9178097942074658004,
+      "Text": "punto",
+      "PluralText": "puntos"
+    },
+    {
+      "Id": -7352491062436389390,
+      "Text": "s",
+      "PluralText": "s"
+    },
+    {
+      "Id": 1755058594397429630,
+      "Text": "Peso",
+      "PluralText": ""
+    },
+    {
+      "Id": 5054097312274684078,
+      "Text": "Tutorial",
+      "PluralText": ""
+    },
+    {
+      "Id": -4205525183225370910,
+      "Text": "Añadir",
+      "PluralText": ""
+    },
+    {
+      "Id": -4617269144539043093,
+      "Text": "Guardar",
+      "PluralText": ""
+    },
+    {
+      "Id": -7176708379197015662,
+      "Text": "Crear",
+      "PluralText": ""
+    },
+    {
+      "Id": 455947363827071410,
+      "Text": "Cambiar nombre",
+      "PluralText": ""
+    },
+    {
+      "Id": 2757644933330403668,
+      "Text": "No, gracias",
+      "PluralText": ""
+    },
+    {
+      "Id": 6808242498291533974,
+      "Text": "Activar",
+      "PluralText": ""
+    },
+    {
+      "Id": 2844611347484798183,
+      "Text": "Sort by:",
+      "PluralText": ""
+    },
+    {
       "Id": 9031174962354778674,
       "Text": "Si activas este ajuste, se podrá usar tu información para mostrarte anuncios personalizados relativos a eventos, promociones y ofertas exclusivas de Pikmin Bloom.",
       "PluralText": ""
@@ -631,11 +711,6 @@
       "PluralText": ""
     },
     {
-      "Id": 9057790161028093513,
-      "Text": "¡Has superado {0} desafío!",
-      "PluralText": "¡Has superado {0} desafíos!"
-    },
-    {
       "Id": -2354047255291567602,
       "Text": "¡Supera más desafíos para que tu insignia suba de rango!",
       "PluralText": ""
@@ -677,7 +752,7 @@
     },
     {
       "Id": -6699418209639980821,
-      "Text": "Has participado en tu primer Día de la Comunidad.",
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad por primera vez!",
       "PluralText": ""
     },
     {
@@ -702,7 +777,7 @@
     },
     {
       "Id": -3676749983211875161,
-      "Text": "Has participado en tu primer Día de la Comunidad",
+      "Text": "¡Diste 10.000 pasos en tu primer Día de la Comunidad!",
       "PluralText": ""
     },
     {
@@ -712,12 +787,12 @@
     },
     {
       "Id": 568198959390301858,
-      "Text": "¡Participaste en el Día de la Comunidad de diciembre!",
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de diciembre!",
       "PluralText": ""
     },
     {
       "Id": 1940117697141063680,
-      "Text": "¡Participaste en el Día de la Comunidad de diciembre!",
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de diciembre!",
       "PluralText": ""
     },
     {
@@ -727,12 +802,117 @@
     },
     {
       "Id": 5722554518108526655,
-      "Text": "¡Participaste en el Día de la Comunidad de enero!",
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de enero!",
       "PluralText": ""
     },
     {
       "Id": 4267605988984367370,
-      "Text": "¡Participaste en el Día de la Comunidad de enero!",
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de enero!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1772990415101194432,
+      "Text": "Requisitos restantes: <b>{0} {1}</b>",
+      "PluralText": ""
+    },
+    {
+      "Id": -2029525933228256258,
+      "Text": "Lleva {0} {1} en expediciones",
+      "PluralText": ""
+    },
+    {
+      "Id": -7475417674917181896,
+      "Text": "Mi récord de expediciones",
+      "PluralText": ""
+    },
+    {
+      "Id": 7853538904956095846,
+      "Text": "Expedición más lejana",
+      "PluralText": ""
+    },
+    {
+      "Id": -6657535878401861933,
+      "Text": "{0}: Expedición a {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5163353420877856754,
+      "Text": "<b>{0}</b> ha tardado <b>{1}</b> en traer el objeto de vuelta.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7345406534473129803,
+      "Text": "<b>{0}</b> y <b>{1}</b> han tardado <b>{2}</b> en traer el objeto de vuelta.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3637509506607055795,
+      "Text": "<b>{0}</b>, <b>{1}</b> y <b>{2}</b> han tardado <b>{3}</b> en traer el objeto de vuelta.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3930852527203257392,
+      "Text": "Has conseguido <b>{0} {1}</b> en un desafío",
+      "PluralText": "Has conseguido <b>{0}{1}</b> en desafíos"
+    },
+    {
+      "Id": -4585279161755334562,
+      "Text": "<b>{0}{1}</b> restantes",
+      "PluralText": ""
+    },
+    {
+      "Id": -3412222707437735777,
+      "Text": "Insignia de desafío",
+      "PluralText": "Insignias de desafío"
+    },
+    {
+      "Id": 7798884055473650454,
+      "Text": "Consigue {0}{1} puntos en desafíos",
+      "PluralText": ""
+    },
+    {
+      "Id": -2084673541074085258,
+      "Text": "Mejor puntuación",
+      "PluralText": ""
+    },
+    {
+      "Id": 3036443730493876907,
+      "Text": "Mi récord de desafíos",
+      "PluralText": ""
+    },
+    {
+      "Id": -3292488467640343340,
+      "Text": "Insignia de flor de ciruelo",
+      "PluralText": ""
+    },
+    {
+      "Id": 4607709131475388931,
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de febrero!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6538529372505513544,
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de febrero!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4475727564875574295,
+      "Text": "{0}: Desafío en {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": -4301131808498102954,
+      "Text": "Insignia de flor de cerezo",
+      "PluralText": ""
+    },
+    {
+      "Id": -1623918387378333509,
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de marzo!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5644989673897931792,
+      "Text": "¡Da 10 000 pasos en el Día de la Comunidad de marzo!",
       "PluralText": ""
     },
     {
@@ -3797,7 +3977,7 @@
     },
     {
       "Id": -1060090071457646986,
-      "Text": "Pikmin Bloom quiere acceder a tu galería de imágenes. Abre los ajustes para permitir que la aplicación pueda acceder a la galería de imágenes.",
+      "Text": "Tus Pikmin quieren registrar su vida diaria contigo; ¡seleccionarán fotos hechas con tu cámara como \"foto del día\"! Ve a los ajustes del móvil y permite que la aplicación acceda a tu cámara.",
       "PluralText": ""
     },
     {
@@ -5362,7 +5542,7 @@
     },
     {
       "Id": 4995837689081719076,
-      "Text": "Popularidad de {0} a {1}",
+      "Text": "Nivel de {0} - {1}",
       "PluralText": ""
     },
     {
@@ -9081,6 +9261,16 @@
       "PluralText": ""
     },
     {
+      "Id": -8286828344336723672,
+      "Text": "El nombre de este Pikmin es inapropiado",
+      "PluralText": ""
+    },
+    {
+      "Id": -2384125540853607822,
+      "Text": "Mover",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "¡Has dado {0} paso más que ayer!",
       "PluralText": "¡Has dado {0} pasos más que ayer!"
@@ -9222,12 +9412,12 @@
     },
     {
       "Id": -5361751023396924044,
-      "Text": "Mostrar ubicación en momentos compartidos",
+      "Text": "Mostrar información de ubicación en las capturas de pantalla",
       "PluralText": ""
     },
     {
       "Id": -1254076838821138844,
-      "Text": "Mostrar las ubicaciones reales que aparezcan en la pantalla al compartir momentos del juego con el botón de compartir.",
+      "Text": "Incluir las ubicaciones reales que aparezcan en la pantalla al guardar una captura de pantalla con el botón de compartir.",
       "PluralText": ""
     },
     {
@@ -9237,7 +9427,192 @@
     },
     {
       "Id": -6290349941188007062,
-      "Text": "Para que aparezca la información de ubicación en las capturas de pantalla que compartas, marca la opción \"Mostrar ubicación en momentos compartidos\". Puedes cambiarla en cualquier momento en los ajustes.",
+      "Text": "Si quieres incluir ubicaciones reales en las capturas de pantalla, marca la casilla \"Mostrar información de ubicación en las capturas de pantalla\". \nPuedes cambiar esta opción en cualquier momento en la pantalla de ajustes.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8680624660144228208,
+      "Text": "Cambiar nombre",
+      "PluralText": ""
+    },
+    {
+      "Id": -4460328998556778532,
+      "Text": "Nombre",
+      "PluralText": ""
+    },
+    {
+      "Id": -2844272671113960897,
+      "Text": "ID de cuenta",
+      "PluralText": ""
+    },
+    {
+      "Id": 2923982871181729376,
+      "Text": "Introduce tu nombre",
+      "PluralText": ""
+    },
+    {
+      "Id": 6728224550932768342,
+      "Text": "Introduce el nombre que te gustaría usar. Lo podrás cambiar más adelante.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1621084628723751017,
+      "Text": "Cambiar nombre",
+      "PluralText": ""
+    },
+    {
+      "Id": -1817264436835283328,
+      "Text": "Tu nombre debe tener {0} caracter como mínimo.",
+      "PluralText": ""
+    },
+    {
+      "Id": -30271875368848632,
+      "Text": "Tu nombre debe tener {0} caracteres o menos.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1387445377216514100,
+      "Text": "No puedes usar este nombre.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7204557190058885388,
+      "Text": "Eliminar cuenta",
+      "PluralText": ""
+    },
+    {
+      "Id": -6558195749606517432,
+      "Text": "Si eliminas tu cuenta de Pikmin Bloom, ni tú ni nadie podréis volver a acceder a ella. Esto no se puede deshacer.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7819849817461711653,
+      "Text": "¿Quieres iniciar el proceso de eliminación de la cuenta?",
+      "PluralText": ""
+    },
+    {
+      "Id": -6063344150877788871,
+      "Text": "Al tocar \"Sí\", se enviará un correo electrónico para completar el proceso de eliminación de la cuenta.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6021109869597088728,
+      "Text": "Verifica tu correo electrónico para confirmar la acción.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7893168827556468628,
+      "Text": "Se enviará un correo electrónico para completar el proceso de eliminación de la cuenta.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7507007220429166700,
+      "Text": "Se enviará un correo electrónico a {0} para completar la eliminación de tu cuenta.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8147044070991298196,
+      "Text": "You have initiated deletion of your account. Once you’ve verified deletion by email, then your account deletion request will be finalized. This action cannot be undone.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4350186769130254812,
+      "Text": "Verifica el correo electrónico de tu tutor/a para confirmar la acción.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5417459419087356876,
+      "Text": "Se te enviará un correo electrónico para completar el proceso de eliminación de la cuenta.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1696682089298835237,
+      "Text": "Se enviará un correo electrónico a tus padres ({0}) para completar la eliminación de tu cuenta.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5126266386490629843,
+      "Text": "Has iniciado la eliminación de tu cuenta. Cuando tus padres verifiquen la eliminación por correo electrónico, se completará la solicitud. Esto no se puede deshacer.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7604723680527944746,
+      "Text": "Solo puedes usar números y letras.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6939816848488596599,
+      "Text": "Cambia el ID de tu cuenta",
+      "PluralText": ""
+    },
+    {
+      "Id": 2765281425346352756,
+      "Text": "No se puede usar este ID. Por favor elige otro.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4915252147095915707,
+      "Text": "Recomendado",
+      "PluralText": ""
+    },
+    {
+      "Id": -7476399864903394836,
+      "Text": "¿Quieres cambiar tu ID?",
+      "PluralText": ""
+    },
+    {
+      "Id": -777386086471757322,
+      "Text": "Solo puedes cambiar tu ID una vez. Una vez que lo hayas hecho, no podrás recuperar el anterior.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5431737269954970119,
+      "Text": "¿Seguro que quieres cambiar tu ID a <b>{0}</b>? No podrás volver a cambiarlo.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5947766513482616848,
+      "Text": "Cambiar ID de cuenta",
+      "PluralText": ""
+    },
+    {
+      "Id": 3064579424304890011,
+      "Text": "El ID debe tener {0} caracteres como mínimo.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4022432624831102566,
+      "Text": "El ID debe tener {0} caracteres como máximo.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7270050971094451693,
+      "Text": "ID actualizado correctamente",
+      "PluralText": ""
+    },
+    {
+      "Id": 6432054710676374952,
+      "Text": "Error al actualizar el ID",
+      "PluralText": ""
+    },
+    {
+      "Id": -5614230779693698378,
+      "Text": "Este será tu apodo en el juego. Otros usuarios podrán verlo y puedes editarlo cuando quieras.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1880504717306533703,
+      "Text": "Un ID único que se usará si necesitas asistencia con tu cuenta. Otros usuarios podrán verlo.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4969930357019378617,
+      "Text": "Algunos caracteres no están permitidos.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5827621809935774076,
+      "Text": "Ajustes de plantar flores",
       "PluralText": ""
     },
     {
@@ -9252,7 +9627,7 @@
     },
     {
       "Id": -8875522950851852056,
-      "Text": "Eso tan grande que aparece en la vista en marcha es una flor gigante.",
+      "Text": "Eso tan grande que puedes ver mientras caminas es una flor gigante.",
       "PluralText": ""
     },
     {
@@ -9301,6 +9676,31 @@
       "PluralText": ""
     },
     {
+      "Id": -5775286658863700672,
+      "Text": "Ahora puedes añadir y cambiar tu nombre; es el que se utilizará para referirse a ti y aparecerá a lo largo del juego. Puedes cambiarlo en la página de ajustes.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1477394859854898705,
+      "Text": "¡Ahora puedes configurar tus zonas de privacidad desde la pantalla de ajustes!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8539189630197469551,
+      "Text": "Las zonas de privacidad son sitios donde no se plantarán flores mientras paseas en el modo de plantar flores.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4249808825556282446,
+      "Text": "Si paseas dentro de tu zona de privacidad mientras plantas flores, los pétalos se irán gastando como siempre. El potenciador de siembra también seguirá surtiendo efecto.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4624927557437824771,
+      "Text": "¡Usa las zonas de privacidad y planta flores sin preocupaciones!",
+      "PluralText": ""
+    },
+    {
       "Id": -5146076640042198176,
       "Text": "¿Quieres actualizar el Mii a la última versión?",
       "PluralText": ""
@@ -9328,6 +9728,11 @@
     {
       "Id": 7464124599707418127,
       "Text": "Editor de Mii",
+      "PluralText": ""
+    },
+    {
+      "Id": 4415836753590599935,
+      "Text": "ID de cuenta",
       "PluralText": ""
     },
     {
@@ -9419,6 +9824,41 @@
       "Id": -837182238931387011,
       "Text": "El usuario al que estas intentando invitar ya no puede añadir a más amigos.",
       "PluralText": "El usuario al que estas intentando invitar ya no puede añadir a más amigos."
+    },
+    {
+      "Id": 369300901328071057,
+      "Text": "ID de cuenta",
+      "PluralText": ""
+    },
+    {
+      "Id": 5850130050020385006,
+      "Text": "Friends",
+      "PluralText": ""
+    },
+    {
+      "Id": 9040202165962386165,
+      "Text": "Add friend",
+      "PluralText": ""
+    },
+    {
+      "Id": 6942862844237117013,
+      "Text": "Invite",
+      "PluralText": ""
+    },
+    {
+      "Id": -1792069573362755789,
+      "Text": "Friendship Start Date",
+      "PluralText": ""
+    },
+    {
+      "Id": 5833427434216514115,
+      "Text": "Name",
+      "PluralText": ""
+    },
+    {
+      "Id": -8733706737032106939,
+      "Text": "{0} Friend",
+      "PluralText": "{0} Friends"
     },
     {
       "Id": 8097188312712959647,
@@ -9577,7 +10017,7 @@
     },
     {
       "Id": -4759875390863668730,
-      "Text": "Trébol",
+      "Text": "Trébol de cuatro hojas",
       "PluralText": ""
     },
     {
@@ -10507,37 +10947,37 @@
     },
     {
       "Id": -2324337371981306161,
-      "Text": "Trébol",
+      "Text": "Trébol de cuatro hojas",
       "PluralText": ""
     },
     {
       "Id": 3866207058062655114,
-      "Text": "Trébol",
+      "Text": "Trébol de cuatro hojas",
       "PluralText": ""
     },
     {
       "Id": 9101110827400782175,
-      "Text": "Trébol",
+      "Text": "Trébol de cuatro hojas",
       "PluralText": ""
     },
     {
       "Id": -8314700096370246824,
-      "Text": "Trébol",
+      "Text": "Trébol de cuatro hojas",
       "PluralText": ""
     },
     {
       "Id": -6260297932679255097,
-      "Text": "Trébol",
+      "Text": "Trébol de cuatro hojas",
       "PluralText": ""
     },
     {
       "Id": -3562720665442340061,
-      "Text": "Trébol",
+      "Text": "Trébol de cuatro hojas",
       "PluralText": ""
     },
     {
       "Id": 31299170106862305,
-      "Text": "Trébol",
+      "Text": "Trébol de cuatro hojas",
       "PluralText": ""
     },
     {
@@ -10587,7 +11027,7 @@
     },
     {
       "Id": -8287811960078634154,
-      "Text": "Pikmin rojo",
+      "Text": "Pegatina",
       "PluralText": ""
     },
     {
@@ -10656,6 +11096,41 @@
       "PluralText": ""
     },
     {
+      "Id": -57741282103175696,
+      "Text": "Adorno de Año Nuevo Lunar",
+      "PluralText": ""
+    },
+    {
+      "Id": -5955142218768679533,
+      "Text": "Adorno de Año Nuevo Lunar",
+      "PluralText": ""
+    },
+    {
+      "Id": -8519633489221611212,
+      "Text": "Adorno de Año Nuevo Lunar",
+      "PluralText": ""
+    },
+    {
+      "Id": -2084578222671832284,
+      "Text": "Este es un Pikmin rojo.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2624031679020679436,
+      "Text": "Este es un Pikmin amarillo.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6666875684361916296,
+      "Text": "Este es un Pikmin azul.",
+      "PluralText": ""
+    },
+    {
+      "Id": -9024114417981736664,
+      "Text": "Adorno de Año Nuevo Lunar",
+      "PluralText": ""
+    },
+    {
       "Id": -2667792163754801126,
       "Text": "Prerrequisito:",
       "PluralText": ""
@@ -10672,12 +11147,12 @@
     },
     {
       "Id": 7029987479437277128,
-      "Text": "Será {0}",
+      "Text": "se convertirá en {0}",
       "PluralText": ""
     },
     {
       "Id": 2975729686072198175,
-      "Text": "{0}",
+      "Text": "{0} {1}",
       "PluralText": ""
     },
     {
@@ -10906,6 +11381,36 @@
       "PluralText": ""
     },
     {
+      "Id": 6574731289959531607,
+      "Text": "Flor de ciruelo",
+      "PluralText": ""
+    },
+    {
+      "Id": 6747116258104464359,
+      "Text": "Pétalos de flor de ciruelo",
+      "PluralText": ""
+    },
+    {
+      "Id": 7204689648783089142,
+      "Text": "Si los plantas, saldrán flores de ciruelo.",
+      "PluralText": ""
+    },
+    {
+      "Id": 79021663453928334,
+      "Text": "Flor de cerezo",
+      "PluralText": ""
+    },
+    {
+      "Id": 2713068879941896473,
+      "Text": "Pétalos de flor de cerezo",
+      "PluralText": ""
+    },
+    {
+      "Id": 7241234756670722723,
+      "Text": "Si los plantas, saldrán flores de cerezo blancas.",
+      "PluralText": ""
+    },
+    {
       "Id": 3765462814872576723,
       "Text": "Detector",
       "PluralText": ""
@@ -10952,17 +11457,17 @@
     },
     {
       "Id": -1687790271688999816,
-      "Text": "Puedes usarlos para sembrar flores rojas y rosas.",
+      "Text": "Si los plantas, saldrán flores rojas y rosas.",
       "PluralText": ""
     },
     {
       "Id": -3009570960521529672,
-      "Text": "Puedes usarlos para sembrar flores azules y moradas.",
+      "Text": "Si los plantas, saldrán flores azules y moradas.",
       "PluralText": ""
     },
     {
       "Id": -4504053630238837481,
-      "Text": "Puedes usarlos para sembrar flores amarillas y naranjas.",
+      "Text": "Si los plantas, saldrán flores amarillas y naranjas.",
       "PluralText": ""
     },
     {
@@ -11228,6 +11733,26 @@
     {
       "Id": -4673790164089086459,
       "Text": "Si los plantas, saldrán camelias rojas.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3963921350333455685,
+      "Text": "Pétalos de flor de ciruelo",
+      "PluralText": ""
+    },
+    {
+      "Id": -6791615934021741027,
+      "Text": "Si los plantas, saldrán flores de ciruelo.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1148348710487510945,
+      "Text": "Pétalos de flor de cerezo",
+      "PluralText": ""
+    },
+    {
+      "Id": -3239137918315503329,
+      "Text": "Si los plantas, saldrán flores de cerezo.",
       "PluralText": ""
     },
     {
@@ -11632,8 +12157,33 @@
     },
     {
       "Id": -269803371686521984,
-      "Text": "Skip",
+      "Text": "Omitir",
       "PluralText": ""
+    },
+    {
+      "Id": -8555720538816814376,
+      "Text": "¿Quieres responder a\n{0}?",
+      "PluralText": ""
+    },
+    {
+      "Id": -3409356109588161428,
+      "Text": "Seleccionadas: {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5112596909089637071,
+      "Text": "¿Seguro que quieres eliminar la postal seleccionada?",
+      "PluralText": "¿Seguro que quieres eliminar las postales seleccionadas?"
+    },
+    {
+      "Id": 6374116279282695527,
+      "Text": "Se ha eliminado la postal seleccionada",
+      "PluralText": "Se han eliminado las postales seleccionadas"
+    },
+    {
+      "Id": 8852486862410444001,
+      "Text": "Error al eliminar. Vuelve a intentarlo.",
+      "PluralText": "Error al eliminar. Vuelve a intentarlo."
     },
     {
       "Id": 357857585624279041,
@@ -11836,6 +12386,26 @@
       "PluralText": ""
     },
     {
+      "Id": -3573363817915139557,
+      "Text": "Néctar de flor de ciruelo",
+      "PluralText": ""
+    },
+    {
+      "Id": -4916551982684242053,
+      "Text": "Hace crecer una flor de ciruelo en la cabeza de los Pikmin. Es un néctar poco común.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1694092736792255084,
+      "Text": "Néctar de flor de cerezo",
+      "PluralText": ""
+    },
+    {
+      "Id": 3926321551092211714,
+      "Text": "Hace crecer una flor de cerezo en la cabeza de los Pikmin. Es un néctar poco común.",
+      "PluralText": ""
+    },
+    {
       "Id": -6414135360193770810,
       "Text": "¡Todo listo!",
       "PluralText": ""
@@ -11952,7 +12522,7 @@
     },
     {
       "Id": 3351633235524086435,
-      "Text": "Consigue <b>{0} {1}</b> en {2}.",
+      "Text": "Completa <b>{0}</b> {2} con <b>{1}</b> o mejor en cada uno.",
       "PluralText": ""
     },
     {
@@ -12148,6 +12718,11 @@
     {
       "Id": -5554863052295373606,
       "Text": "Añadir una foto",
+      "PluralText": ""
+    },
+    {
+      "Id": 5966799445474660313,
+      "Text": "Fecha no válida",
       "PluralText": ""
     }
   ]

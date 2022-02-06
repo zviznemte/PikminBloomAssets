@@ -11,8 +11,8 @@ id	constant	phrase	plural phrase
 -7626676094642488070	SUPER_AWESOME_REGISTER_LINK	Inscrever-se no NIANTIC KIDS	
 3275053985847360669	SUPER_AWESOME_FORGOT_PASSWORD_LINK	Esqueceu a senha?	
 5982968124835893551	SUPER_AWESOME_LOGIN_BUTTON_LABEL	ENTRAR	
-3964752675042012136	WARNING_NO_PARENT_PERMISSION	Para usar este aplicativo, você precisa de permissão. Peça para seus pais ou respnsáveis atualizarem as suas permissões.	
--7441700699426561529	WARNING_NO_PARENT_LOCATION_PERMISSION	Para usar este aplicativo, você precisa da permissão de localização. Peça para seus pais ou respnsáveis atualizarem as suas permissões.	
+3964752675042012136	WARNING_NO_PARENT_PERMISSION	Para usar este aplicativo, você precisa de permissão. Peça para seus pais ou responsáveis atualizarem as suas permissões.	
+-7441700699426561529	WARNING_NO_PARENT_LOCATION_PERMISSION	Para usar este aplicativo, você precisa da permissão de localização. Peça para seus pais ou responsáveis atualizarem as suas permissões.	
 -5865499962591753408	NINTENDO_LOGIN_LINK_DIALOG_TITLE	Você quer vincular uma conta Nintendo?	
 2431161683080852335	NINTENDO_LOGIN_LINK_DIALOG_DESCRIPTION	Ao vincular sua conta Nintendo, você pode usar seu Mii.	
 -3609274247829970764	NINTENDO_LOGIN_LINK_DIALOG_DESCRIPTION_BONUS	Você também receberá uma plântula especial ao vincular a sua conta Nintendo pela primeira vez.	
@@ -80,7 +80,7 @@ id	constant	phrase	plural phrase
 -4565876984145690393	TERMS_URL	https://nianticlabs.com/terms-embedded/pt_br/	
 -7309335694267259600	TITLE_COPYRIGHT_1	© 2021 Niantic, Inc.	
 -586797165528962190	TITLE_COPYRIGHT_2A	Pikmin e personagens Mii / Arte / Música	
-2218647699492075618	TITLE_COPYRIGHT_2B	© 2021 Nintendo	
+2218647699492075618	TITLE_COPYRIGHT_2B	Copyright © 2021 Nintendo Todos os direitos reservados.	
 -7360387916112774534	NO_INTERNET_CONNECTION	Não foi possível conectar. Verifique a conexão de internet e tente de novo.	
 -6134105492375826462	ACTION_TRY_AGAIN	Tente novamente	
 -9075047459596506242	ACTION_DONE	Concluído	

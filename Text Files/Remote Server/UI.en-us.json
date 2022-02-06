@@ -241,6 +241,86 @@
       "PluralText": ""
     },
     {
+      "Id": 1586610613728239971,
+      "Text": "Reply",
+      "PluralText": ""
+    },
+    {
+      "Id": 8594167413670513926,
+      "Text": "t",
+      "PluralText": ""
+    },
+    {
+      "Id": -6951747874583412951,
+      "Text": "kg",
+      "PluralText": ""
+    },
+    {
+      "Id": -4003710305942612958,
+      "Text": "g",
+      "PluralText": ""
+    },
+    {
+      "Id": -4739640400670867950,
+      "Text": "km",
+      "PluralText": ""
+    },
+    {
+      "Id": -9178097942074658004,
+      "Text": "pt",
+      "PluralText": "pts"
+    },
+    {
+      "Id": -7352491062436389390,
+      "Text": "sec",
+      "PluralText": "secs"
+    },
+    {
+      "Id": 1755058594397429630,
+      "Text": "Weight",
+      "PluralText": ""
+    },
+    {
+      "Id": 5054097312274684078,
+      "Text": "Tutorial",
+      "PluralText": ""
+    },
+    {
+      "Id": -4205525183225370910,
+      "Text": "Add",
+      "PluralText": ""
+    },
+    {
+      "Id": -4617269144539043093,
+      "Text": "Save",
+      "PluralText": ""
+    },
+    {
+      "Id": -7176708379197015662,
+      "Text": "Create",
+      "PluralText": ""
+    },
+    {
+      "Id": 455947363827071410,
+      "Text": "Rename",
+      "PluralText": ""
+    },
+    {
+      "Id": 2757644933330403668,
+      "Text": "No Thanks",
+      "PluralText": ""
+    },
+    {
+      "Id": 6808242498291533974,
+      "Text": "Turn On",
+      "PluralText": ""
+    },
+    {
+      "Id": 2844611347484798183,
+      "Text": "Sort by:",
+      "PluralText": ""
+    },
+    {
       "Id": 9031174962354778674,
       "Text": "If you enable this setting, your information can be used to deliver personalized ads to you regarding Pikmin Bloom exclusive offers, promotions, and events.",
       "PluralText": ""
@@ -622,18 +702,13 @@
     },
     {
       "Id": 3612964440416980610,
-      "Text": "You've sent out {0} expedition!",
-      "PluralText": "You've sent out {0} expeditions!"
+      "Text": "<b>{0} {1}</b> have been carried in an expedition!",
+      "PluralText": "<b>{0} {1}</b> have been carried in expeditions!"
     },
     {
       "Id": -1919276800654817569,
-      "Text": "Send out more expeditions to rank up your badge!",
+      "Text": "Carry more in expeditions to rank up your badge!",
       "PluralText": ""
-    },
-    {
-      "Id": 9057790161028093513,
-      "Text": "You've cleared {0} challenge!",
-      "PluralText": "You've cleared {0} challenges!"
     },
     {
       "Id": -2354047255291567602,
@@ -677,7 +752,7 @@
     },
     {
       "Id": -6699418209639980821,
-      "Text": "Participated in your first community day.",
+      "Text": "You walked 10,000 steps during Community Day for the first time!",
       "PluralText": ""
     },
     {
@@ -702,7 +777,7 @@
     },
     {
       "Id": -3676749983211875161,
-      "Text": "Participate in your first community day",
+      "Text": "You walked 10,000 steps during your first community day!",
       "PluralText": ""
     },
     {
@@ -712,12 +787,12 @@
     },
     {
       "Id": 568198959390301858,
-      "Text": "You planted {0} poinsettias at Community Day!",
+      "Text": "You walked 10,000 steps during the December Community Day!",
       "PluralText": ""
     },
     {
       "Id": 1940117697141063680,
-      "Text": "Plant a lot of poinsettias at Community Day!",
+      "Text": "You walked 10,000 steps during the December Community Day!",
       "PluralText": ""
     },
     {
@@ -727,12 +802,117 @@
     },
     {
       "Id": 5722554518108526655,
-      "Text": "You planted {0} camellias at Community Day!",
+      "Text": "You walked 10,000 steps during the January Community Day!",
       "PluralText": ""
     },
     {
       "Id": 4267605988984367370,
-      "Text": "Plant a lot of camellias at Community Day!",
+      "Text": "You walked 10,000 steps during the January Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1772990415101194432,
+      "Text": "<b>{0}{1}</b> to go!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2029525933228256258,
+      "Text": "Carry {0}{1} in expeditions",
+      "PluralText": ""
+    },
+    {
+      "Id": -7475417674917181896,
+      "Text": "My Expedition Record",
+      "PluralText": ""
+    },
+    {
+      "Id": 7853538904956095846,
+      "Text": "Furthest distance",
+      "PluralText": ""
+    },
+    {
+      "Id": -6657535878401861933,
+      "Text": "{0}, Expedition to {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 5163353420877856754,
+      "Text": "<b>{0}</b>\n spent <b>{1}</b> to bring it back!",
+      "PluralText": ""
+    },
+    {
+      "Id": -7345406534473129803,
+      "Text": "<b>{0}</b> and <b>{1}</b>\n spent <b>{2}</b> to bring it back!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3637509506607055795,
+      "Text": "<b>{0}</b>, <b>{1}</b> and <b>{2}</b>\n spent <b>{3}</b> to bring it back!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3930852527203257392,
+      "Text": "You've collected <b>{0}{1}</b> in a challenge",
+      "PluralText": "You've collected <b>{0}{1}</b> in challenges"
+    },
+    {
+      "Id": -4585279161755334562,
+      "Text": "<b>{0}{1}</b> to go!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3412222707437735777,
+      "Text": "Challenge Badge",
+      "PluralText": "Challenge Badges"
+    },
+    {
+      "Id": 7798884055473650454,
+      "Text": "Get {0}{1} in challenges",
+      "PluralText": ""
+    },
+    {
+      "Id": -2084673541074085258,
+      "Text": "Best score",
+      "PluralText": ""
+    },
+    {
+      "Id": 3036443730493876907,
+      "Text": "My Challenge Record",
+      "PluralText": ""
+    },
+    {
+      "Id": -3292488467640343340,
+      "Text": "Plum Blossom Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 4607709131475388931,
+      "Text": "You walked 10,000 steps during the February Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6538529372505513544,
+      "Text": "Walk 10,000 steps during the February Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4475727564875574295,
+      "Text": "{0}, Challenge at {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": -4301131808498102954,
+      "Text": "Cherry Blossom Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -1623918387378333509,
+      "Text": "You walked 10,000 steps during the February Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5644989673897931792,
+      "Text": "Walk 10,000 steps during the February Community Day!",
       "PluralText": ""
     },
     {
@@ -922,7 +1102,7 @@
     },
     {
       "Id": -7309335694267259600,
-      "Text": "© 2021 Niantic, Inc.",
+      "Text": "Pikmin Bloom Copyright © 2021 Niantic, Inc.",
       "PluralText": ""
     },
     {
@@ -932,7 +1112,7 @@
     },
     {
       "Id": 2218647699492075618,
-      "Text": "© 2021 Nintendo",
+      "Text": "Copyright © 2021 Nintendo All Rights Reserved.",
       "PluralText": ""
     },
     {
@@ -3442,7 +3622,7 @@
     },
     {
       "Id": 273148092746172477,
-      "Text": "Popcorn",
+      "Text": "Popcorn snack",
       "PluralText": ""
     },
     {
@@ -3792,12 +3972,12 @@
     },
     {
       "Id": 3433475983946093458,
-      "Text": "Pikmin Bloom wants to access your photo library. Please open your settings and grant the app access to the photo library.",
+      "Text": "Your Pikmin want to log daily life with you - they will select photos from your camera roll as “the photo of the day”! Please open your phone settings and allow access to your camera roll.",
       "PluralText": ""
     },
     {
       "Id": -1060090071457646986,
-      "Text": "Pikmin Bloom wants to access your photo library. Please open your settings and grant the app access to the photo library.",
+      "Text": "Your Pikmin want to log daily life with you - they will select photos from your camera roll as “the photo of the day”! Please open your phone settings and allow access to your camera roll.",
       "PluralText": ""
     },
     {
@@ -5057,7 +5237,7 @@
     },
     {
       "Id": 5803084201761154181,
-      "Text": "Each postcard is special and features the Pikmin who were sent out on the expedition. By sure to cherish it!",
+      "Text": "Each postcard is special and features the Pikmin who were sent out on the expedition. Be sure to cherish it!",
       "PluralText": ""
     },
     {
@@ -9067,7 +9247,7 @@
     },
     {
       "Id": -4023410602330865333,
-      "Text": "Pikmin wants to pick up an item from where it was found. Send it to pick up?",
+      "Text": "This Pikmin wants to pick up an item from where it was found. Send it to pick it up?",
       "PluralText": ""
     },
     {
@@ -9077,7 +9257,12 @@
     },
     {
       "Id": -8286828344336723672,
-      "Text": "Unable to share Pikmin with this name",
+      "Text": "The name of this Pikmin is inappropriate.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2384125540853607822,
+      "Text": "Move",
       "PluralText": ""
     },
     {
@@ -9122,7 +9307,7 @@
     },
     {
       "Id": 8802219693210349927,
-      "Text": "No updates yet. Go out and explore!",
+      "Text": "There are no updates yet. Go out and explore!",
       "PluralText": ""
     },
     {
@@ -9132,7 +9317,7 @@
     },
     {
       "Id": -461098576451344619,
-      "Text": "Go to support chat",
+      "Text": "Go to the support chat",
       "PluralText": ""
     },
     {
@@ -9147,22 +9332,22 @@
     },
     {
       "Id": -2129875408236408702,
-      "Text": "Thank you for playing",
+      "Text": "Thank you for playing!",
       "PluralText": ""
     },
     {
       "Id": 4758796469783514479,
-      "Text": "Thank you for playing Pikmin Bloom Did you enjoy the app?",
+      "Text": "Thank you for playing Pikmin Bloom!\n\nAre you enjoying the app?",
       "PluralText": ""
     },
     {
       "Id": 3822475941977565413,
-      "Text": "We are glad you are enjoying the app To improve the app further more, can you review Pikmin Bloom?",
+      "Text": "We are glad you are enjoying Pikmin Bloom!\n\n Help us make the app even better by leaving a review.",
       "PluralText": ""
     },
     {
       "Id": -4446626877431678271,
-      "Text": "We are sorry you are not enjoying the app.\n\n Do you have comments and suggestions Please let us know through the support chat.",
+      "Text": "We are sorry you are not enjoying the app.\n\n Do you have any comments or suggestions?\n\nLet us know via our support chat.",
       "PluralText": ""
     },
     {
@@ -9222,12 +9407,12 @@
     },
     {
       "Id": -5361751023396924044,
-      "Text": "Show Location in Shared Moments",
+      "Text": "Show location information in screenshots",
       "PluralText": ""
     },
     {
       "Id": -1254076838821138844,
-      "Text": "When you share in-game moments with the share button, show any real-life locations displayed on-screen.",
+      "Text": "Include real-life locations displayed on-screen when you save a screenshot using the share button.",
       "PluralText": ""
     },
     {
@@ -9237,7 +9422,192 @@
     },
     {
       "Id": -6290349941188007062,
-      "Text": "To show location information in shared screenshots, check \"Show Location in Shared Moments\". This can be changed at any time in Settings.",
+      "Text": "If you want to include real-life locations in your screenshots, check the \"Show location information in screenshots” checkbox.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8680624660144228208,
+      "Text": "Change Name",
+      "PluralText": ""
+    },
+    {
+      "Id": -4460328998556778532,
+      "Text": "Name",
+      "PluralText": ""
+    },
+    {
+      "Id": -2844272671113960897,
+      "Text": "Account ID",
+      "PluralText": ""
+    },
+    {
+      "Id": 2923982871181729376,
+      "Text": "Enter your name",
+      "PluralText": ""
+    },
+    {
+      "Id": 6728224550932768342,
+      "Text": "Enter a name you’d like to go by. You can always change this later.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1621084628723751017,
+      "Text": "Change name",
+      "PluralText": ""
+    },
+    {
+      "Id": -1817264436835283328,
+      "Text": "Your name must have at least {0} character.",
+      "PluralText": ""
+    },
+    {
+      "Id": -30271875368848632,
+      "Text": "Your name must have {0} characters or less.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1387445377216514100,
+      "Text": "You cannot use this name.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7204557190058885388,
+      "Text": "Delete Account",
+      "PluralText": ""
+    },
+    {
+      "Id": -6558195749606517432,
+      "Text": "Once your Pikmin Bloom account is deleted, it will no longer be accessible by you or anyone else. This action cannot be undone.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7819849817461711653,
+      "Text": "Are you sure you want to start the account deletion process?",
+      "PluralText": ""
+    },
+    {
+      "Id": -6063344150877788871,
+      "Text": "By tapping Yes, an email will be sent to complete the account deletion process.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6021109869597088728,
+      "Text": "Please verify your email to confirm.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7893168827556468628,
+      "Text": "An email will be sent to complete the account deletion process.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7507007220429166700,
+      "Text": "An email will be sent to {0} to finalize the deletion of your account.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8147044070991298196,
+      "Text": "You have initiated deletion of your account. Once you’ve verified deletion by email, then your account deletion request will be finalized. This action cannot be undone.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4350186769130254812,
+      "Text": "Please verify your guardian's email account to confirm.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5417459419087356876,
+      "Text": "An email will be sent to your guardian's email account to complete the account deletion process.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1696682089298835237,
+      "Text": "An email will be sent to your guardian's email account, {0}, to finalize the deletion of your account.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5126266386490629843,
+      "Text": "You have initiated deletion of your account. Once your guardian has verified deletion by email, then your account deletion request will be finalized. This action cannot be undone.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7604723680527944746,
+      "Text": "You can use only letters and numbers.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6939816848488596599,
+      "Text": "Change Account ID",
+      "PluralText": ""
+    },
+    {
+      "Id": 2765281425346352756,
+      "Text": "This account ID cannot be used. Please choose another.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4915252147095915707,
+      "Text": "Recommended",
+      "PluralText": ""
+    },
+    {
+      "Id": -7476399864903394836,
+      "Text": "Do you want to change your account ID?",
+      "PluralText": ""
+    },
+    {
+      "Id": -777386086471757322,
+      "Text": "You can change your account ID only once. Once you change it, you will not be able to change it back to the old account ID.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5431737269954970119,
+      "Text": "Are you sure to change your account ID to <b>{0}</b>? You will not be able to change this again.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5947766513482616848,
+      "Text": "Change Account ID",
+      "PluralText": ""
+    },
+    {
+      "Id": 3064579424304890011,
+      "Text": "Your account ID must have at least {0} characters.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4022432624831102566,
+      "Text": "Your account ID must have at most {0} characters.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7270050971094451693,
+      "Text": "Successfully updated account ID",
+      "PluralText": ""
+    },
+    {
+      "Id": 6432054710676374952,
+      "Text": "Failed to update account ID",
+      "PluralText": ""
+    },
+    {
+      "Id": -5614230779693698378,
+      "Text": "This will be your in-game nickname. It will be visible to other users and you can change it anytime.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1880504717306533703,
+      "Text": "A unique ID that is visible to other users. It will also be used if you need account support.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4969930357019378617,
+      "Text": "Some special characters not allowed.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5827621809935774076,
+      "Text": "Flower Planting Settings",
       "PluralText": ""
     },
     {
@@ -9252,7 +9622,7 @@
     },
     {
       "Id": -8875522950851852056,
-      "Text": "The huge flower you can see in walk view is called a big flower.",
+      "Text": "The huge flower you can see in walk view is called a Big Flower.",
       "PluralText": ""
     },
     {
@@ -9301,6 +9671,31 @@
       "PluralText": ""
     },
     {
+      "Id": -5775286658863700672,
+      "Text": "You can now add and change your name. This name will be used to refer to you and will be displayed throughout the game. You can change your name in the settings page.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1477394859854898705,
+      "Text": "You can now set your flower planting Privacy Zones from the settings screen!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8539189630197469551,
+      "Text": "While in flower planting mode, flowers won't be planted while walking within a zone's set range. This effect only applies to yourself.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4249808825556282446,
+      "Text": "However, while you are in a zone, flower petals will be consumed over time as usual. The flower planting boost will still be effective.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4624927557437824771,
+      "Text": "Make use of privacy zones, and enjoy flower planting with peace of mind!",
+      "PluralText": ""
+    },
+    {
       "Id": -5146076640042198176,
       "Text": "Update to the latest Mii version?",
       "PluralText": ""
@@ -9328,6 +9723,11 @@
     {
       "Id": 7464124599707418127,
       "Text": "Edit Mii",
+      "PluralText": ""
+    },
+    {
+      "Id": 4415836753590599935,
+      "Text": "Account ID",
       "PluralText": ""
     },
     {
@@ -9421,6 +9821,41 @@
       "PluralText": "The user you are trying to invite has reached the maximum number of friends."
     },
     {
+      "Id": 369300901328071057,
+      "Text": "Account ID",
+      "PluralText": ""
+    },
+    {
+      "Id": 5850130050020385006,
+      "Text": "Friends",
+      "PluralText": ""
+    },
+    {
+      "Id": 9040202165962386165,
+      "Text": "Add friend",
+      "PluralText": ""
+    },
+    {
+      "Id": 6942862844237117013,
+      "Text": "Invite",
+      "PluralText": ""
+    },
+    {
+      "Id": -1792069573362755789,
+      "Text": "Friendship Start Date",
+      "PluralText": ""
+    },
+    {
+      "Id": 5833427434216514115,
+      "Text": "Name",
+      "PluralText": ""
+    },
+    {
+      "Id": -8733706737032106939,
+      "Text": "{0} Friend",
+      "PluralText": "{0} Friends"
+    },
+    {
       "Id": 8097188312712959647,
       "Text": "Save {0} photo",
       "PluralText": "Save {0} photos"
@@ -9482,7 +9917,7 @@
     },
     {
       "Id": -1788625806899723958,
-      "Text": "Hamburger Shop",
+      "Text": "Burger Place",
       "PluralText": ""
     },
     {
@@ -9497,7 +9932,7 @@
     },
     {
       "Id": -8140804275347164695,
-      "Text": "Clothing Store",
+      "Text": "Clothes Store",
       "PluralText": ""
     },
     {
@@ -9517,7 +9952,7 @@
     },
     {
       "Id": 8779665019209406390,
-      "Text": "Frame",
+      "Text": "Picture Frame",
       "PluralText": ""
     },
     {
@@ -9527,7 +9962,7 @@
     },
     {
       "Id": 4565247888034209578,
-      "Text": "Train Papercraft",
+      "Text": "Paper Train",
       "PluralText": ""
     },
     {
@@ -9577,7 +10012,7 @@
     },
     {
       "Id": -4759875390863668730,
-      "Text": "Clover",
+      "Text": "Four-Leaf Clover",
       "PluralText": ""
     },
     {
@@ -10437,37 +10872,37 @@
     },
     {
       "Id": 7250027135069480090,
-      "Text": "Miniature Book",
+      "Text": "Tiny Book",
       "PluralText": ""
     },
     {
       "Id": -512007194519441206,
-      "Text": "Miniature Book",
+      "Text": "Tiny Book",
       "PluralText": ""
     },
     {
       "Id": 225155154398401490,
-      "Text": "Miniature Book",
+      "Text": "Tiny Book",
       "PluralText": ""
     },
     {
       "Id": -1395801807086976743,
-      "Text": "Miniature Book",
+      "Text": "Tiny Book",
       "PluralText": ""
     },
     {
       "Id": -5750563413938077761,
-      "Text": "Miniature Book",
+      "Text": "Tiny Book",
       "PluralText": ""
     },
     {
       "Id": -4068120321872541799,
-      "Text": "Miniature Book",
+      "Text": "Tiny Book",
       "PluralText": ""
     },
     {
       "Id": 5441749791165918931,
-      "Text": "Miniature Book",
+      "Text": "Tiny Book",
       "PluralText": ""
     },
     {
@@ -10507,37 +10942,37 @@
     },
     {
       "Id": -2324337371981306161,
-      "Text": "Clover",
+      "Text": "Four-Leaf Clover",
       "PluralText": ""
     },
     {
       "Id": 3866207058062655114,
-      "Text": "Clover",
+      "Text": "Four-Leaf Clover",
       "PluralText": ""
     },
     {
       "Id": 9101110827400782175,
-      "Text": "Clover",
+      "Text": "Four-Leaf Clover",
       "PluralText": ""
     },
     {
       "Id": -8314700096370246824,
-      "Text": "Clover",
+      "Text": "Four-Leaf Clover",
       "PluralText": ""
     },
     {
       "Id": -6260297932679255097,
-      "Text": "Clover",
+      "Text": "Four-Leaf Clover",
       "PluralText": ""
     },
     {
       "Id": -3562720665442340061,
-      "Text": "Clover",
+      "Text": "Four-Leaf Clover",
       "PluralText": ""
     },
     {
       "Id": 31299170106862305,
-      "Text": "Clover",
+      "Text": "Four-Leaf Clover",
       "PluralText": ""
     },
     {
@@ -10587,7 +11022,7 @@
     },
     {
       "Id": -8287811960078634154,
-      "Text": "Red Pikmin",
+      "Text": "Sticker",
       "PluralText": ""
     },
     {
@@ -10656,6 +11091,41 @@
       "PluralText": ""
     },
     {
+      "Id": -57741282103175696,
+      "Text": "Lunar New Year Ornament",
+      "PluralText": ""
+    },
+    {
+      "Id": -5955142218768679533,
+      "Text": "Lunar New Year Ornament",
+      "PluralText": ""
+    },
+    {
+      "Id": -8519633489221611212,
+      "Text": "Lunar New Year Ornament",
+      "PluralText": ""
+    },
+    {
+      "Id": -2084578222671832284,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2624031679020679436,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6666875684361916296,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -9024114417981736664,
+      "Text": "Lunar New Year Ornament",
+      "PluralText": ""
+    },
+    {
       "Id": -2667792163754801126,
       "Text": "Precondition:",
       "PluralText": ""
@@ -10672,12 +11142,12 @@
     },
     {
       "Id": 7029987479437277128,
-      "Text": "Will be {0}",
+      "Text": "Will be a {0}",
       "PluralText": ""
     },
     {
       "Id": 2975729686072198175,
-      "Text": "{0}",
+      "Text": "{0} {1}",
       "PluralText": ""
     },
     {
@@ -10872,7 +11342,7 @@
     },
     {
       "Id": 3432387438224822155,
-      "Text": "White Poinsettia peals. Use them to plant White Poinsettias.",
+      "Text": "White Poinsettia petals. Use them to plant White Poinsettias.",
       "PluralText": ""
     },
     {
@@ -10882,7 +11352,7 @@
     },
     {
       "Id": -8608357451649418120,
-      "Text": "Red Poinsettia peals. Use them to plant Red Poinsettias.",
+      "Text": "Red Poinsettia petals. Use them to plant Red Poinsettias.",
       "PluralText": ""
     },
     {
@@ -10892,7 +11362,7 @@
     },
     {
       "Id": 7357396080572608376,
-      "Text": "White Camellia peals. Use them to plant White Camellias.",
+      "Text": "White Camellia petals. Use them to plant White Camellias.",
       "PluralText": ""
     },
     {
@@ -10902,7 +11372,37 @@
     },
     {
       "Id": 6603547891947695934,
-      "Text": "Red Camellia peals. Use them to plant Red Camellias.",
+      "Text": "Red Camellia petals. Use them to plant Red Camellias.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6574731289959531607,
+      "Text": "Plum Blossom",
+      "PluralText": ""
+    },
+    {
+      "Id": 6747116258104464359,
+      "Text": "Red Plum Blossom Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7204689648783089142,
+      "Text": "Red plum blossom petals. Use them to plant red Plum Blossoms.",
+      "PluralText": ""
+    },
+    {
+      "Id": 79021663453928334,
+      "Text": "Cherry Blossom",
+      "PluralText": ""
+    },
+    {
+      "Id": 2713068879941896473,
+      "Text": "White Cherry Blossom Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7241234756670722723,
+      "Text": "White cherry blossom petals. Use them to plant white Cherry Blossoms.",
       "PluralText": ""
     },
     {
@@ -11231,6 +11731,26 @@
       "PluralText": ""
     },
     {
+      "Id": 3963921350333455685,
+      "Text": "Red Plum Blossom Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -6791615934021741027,
+      "Text": "Red plum blossom petals. You can use them to plant red plum blossoms.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1148348710487510945,
+      "Text": "White Cherry Blossom Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -3239137918315503329,
+      "Text": "White cherry blossom petals. You can use them to plant white cherry blossoms.",
+      "PluralText": ""
+    },
+    {
       "Id": 4512608309946328130,
       "Text": "NIANTIC KIDS",
       "PluralText": ""
@@ -11427,7 +11947,7 @@
     },
     {
       "Id": -386184206609956069,
-      "Text": "If you log in with your Nintendo account, you will not be able to link your existing Niantic game account.\nIf you want to link your Niantic account, please log in with your existing Niantic account and link your Nintendo account later.",
+      "Text": "If you sign in with your Nintendo Account, you will not be able to link your existing Niantic game account.\nIf you want to link your Niantic account, please log in with your existing Niantic account first, and link your Nintendo Account later.",
       "PluralText": ""
     },
     {
@@ -11636,6 +12156,26 @@
       "PluralText": ""
     },
     {
+      "Id": -8555720538816814376,
+      "Text": "Do you want to reply to\n{0}?",
+      "PluralText": ""
+    },
+    {
+      "Id": -3409356109588161428,
+      "Text": "{0} Selected",
+      "PluralText": ""
+    },
+    {
+      "Id": 5112596909089637071,
+      "Text": "Are you sure you want to delete the selected postcard?",
+      "PluralText": "Are you sure you want to delete the selected postcards?"
+    },
+    {
+      "Id": 6374116279282695527,
+      "Text": "Deleted the selected postcard",
+      "PluralText": "Deleted the selected postcards"
+    },
+    {
       "Id": 357857585624279041,
       "Text": "Cancelled.",
       "PluralText": ""
@@ -11836,6 +12376,26 @@
       "PluralText": ""
     },
     {
+      "Id": -3573363817915139557,
+      "Text": "Red Plum Blossom Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -4916551982684242053,
+      "Text": "Rare nectar that will make a red plum blossom grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1694092736792255084,
+      "Text": "White Cherry Blossom Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 3926321551092211714,
+      "Text": "Rare nectar that will make a white cherry blossom grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
       "Id": -6414135360193770810,
       "Text": "We're all set!",
       "PluralText": ""
@@ -11952,7 +12512,7 @@
     },
     {
       "Id": 3351633235524086435,
-      "Text": "Get <b>{0} {1}</b> on {2}",
+      "Text": "Clear <b>{0}</b> {2} with <b>{1}</b> or higher for each.",
       "PluralText": ""
     },
     {
@@ -12148,6 +12708,11 @@
     {
       "Id": -5554863052295373606,
       "Text": "Add a photo",
+      "PluralText": ""
+    },
+    {
+      "Id": 5966799445474660313,
+      "Text": "Invalid Date",
       "PluralText": ""
     }
   ]

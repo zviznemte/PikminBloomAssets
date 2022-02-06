@@ -1,8 +1,8 @@
 # Pikmin Bloom Assets
 
-UPDATE January 7, 2022: Added new year decor pikmins, new text
+UPDATE February 6, 2022: Added new decors / lifelogs,badges,shops,petals,avatar,big flowers (POI), nectar, and text
 
- repository of data mined assets which includes sprites, models, text files, and more.
+Repository of data mined assets which includes sprites, models, text files, and more.
  
 **3D Models**
 

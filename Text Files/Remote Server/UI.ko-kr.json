@@ -317,7 +317,12 @@
     },
     {
       "Id": 2844611347484798183,
-      "Text": "Sort by:",
+      "Text": "정렬:",
+      "PluralText": ""
+    },
+    {
+      "Id": -7700841899159761227,
+      "Text": "#DailyPikminBloom",
       "PluralText": ""
     },
     {
@@ -662,12 +667,12 @@
     },
     {
       "Id": -18958454005226840,
-      "Text": "피크민을 {0}마리 뽑았다!",
+      "Text": "피크민을  <b>{0}마리 </b>뽑았다!",
       "PluralText": ""
     },
     {
       "Id": -7752638651109908217,
-      "Text": "{0}걸음 걸었다!",
+      "Text": "<b>{0}걸음 </b>걸었다!",
       "PluralText": ""
     },
     {
@@ -677,7 +682,7 @@
     },
     {
       "Id": -8557396161972738073,
-      "Text": "{0}종류의 데코를 착용했다!",
+      "Text": "<b>{0}종류의 </b>데코를 착용했다!",
       "PluralText": ""
     },
     {
@@ -692,7 +697,7 @@
     },
     {
       "Id": -1114011035406029477,
-      "Text": "꽃을 {0}송이 심었다!",
+      "Text": "꽃을 <b>{0}이 </b>송심었다!",
       "PluralText": ""
     },
     {
@@ -702,7 +707,7 @@
     },
     {
       "Id": 3612964440416980610,
-      "Text": "탐험에서 <b>{0}{1}</b> 운반했다!",
+      "Text": "탐험을 <b>{0}회 </b>떠났다!",
       "PluralText": ""
     },
     {
@@ -913,6 +918,216 @@
     {
       "Id": 5644989673897931792,
       "Text": "3월의 커뮤니티 데이에서 10,000걸음 걸으세요!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6161679845136243578,
+      "Text": "Narcissus Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 3612525921493788367,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 2628865213231207088,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -7003964138057203322,
+      "Text": "Tulip Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -4233857067769992934,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4646121118474962310,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -6934884471214544746,
+      "Text": "Nemophila Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -6112111786018815329,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1650475315691445183,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2656701519556274140,
+      "Text": "Carnation Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 7184783718607136150,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -255801751452098764,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 7385960991806199647,
+      "Text": "Callalily Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 6025872058258018325,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5441932756980858531,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -8180804013065248508,
+      "Text": "Hydrangea Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -6224646841727017497,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4957616103423086890,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4527962863389523243,
+      "Text": "Lilium Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 4354906353760367454,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5519613413506132700,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4298976141191699810,
+      "Text": "Rose Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -1864206099140360282,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4341265496922598793,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6258855654487898106,
+      "Text": "Hibiscus Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -7964367031379339426,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5102885453970735127,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 76861826736661197,
+      "Text": "Plumeria Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -1606797740471598144,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6913784785108901489,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 9209196332041804584,
+      "Text": "Sunflower Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 5398086400299385292,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -6757106724533511617,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5992459668578245311,
+      "Text": "Cluster Amaryllis Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 5624672282715918397,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 1303174199625032905,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -6835740491712438969,
+      "Text": "Cosmos Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -4477964716200310663,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -6290049841837743007,
+      "Text": "Walk 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": 7442775803405581445,
+      "Text": "Cyclamen Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -8323945041726501556,
+      "Text": "You walked 10,000 steps during the March Community Day!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3924814423513725524,
+      "Text": "Walk 10,000 steps during the March Community Day!",
       "PluralText": ""
     },
     {
@@ -1303,6 +1518,36 @@
     {
       "Id": 7083608525502678502,
       "Text": "{0}: {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": 3087842048884841761,
+      "Text": "가장 빠르게 소식을 접하세요!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2545064719511911586,
+      "Text": "푸시 알림을 활성화하여 데코피크민, 기능 업데이트, 다가오는 커뮤니티 데이의 세부 정보, 기타 소식을 바로 만나보세요!",
+      "PluralText": ""
+    },
+    {
+      "Id": 2495348342207075529,
+      "Text": "고맙습니다!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4756513325847141370,
+      "Text": "아는 것이 힘이라는 말이 있죠. 이제 마음 놓으세요! 새로운 업데이트를 앞으로 계속 전해드리겠습니다.\n\n기기에서 현재 푸시 알림을 꺼둔 상태라면, 다시 켜야만 마케팅 관련 푸시 알림을 받을 수 있습니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2403700573712622566,
+      "Text": "이 설정을 활성화하려면 앱의 알림 설정을 켜야 합니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5581176063906119411,
+      "Text": "앱이 알림을 보내는 데 필요한 권한을 가지고 있지 않습니다.",
       "PluralText": ""
     },
     {
@@ -4047,7 +4292,7 @@
     },
     {
       "Id": 7075304235731162684,
-      "Text": "심은 꽃은 다른 유저에게도 공유되어 보이니, 다 함께 꽃을 잔뜩 심어 봐요!",
+      "Text": "심은 꽃은 다른 유저에게도 공유되어 보입니다. 설정 화면에서 \"개인 구역\"을 설정할 수 있습니다.",
       "PluralText": ""
     },
     {
@@ -9507,7 +9752,7 @@
     },
     {
       "Id": 8147044070991298196,
-      "Text": "You have initiated deletion of your account. Once you’ve verified deletion by email, then your account deletion request will be finalized. This action cannot be undone.",
+      "Text": "어카운트 삭제 절차를 시작했습니다. 이메일을 통해 삭제 의사를 인증하면 귀하의 어카운트 삭제 요청이 확정됩니다. 이는 되돌릴 수 없습니다.",
       "PluralText": ""
     },
     {
@@ -9562,7 +9807,7 @@
     },
     {
       "Id": 5431737269954970119,
-      "Text": "정말 ID를 <b>{0}</b>{0:patchim_x:yes=으로|no=로} 변경하시겠습니까? 이 ID는 다시 바꿀 수 없습니다.",
+      "Text": "정말 ID를 <b>{0}</b>(으)로 변경하시겠습니까? 이 ID는 다시 바꿀 수 없습니다.",
       "PluralText": ""
     },
     {
@@ -9682,12 +9927,12 @@
     },
     {
       "Id": 8539189630197469551,
-      "Text": "개인 구역이란 유저가 꽃 심기 모드에서 산책할 때, 꽃이 심어지지 않는 지역을 의미합니다.",
+      "Text": "개인 구역이란 유저가 꽃 심기 모드에서 산책할 때, 꽃이 심어지지 않는 지역을 의미합니다.\n나의 개인 구역은 오로지 나에게만 적용되며, 다른 유저에게 영향을 주지 않습니다.",
       "PluralText": ""
     },
     {
       "Id": -4249808825556282446,
-      "Text": "꽃을 심는 중에 개인 구역 안에서 걷는다면, 꽃잎은 시간이 지남에 따라 일반적으로 소모됩니다. 꽃 심기 부스트 또한 효력을 유지합니다.",
+      "Text": "단, 개인 구역 안에 있는 동안에도, 꽃잎은 평소처럼 시간이 지남에 따라 소모됩니다. 꽃 심기 부스트도 효력이 유지됩니다.",
       "PluralText": ""
     },
     {
@@ -9827,32 +10072,82 @@
     },
     {
       "Id": 5850130050020385006,
-      "Text": "Friends",
+      "Text": "친구",
       "PluralText": ""
     },
     {
       "Id": 9040202165962386165,
-      "Text": "Add friend",
+      "Text": "친구 추가",
       "PluralText": ""
     },
     {
       "Id": 6942862844237117013,
-      "Text": "Invite",
+      "Text": "초대",
       "PluralText": ""
     },
     {
       "Id": -1792069573362755789,
-      "Text": "Friendship Start Date",
+      "Text": "우정 시작일",
       "PluralText": ""
     },
     {
       "Id": 5833427434216514115,
-      "Text": "Name",
+      "Text": "이름",
       "PluralText": ""
     },
     {
       "Id": -8733706737032106939,
-      "Text": "{0} Friends",
+      "Text": "친구 {0} 명",
+      "PluralText": ""
+    },
+    {
+      "Id": 4859028859201092589,
+      "Text": "Invite your friend to play!",
+      "PluralText": ""
+    },
+    {
+      "Id": -8050006314827239491,
+      "Text": "Earn special rewards for each invite.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8347042882890597136,
+      "Text": "Rewards for inviting new players",
+      "PluralText": ""
+    },
+    {
+      "Id": -2256089351193196341,
+      "Text": "1 Single-Use Slot\n(up to 5 friends)",
+      "PluralText": ""
+    },
+    {
+      "Id": -7163242663204440516,
+      "Text": "1 Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 4963687407933294490,
+      "Text": "You will receive your reward after you approve the friend request sent by the invitee (the friend request will be sent automatically once they enter their invite code). Both inviter and invitee will be able to receive special rewards but each will receive different items. The invitee will have 72 hours to be able to enter the invite code.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7017155407937043197,
+      "Text": "Invitation code is copied.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2067384079785850239,
+      "Text": "https://pikminbloom.onelink.me/pWSt/refer",
+      "PluralText": ""
+    },
+    {
+      "Id": -8839061826736048133,
+      "Text": "Join me on Pikmin Bloom! Come grow your own Pikmin squad and let’s fill the world around us with flowers, together! When you create your account, don’t forget to enter my referral code to redeem some special rewards: 20 flower petals and 10 nectars {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": -4508141683500365774,
+      "Text": "{0} just joined Pikmin Bloom! Get rewards and let's fill the world with flowers, together",
       "PluralText": ""
     },
     {
@@ -11402,7 +11697,412 @@
     },
     {
       "Id": 7241234756670722723,
-      "Text": "하양벚꽃의 꽃잎. 사용하면 하양벚꽃을 심을 수 있다.",
+      "Text": "벚꽃의 꽃잎. 사용하면 벚꽃을 심을 수 있다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4285300141349289750,
+      "Text": "Narcissus",
+      "PluralText": ""
+    },
+    {
+      "Id": 8998240693281418112,
+      "Text": "White Narcissus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 4552382659088154949,
+      "Text": "Yellow Narcissus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 3973177253734728476,
+      "Text": "White Narcissus petals. Use them to plant White Narcissuss.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7696831412514286087,
+      "Text": "Yellow Narcissus petals. Use them to plant Yellow Narcissuss.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6031586623699898218,
+      "Text": "White Tulip Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 5899040038572347915,
+      "Text": "Yellow Tulip Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -8187484038251939022,
+      "Text": "White Tulip petals. Use them to plant White Tulips.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1101381063767929693,
+      "Text": "Yellow Tulip petals. Use them to plant Yellow Tulips.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1784272282964391732,
+      "Text": "Blue Tulip Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -1437045631554306115,
+      "Text": "Blue Tulip petals. Use them to plant Blue Tulips.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7473356680511526017,
+      "Text": "Nemophila",
+      "PluralText": ""
+    },
+    {
+      "Id": 8576941482688470076,
+      "Text": "Blue Nemophila Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -4740955000384069377,
+      "Text": "Blue Nemophila petals. Use them to plant Blue Nemophilas.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2970252592105738752,
+      "Text": "Carnation",
+      "PluralText": ""
+    },
+    {
+      "Id": 3454256421684511418,
+      "Text": "White Carnation Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -1906147900934440120,
+      "Text": "Red Carnation Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 8766322790700916110,
+      "Text": "Blue Carnation Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 8757572585822398900,
+      "Text": "White Carnation petals. Use them to plant White Carnations.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1586650300279005373,
+      "Text": "Red Carnation petals. Use them to plant Red Carnations.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4880512555513008858,
+      "Text": "Blue Carnation petals. Use them to plant Blue Carnations.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8688302007952622591,
+      "Text": "Callalily",
+      "PluralText": ""
+    },
+    {
+      "Id": -1274591195954698443,
+      "Text": "White Callalily Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7462992293292663627,
+      "Text": "Yellow Callalily Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -6461823435193095559,
+      "Text": "Red Callalily Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -2656784720020643610,
+      "Text": "Blue Callalily Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -4417017424087384561,
+      "Text": "White Callalily petals. Use them to plant White Callalilys.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7040613550868763583,
+      "Text": "Yellow Callalily petals. Use them to plant Yellow Callalilys.",
+      "PluralText": ""
+    },
+    {
+      "Id": -658648576573979101,
+      "Text": "Red Callalily petals. Use them to plant Red Callalilys.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6507687095730136982,
+      "Text": "Blue Callalily petals. Use them to plant Blue Callalilys.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8367931998629619543,
+      "Text": "Hydrangea",
+      "PluralText": ""
+    },
+    {
+      "Id": 3201846717814177145,
+      "Text": "White Hydrangea Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 140722600331602029,
+      "Text": "Red Hydrangea Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -3880722439121792281,
+      "Text": "Blue Hydrangea Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 4048166092808619354,
+      "Text": "White Hydrangea petals. Use them to plant White Hydrangeas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1745004269493221770,
+      "Text": "Red Hydrangea petals. Use them to plant Red Hydrangeas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1213773349147502088,
+      "Text": "Blue Hydrangea petals. Use them to plant Blue Hydrangeas.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2636565225947653648,
+      "Text": "Lilium",
+      "PluralText": ""
+    },
+    {
+      "Id": -104667595696946847,
+      "Text": "White Lilium Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -3355165791134297260,
+      "Text": "Yellow Lilium Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -8187235828998644339,
+      "Text": "Red Lilium Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 8920257467235647779,
+      "Text": "White Lilium petals. Use them to plant White Liliums.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1745071381590290293,
+      "Text": "Yellow Lilium petals. Use them to plant Yellow Liliums.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1578367391245024543,
+      "Text": "Red Lilium petals. Use them to plant Red Liliums.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8202543538756816578,
+      "Text": "Hibiscus",
+      "PluralText": ""
+    },
+    {
+      "Id": -6918084467590330916,
+      "Text": "White Hibiscus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7845839572168042968,
+      "Text": "Yellow Hibiscus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -314275422707408695,
+      "Text": "Red Hibiscus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 6634347525355177267,
+      "Text": "White Hibiscus petals. Use them to plant White Hibiscuss.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2875787473066237874,
+      "Text": "Yellow Hibiscus petals. Use them to plant Yellow Hibiscuss.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2064490092256077343,
+      "Text": "Red Hibiscus petals. Use them to plant Red Hibiscuss.",
+      "PluralText": ""
+    },
+    {
+      "Id": 889440286197463036,
+      "Text": "Plumeria",
+      "PluralText": ""
+    },
+    {
+      "Id": 5325131323105523691,
+      "Text": "White Plumeria Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -3331089450112370620,
+      "Text": "Yellow Plumeria Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -1760164707560006543,
+      "Text": "Red Plumeria Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 55568476704672030,
+      "Text": "White Plumeria petals. Use them to plant White Plumerias.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1026939791350155507,
+      "Text": "Yellow Plumeria petals. Use them to plant Yellow Plumerias.",
+      "PluralText": ""
+    },
+    {
+      "Id": -337686055151441426,
+      "Text": "Red Plumeria petals. Use them to plant Red Plumerias.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5624114353811129954,
+      "Text": "Yellow Sunflower Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -4745910520429020125,
+      "Text": "Yellow Sunflower petals. Use them to plant Yellow Sunflowers.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1011963491538568878,
+      "Text": "Cluster Amaryllis",
+      "PluralText": ""
+    },
+    {
+      "Id": -9061795752856351954,
+      "Text": "White Cluster Amaryllis Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -1738885223565105257,
+      "Text": "Yellow Cluster Amaryllis Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -1475138922194842767,
+      "Text": "Red Cluster Amaryllis Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7322265121752730382,
+      "Text": "White Cluster Amaryllis petals. Use them to plant White Cluster Amarylliss.",
+      "PluralText": ""
+    },
+    {
+      "Id": 726172433989197705,
+      "Text": "Yellow Cluster Amaryllis petals. Use them to plant Yellow Cluster Amarylliss.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5733863185349969221,
+      "Text": "Red Cluster Amaryllis petals. Use them to plant Red Cluster Amarylliss.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3561564102809291286,
+      "Text": "Cosmos",
+      "PluralText": ""
+    },
+    {
+      "Id": -6429743440492135845,
+      "Text": "White Cosmos Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 5651137006218529375,
+      "Text": "Yellow Cosmos Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 5690018059149365413,
+      "Text": "Red Cosmos Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -485631609149547274,
+      "Text": "White Cosmos petals. Use them to plant White Cosmoss.",
+      "PluralText": ""
+    },
+    {
+      "Id": 846352848104763611,
+      "Text": "Yellow Cosmos petals. Use them to plant Yellow Cosmoss.",
+      "PluralText": ""
+    },
+    {
+      "Id": 9009177250182160382,
+      "Text": "Red Cosmos petals. Use them to plant Red Cosmoss.",
+      "PluralText": ""
+    },
+    {
+      "Id": 9119383357975226683,
+      "Text": "Cyclamen",
+      "PluralText": ""
+    },
+    {
+      "Id": -6663725392859944756,
+      "Text": "White Cyclamen Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -7271000700791911376,
+      "Text": "Red Cyclamen Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -7352875204695728224,
+      "Text": "Blue Cyclamen Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 292323956326629615,
+      "Text": "White Cyclamen petals. Use them to plant White Cyclamens.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5896804462713261421,
+      "Text": "Red Cyclamen petals. Use them to plant Red Cyclamens.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6443286926966499533,
+      "Text": "Blue Cyclamen petals. Use them to plant Blue Cyclamens.",
       "PluralText": ""
     },
     {
@@ -11751,6 +12451,326 @@
       "PluralText": ""
     },
     {
+      "Id": 4148376729014285307,
+      "Text": "Narcissus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -4124189780614511968,
+      "Text": "Narcissus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 56505834341519064,
+      "Text": "Narcissus petals. You can use them to plant Narcissus.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6432695176533105496,
+      "Text": "Narcissus petals. You can use them to plant Narcissus.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3922880167303567495,
+      "Text": "Tulip Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 4318935807324170589,
+      "Text": "Tulip petals. You can use them to plant Tulip.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5834523607808539615,
+      "Text": "Nemophila Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -5162029697490024894,
+      "Text": "Nemophila petals. You can use them to plant Nemophila.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8839628789355110386,
+      "Text": "Carnation Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -253184266846189732,
+      "Text": "Carnation Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7824152154826914199,
+      "Text": "Carnation Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 5618635906769887388,
+      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3067141909094691803,
+      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3732595971846250068,
+      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5901987525156979875,
+      "Text": "Callalily Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -5717288456064606521,
+      "Text": "Callalily Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 430819613514735115,
+      "Text": "Callalily Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 6384021236662026200,
+      "Text": "Callalily Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -7504133095471149737,
+      "Text": "Callalily petals. You can use them to plant Callalily.",
+      "PluralText": ""
+    },
+    {
+      "Id": 597426030369841197,
+      "Text": "Callalily petals. You can use them to plant Callalily.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6279862765021697417,
+      "Text": "Callalily petals. You can use them to plant Callalily.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2773876165168298651,
+      "Text": "Callalily petals. You can use them to plant Callalily.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1472624022930022573,
+      "Text": "Hydrangea Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -1802774612447763038,
+      "Text": "Hydrangea Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -3341323601561712459,
+      "Text": "Hydrangea Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -5181795043757657110,
+      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "PluralText": ""
+    },
+    {
+      "Id": 279708105547368249,
+      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1475519866812723581,
+      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5899947725302217262,
+      "Text": "Lilium Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7255236997108479680,
+      "Text": "Lilium Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -2035285233830669725,
+      "Text": "Lilium Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 4881947496496563129,
+      "Text": "Lilium petals. You can use them to plant Lilium.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1569853509380345461,
+      "Text": "Lilium petals. You can use them to plant Lilium.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7365392599771270017,
+      "Text": "Lilium petals. You can use them to plant Lilium.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5599346766189073564,
+      "Text": "Hibiscus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 8818007195346865099,
+      "Text": "Hibiscus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7808884536265185723,
+      "Text": "Hibiscus Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 2080881115714858951,
+      "Text": "Hibiscus petals. You can use them to plant Hibiscus.",
+      "PluralText": ""
+    },
+    {
+      "Id": 688972675442346803,
+      "Text": "Hibiscus petals. You can use them to plant Hibiscus.",
+      "PluralText": ""
+    },
+    {
+      "Id": 9018267298896797342,
+      "Text": "Hibiscus petals. You can use them to plant Hibiscus.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7976191500567901766,
+      "Text": "Plumeria Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 3989436528327581470,
+      "Text": "Plumeria Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 3362077143539821797,
+      "Text": "Plumeria Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -2116401971441392476,
+      "Text": "Plumeria petals. You can use them to plant Plumeria.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4785386222366469112,
+      "Text": "Plumeria petals. You can use them to plant Plumeria.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2931863865338783416,
+      "Text": "Plumeria petals. You can use them to plant Plumeria.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8373135272777223834,
+      "Text": "Cluster Amaryllis Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 7041090818970476195,
+      "Text": "Cluster Amaryllis Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -6631920261382886174,
+      "Text": "Cluster Amaryllis Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 1473256722674902528,
+      "Text": "Cluster Amaryllis petals. You can use them to plant Cluster Amaryllis.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1226927866306835946,
+      "Text": "Cluster Amaryllis petals. You can use them to plant Cluster Amaryllis.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4783277660321417237,
+      "Text": "Cluster Amaryllis petals. You can use them to plant Cluster Amaryllis.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7063481772269488210,
+      "Text": "Cosmos Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -2111421400716526970,
+      "Text": "Cosmos Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -572559388491682701,
+      "Text": "Cosmos Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 3220246146260603502,
+      "Text": "Cosmos petals. You can use them to plant Cosmos.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1495842930547672234,
+      "Text": "Cosmos petals. You can use them to plant Cosmos.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2432207928415705397,
+      "Text": "Cosmos petals. You can use them to plant Cosmos.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5242045363165094037,
+      "Text": "Cyclamen Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 2155860144028620839,
+      "Text": "Cyclamen Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": 5034354571828634284,
+      "Text": "Cyclamen Petals",
+      "PluralText": ""
+    },
+    {
+      "Id": -49197201821552512,
+      "Text": "Cyclamen petals. You can use them to plant Cyclamen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6317437324556766267,
+      "Text": "Cyclamen petals. You can use them to plant Cyclamen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7652943238474281815,
+      "Text": "Cyclamen petals. You can use them to plant Cyclamen.",
+      "PluralText": ""
+    },
+    {
       "Id": 4512608309946328130,
       "Text": "NIANTIC KIDS",
       "PluralText": ""
@@ -11968,6 +12988,21 @@
     {
       "Id": 499521323141124426,
       "Text": "https://app.parents.nianticlabs.com/ko/login",
+      "PluralText": ""
+    },
+    {
+      "Id": 4277095095918863174,
+      "Text": "To comply with The UK Age Appropriate Design Code which came into force on 2 September 2021, we require you to input date of birth again.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3792386460097383700,
+      "Text": "You input different date of birth in the past. Please make sure to input the correct date of birth.",
+      "PluralText": ""
+    },
+    {
+      "Id": 704694032920532328,
+      "Text": "Help",
       "PluralText": ""
     },
     {
@@ -12401,6 +13436,366 @@
       "PluralText": ""
     },
     {
+      "Id": -2216038639343923342,
+      "Text": "Narcissus Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -4645183482943250207,
+      "Text": "Narcissus Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 5631335378871467645,
+      "Text": "Rare nectar that will make a Narcissus grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5885565023281846303,
+      "Text": "Rare nectar that will make a Narcissus grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 9185703893455650866,
+      "Text": "Tulip Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -3999834673796882730,
+      "Text": "Tulip Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 3781564832103967768,
+      "Text": "Tulip Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -3255244715043770218,
+      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -93464290886712508,
+      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5554182129859650248,
+      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8758413008967315361,
+      "Text": "Tulip Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -5572361678970541141,
+      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -994308668905278774,
+      "Text": "Nemophila Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 385334078457209541,
+      "Text": "Rare nectar that will make a Nemophila grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7493065690932867517,
+      "Text": "Carnation Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 8106012987585575890,
+      "Text": "Carnation Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 456925336659337380,
+      "Text": "Carnation Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -7189020798718681133,
+      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6308581681808231676,
+      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4490362610984332759,
+      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -259053663745202193,
+      "Text": "Callalily Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 8382517185243430917,
+      "Text": "Callalily Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -4335846711497507016,
+      "Text": "Callalily Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 3085489641509516925,
+      "Text": "Callalily Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -5041526210408754359,
+      "Text": "Rare nectar that will make a Callalily grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1503712260009450434,
+      "Text": "Rare nectar that will make a Callalily grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3341328922745224300,
+      "Text": "Rare nectar that will make a Callalily grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3284365956309640685,
+      "Text": "Rare nectar that will make a Callalily grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1455948860794901810,
+      "Text": "Hydrangea Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -4315866866260456215,
+      "Text": "Hydrangea Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 104780273533430447,
+      "Text": "Hydrangea Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 8176092224478496919,
+      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1279814446344063928,
+      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4832539871091449461,
+      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7974929863864699797,
+      "Text": "Lilium Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 6010219776786455862,
+      "Text": "Lilium Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 9048645749259830977,
+      "Text": "Lilium Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 8235530693111691020,
+      "Text": "Rare nectar that will make a Lilium grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5759758324332692520,
+      "Text": "Rare nectar that will make a Lilium grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7519074559876519706,
+      "Text": "Rare nectar that will make a Lilium grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7350966598303012104,
+      "Text": "Hibiscus Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 5504041177460613328,
+      "Text": "Hibiscus Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 121017744955452525,
+      "Text": "Hibiscus Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -8370875881850635758,
+      "Text": "Rare nectar that will make a Hibiscus grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7326140643086802774,
+      "Text": "Rare nectar that will make a Hibiscus grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7609687729738238045,
+      "Text": "Rare nectar that will make a Hibiscus grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5981232340735671119,
+      "Text": "Plumeria Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 1889511570147078702,
+      "Text": "Plumeria Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 1069888913447866869,
+      "Text": "Plumeria Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -6025716001316034875,
+      "Text": "Rare nectar that will make a Plumeria grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6915854074455703230,
+      "Text": "Rare nectar that will make a Plumeria grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5715654992471689247,
+      "Text": "Rare nectar that will make a Plumeria grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -263095102676969046,
+      "Text": "Sunflower Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 13779198006331301,
+      "Text": "Rare nectar that will make a Sunflower grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8913725547355038280,
+      "Text": "Cluster Amaryllis Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 1376056171535081599,
+      "Text": "Cluster Amaryllis Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 2347771963188317006,
+      "Text": "Cluster Amaryllis Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -6653635714730074325,
+      "Text": "Rare nectar that will make a Cluster Amaryllis grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -376589002013997797,
+      "Text": "Rare nectar that will make a Cluster Amaryllis grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1120112124663007782,
+      "Text": "Rare nectar that will make a Cluster Amaryllis grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3451407740552605841,
+      "Text": "Cosmos Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -4980006934907995496,
+      "Text": "Cosmos Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -2820694355337058665,
+      "Text": "Cosmos Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -8785592524994546735,
+      "Text": "Rare nectar that will make a Cosmos grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": -82404680024907460,
+      "Text": "Rare nectar that will make a Cosmos grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8440197959792792334,
+      "Text": "Rare nectar that will make a Cosmos grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4718908740125540148,
+      "Text": "Cyclamen Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 566193802165873138,
+      "Text": "Cyclamen Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": 8171409123402884789,
+      "Text": "Cyclamen Nectar",
+      "PluralText": ""
+    },
+    {
+      "Id": -1900750473719989786,
+      "Text": "Rare nectar that will make a Cyclamen grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 309050162140555771,
+      "Text": "Rare nectar that will make a Cyclamen grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
+      "Id": 879791126844684885,
+      "Text": "Rare nectar that will make a Cyclamen grow on a Pikmin's head.",
+      "PluralText": ""
+    },
+    {
       "Id": -6414135360193770810,
       "Text": "이제 준비가 끝났습니다!",
       "PluralText": ""
@@ -12517,7 +13912,7 @@
     },
     {
       "Id": 3351633235524086435,
-      "Text": "<b>{1}</b> 이상의 기록으로 {2}{0:patchim:yes=을|no=를} <b>{0}</b>회 클리어하세요.",
+      "Text": "<b>{1}</b> 이상의 기록으로 {2}(을)를 <b>{0}</b>회 클리어하세요.",
       "PluralText": ""
     },
     {
@@ -12718,6 +14113,101 @@
     {
       "Id": 5966799445474660313,
       "Text": "유효하지 않은 날짜",
+      "PluralText": ""
+    },
+    {
+      "Id": 3880012473030289207,
+      "Text": "새로운 개인 구역 생성",
+      "PluralText": ""
+    },
+    {
+      "Id": -7829083069085931615,
+      "Text": "개인 구역",
+      "PluralText": ""
+    },
+    {
+      "Id": 3736620175004991436,
+      "Text": "개인 구역 안에서는 꽃이 심어지지 않습니다. 꽃잎은 여전히 소모됩니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8961140394872378046,
+      "Text": "개인 구역 편집",
+      "PluralText": ""
+    },
+    {
+      "Id": -452255224364019204,
+      "Text": "새로운 개인 구역 생성하기",
+      "PluralText": ""
+    },
+    {
+      "Id": -593338373372583800,
+      "Text": "개인 구역 편집하기",
+      "PluralText": ""
+    },
+    {
+      "Id": -5452907527552054987,
+      "Text": "팬과 줌으로 조절하세요",
+      "PluralText": ""
+    },
+    {
+      "Id": 5825677616776314791,
+      "Text": "구역의 최소 반경은 {0}m입니다",
+      "PluralText": ""
+    },
+    {
+      "Id": -4190590914822795433,
+      "Text": "구역의 최대 반경은 {0}m입니다",
+      "PluralText": ""
+    },
+    {
+      "Id": 2154752984811415783,
+      "Text": "개인 구역의 이름을 입력하세요\n\n개인 구역 이름",
+      "PluralText": ""
+    },
+    {
+      "Id": 5999476791060918802,
+      "Text": "<b>{0}</b>(을)를 개인 구역에서 삭제하시겠습니까?",
+      "PluralText": ""
+    },
+    {
+      "Id": 4334408023024892395,
+      "Text": "<b>{0}</b>(이)가 개인 구역으로 등록되었습니다!",
+      "PluralText": ""
+    },
+    {
+      "Id": 7843685146201866918,
+      "Text": "<b>{0}</b>(이)가 편집되었습니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8672162632527642720,
+      "Text": "<b>{0}</b>(이)가 <b>{1}</b>(으)로 이름 변경되었습니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4614691699410824665,
+      "Text": "이미 <b>{0}</b>의 이름을 가진 개인 구역이 존재합니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5886210548709238271,
+      "Text": "이미 <b>{0}</b>의 이름을 가진 개인 구역이 존재합니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5219667304274829668,
+      "Text": "개인 구역에 들어왔습니다",
+      "PluralText": ""
+    },
+    {
+      "Id": -7511102697939875980,
+      "Text": "꽃은 심어지지 않지만, 시간의 흐름에 따라 꽃잎은 계속 소모됩니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4678873459360921293,
+      "Text": "구역은 {0}개까지만 생성할 수 있습니다. 새롭게 생성하려면 기존 구역을 삭제하세요.",
       "PluralText": ""
     }
   ]

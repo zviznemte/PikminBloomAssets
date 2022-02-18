@@ -50,6 +50,9 @@ Pikmin Bloom 기동에 실패했습니다.
 -7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=ko&l=ko	
 8289170337175643231	WARNING_REGION_NOT_ALLOWED	해당 지역에서는 현재 Pikmin Bloom을 이용할 수 없습니다. 서비스 이용에 불편을 드려 대단히 죄송합니다.	
 499521323141124426	NIANTIC_KIDS_LOGIN_URL	https://app.parents.nianticlabs.com/ko/login	
+4277095095918863174	BIRTHDAY_REENTER_REASON	To comply with The UK Age Appropriate Design Code which came into force on 2 September 2021, we require you to input date of birth again.	
+3792386460097383700	BIRTHDAY_REENTER_INCONSISTENT_ERROR	You input different date of birth in the past. Please make sure to input the correct date of birth.	
+704694032920532328	BIRTHDAY_REENTER_HELP	Help	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	이전 페이지로	
 8485757493794925261	ACTION_CANCEL	취소	
 -897094175043611554	ACTION_CANT_SIGN_IN	로그인이 안 되나요?	

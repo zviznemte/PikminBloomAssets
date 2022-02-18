@@ -49,6 +49,9 @@ id	constant	phrase	plural phrase
 -7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=it&l=it	
 8289170337175643231	WARNING_REGION_NOT_ALLOWED	Pikmin Bloom non è attualmente disponibile nella tua zona. Ci scusiamo per qualsiasi inconveniente causato.	
 499521323141124426	NIANTIC_KIDS_LOGIN_URL	https://app.parents.nianticlabs.com/it/login	
+4277095095918863174	BIRTHDAY_REENTER_REASON	To comply with The UK Age Appropriate Design Code which came into force on 2 September 2021, we require you to input date of birth again.	
+3792386460097383700	BIRTHDAY_REENTER_INCONSISTENT_ERROR	You input different date of birth in the past. Please make sure to input the correct date of birth.	
+704694032920532328	BIRTHDAY_REENTER_HELP	Help	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Indietro	
 8485757493794925261	ACTION_CANCEL	Annulla	
 -897094175043611554	ACTION_CANT_SIGN_IN	Problemi con l'accesso?	

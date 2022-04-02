@@ -387,7 +387,7 @@
     },
     {
       "Id": 1755058594397429630,
-      "Text": "Weight",
+      "Text": "Weight:",
       "PluralText": ""
     },
     {
@@ -452,8 +452,23 @@
     },
     {
       "Id": -6681436196252445289,
-      "Text": "Remaining time",
+      "Text": "Remaining time:",
       "PluralText": ""
+    },
+    {
+      "Id": -1566463528491756958,
+      "Text": "Discovered:",
+      "PluralText": ""
+    },
+    {
+      "Id": 3277782968936121668,
+      "Text": "Quit",
+      "PluralText": ""
+    },
+    {
+      "Id": -5301263070916357664,
+      "Text": "{0} step",
+      "PluralText": "{0} steps"
     },
     {
       "Id": 9031174962354778674,
@@ -9702,7 +9717,7 @@
     },
     {
       "Id": 7007435731514555385,
-      "Text": "＊The name you currently typed will be discarded.\n＊You will no longer see this Pikmin name in Garden Scene when you press the whistle button.",
+      "Text": "＊The name you entered will be discarded.\n＊You will no longer see this name when you use the whistle to call your Pikmin.",
       "PluralText": ""
     },
     {
@@ -10146,6 +10161,11 @@
       "PluralText": ""
     },
     {
+      "Id": 6782584004064353837,
+      "Text": "You can see and share your memento cards in your lifelog.",
+      "PluralText": ""
+    },
+    {
       "Id": -5146076640042198176,
       "Text": "Update to the latest Mii version?",
       "PluralText": ""
@@ -10408,6 +10428,16 @@
     {
       "Id": 2974952472524460290,
       "Text": "Let's play Pikmin Bloom together! My friend code is: {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 744903378813560664,
+      "Text": "Check Friend List",
+      "PluralText": ""
+    },
+    {
+      "Id": -4224440711306580677,
+      "Text": "Send Friend Request",
       "PluralText": ""
     },
     {
@@ -13451,6 +13481,86 @@
       "PluralText": ""
     },
     {
+      "Id": 5108706162607180765,
+      "Text": "Stadium",
+      "PluralText": ""
+    },
+    {
+      "Id": 3390375248293570513,
+      "Text": "Stadium",
+      "PluralText": ""
+    },
+    {
+      "Id": 8830083834050071090,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 1705997845848680232,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2523482138720841881,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 2085759529113971732,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3716565711685399686,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 4400257157877103370,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2263467397187003687,
+      "Text": "Mountains",
+      "PluralText": ""
+    },
+    {
+      "Id": 974272131245597232,
+      "Text": "Mountain",
+      "PluralText": ""
+    },
+    {
+      "Id": 1908776735306925434,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -7187392044717060551,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8998934942362608367,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 1614243657280391359,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1865406682795794574,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 8546798411566475097,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "Pikmin plucked!",
       "PluralText": ""
@@ -13654,6 +13764,11 @@
       "Id": 6374116279282695527,
       "Text": "Deleted the selected postcard",
       "PluralText": "Deleted the selected postcards"
+    },
+    {
+      "Id": 9128158318785344342,
+      "Text": "Friend has not yet received your postcard.",
+      "PluralText": ""
     },
     {
       "Id": 357857585624279041,
@@ -13917,17 +14032,17 @@
     },
     {
       "Id": -3255244715043770218,
-      "Text": "Rare nectar that will make a tulip grow on a Pikmin's head.",
+      "Text": "Rare nectar that will make a white tulip grow on a Pikmin's head.",
       "PluralText": ""
     },
     {
       "Id": -93464290886712508,
-      "Text": "Rare nectar that will make a tulip grow on a Pikmin's head.",
+      "Text": "Rare nectar that will make a yellow tulip grow on a Pikmin's head.",
       "PluralText": ""
     },
     {
       "Id": 5554182129859650248,
-      "Text": "Rare nectar that will make a tulip grow on a Pikmin's head.",
+      "Text": "Rare nectar that will make a red tulip grow on a Pikmin's head.",
       "PluralText": ""
     },
     {
@@ -13937,7 +14052,7 @@
     },
     {
       "Id": -5572361678970541141,
-      "Text": "Rare nectar that will make a tulip grow on a Pikmin's head.",
+      "Text": "Rare nectar that will make a blue tulip grow on a Pikmin's head.",
       "PluralText": ""
     },
     {
@@ -14717,7 +14832,7 @@
     },
     {
       "Id": 8276595101407658895,
-      "Text": "You can delete flowers that you have planted from the lifelog or the settings screen.",
+      "Text": "You can delete flowers that you have planted from your lifelog or the settings screen.",
       "PluralText": ""
     },
     {
@@ -14757,7 +14872,7 @@
     },
     {
       "Id": 2631043907411713215,
-      "Text": "Too busy to feed your Pikmin nectar one at a time? Try long tapping the nectar icon as you swipe it toward the Pikmin.",
+      "Text": "Too busy to feed your Pikmin nectar one at a time? Try dragging the nectar icon toward them.",
       "PluralText": ""
     },
     {
@@ -14767,7 +14882,7 @@
     },
     {
       "Id": -3835780318666546226,
-      "Text": "Check the types of Decor Pikmin you have found so far from the Decor Pikmin badge details screen.",
+      "Text": "Check the types of decor Pikmin you have found so far from the decor pikmin badge details screen.",
       "PluralText": ""
     },
     {
@@ -14797,12 +14912,12 @@
     },
     {
       "Id": -2013858795142751835,
-      "Text": "The big map on the home screen provides convenient access to the lifelog, expedition screen, postcards, and Pikmin list.",
+      "Text": "Tap the big map on the home screen to access your lifelog, expeditions, postcards, Pikmin list and more!",
       "PluralText": ""
     },
     {
       "Id": 8837181790264424549,
-      "Text": "Expedition seedlings will disappear after some time if you don't send Pikmin to retrieve them. Items are listed from oldest to newest, so get the ones you want before they are gone.",
+      "Text": "Expedition items will disappear if you don't send Pikmin to retrieve them. Items are listed from oldest to newest, so get the ones you want before they are gone.",
       "PluralText": ""
     },
     {
@@ -14837,7 +14952,7 @@
     },
     {
       "Id": -1968907645343148781,
-      "Text": "Make friends to send each other postcards and check out each other's Pikmin and badges.",
+      "Text": "Make friends to send each other postcards and check out each other's steps, Pikmin, and badges.",
       "PluralText": ""
     },
     {

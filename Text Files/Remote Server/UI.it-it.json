@@ -447,13 +447,28 @@
     },
     {
       "Id": 7906285360239940228,
-      "Text": "Chiudi",
+      "Text": "Salvato",
       "PluralText": ""
     },
     {
       "Id": -6681436196252445289,
-      "Text": "Remaining time",
+      "Text": "Tempo rimanente",
       "PluralText": ""
+    },
+    {
+      "Id": -1566463528491756958,
+      "Text": "Scoperto:",
+      "PluralText": ""
+    },
+    {
+      "Id": 3277782968936121668,
+      "Text": "Quit",
+      "PluralText": ""
+    },
+    {
+      "Id": -5301263070916357664,
+      "Text": "{0} step",
+      "PluralText": "{0} steps"
     },
     {
       "Id": 9031174962354778674,
@@ -988,7 +1003,7 @@
     {
       "Id": -3930852527203257392,
       "Text": "Hai ottenuto <b>{0}pt</b> in una sfida",
-      "PluralText": "Hai ottenuto <b>{0}pt</b> nelle sfide"
+      "PluralText": "Hai ottenuto <b>{0} pt</b> nelle sfide"
     },
     {
       "Id": -4585279161755334562,
@@ -2117,12 +2132,12 @@
     },
     {
       "Id": -551496194427112054,
-      "Text": "Il tuo codice amico",
+      "Text": "Il tuo codice",
       "PluralText": ""
     },
     {
       "Id": -1309541670834560152,
-      "Text": "Invia una richiesta di amicizia:",
+      "Text": "Invia una richiesta di amicizia",
       "PluralText": ""
     },
     {
@@ -5752,7 +5767,7 @@
     },
     {
       "Id": 3840972064299278913,
-      "Text": "{0} da {1}",
+      "Text": "{0} {1}",
       "PluralText": ""
     },
     {
@@ -9687,32 +9702,32 @@
     },
     {
       "Id": 8481807667962504414,
-      "Text": "Decor",
+      "Text": "Decorati",
       "PluralText": ""
     },
     {
       "Id": 1017804344606554124,
-      "Text": "Reset to default",
+      "Text": "Ripristina predefinito",
       "PluralText": ""
     },
     {
       "Id": 4898751449553010730,
-      "Text": "Reset Pikmin name to default.",
+      "Text": "Ripristina il nome predefinito del Pikmin.",
       "PluralText": ""
     },
     {
       "Id": 7007435731514555385,
-      "Text": "＊The name you currently typed will be discarded.\n＊You will no longer see this Pikmin name in Garden Scene when you press the whistle button.",
+      "Text": "＊Il nome che hai immesso sarà cancellato.\n＊Non vedrai più questo nome quando userai il fischietto per chiamare i tuoi Pikmin.",
       "PluralText": ""
     },
     {
       "Id": -8160463922470116096,
-      "Text": "Do you want to proceed?",
+      "Text": "Vuoi procedere?",
       "PluralText": ""
     },
     {
       "Id": 952110789839986926,
-      "Text": "Pikmin name has been reset to default.",
+      "Text": "È stato ripristinato il nome predefinito del Pikmin.",
       "PluralText": ""
     },
     {
@@ -10146,6 +10161,11 @@
       "PluralText": ""
     },
     {
+      "Id": 6782584004064353837,
+      "Text": "Puoi vedere e condividere le tue cartoline ricordo nel tuo diario.",
+      "PluralText": ""
+    },
+    {
       "Id": -5146076640042198176,
       "Text": "Aggiornare il Mii all'ultima versione?",
       "PluralText": ""
@@ -10207,7 +10227,7 @@
     },
     {
       "Id": -1302362839224212364,
-      "Text": "You can see and share your mement cards in your  life log.",
+      "Text": "Puoi vedere e condividere le tue cartoline ricordo nel tuo diario.",
       "PluralText": ""
     },
     {
@@ -10407,7 +10427,17 @@
     },
     {
       "Id": 2974952472524460290,
-      "Text": "Let's play Pikmin Bloom together! My friend code is: {0}",
+      "Text": "Giochiamo insieme a Pikmin Bloom! Il mio codice di amicizia è: {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 744903378813560664,
+      "Text": "Check Friend List",
+      "PluralText": ""
+    },
+    {
+      "Id": -4224440711306580677,
+      "Text": "Send Friend Request",
       "PluralText": ""
     },
     {
@@ -10562,7 +10592,7 @@
     },
     {
       "Id": 8384105745488289467,
-      "Text": "Quadrifoglio",
+      "Text": "Trifoglio",
       "PluralText": ""
     },
     {
@@ -11462,12 +11492,12 @@
     },
     {
       "Id": -4107562373360705884,
-      "Text": "Quadrifoglio",
+      "Text": "Trifoglio",
       "PluralText": ""
     },
     {
       "Id": -1590043862710359007,
-      "Text": "Quadrifoglio",
+      "Text": "Trifoglio",
       "PluralText": ""
     },
     {
@@ -11477,22 +11507,22 @@
     },
     {
       "Id": 6080904572017452694,
-      "Text": "Quadrifoglio",
+      "Text": "Trifoglio",
       "PluralText": ""
     },
     {
       "Id": -142012035775048772,
-      "Text": "Quadrifoglio",
+      "Text": "Trifoglio",
       "PluralText": ""
     },
     {
       "Id": -1579425474820955154,
-      "Text": "Quadrifoglio",
+      "Text": "Trifoglio",
       "PluralText": ""
     },
     {
       "Id": 3350717408823794829,
-      "Text": "Quadrifoglio",
+      "Text": "Trifoglio",
       "PluralText": ""
     },
     {
@@ -13451,6 +13481,86 @@
       "PluralText": ""
     },
     {
+      "Id": 5108706162607180765,
+      "Text": "Stadium",
+      "PluralText": ""
+    },
+    {
+      "Id": 3390375248293570513,
+      "Text": "Stadium",
+      "PluralText": ""
+    },
+    {
+      "Id": 8830083834050071090,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 1705997845848680232,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2523482138720841881,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 2085759529113971732,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3716565711685399686,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 4400257157877103370,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2263467397187003687,
+      "Text": "Mountains",
+      "PluralText": ""
+    },
+    {
+      "Id": 974272131245597232,
+      "Text": "Mountain",
+      "PluralText": ""
+    },
+    {
+      "Id": 1908776735306925434,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -7187392044717060551,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8998934942362608367,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 1614243657280391359,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1865406682795794574,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 8546798411566475097,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "Pikmin colto!",
       "PluralText": ""
@@ -13659,6 +13769,11 @@
       "Id": 8852486862410444001,
       "Text": "Errore durante l'eliminazione. Riprova.",
       "PluralText": "Errore durante l'eliminazione. Riprova."
+    },
+    {
+      "Id": 9128158318785344342,
+      "Text": "Friend has not yet received your postcard.",
+      "PluralText": ""
     },
     {
       "Id": 357857585624279041,
@@ -13922,17 +14037,17 @@
     },
     {
       "Id": -3255244715043770218,
-      "Text": "Un raro nettare che farà crescere un tulipano sulla testa di un Pikmin.",
+      "Text": "Un raro nettare che farà crescere un tulipano bianco sulla testa di un Pikmin.",
       "PluralText": ""
     },
     {
       "Id": -93464290886712508,
-      "Text": "Un raro nettare che farà crescere un tulipano sulla testa di un Pikmin.",
+      "Text": "Un raro nettare che farà crescere un tulipano giallo sulla testa di un Pikmin.",
       "PluralText": ""
     },
     {
       "Id": 5554182129859650248,
-      "Text": "Un raro nettare che farà crescere un tulipano sulla testa di un Pikmin.",
+      "Text": "Un raro nettare che farà crescere un tulipano rosso sulla testa di un Pikmin.",
       "PluralText": ""
     },
     {
@@ -13942,7 +14057,7 @@
     },
     {
       "Id": -5572361678970541141,
-      "Text": "Un raro nettare che farà crescere un tulipano sulla testa di un Pikmin.",
+      "Text": "Un raro nettare che farà crescere un tulipano blu sulla testa di un Pikmin.",
       "PluralText": ""
     },
     {
@@ -14412,7 +14527,7 @@
     },
     {
       "Id": 6038283208048095837,
-      "Text": "Level Up Rewards",
+      "Text": "Ricompense di livello",
       "PluralText": ""
     },
     {

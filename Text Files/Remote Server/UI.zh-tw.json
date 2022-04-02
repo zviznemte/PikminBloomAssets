@@ -207,7 +207,7 @@
     },
     {
       "Id": -96276456103343170,
-      "Text": "Mushroom Challenges",
+      "Text": "蘑菇挑戰",
       "PluralText": ""
     },
     {
@@ -447,12 +447,27 @@
     },
     {
       "Id": 7906285360239940228,
-      "Text": "關閉",
+      "Text": "已儲存",
       "PluralText": ""
     },
     {
       "Id": -6681436196252445289,
-      "Text": "Remaining time",
+      "Text": "剩餘時間",
+      "PluralText": ""
+    },
+    {
+      "Id": -1566463528491756958,
+      "Text": "發現日:",
+      "PluralText": ""
+    },
+    {
+      "Id": 3277782968936121668,
+      "Text": "Quit",
+      "PluralText": ""
+    },
+    {
+      "Id": -5301263070916357664,
+      "Text": "{0} steps",
       "PluralText": ""
     },
     {
@@ -2122,7 +2137,7 @@
     },
     {
       "Id": -1309541670834560152,
-      "Text": "請輸入好友代碼：",
+      "Text": "請輸入好友代碼",
       "PluralText": ""
     },
     {
@@ -9687,32 +9702,32 @@
     },
     {
       "Id": 8481807667962504414,
-      "Text": "Decor",
+      "Text": "飾品",
       "PluralText": ""
     },
     {
       "Id": 1017804344606554124,
-      "Text": "Reset to default",
+      "Text": "重置為預設名稱",
       "PluralText": ""
     },
     {
       "Id": 4898751449553010730,
-      "Text": "Reset Pikmin name to default.",
+      "Text": "將皮克敏重置為預設名稱。",
       "PluralText": ""
     },
     {
       "Id": 7007435731514555385,
-      "Text": "＊The name you currently typed will be discarded.\n＊You will no longer see this Pikmin name in Garden Scene when you press the whistle button.",
+      "Text": "* 你輸入的名稱將被捨棄。\n* 之後使用口哨集合皮克敏時，將不會再看到這個名稱。",
       "PluralText": ""
     },
     {
       "Id": -8160463922470116096,
-      "Text": "Do you want to proceed?",
+      "Text": "確定要繼續嗎？",
       "PluralText": ""
     },
     {
       "Id": 952110789839986926,
-      "Text": "Pikmin name has been reset to default.",
+      "Text": "皮克敏已重置為預設名稱。",
       "PluralText": ""
     },
     {
@@ -10146,6 +10161,11 @@
       "PluralText": ""
     },
     {
+      "Id": 6782584004064353837,
+      "Text": "你可以在生活記錄中查看和分享回憶卡片。",
+      "PluralText": ""
+    },
+    {
       "Id": -5146076640042198176,
       "Text": "要把Mii更新至最新的狀態嗎？",
       "PluralText": ""
@@ -10207,7 +10227,7 @@
     },
     {
       "Id": -1302362839224212364,
-      "Text": "You can see and share your mement cards in your  life log.",
+      "Text": "你可以在生活記錄中查看和分享回憶卡片。",
       "PluralText": ""
     },
     {
@@ -10407,7 +10427,17 @@
     },
     {
       "Id": 2974952472524460290,
-      "Text": "Let's play Pikmin Bloom together! My friend code is: {0}",
+      "Text": "一起來玩Pikmin Bloom！我的好友代碼是：{0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 744903378813560664,
+      "Text": "Check Friend List",
+      "PluralText": ""
+    },
+    {
+      "Id": -4224440711306580677,
+      "Text": "Send Friend Request",
       "PluralText": ""
     },
     {
@@ -13451,6 +13481,86 @@
       "PluralText": ""
     },
     {
+      "Id": 5108706162607180765,
+      "Text": "Stadium",
+      "PluralText": ""
+    },
+    {
+      "Id": 3390375248293570513,
+      "Text": "Stadium",
+      "PluralText": ""
+    },
+    {
+      "Id": 8830083834050071090,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 1705997845848680232,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2523482138720841881,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 2085759529113971732,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3716565711685399686,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 4400257157877103370,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2263467397187003687,
+      "Text": "Mountains",
+      "PluralText": ""
+    },
+    {
+      "Id": 974272131245597232,
+      "Text": "Mountain",
+      "PluralText": ""
+    },
+    {
+      "Id": 1908776735306925434,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -7187392044717060551,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8998934942362608367,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 1614243657280391359,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1865406682795794574,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 8546798411566475097,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "{0}穿戴了{1}！",
       "PluralText": ""
@@ -13658,6 +13768,11 @@
     {
       "Id": 8852486862410444001,
       "Text": "刪除失敗。請再試一次。",
+      "PluralText": ""
+    },
+    {
+      "Id": 9128158318785344342,
+      "Text": "Friend has not yet received your postcard.",
       "PluralText": ""
     },
     {
@@ -13922,17 +14037,17 @@
     },
     {
       "Id": -3255244715043770218,
-      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開鬱金香。",
+      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開白色鬱金香。",
       "PluralText": ""
     },
     {
       "Id": -93464290886712508,
-      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開鬱金香。",
+      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開黃色鬱金香。",
       "PluralText": ""
     },
     {
       "Id": 5554182129859650248,
-      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開鬱金香。",
+      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開紅色鬱金香。",
       "PluralText": ""
     },
     {
@@ -13942,7 +14057,7 @@
     },
     {
       "Id": -5572361678970541141,
-      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開鬱金香。",
+      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開藍色鬱金香。",
       "PluralText": ""
     },
     {
@@ -14412,7 +14527,7 @@
     },
     {
       "Id": 6038283208048095837,
-      "Text": "Level Up Rewards",
+      "Text": "升級獎勵",
       "PluralText": ""
     },
     {

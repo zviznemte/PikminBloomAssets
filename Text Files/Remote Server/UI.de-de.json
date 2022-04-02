@@ -207,7 +207,7 @@
     },
     {
       "Id": -96276456103343170,
-      "Text": "Mushroom Challenges",
+      "Text": "Pilz-Herausforderungen",
       "PluralText": ""
     },
     {
@@ -447,13 +447,28 @@
     },
     {
       "Id": 7906285360239940228,
-      "Text": "Schließen",
+      "Text": "Gespeichert",
       "PluralText": ""
     },
     {
       "Id": -6681436196252445289,
-      "Text": "Remaining time",
+      "Text": "Verbleibende Zeit",
       "PluralText": ""
+    },
+    {
+      "Id": -1566463528491756958,
+      "Text": "Entdeckt:",
+      "PluralText": ""
+    },
+    {
+      "Id": 3277782968936121668,
+      "Text": "Quit",
+      "PluralText": ""
+    },
+    {
+      "Id": -5301263070916357664,
+      "Text": "{0} step",
+      "PluralText": "{0} steps"
     },
     {
       "Id": 9031174962354778674,
@@ -473,7 +488,7 @@
     {
       "Id": -7947182485618978017,
       "Text": "Expeditionsmedaille",
-      "PluralText": "Expeditionsmedaillen"
+      "PluralText": "Expeditionsmedaille"
     },
     {
       "Id": 883712973248936916,
@@ -1002,8 +1017,8 @@
     },
     {
       "Id": 7798884055473650454,
-      "Text": "Get {0}pt in challenges",
-      "PluralText": "Get {0}pts in challenges"
+      "Text": "Sammle {0} Punkt in Herausforderungen",
+      "PluralText": "Sammle {0} Punkte in Herausforderungen"
     },
     {
       "Id": -2084673541074085258,
@@ -2117,12 +2132,12 @@
     },
     {
       "Id": -551496194427112054,
-      "Text": "Mein Freundescode",
+      "Text": "Freundescode",
       "PluralText": ""
     },
     {
       "Id": -1309541670834560152,
-      "Text": "Freundesanfrage schicken an:",
+      "Text": "Freundesanfrage schicken an",
       "PluralText": ""
     },
     {
@@ -5947,7 +5962,7 @@
     },
     {
       "Id": 6042428539957281706,
-      "Text": "Glückwünsche!",
+      "Text": "Glückwunsch!",
       "PluralText": ""
     },
     {
@@ -9687,32 +9702,32 @@
     },
     {
       "Id": 8481807667962504414,
-      "Text": "Decor",
+      "Text": "Deko",
       "PluralText": ""
     },
     {
       "Id": 1017804344606554124,
-      "Text": "Reset to default",
+      "Text": "Auf Standard zurücksetzen",
       "PluralText": ""
     },
     {
       "Id": 4898751449553010730,
-      "Text": "Reset Pikmin name to default.",
+      "Text": "Pikmin-Namen auf Standard zurücksetzen.",
       "PluralText": ""
     },
     {
       "Id": 7007435731514555385,
-      "Text": "＊The name you currently typed will be discarded.\n＊You will no longer see this Pikmin name in Garden Scene when you press the whistle button.",
+      "Text": "＊Dein eingegebener Name wird verworfen.\n＊Du siehst diesen Namen nicht mehr, wenn du deine Pikmin mit der Pfeife rufst.",
       "PluralText": ""
     },
     {
       "Id": -8160463922470116096,
-      "Text": "Do you want to proceed?",
+      "Text": "Möchtest du fortfahren?",
       "PluralText": ""
     },
     {
       "Id": 952110789839986926,
-      "Text": "Pikmin name has been reset to default.",
+      "Text": "Pikmin-Name wurde auf Standard zurückgesetzt.",
       "PluralText": ""
     },
     {
@@ -10146,6 +10161,11 @@
       "PluralText": ""
     },
     {
+      "Id": 6782584004064353837,
+      "Text": "Du kannst deine Andenkenkarten in deinem Tagebuch ansehen und teilen.",
+      "PluralText": ""
+    },
+    {
       "Id": -5146076640042198176,
       "Text": "Mii auf die neuste Version aktualisieren?",
       "PluralText": ""
@@ -10207,7 +10227,7 @@
     },
     {
       "Id": -1302362839224212364,
-      "Text": "You can see and share your mement cards in your  life log.",
+      "Text": "Du kannst deine Andenkenkarten in deinem Tagebuch ansehen und teilen.",
       "PluralText": ""
     },
     {
@@ -10342,7 +10362,7 @@
     },
     {
       "Id": -8050006314827239491,
-      "Text": "Du erhältst besondere Belohnungen \nfür jede Einladung.",
+      "Text": "Erhalte besondere Belohnungen für jede Einladung.",
       "PluralText": ""
     },
     {
@@ -10362,7 +10382,7 @@
     },
     {
       "Id": 4963687407933294490,
-      "Text": "Du erhältst deine Belohnung, sobald dein Freund das erste Tutorial abgeschlossen hat. Dein Freund erhält eine andere Spezialbelohnung.",
+      "Text": "Du erhältst deine Belohnung, sobald dein Freund das erste Tutorial abgeschlossen hat. Dein Freund erhält eine andere Belohnung.",
       "PluralText": ""
     },
     {
@@ -10407,7 +10427,17 @@
     },
     {
       "Id": 2974952472524460290,
-      "Text": "Let's play Pikmin Bloom together! My friend code is: {0}",
+      "Text": "Spielen wir zusammen Pikmin Bloom! Mein Freundescode ist: {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 744903378813560664,
+      "Text": "Check Friend List",
+      "PluralText": ""
+    },
+    {
+      "Id": -4224440711306580677,
+      "Text": "Send Friend Request",
       "PluralText": ""
     },
     {
@@ -12022,7 +12052,7 @@
     },
     {
       "Id": -6031586623699898218,
-      "Text": "Weiße Tulpen-Blütenblätter",
+      "Text": "Weiße \nTulpen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -12767,7 +12797,7 @@
     },
     {
       "Id": 3922880167303567495,
-      "Text": "Weiße Tulpen-Blütenblätter",
+      "Text": "Weiße \nTulpen-\nBlütenblätter",
       "PluralText": ""
     },
     {
@@ -13451,6 +13481,86 @@
       "PluralText": ""
     },
     {
+      "Id": 5108706162607180765,
+      "Text": "Stadium",
+      "PluralText": ""
+    },
+    {
+      "Id": 3390375248293570513,
+      "Text": "Stadium",
+      "PluralText": ""
+    },
+    {
+      "Id": 8830083834050071090,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 1705997845848680232,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2523482138720841881,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 2085759529113971732,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3716565711685399686,
+      "Text": "Keychain Accessories",
+      "PluralText": ""
+    },
+    {
+      "Id": 4400257157877103370,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2263467397187003687,
+      "Text": "Mountains",
+      "PluralText": ""
+    },
+    {
+      "Id": 974272131245597232,
+      "Text": "Mountain",
+      "PluralText": ""
+    },
+    {
+      "Id": 1908776735306925434,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": -7187392044717060551,
+      "Text": "This is a Red Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8998934942362608367,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 1614243657280391359,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1865406682795794574,
+      "Text": "Mountain Badge",
+      "PluralText": ""
+    },
+    {
+      "Id": 8546798411566475097,
+      "Text": "This is a Yellow Pikmin.",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "Pikmin gepflückt!",
       "PluralText": ""
@@ -13659,6 +13769,11 @@
       "Id": 8852486862410444001,
       "Text": "Löschen fehlgeschlagen. Bitte versuche es erneut.",
       "PluralText": "Löschen fehlgeschlagen. Bitte versuche es erneut."
+    },
+    {
+      "Id": 9128158318785344342,
+      "Text": "Friend has not yet received your postcard.",
+      "PluralText": ""
     },
     {
       "Id": 357857585624279041,
@@ -13922,17 +14037,17 @@
     },
     {
       "Id": -3255244715043770218,
-      "Text": "Dieser seltene Nektar lässt eine Tulpe auf den Köpfen deiner Pikmin wachsen.",
+      "Text": "Dieser seltene Nektar lässt eine weiße Tulpe auf den Köpfen deiner Pikmin wachsen.",
       "PluralText": ""
     },
     {
       "Id": -93464290886712508,
-      "Text": "Dieser seltene Nektar lässt eine Tulpe auf den Köpfen deiner Pikmin wachsen.",
+      "Text": "Dieser seltene Nektar lässt eine gelbe Tulpe auf den Köpfen deiner Pikmin wachsen.",
       "PluralText": ""
     },
     {
       "Id": 5554182129859650248,
-      "Text": "Dieser seltene Nektar lässt eine Tulpe auf den Köpfen deiner Pikmin wachsen.",
+      "Text": "Dieser seltene Nektar lässt eine rote Tulpe auf den Köpfen deiner Pikmin wachsen.",
       "PluralText": ""
     },
     {
@@ -13942,7 +14057,7 @@
     },
     {
       "Id": -5572361678970541141,
-      "Text": "Dieser seltene Nektar lässt eine Tulpe auf den Köpfen deiner Pikmin wachsen.",
+      "Text": "Dieser seltene Nektar lässt eine blaue Tulpe auf den Köpfen deiner Pikmin wachsen.",
       "PluralText": ""
     },
     {
@@ -14412,7 +14527,7 @@
     },
     {
       "Id": 6038283208048095837,
-      "Text": "Level Up Rewards",
+      "Text": "Aufstiegsbelohnungen",
       "PluralText": ""
     },
     {

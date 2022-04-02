@@ -102,5 +102,43 @@ id	constant	phrase	plural phrase
 9026675325510307464	ACTION_SUBMIT	Invia	
 5971105615315949668	ACTION_SKIP	Salta	
 -4558965017223283166	ACTION_SAVE_TO_DEVICE	Salva	
--7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	Couldn't connect to server.	
--6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Check your network connectivity.	
+-7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	Impossibile collegarsi al server.	
+-6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Controlla la tua connessione di rete.	
+3484617631795916588	STARTUP_SCREEN_TIPS_0001	Scatta foto in AR mentre nutri i tuoi Pikmin e condividile con i tuoi amici!	
+7200515630930266300	STARTUP_SCREEN_TIPS_0002	Il rilevatore verrà ricaricato con un uso gratuito ogni giorno, se è vuoto, quindi non dimenticare di approfittarne!
+	
+6497422941931275781	STARTUP_SCREEN_TIPS_0003	Dai il nettare ai tuoi Pikmin ogni giorno per aumentare il vostro livello di amicizia. Potrebbero accadere cose fantastiche se diventerete migliori amici!	
+-4201989235065548635	STARTUP_SCREEN_TIPS_0004	Aggiungi le tue foto preferite e scrivi della tua giornata nel diario. Tocca il pulsante "+" accanto alla data per iniziare.	
+-8946294826485047552	STARTUP_SCREEN_TIPS_0005	Tocca a lungo per selezionare più elementi nel tuo elenco dei Pikmin o delle cartoline.	
+-2395680636257114384	STARTUP_SCREEN_TIPS_0006	I Pikmin che vengono a consegnarti le cartoline aspettano fino a tre giorni, così da darti il tempo di ritirarle.	
+5555984097992198740	STARTUP_SCREEN_TIPS_0007	Pianta dei fiori intorno al megafiore per aiutarlo a sbocciare.	
+2061307758073378667	STARTUP_SCREEN_TIPS_0008	Prova a piantare dei fiori intorno a un megafiore in piena fioritura che brilla. Potresti ricevere una bella sorpresa!	
+136491324792122571	STARTUP_SCREEN_TIPS_0009	Le piantine crescono più velocemente quando pianti i fiori, quindi fallo per raccogliere sempre più Pikmin!	
+8734263729113341237	STARTUP_SCREEN_TIPS_0010	Ottieni monete bonus piantando i fiori.	
+-2871577461391453943	STARTUP_SCREEN_TIPS_0011	Imposta zone private dalla schermata delle impostazioni per escludere alcune aree dove non vuoi piantare fiori.	
+8276595101407658895	STARTUP_SCREEN_TIPS_0012	Puoi cancellare i fiori che hai piantato, dal diario o dalla schermata delle impostazioni.	
+-6078735754954300967	STARTUP_SCREEN_TIPS_0013	Invita i tuoi amici a partecipare a Pikmin Bloom e otterrai delle ricompense!	
+6043986246212696603	STARTUP_SCREEN_TIPS_0014	Per qualsiasi dubbio, consulta la sezione "Aiuto" nella schermata delle impostazioni.	
+-1824892194546110745	STARTUP_SCREEN_TIPS_0015	Usa la funzione di ordinamento nell'elenco dei Pikmin per trovare più facilmente i Pikmin che cerchi.	
+8639230601079919630	STARTUP_SCREEN_TIPS_0016	Collega il tuo account Nintendo per ricevere una piantina speciale! Vai alla schermata delle impostazioni o alla schermata di personalizzazione dei Mii.	
+7786551774778482299	STARTUP_SCREEN_TIPS_0017	Vuoi scambiare tutti i Pikmin della tua squadra in una volta sola? Tocca rapidamente il fischietto tre volte e saranno sostituiti con Pikmin in lista d'attesa.	
+-8454701317118302495	STARTUP_SCREEN_TIPS_0018	Gli spazi speciali permettono alle piantine di crescere più velocemente del solito. Puoi comprarli al negozio.	
+-8580761753237801017	STARTUP_SCREEN_TIPS_0019	Sembra che gli oggetti indossati dai Pikmin decorati siano legati al luogo in cui è stata trovata la loro piantina. Vai alla schermata delle informazioni sulla piantina per scoprire i dettagli.	
+2631043907411713215	STARTUP_SCREEN_TIPS_0020	Non hai tempo per dare il nettare ai tuoi Pikmin uno alla volta? Prova a trascinare l'icona del nettare verso di loro.	
+-996001821821169928	STARTUP_SCREEN_TIPS_0021	Quando i tuoi Pikmin perdono i fiori sulla testa, aggiungili alla tua squadra e portali a fare una passeggiata. Questo sembra aiutarli a recuperare le loro foglie più velocemente.	
+-3835780318666546226	STARTUP_SCREEN_TIPS_0022	Controlla i tipi di Pikmin decorati che hai trovato finora dalla schermata dei dettagli dei distintivi relativi ai Pikmin decorati.	
+-6866303937684414829	STARTUP_SCREEN_TIPS_0023	Tocca a lungo su un Pikmin nel giardino per raccoglierlo. Puoi anche usare la lente d'ingrandimento per osservarlo.	
+-8859530568136502550	STARTUP_SCREEN_TIPS_0024	Prova a espandere la schermata dei dettagli del Pikmin per visualizzarla a schermo intero e guarda cosa succede quando tocchi sul tuo Pikmin.	
+-8973640527982702391	STARTUP_SCREEN_TIPS_0025	Quando vuoi dare il nettare a un Pikmin specifico, tocca due volte per zoomare su di lui.	
+3898184139024259658	STARTUP_SCREEN_TIPS_0026	Dai del nettare speciale al tuo Pikmin preferito per aumentare il vostro livello di amicizia di un cuore!	
+4965465548260462006	STARTUP_SCREEN_TIPS_0027	Puoi aggiornare la capacità del tuo deposito di Pikmin, piantine, nettare e petali dal negozio.	
+-2013858795142751835	STARTUP_SCREEN_TIPS_0028	La grande mappa sulla schermata iniziale fornisce un comodo accesso al diario, alla schermata delle spedizioni, alle cartoline e all'elenco dei Pikmin.	
+8837181790264424549	STARTUP_SCREEN_TIPS_0029	Le piantine recuperabili con le spedizioni spariranno, se non invii Pikmin a prenderle in tempo. Gli oggetti sono elencati dal più vecchio al più recente, quindi prendi quelli che più ti interessano prima che spariscano.	
+-8560538571010392068	STARTUP_SCREEN_TIPS_0030	I Pikmin alati sembrano essere molto veloci nelle spedizioni, a meno che non vadano con altri tipi di Pikmin.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	Nelle sfide dei funghi, i Pikmin dello stesso colore dei funghi, i Pikmin decorati e i Pikmin con i fiori sembrano essere i più potenti.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	Il tempo conta nelle sfide dei funghi! Supera la sfida il più velocemente possibile per ottenere valutazioni più alte e ricompense migliori.	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	I funghi distrutti nelle sfide sembrano richiedere del tempo per riprendersi.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Nutri i tuoi Pikmin con il nettare e mandali in spedizioni e sfide per aumentare il vostro livello di amicizia.	
+8389710506546400265	STARTUP_SCREEN_TIPS_0035	Alcuni megafiori potrebbero sbocciare solo durante certe stagioni. Controlla la sezione "Notizie" per vedere quali fiori sono di stagione nel mese attuale.	
+-1968907645343148781	STARTUP_SCREEN_TIPS_0036	Fai amicizia per scambiare cartoline e guardare i passi, i Pikmin e i distintivi degli altri giocatori.	
+348878743656379735	STARTUP_SCREEN_TIPS_0037	Quando attraversi un nuovo luogo, le nuvole bianche sulla mappa si dissolvono per rivelare la nuova posizione. Usa la mappa per vedere i luoghi che hai visitato finora.	

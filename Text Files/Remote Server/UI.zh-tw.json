@@ -206,6 +206,11 @@
       "PluralText": ""
     },
     {
+      "Id": -96276456103343170,
+      "Text": "Mushroom Challenges",
+      "PluralText": ""
+    },
+    {
       "Id": 5795446491686635879,
       "Text": "你有邀請碼嗎？",
       "PluralText": ""
@@ -443,6 +448,11 @@
     {
       "Id": 7906285360239940228,
       "Text": "關閉",
+      "PluralText": ""
+    },
+    {
+      "Id": -6681436196252445289,
+      "Text": "Remaining time",
       "PluralText": ""
     },
     {
@@ -1072,17 +1082,17 @@
     },
     {
       "Id": -7003964138057203322,
-      "Text": "Tulip Badge",
+      "Text": "鬱金香徽章",
       "PluralText": ""
     },
     {
       "Id": -4233857067769992934,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "你在4月的社群日走了10,000步！",
       "PluralText": ""
     },
     {
       "Id": 4646121118474962310,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "在4月的社群日走10,000步！",
       "PluralText": ""
     },
     {
@@ -1137,12 +1147,12 @@
     },
     {
       "Id": -6224646841727017497,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "You walked 10,000 steps during the June Community Day!",
       "PluralText": ""
     },
     {
       "Id": -4957616103423086890,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Walk 10,000 steps during the June Community Day!",
       "PluralText": ""
     },
     {
@@ -1167,12 +1177,12 @@
     },
     {
       "Id": -1864206099140360282,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "You walked 10,000 steps during the May Community Day!",
       "PluralText": ""
     },
     {
       "Id": 4341265496922598793,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Walk 10,000 steps during the May Community Day!",
       "PluralText": ""
     },
     {
@@ -1537,12 +1547,12 @@
     },
     {
       "Id": -7006993197821614531,
-      "Text": "Couldn't connect to server.",
+      "Text": "無法連接到伺服器。",
       "PluralText": ""
     },
     {
       "Id": -6934986790882215623,
-      "Text": "Check your network connectivity.",
+      "Text": "請確認網路狀態。",
       "PluralText": ""
     },
     {
@@ -5737,7 +5747,7 @@
     },
     {
       "Id": -6320859607873432806,
-      "Text": "{0}皮克敏",
+      "Text": "{0}{1}皮克敏",
       "PluralText": ""
     },
     {
@@ -9676,6 +9686,36 @@
       "PluralText": ""
     },
     {
+      "Id": 8481807667962504414,
+      "Text": "Decor",
+      "PluralText": ""
+    },
+    {
+      "Id": 1017804344606554124,
+      "Text": "Reset to default",
+      "PluralText": ""
+    },
+    {
+      "Id": 4898751449553010730,
+      "Text": "Reset Pikmin name to default.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7007435731514555385,
+      "Text": "＊The name you currently typed will be discarded.\n＊You will no longer see this Pikmin name in Garden Scene when you press the whistle button.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8160463922470116096,
+      "Text": "Do you want to proceed?",
+      "PluralText": ""
+    },
+    {
+      "Id": 952110789839986926,
+      "Text": "Pikmin name has been reset to default.",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "比昨天多走了 {0} 步！",
       "PluralText": ""
@@ -10166,6 +10206,11 @@
       "PluralText": ""
     },
     {
+      "Id": -1302362839224212364,
+      "Text": "You can see and share your mement cards in your  life log.",
+      "PluralText": ""
+    },
+    {
       "Id": -7171364068543964418,
       "Text": "沒有好友",
       "PluralText": ""
@@ -10247,12 +10292,12 @@
     },
     {
       "Id": 4532780449312777931,
-      "Text": "你的好友人數已經到達上限。",
+      "Text": "對方的好友人數已經到達上限。",
       "PluralText": ""
     },
     {
       "Id": -837182238931387011,
-      "Text": "對方的好友人數已經到達上限。",
+      "Text": "你的好友人數已經到達上限。",
       "PluralText": ""
     },
     {
@@ -10332,7 +10377,7 @@
     },
     {
       "Id": -8839061826736048133,
-      "Text": "和我一起來玩Pikmin Bloom吧！培育你的皮克敏隊伍，一起讓我們身邊的世界開滿花朵！建立你的帳號時，別忘了輸入我的邀請碼，就能領取特別獎勵：20片花瓣與10個精華 {0}",
+      "Text": "和我一起來玩Pikmin Bloom吧！培育你的皮克敏隊伍，一起讓我們身邊的世界開滿花朵！建立你的帳號時，別忘了輸入我的邀請碼 {1}，就能領取特別獎勵！ {0}",
       "PluralText": ""
     },
     {
@@ -10352,12 +10397,17 @@
     },
     {
       "Id": 4804797333152966006,
-      "Text": "Let's play Pikmin Bloom together!",
+      "Text": "一起來玩Pikmin Bloom！",
       "PluralText": ""
     },
     {
       "Id": -2616644659738580677,
-      "Text": "{0}'s Friend Code",
+      "Text": "{0}的好友代碼",
+      "PluralText": ""
+    },
+    {
+      "Id": 2974952472524460290,
+      "Text": "Let's play Pikmin Bloom together! My friend code is: {0}",
       "PluralText": ""
     },
     {
@@ -11972,32 +12022,32 @@
     },
     {
       "Id": -6031586623699898218,
-      "Text": "White Tulip Petals",
+      "Text": "白色鬱金香花瓣",
       "PluralText": ""
     },
     {
       "Id": 5899040038572347915,
-      "Text": "Yellow Tulip Petals",
+      "Text": "黃色鬱金香花瓣",
       "PluralText": ""
     },
     {
       "Id": -8187484038251939022,
-      "Text": "White Tulip petals. Use them to plant White Tulips.",
+      "Text": "種花時必要的白色鬱金香花瓣，使用後可種出白色鬱金香。",
       "PluralText": ""
     },
     {
       "Id": 1101381063767929693,
-      "Text": "Yellow Tulip petals. Use them to plant Yellow Tulips.",
+      "Text": "種花時必要的黃色鬱金香花瓣，使用後可種出黃色鬱金香。",
       "PluralText": ""
     },
     {
       "Id": 1784272282964391732,
-      "Text": "Blue Tulip Petals",
+      "Text": "藍色鬱金香花瓣",
       "PluralText": ""
     },
     {
       "Id": -1437045631554306115,
-      "Text": "Blue Tulip petals. Use them to plant Blue Tulips.",
+      "Text": "種花時必要的藍色鬱金香花瓣，使用後可種出藍色鬱金香。",
       "PluralText": ""
     },
     {
@@ -12717,12 +12767,12 @@
     },
     {
       "Id": 3922880167303567495,
-      "Text": "Tulip Petals",
+      "Text": "白色鬱金香花瓣",
       "PluralText": ""
     },
     {
       "Id": 4318935807324170589,
-      "Text": "Tulip petals. You can use them to plant Tulip.",
+      "Text": "種花時必要的白色鬱金香花瓣，使用後可種出白色鬱金香。",
       "PluralText": ""
     },
     {
@@ -13286,6 +13336,121 @@
       "PluralText": ""
     },
     {
+      "Id": 1693613730535626830,
+      "Text": "壽司餐廳",
+      "PluralText": ""
+    },
+    {
+      "Id": 4233010586609108525,
+      "Text": "壽司",
+      "PluralText": ""
+    },
+    {
+      "Id": 8595996620366699356,
+      "Text": "這是紅色皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8909094214759613912,
+      "Text": "這是黃色皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8742502549483892506,
+      "Text": "這是藍色皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": 6824064637991850964,
+      "Text": "壽司",
+      "PluralText": ""
+    },
+    {
+      "Id": -8371629744304152733,
+      "Text": "壽司",
+      "PluralText": ""
+    },
+    {
+      "Id": -4906820165958685634,
+      "Text": "壽司",
+      "PluralText": ""
+    },
+    {
+      "Id": -4831962402194489789,
+      "Text": "棋子",
+      "PluralText": ""
+    },
+    {
+      "Id": -8202609903654207341,
+      "Text": "這是紅色皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": 5912434556819916912,
+      "Text": "這是黃色皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2838510332052937609,
+      "Text": "這是藍色皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8340669356474258017,
+      "Text": "這是岩石皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": 5946904083283211184,
+      "Text": "這是羽翅皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2236583345452789051,
+      "Text": "這是紫色皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": 2352222102455245736,
+      "Text": "這是白色皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": -3957461678017714046,
+      "Text": "棋子",
+      "PluralText": ""
+    },
+    {
+      "Id": 1898740594893874674,
+      "Text": "棋子",
+      "PluralText": ""
+    },
+    {
+      "Id": 6159117735239613501,
+      "Text": "棋子",
+      "PluralText": ""
+    },
+    {
+      "Id": 2433399513730815690,
+      "Text": "棋子",
+      "PluralText": ""
+    },
+    {
+      "Id": -2555179312702147528,
+      "Text": "棋子",
+      "PluralText": ""
+    },
+    {
+      "Id": 4617506967498218274,
+      "Text": "棋子",
+      "PluralText": ""
+    },
+    {
+      "Id": -3829438540758445639,
+      "Text": "棋子",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "{0}穿戴了{1}！",
       "PluralText": ""
@@ -13742,42 +13907,42 @@
     },
     {
       "Id": 9185703893455650866,
-      "Text": "Tulip Nectar",
+      "Text": "白色鬱金香精華",
       "PluralText": ""
     },
     {
       "Id": -3999834673796882730,
-      "Text": "Tulip Nectar",
+      "Text": "黃色鬱金香精華",
       "PluralText": ""
     },
     {
       "Id": 3781564832103967768,
-      "Text": "Tulip Nectar",
+      "Text": "紅色鬱金香精華",
       "PluralText": ""
     },
     {
       "Id": -3255244715043770218,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開鬱金香。",
       "PluralText": ""
     },
     {
       "Id": -93464290886712508,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開鬱金香。",
       "PluralText": ""
     },
     {
       "Id": 5554182129859650248,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開鬱金香。",
       "PluralText": ""
     },
     {
       "Id": 8758413008967315361,
-      "Text": "Tulip Nectar",
+      "Text": "藍色鬱金香精華",
       "PluralText": ""
     },
     {
       "Id": -5572361678970541141,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "稀有的精華。皮克敏吃掉後，頭上會盛開鬱金香。",
       "PluralText": ""
     },
     {
@@ -14246,6 +14411,11 @@
       "PluralText": ""
     },
     {
+      "Id": 6038283208048095837,
+      "Text": "Level Up Rewards",
+      "PluralText": ""
+    },
+    {
       "Id": -5982153601342926839,
       "Text": "中止",
       "PluralText": ""
@@ -14493,6 +14663,191 @@
     {
       "Id": 4678873459360921293,
       "Text": "無法建立超過{0}個區域。請刪除既有區域才能建立新區域。",
+      "PluralText": ""
+    },
+    {
+      "Id": 3484617631795916588,
+      "Text": "拍攝餵食皮克敏的AR照片，分享給你的好友吧！",
+      "PluralText": ""
+    },
+    {
+      "Id": 7200515630930266300,
+      "Text": "探測雷達每天可以免費使用一次，用掉之後會在隔天充電。別忘了妥善運用！",
+      "PluralText": ""
+    },
+    {
+      "Id": 6497422941931275781,
+      "Text": "每天都餵皮克敏吃精華來提升友好度吧。如果你們變成最好的朋友，或許會有什麼好事發生！",
+      "PluralText": ""
+    },
+    {
+      "Id": -4201989235065548635,
+      "Text": "在生活記錄中加入你最愛的照片，並且寫下你的生活點滴吧。點擊日期旁邊的「+」按鈕來開始。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8946294826485047552,
+      "Text": "在皮克敏或明信片列表中可以長按來選擇多個項目。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2395680636257114384,
+      "Text": "來遞送明信片的皮克敏最多會等待三天，如果對方還沒有收下明信片就會離開。",
+      "PluralText": ""
+    },
+    {
+      "Id": 5555984097992198740,
+      "Text": "在巨大花朵的附近種花，幫助巨大花朵綻放吧。",
+      "PluralText": ""
+    },
+    {
+      "Id": 2061307758073378667,
+      "Text": "試試看在完全盛開且發光的巨大花朵附近種花，說不定會有什麼驚喜喔！",
+      "PluralText": ""
+    },
+    {
+      "Id": 136491324792122571,
+      "Text": "種花時花苗會長得更快。多種一點花，收集更多皮克敏吧！",
+      "PluralText": ""
+    },
+    {
+      "Id": 8734263729113341237,
+      "Text": "透過種花來拿到獎勵金幣吧。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2871577461391453943,
+      "Text": "從設定畫面來設定私人區域，隔開你不想種花的一些區域。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8276595101407658895,
+      "Text": "你可以從生活記錄與設定畫面刪除你種過的花朵。",
+      "PluralText": ""
+    },
+    {
+      "Id": -6078735754954300967,
+      "Text": "邀請好友一起玩Pikmin Bloom並獲得獎勵吧！",
+      "PluralText": ""
+    },
+    {
+      "Id": 6043986246212696603,
+      "Text": "若有任何問題，請到設定畫面點選「幫助」查看裡面的內容。",
+      "PluralText": ""
+    },
+    {
+      "Id": -1824892194546110745,
+      "Text": "在皮克敏列表中使用排序功能，會更容易找出你想找的皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8639230601079919630,
+      "Text": "連結你的Nintendo帳號，拿到特別的花苗吧！前往設定畫面或者Mii自訂畫面以進行。",
+      "PluralText": ""
+    },
+    {
+      "Id": 7786551774778482299,
+      "Text": "想要一次更換隊伍中的所有皮克敏嗎？快速點擊哨子三次，待機的皮克敏就會替換掉隊伍中的所有皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8454701317118302495,
+      "Text": "特殊欄位會讓花苗長得比平時更快。你可以在商店中購買特殊欄位。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8580761753237801017,
+      "Text": "飾品皮克敏穿戴的道具似乎與找到其花苗的地點有關。前往花苗資訊畫面以了解詳情。",
+      "PluralText": ""
+    },
+    {
+      "Id": 2631043907411713215,
+      "Text": "一次餵一個精華給皮克敏嫌太慢？試試看一邊長按精華圖示，一邊將精華滑向皮克敏吧。",
+      "PluralText": ""
+    },
+    {
+      "Id": -996001821821169928,
+      "Text": "皮克敏頭上的花朵不見的時候，把那些皮克敏加入隊伍中，並且帶去散步吧。這樣子似乎會讓皮克敏葉子恢復的速度變快。",
+      "PluralText": ""
+    },
+    {
+      "Id": -3835780318666546226,
+      "Text": "在飾品皮克敏徽章的詳情畫面，可以查看目前發現的飾品皮克敏種類。",
+      "PluralText": ""
+    },
+    {
+      "Id": -6866303937684414829,
+      "Text": "長按花園裡的某一隻皮克敏，就能把它拿起來，之後可以用放大鏡加以觀察。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8859530568136502550,
+      "Text": "試著將皮克敏詳情畫面放大至全螢幕，再點擊你的皮克敏，看看會發生什麼事情吧。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8973640527982702391,
+      "Text": "如果你想要將精華餵給特定的皮克敏吃，可以快速點擊兩下來放大檢視它。",
+      "PluralText": ""
+    },
+    {
+      "Id": 3898184139024259658,
+      "Text": "餵你最愛的皮克敏吃特殊精華，能使其友好度增加一整顆心！",
+      "PluralText": ""
+    },
+    {
+      "Id": 4965465548260462006,
+      "Text": "透過商店可以增加皮克敏、花苗、精華、花瓣的攜帶空間。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2013858795142751835,
+      "Text": "主畫面的大地圖能讓你輕易前往生活記錄、探險畫面、皮克敏列表。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8837181790264424549,
+      "Text": "如果沒有派皮克敏去拿，在一段時間後探險花苗就會消失。探險道具在列表中會以出現時間來排序，越晚出現排在越後面。如果有想要的道具，記得在它們消失前拿回來。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8560538571010392068,
+      "Text": "羽翅皮克敏似乎能用非常快的速度去探險，但如果與其他種類的皮克敏同行，速度就沒那麼快了。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8321526828962939131,
+      "Text": "在蘑菇挑戰當中，最厲害的皮克敏看來是以下幾種：顏色與蘑菇一樣的皮克敏、飾品皮克敏、有花朵的皮克敏。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8845234256144901788,
+      "Text": "蘑菇挑戰分秒必爭！盡快完成挑戰，才有辦法拿到高分與更好的獎勵。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2367939774841143747,
+      "Text": "在挑戰中摧毀的蘑菇似乎要花一陣子來恢復。",
+      "PluralText": ""
+    },
+    {
+      "Id": -7210442754481933800,
+      "Text": "餵皮克敏吃精華，並派它們出去探險和完成挑戰，就能提高友好度。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8389710506546400265,
+      "Text": "有些巨大花朵只會在特定季節綻放。記得查看通知內容，看看有哪些花朵會在當月綻放。",
+      "PluralText": ""
+    },
+    {
+      "Id": -1968907645343148781,
+      "Text": "與其他玩家成為好友，就能互相寄送明信片，還可以看看對方的步數和有哪些皮克敏及徽章。",
+      "PluralText": ""
+    },
+    {
+      "Id": 348878743656379735,
+      "Text": "每當走到新的地方，地圖上的白雲就會散去，顯示出新的地點。你可以透過地圖來看自己去過哪些地方。",
       "PluralText": ""
     }
   ]

@@ -76,7 +76,7 @@ id	constant	phrase	plural phrase
 3321219507815418696	DIALOG_DO_NOT_DISPLAY_AGAIN	No mostrar de nuevo	
 -5805314665824740601	FLOWER_PLANTING_FINISHED_PUSH_TITLE	Pikmin Bloom	
 -806278199259073555	FLOWER_PLANTING_FINISHED	¡Ha terminado la siembra!	
--1206191158594113497	PRIVACY_POLICY_PLEASE_REVIEW	Para informarte sobre cómo tratamos tus datos personales, lee la política de privacidad de Niantic.	
+-1206191158594113497	PRIVACY_POLICY_PLEASE_REVIEW	Revisa la política de privacidad de Niantic para informarte sobre cómo procesamos tus datos personales.	
 -3503304310691560857	PRIVACY_POLICY_URL	https://nianticlabs.com/privacy-embedded/es/	
 6930828639460369314	PRIVACY_POLICY_VIEW	Ver la política de privacidad	
 -704332539942314270	PROMPT_ENTER_BIRTH_DATE	<b>Introduce tu fecha de nacimiento.</b>\n<size=24><color="red">* No podrás cambiarla más adelante.</color></size>	
@@ -102,5 +102,42 @@ id	constant	phrase	plural phrase
 9026675325510307464	ACTION_SUBMIT	Enviar	
 5971105615315949668	ACTION_SKIP	Omitir	
 -4558965017223283166	ACTION_SAVE_TO_DEVICE	Guardar	
--7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	Couldn't connect to server.	
--6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Check your network connectivity.	
+-7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	No se ha podido conectar con el servidor.	
+-6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Comprueba tu conexión a la red.	
+3484617631795916588	STARTUP_SCREEN_TIPS_0001	Toma fotos en modo RA cuando des de comer a tus Pikmin ¡y compártelas con tus amigos!	
+7200515630930266300	STARTUP_SCREEN_TIPS_0002	El detector se puede usar gratis una vez al día.\n¡No olvides utilizarlo!	
+6497422941931275781	STARTUP_SCREEN_TIPS_0003	Dales néctar a tus Pikmin todos los días para aumentar su nivel de amistad. ¡Si se convierten en mejores amigos, podrían pasar cosas geniales!	
+-4201989235065548635	STARTUP_SCREEN_TIPS_0004	Añade tus fotos favoritas y escribe sobre tu día en el diario. Toca el botón "+" que hay junto a la fecha para empezar.	
+-8946294826485047552	STARTUP_SCREEN_TIPS_0005	Mantén pulsado para seleccionar varios objetos de tu lista de Pikmin o postales.	
+-2395680636257114384	STARTUP_SCREEN_TIPS_0006	Los Pikmin que envíen postales esperarán hasta tres días para que sean recibidas.	
+5555984097992198740	STARTUP_SCREEN_TIPS_0007	Planta flores alrededor de una flor gigante para ayudarla a florecer.	
+2061307758073378667	STARTUP_SCREEN_TIPS_0008	Prueba a plantar flores alrededor de una flor gigante que haya florecido del todo y brille. ¡Quizá te lleves una agradable sorpresa!	
+136491324792122571	STARTUP_SCREEN_TIPS_0009	Las plántulas crecen más rápido mientras plantas flores. ¡Hazlo para conseguir más y más Pikmin!	
+8734263729113341237	STARTUP_SCREEN_TIPS_0010	Consigue monedas de regalo mientras plantas flores.	
+-2871577461391453943	STARTUP_SCREEN_TIPS_0011	Establece zonas de privacidad en la pantalla de ajustes para excluir determinadas zonas donde no quieras plantar flores.	
+8276595101407658895	STARTUP_SCREEN_TIPS_0012	Puedes eliminar las flores que has plantado desde el diario y la pantalla de ajustes.	
+-6078735754954300967	STARTUP_SCREEN_TIPS_0013	¡Invita a tus amigos a Pikmin Bloom y gana recompensas!	
+6043986246212696603	STARTUP_SCREEN_TIPS_0014	Si tienes alguna pregunta, échale un vistazo a la sección de ayuda, en la pantalla de ajustes.	
+-1824892194546110745	STARTUP_SCREEN_TIPS_0015	Usa la función de ordenar tu lista de Pikmin para encontrarlos más fácilmente.	
+8639230601079919630	STARTUP_SCREEN_TIPS_0016	¡Vincula tu cuenta Nintendo para recibir una plántula especial! Ve a la pantalla de ajustes o a la de personalización de Mii.	
+7786551774778482299	STARTUP_SCREEN_TIPS_0017	¿Quieres cambiar a todos los Pikmin de tu pelotón a la vez? Toca rápidamente el silbato tres veces y se cambiarán por Pikmin en reserva.	
+-8454701317118302495	STARTUP_SCREEN_TIPS_0018	Los semilleros especiales hacen que las plántulas crezcan más rápido de lo normal. Puedes comprarlos en la tienda.	
+-8580761753237801017	STARTUP_SCREEN_TIPS_0019	Parece que los objetos que llevan los Pikmin disfrazados están relacionados con la ubicación donde se encontró su plántula. Ve a la pantalla de información de plántula para saber más.	
+2631043907411713215	STARTUP_SCREEN_TIPS_0020	¿No tienes tiempo para darles néctar a tus Pikmin uno por uno? Mantén pulsado el icono del néctar al arrastrarlo hacia los Pikmin.	
+-996001821821169928	STARTUP_SCREEN_TIPS_0021	Cuando un Pikmin haya perdido la flor de la cabeza, añádelo a tu pelotón y sácalo a pasear; parece que así recuperan las hojas más deprisa.	
+-3835780318666546226	STARTUP_SCREEN_TIPS_0022	Echa un vistazo a los tipos de Pikmin disfrazados que has encontrado hasta el momento en la pantalla de información de la insignia de Pikmin disfrazado.	
+-6866303937684414829	STARTUP_SCREEN_TIPS_0023	Mantén pulsado un Pikmin del jardín para cogerlo. También puedes usar la lupa para observarlo.	
+-8859530568136502550	STARTUP_SCREEN_TIPS_0024	Prueba a poner la vista de detalles de los Pikmin a pantalla completa y mira qué ocurre cuando los tocas.	
+-8973640527982702391	STARTUP_SCREEN_TIPS_0025	Cuando quieras darle néctar a un Pikmin determinado, toca dos veces seguidas para acercar la vista.	
+3898184139024259658	STARTUP_SCREEN_TIPS_0026	¡Dale néctar especial a tu Pikmin favorito para aumentar un corazón su nivel de amistad!	
+4965465548260462006	STARTUP_SCREEN_TIPS_0027	Puedes ampliar tu capacidad de almacenamiento de Pikmin, plántulas, néctar y pétalos en la tienda.	
+-2013858795142751835	STARTUP_SCREEN_TIPS_0028	El mapa grande de la pantalla de inicio te da acceso fácil al diario, la pantalla de expediciones y la lista de Pikmin.	
+8837181790264424549	STARTUP_SCREEN_TIPS_0029	Los objetos de expedición desaparecerán de la lista pasados 3 días. Los objetos se ordenan de más antiguo a más reciente, así que recoge los que quieras antes de que desaparezcan.	
+-8560538571010392068	STARTUP_SCREEN_TIPS_0030	Los Pikmin alados son muy rápidos durante las expediciones, a no ser que vayan con otros tipos de Pikmin.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	En los desafíos de champiñones, los Pikmin del mismo color que el champiñón, los disfrazados y los que tengan flores parecen ser más poderosos.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	¡En los desafíos de champiñones, el tiempo es importante! Complétalos lo más rápido posible para conseguir una puntuación más alta y mejores recompensas.	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	Los champiñones destruidos durante los desafíos tardan unas 3 horas en recuperarse.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Dales néctar a tus Pikmin y envíalos a expediciones y desafíos para aumentar su nivel de amistad.	
+8389710506546400265	STARTUP_SCREEN_TIPS_0035	Algunas flores gigantes solo florecerán durante estaciones determinadas. Echa un vistazo a la sección de noticias para ver las flores de temporada de este mes.	
+-1968907645343148781	STARTUP_SCREEN_TIPS_0036	Añade a gente a tu lista de amigos para poder enviaros postales y ver vuestros Pikmin e insignias.	
+348878743656379735	STARTUP_SCREEN_TIPS_0037	Cuando pasees por un lugar nuevo, desaparecerán las nubes blancas del mapa y aparecerá la nueva ubicación. Usa el mapa para ver los sitios que has visitado hasta el momento.	

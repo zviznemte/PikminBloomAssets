@@ -206,6 +206,11 @@
       "PluralText": ""
     },
     {
+      "Id": -96276456103343170,
+      "Text": "Mushroom Challenges",
+      "PluralText": ""
+    },
+    {
       "Id": 5795446491686635879,
       "Text": "초대 코드를 가지고 있나요?",
       "PluralText": ""
@@ -443,6 +448,11 @@
     {
       "Id": 7906285360239940228,
       "Text": "닫기",
+      "PluralText": ""
+    },
+    {
+      "Id": -6681436196252445289,
+      "Text": "Remaining time",
       "PluralText": ""
     },
     {
@@ -1072,17 +1082,17 @@
     },
     {
       "Id": -7003964138057203322,
-      "Text": "Tulip Badge",
+      "Text": "튤립 배지",
       "PluralText": ""
     },
     {
       "Id": -4233857067769992934,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "4월의 커뮤니티 데이에서 10,000걸음 걸었습니다!",
       "PluralText": ""
     },
     {
       "Id": 4646121118474962310,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "4월의 커뮤니티 데이에서 10,000걸음 걸으세요!",
       "PluralText": ""
     },
     {
@@ -1137,12 +1147,12 @@
     },
     {
       "Id": -6224646841727017497,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "You walked 10,000 steps during the June Community Day!",
       "PluralText": ""
     },
     {
       "Id": -4957616103423086890,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Walk 10,000 steps during the June Community Day!",
       "PluralText": ""
     },
     {
@@ -1167,12 +1177,12 @@
     },
     {
       "Id": -1864206099140360282,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "You walked 10,000 steps during the May Community Day!",
       "PluralText": ""
     },
     {
       "Id": 4341265496922598793,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Walk 10,000 steps during the May Community Day!",
       "PluralText": ""
     },
     {
@@ -1537,12 +1547,12 @@
     },
     {
       "Id": -7006993197821614531,
-      "Text": "Couldn't connect to server.",
+      "Text": "서버에 접속하지 못했습니다.",
       "PluralText": ""
     },
     {
       "Id": -6934986790882215623,
-      "Text": "Check your network connectivity.",
+      "Text": "네트워크 상태를 확인해 주십시오.",
       "PluralText": ""
     },
     {
@@ -5737,7 +5747,7 @@
     },
     {
       "Id": -6320859607873432806,
-      "Text": "{0} 피크민",
+      "Text": "{1} {0} 피크민",
       "PluralText": ""
     },
     {
@@ -9676,6 +9686,36 @@
       "PluralText": ""
     },
     {
+      "Id": 8481807667962504414,
+      "Text": "Decor",
+      "PluralText": ""
+    },
+    {
+      "Id": 1017804344606554124,
+      "Text": "Reset to default",
+      "PluralText": ""
+    },
+    {
+      "Id": 4898751449553010730,
+      "Text": "Reset Pikmin name to default.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7007435731514555385,
+      "Text": "＊The name you currently typed will be discarded.\n＊You will no longer see this Pikmin name in Garden Scene when you press the whistle button.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8160463922470116096,
+      "Text": "Do you want to proceed?",
+      "PluralText": ""
+    },
+    {
+      "Id": 952110789839986926,
+      "Text": "Pikmin name has been reset to default.",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "어제보다 {0}걸음 더 많이 걸었습니다!",
       "PluralText": ""
@@ -10166,6 +10206,11 @@
       "PluralText": ""
     },
     {
+      "Id": -1302362839224212364,
+      "Text": "You can see and share your mement cards in your  life log.",
+      "PluralText": ""
+    },
+    {
       "Id": -7171364068543964418,
       "Text": "아직 추가한 친구가 없습니다.",
       "PluralText": ""
@@ -10247,12 +10292,12 @@
     },
     {
       "Id": 4532780449312777931,
-      "Text": "친구 수가 한도에 도달했습니다.",
+      "Text": "지금 초대하려는 유저는 이미 친구 수가 한도에 도달했습니다.",
       "PluralText": ""
     },
     {
       "Id": -837182238931387011,
-      "Text": "지금 초대하려는 유저는 이미 친구 수가 한도에 도달했습니다.",
+      "Text": "친구 수가 한도에 도달했습니다.",
       "PluralText": ""
     },
     {
@@ -10332,7 +10377,7 @@
     },
     {
       "Id": -8839061826736048133,
-      "Text": "Pikmin Bloom에서 함께해주세요! 와서 피크민 대열을 키우고, 함께 주변 세상을 꽃으로 뒤덮어봐요! 어카운트를 생성할 때, 이 초대 코드를 입력해서 특별한 보상을 받는 것도 잊지 마세요. 꽃잎 20개와 정수 10개예요! {0}",
+      "Text": "Pikmin Bloom에서 함께해주세요! 와서 피크민 대열을 키우고, 함께 주변 세상을 꽃으로 뒤덮어봐요! 어카운트를 생성할 때, 이 초대 코드를 {1} 입력해서 특별한 보상을 받는 것도 잊지 마세요! {0}",
       "PluralText": ""
     },
     {
@@ -10352,12 +10397,17 @@
     },
     {
       "Id": 4804797333152966006,
-      "Text": "Let's play Pikmin Bloom together!",
+      "Text": "함께 Pikmin Bloom을 플레이해요!",
       "PluralText": ""
     },
     {
       "Id": -2616644659738580677,
-      "Text": "{0}'s Friend Code",
+      "Text": "{0} 님의 친구 코드",
+      "PluralText": ""
+    },
+    {
+      "Id": 2974952472524460290,
+      "Text": "Let's play Pikmin Bloom together! My friend code is: {0}",
       "PluralText": ""
     },
     {
@@ -11972,32 +12022,32 @@
     },
     {
       "Id": -6031586623699898218,
-      "Text": "White Tulip Petals",
+      "Text": "하양튤립꽃잎",
       "PluralText": ""
     },
     {
       "Id": 5899040038572347915,
-      "Text": "Yellow Tulip Petals",
+      "Text": "노랑 튤립 꽃잎",
       "PluralText": ""
     },
     {
       "Id": -8187484038251939022,
-      "Text": "White Tulip petals. Use them to plant White Tulips.",
+      "Text": "하양튤립꽃잎. 사용하면 하양튤립을 심을 수 있다.",
       "PluralText": ""
     },
     {
       "Id": 1101381063767929693,
-      "Text": "Yellow Tulip petals. Use them to plant Yellow Tulips.",
+      "Text": "노랑튤립꽃잎. 사용하면 노랑튤립을 심을 수 있다.",
       "PluralText": ""
     },
     {
       "Id": 1784272282964391732,
-      "Text": "Blue Tulip Petals",
+      "Text": "파랑 튤립 꽃잎",
       "PluralText": ""
     },
     {
       "Id": -1437045631554306115,
-      "Text": "Blue Tulip petals. Use them to plant Blue Tulips.",
+      "Text": "파랑튤립꽃잎. 사용하면 파랑튤립을 심을 수 있다.",
       "PluralText": ""
     },
     {
@@ -12717,12 +12767,12 @@
     },
     {
       "Id": 3922880167303567495,
-      "Text": "Tulip Petals",
+      "Text": "하양튤립꽃잎",
       "PluralText": ""
     },
     {
       "Id": 4318935807324170589,
-      "Text": "Tulip petals. You can use them to plant Tulip.",
+      "Text": "하양튤립꽃잎. 사용하면 하양튤립을 심을 수 있다.",
       "PluralText": ""
     },
     {
@@ -13286,6 +13336,121 @@
       "PluralText": ""
     },
     {
+      "Id": 1693613730535626830,
+      "Text": "초밥 레스토랑",
+      "PluralText": ""
+    },
+    {
+      "Id": 4233010586609108525,
+      "Text": "초밥",
+      "PluralText": ""
+    },
+    {
+      "Id": 8595996620366699356,
+      "Text": "빨강피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8909094214759613912,
+      "Text": "노랑피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8742502549483892506,
+      "Text": "파랑피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6824064637991850964,
+      "Text": "초밥",
+      "PluralText": ""
+    },
+    {
+      "Id": -8371629744304152733,
+      "Text": "초밥",
+      "PluralText": ""
+    },
+    {
+      "Id": -4906820165958685634,
+      "Text": "초밥",
+      "PluralText": ""
+    },
+    {
+      "Id": -4831962402194489789,
+      "Text": "체스 피스",
+      "PluralText": ""
+    },
+    {
+      "Id": -8202609903654207341,
+      "Text": "빨강피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5912434556819916912,
+      "Text": "노랑피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2838510332052937609,
+      "Text": "파랑피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8340669356474258017,
+      "Text": "바위피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5946904083283211184,
+      "Text": "날개피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2236583345452789051,
+      "Text": "보라피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2352222102455245736,
+      "Text": "하양피크민입니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3957461678017714046,
+      "Text": "체스 피스",
+      "PluralText": ""
+    },
+    {
+      "Id": 1898740594893874674,
+      "Text": "체스 피스",
+      "PluralText": ""
+    },
+    {
+      "Id": 6159117735239613501,
+      "Text": "체스 피스",
+      "PluralText": ""
+    },
+    {
+      "Id": 2433399513730815690,
+      "Text": "체스 피스",
+      "PluralText": ""
+    },
+    {
+      "Id": -2555179312702147528,
+      "Text": "체스 피스",
+      "PluralText": ""
+    },
+    {
+      "Id": 4617506967498218274,
+      "Text": "체스 피스",
+      "PluralText": ""
+    },
+    {
+      "Id": -3829438540758445639,
+      "Text": "체스 피스",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "{0:patchim:yes=이|no=가} {1:patchim:yes=을|no=를} 착용했다!",
       "PluralText": ""
@@ -13742,42 +13907,42 @@
     },
     {
       "Id": 9185703893455650866,
-      "Text": "Tulip Nectar",
+      "Text": "하양튤립의 정수",
       "PluralText": ""
     },
     {
       "Id": -3999834673796882730,
-      "Text": "Tulip Nectar",
+      "Text": "노랑튤립의 정수",
       "PluralText": ""
     },
     {
       "Id": 3781564832103967768,
-      "Text": "Tulip Nectar",
+      "Text": "빨강튤립의 정수",
       "PluralText": ""
     },
     {
       "Id": -3255244715043770218,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "희귀한 정수로 피크민이 먹으면 머리에 튤립이 핀다.",
       "PluralText": ""
     },
     {
       "Id": -93464290886712508,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "희귀한 정수로 피크민이 먹으면 머리에 튤립이 핀다.",
       "PluralText": ""
     },
     {
       "Id": 5554182129859650248,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "희귀한 정수로 피크민이 먹으면 머리에 튤립이 핀다.",
       "PluralText": ""
     },
     {
       "Id": 8758413008967315361,
-      "Text": "Tulip Nectar",
+      "Text": "파랑튤립의 정수",
       "PluralText": ""
     },
     {
       "Id": -5572361678970541141,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "희귀한 정수로 피크민이 먹으면 머리에 튤립이 핀다.",
       "PluralText": ""
     },
     {
@@ -14246,6 +14411,11 @@
       "PluralText": ""
     },
     {
+      "Id": 6038283208048095837,
+      "Text": "Level Up Rewards",
+      "PluralText": ""
+    },
+    {
       "Id": -5982153601342926839,
       "Text": "중지",
       "PluralText": ""
@@ -14493,6 +14663,191 @@
     {
       "Id": 4678873459360921293,
       "Text": "구역은 {0}개까지만 생성할 수 있습니다. 새롭게 생성하려면 기존 구역을 삭제하세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3484617631795916588,
+      "Text": "파크민에게 먹이를 줄 때 AR 사진을 찍어 친구들과 멋진 순간을 공유하세요!",
+      "PluralText": ""
+    },
+    {
+      "Id": 7200515630930266300,
+      "Text": "모종 서치가 비어있을 경우, 무료로 사용할 수 있도록 매일 1회 충전됩니다. 잊지 말고 활용하세요!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6497422941931275781,
+      "Text": "피크민에게 매일 정수를 먹여서 밀접도를 올리세요. 친한 사이로 성장하고 나면, 멋진 일이 벌어질지도 모른답니다!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4201989235065548635,
+      "Text": "마음에 드는 사진을 라이프 로그에 추가하고, 오늘 하루는 어땠는지 기록해요. 날짜 옆의 \"+\" 버튼을 탭해서 시작하세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8946294826485047552,
+      "Text": "피크민 또는 엽서 목록에서 길게 탭하면, 다수의 항목을 선택할 수 있어요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2395680636257114384,
+      "Text": "엽서를 전하러 온 피크민은 최대 3일까지 엽서를 수령하도록 기다려줍니다..",
+      "PluralText": ""
+    },
+    {
+      "Id": 5555984097992198740,
+      "Text": "빅 플라워 주변에 꽃을 심어서 개화를 도와주세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2061307758073378667,
+      "Text": "만개 상태로 반짝이는 빅 플라워 주변에 꽃을 심어보세요. 놀라운 일이 벌어질지도 몰라요!",
+      "PluralText": ""
+    },
+    {
+      "Id": 136491324792122571,
+      "Text": "꽃을 심는 동안에는 모종이 더 빨리 성장합니다. 꽃을 심어서 더욱 많은 피크민을 수집하세요!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8734263729113341237,
+      "Text": "꽃을 심는 동안 보너스 코인을 획득하세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2871577461391453943,
+      "Text": "설정 화면에서 개인 구역을 설정해, 꽃을 심고 싶지 않은 장소는 제외할 수 있어요.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8276595101407658895,
+      "Text": "내가 심은 꽃은 라이프 로그 및 설정 화면에서 삭제할 수 있습니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6078735754954300967,
+      "Text": "Pikmin Bloom에 친구를 초대하고 보상도 받으세요!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6043986246212696603,
+      "Text": "궁금한 점이 있다면 설정 화면에서 도움말을 참고하세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1824892194546110745,
+      "Text": "피크민 목록에서 정렬 기능을 활용하면 원하는 피크민을 더욱 쉽게 찾을 수 있어요.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8639230601079919630,
+      "Text": "닌텐도 어카운트를 연동하여 특별한 모종을 받으세요! 연결을 위해서는 설정 화면 또는 Mii 꾸미기 화면으로 이동해야 합니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7786551774778482299,
+      "Text": "대열 속의 피크민을 한 번에 전부 교체하고 싶나요? 호루라기를 재빨리 세 번 탭하면, 대기 중인 피크민과 교대합니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8454701317118302495,
+      "Text": "스페셜 슬롯은 모종이 평소보다 빠르게 성장하도록 도우며, 숍에서 구매할 수 있습니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8580761753237801017,
+      "Text": "데코피크민이 착용한 아이템은 해당 피크민의 모종이 발견된 장소와 관련 있는 듯해요. 모종 정보 화면으로 이동해서 자세한 내용을 확인해보세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2631043907411713215,
+      "Text": "피크민에게 정수를 하나씩 먹이려니 시간이 부족한가요? 피크민 쪽을 향해서 정수 아이콘을 드래그해보세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -996001821821169928,
+      "Text": "피크민의 머리에 피어난 꽃이 사라졌다면, 대열에 추가해서 함께 산책을 떠나보세요. 더욱 빨리 잎을 되찾는 데 효과가 있는 듯하거든요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3835780318666546226,
+      "Text": "데코피크민 배지의 세부 화면에서 지금까지 발견한 데코피크민들의 종류를 확인해보세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6866303937684414829,
+      "Text": "보살피기 화면에서 피크민을 길게 탭하면 집어들 수 있어요. 또한 돋보기를 사용해서 관찰할 수도 있습니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8859530568136502550,
+      "Text": "피크민 세부 정보 화면을 전체화면으로 확대한 다음, 피크민을 탭하면 어떤 일이 생기나 구경해보세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8973640527982702391,
+      "Text": "특정한 피크민에게 정수를 주고 싶다면, 두 번 탭해서 원하는 피크민으로 줌인하세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3898184139024259658,
+      "Text": "좋아하는 피크민에게 스페셜 정수를 주세요. 밀접도가 하트 하나만큼 올라간답니다!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4965465548260462006,
+      "Text": "피크민, 모종, 정수, 꽃잎의 소지 한도는 숍에서 업그레이드할 수 있습니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2013858795142751835,
+      "Text": "홈 화면의 대형 지도를 탭해서 라이프 로그, 탐험, 엽서, 피크민 목록, 그 밖의 기타 기능에 간편히 접근하세요!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8837181790264424549,
+      "Text": "피크민을 보내서 회수하지 않으면, 탐험 모종은 사라지고 맙니다. 아이템은 오래된 순으로 목록에 표시되므로, 원하는 아이템이 사라지기 전에 입수하세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8560538571010392068,
+      "Text": "다른 종류의 피크민과 동행하지 않을 경우, 날개피크민은 탐험에서 신속하게 이동할 수 있어요.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8321526828962939131,
+      "Text": "버섯 파괴 도전에서는 버섯과 동일한 색상의 피크민, 데코피크민, 꽃이 핀 피크민이 가장 큰 위력을 발휘합니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8845234256144901788,
+      "Text": "버섯 파괴 도전에서는 시간 역시 중요한 요소입니다! 최대한 빠르게 도전을 클리어해서, 더 높은 등급과 더 나은 보상을 획득하세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2367939774841143747,
+      "Text": "도전에서 파괴된 버섯이 다시 자라나려면 시간이 조금 필요합니다.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7210442754481933800,
+      "Text": "피크민에게 정수를 먹이고 탐험 및 도전에 보내주세요. 나와의 밀접도를 올릴 수 있답니다!",
+      "PluralText": ""
+    },
+    {
+      "Id": 8389710506546400265,
+      "Text": "일부 빅 플라워는 지정된 철에만 피어납니다. 뉴스 섹션을 확인해서 이번 달은 어떤 꽃의 개화철인지 알아보세요.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1968907645343148781,
+      "Text": "친구를 만들어서 함께 엽서를 주고받으세요. 서로의 피크민과 배지를 살펴볼 수도 있어요.",
+      "PluralText": ""
+    },
+    {
+      "Id": 348878743656379735,
+      "Text": "산책 도중 새로운 곳을 통과하면, 지도의 하얀 구름이 사라지며 새로운 장소의 모습이 드러납니다. 지도를 활용해서 지금까지 방문한 곳을 한눈에 살펴보세요.",
       "PluralText": ""
     }
   ]

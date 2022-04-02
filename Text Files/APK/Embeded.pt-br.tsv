@@ -102,5 +102,42 @@ id	constant	phrase	plural phrase
 9026675325510307464	ACTION_SUBMIT	Enviar	
 5971105615315949668	ACTION_SKIP	Pular	
 -4558965017223283166	ACTION_SAVE_TO_DEVICE	Baixar	
--7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	Couldn't connect to server.	
--6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Check your network connectivity.	
+-7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	Não foi possível estabelecer conexão com o servidor.	
+-6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Verifique a sua conexão de rede.	
+3484617631795916588	STARTUP_SCREEN_TIPS_0001	Tire fotos de RA quando alimentar seus Pikmin e compartilhe-as com seus amigos!	
+7200515630930266300	STARTUP_SCREEN_TIPS_0002	Se estiver vazio, o detector será recarregado com um uso gratuito todo dia, portanto, não esqueça de usar!	
+6497422941931275781	STARTUP_SCREEN_TIPS_0003	Alimente seus Pikmin com néctar todos os dias para aumentar o nível de amizade. Coisas boas poderão acontecer se vocês virarem melhores amigos!	
+-4201989235065548635	STARTUP_SCREEN_TIPS_0004	Adicione suas fotos favoritas e escreva sobre o seu dia no diário. Toque no botão “+” perto da data para começar.	
+-8946294826485047552	STARTUP_SCREEN_TIPS_0005	Dê um toque longo para selecionar vários itens em suas listas de Pikmin ou cartões-postais.	
+-2395680636257114384	STARTUP_SCREEN_TIPS_0006	Pikmin que vierem entregar cartões-postais irão aguardar o recebimento por até três dias.	
+5555984097992198740	STARTUP_SCREEN_TIPS_0007	Plante flores ao redor da flor enorme para ajudá-la a florescer.	
+2061307758073378667	STARTUP_SCREEN_TIPS_0008	Experimente plantar flores ao redor de uma flor enorme brilhando e totalmente desabrochada. Talvez você encontre uma bela surpresa!	
+136491324792122571	STARTUP_SCREEN_TIPS_0009	As plântulas crescem mais rápido ao plantar flores. Plante flores para coletar mais e mais Pikmin!	
+8734263729113341237	STARTUP_SCREEN_TIPS_0010	Ganhe moedas extras ao plantar flores.	
+-2871577461391453943	STARTUP_SCREEN_TIPS_0011	Configure zonas de privacidade na tela de configurações para excluir certas áreas onde você não quer plantar flores.	
+8276595101407658895	STARTUP_SCREEN_TIPS_0012	Você pode excluir flores que plantou a partir do diário e da tela de configurações.	
+-6078735754954300967	STARTUP_SCREEN_TIPS_0013	Convide seus amigos para jogar Pikmin Bloom e ganhe recompensas!	
+6043986246212696603	STARTUP_SCREEN_TIPS_0014	Confira a seção de ajuda na tela de configurações se tiver qualquer dúvida.	
+-1824892194546110745	STARTUP_SCREEN_TIPS_0015	Use a função de ordenar em sua lista de Pikmin para encontrá-los mais facilmente.	
+8639230601079919630	STARTUP_SCREEN_TIPS_0016	Vincule sua conta Nintendo para receber uma plântula especial! Vá até a tela de configurações ou de personalização de Mii.	
+7786551774778482299	STARTUP_SCREEN_TIPS_0017	Quer trocar todos os Pikmin da sua equipe ao mesmo tempo? Toque três vezes rapidamente no apito e eles serão trocados por Pikmin disponíveis.	
+-8454701317118302495	STARTUP_SCREEN_TIPS_0018	Espaços especiais permitem que plântulas cresçam mais rápido do que o normal. Você pode comprá-los na loja.	
+-8580761753237801017	STARTUP_SCREEN_TIPS_0019	Parece que os itens vestidos pelos Pikmin decorados são relacionados ao local onde sua plântula foi encontrada. Descubra os detalhes na tela de informações da plântula.	
+2631043907411713215	STARTUP_SCREEN_TIPS_0020	Ocupado(a) demais para alimentar um Pikmin por vez com néctar? Experimente um toque longo no ícone de néctar ao arrastá-lo para os Pikmin.	
+-996001821821169928	STARTUP_SCREEN_TIPS_0021	Quando seus Pikmin perderem as flores na cabeça, adicione-os à sua equipe e leve-os para caminhar. Parece que isso ajuda a recuperar suas folhas mais rápido.	
+-3835780318666546226	STARTUP_SCREEN_TIPS_0022	Confira os tipos de Pikmin decorados que encontrou até agora na tela de detalhes da insígnia de Pikmin decorado.	
+-6866303937684414829	STARTUP_SCREEN_TIPS_0023	Dê um toque longo em um Pikmin no jardim para pegá-lo. Você também pode usar a lupa para observá-los.	
+-8859530568136502550	STARTUP_SCREEN_TIPS_0024	Tente expandir a visão de detalhes dos Pikmin para tela cheia, e veja o que acontece quando toca no seu Pikmin.	
+-8973640527982702391	STARTUP_SCREEN_TIPS_0025	Quando quiser dar néctar a um Pikmin específico, dê um toque duplo para focar nele.	
+3898184139024259658	STARTUP_SCREEN_TIPS_0026	Dê néctar especial aos seus Pikmin favoritos para aumentar o nível de amizade em um coração!	
+4965465548260462006	STARTUP_SCREEN_TIPS_0027	Você pode melhorar sua capacidade de armazenamento de Pikmin, plântulas, néctar e pétalas na loja.	
+-2013858795142751835	STARTUP_SCREEN_TIPS_0028	O mapa grande na tela inicial dá acesso conveniente ao diário, tela de expedição, cartões-postais e lista de Pikmin.	
+8837181790264424549	STARTUP_SCREEN_TIPS_0029	Plântulas de expedição desaparecem da lista se você não mandar Pikmin para buscá-las. Itens são listados dos mais antigos aos mais novos, então pegue os que quiser antes que desapareçam.	
+-8560538571010392068	STARTUP_SCREEN_TIPS_0030	Pikmin alados podem ser muito rápidos em expedições, a não ser que estejam acompanhados de outro tipo de Pikmin.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	Nos desafios de cogumelo, Pikmin da mesma cor dos cogumelos, Pikmin decorados e Pikmin com flores parecem ser os mais fortes.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	O tempo conta nos desafios de cogumelo! Complete o desafio o mais rápido que puder para ganhar avaliações e recompensas melhores.	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	Cogumelos destruídos nos desafios parecem levar um tempo para se recuperar.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Alimente seus Pikmin com néctar e mande-os em expedições e desafios para aumentar seu nível de amizade.	
+8389710506546400265	STARTUP_SCREEN_TIPS_0035	Algumas flores enormes só desabrocham em certas estações. Confira a seção de notícias para ver quais flores estão em época este mês.	
+-1968907645343148781	STARTUP_SCREEN_TIPS_0036	Faça amigos para trocar cartões-postais e conferir os Pikmin e insígnias uns dos outros.	
+348878743656379735	STARTUP_SCREEN_TIPS_0037	Quando caminhar por um lugar novo, as nuvens brancas do mapa serão limpas para revelar a nova localização. Use o mapa para ver os lugares que já visitou.	

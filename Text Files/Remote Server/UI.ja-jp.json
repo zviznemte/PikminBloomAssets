@@ -206,6 +206,11 @@
       "PluralText": ""
     },
     {
+      "Id": -96276456103343170,
+      "Text": "キノコチャレンジ",
+      "PluralText": ""
+    },
+    {
       "Id": 5795446491686635879,
       "Text": "招待コードをお持ちですか？",
       "PluralText": ""
@@ -443,6 +448,11 @@
     {
       "Id": 7906285360239940228,
       "Text": "保存しました",
+      "PluralText": ""
+    },
+    {
+      "Id": -6681436196252445289,
+      "Text": "Remaining time",
       "PluralText": ""
     },
     {
@@ -9681,6 +9691,36 @@
       "PluralText": ""
     },
     {
+      "Id": 8481807667962504414,
+      "Text": "Decor",
+      "PluralText": ""
+    },
+    {
+      "Id": 1017804344606554124,
+      "Text": "Reset to default",
+      "PluralText": ""
+    },
+    {
+      "Id": 4898751449553010730,
+      "Text": "Reset Pikmin name to default.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7007435731514555385,
+      "Text": "＊The name you currently typed will be discarded.\n＊You will no longer see this Pikmin name in Garden Scene when you press the whistle button.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8160463922470116096,
+      "Text": "Do you want to proceed?",
+      "PluralText": ""
+    },
+    {
+      "Id": 952110789839986926,
+      "Text": "Pikmin name has been reset to default.",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "昨日より {0} 歩多く歩きました！",
       "PluralText": ""
@@ -10171,6 +10211,11 @@
       "PluralText": ""
     },
     {
+      "Id": -1302362839224212364,
+      "Text": "You can see and share your mement cards in your  life log.",
+      "PluralText": ""
+    },
+    {
       "Id": -7171364068543964418,
       "Text": "フレンドがいません",
       "PluralText": ""
@@ -10257,7 +10302,7 @@
     },
     {
       "Id": -837182238931387011,
-      "Text": "フレンド数が上限に達しています。",
+      "Text": "あなたのフレンド数が上限に達しています。",
       "PluralText": ""
     },
     {
@@ -10337,7 +10382,7 @@
     },
     {
       "Id": -8839061826736048133,
-      "Text": "ピクミンブルームで一緒に遊びませんか？自分だけのピクミン隊列を育てて、一緒に世界を花でいっぱいにしましょう！アカウントを作成するときに、わたしの招待コードを入力すると、花びら20枚とエキス10個という特別な特典を受け取ることができます。 {0}",
+      "Text": "ピクミンブルームで一緒に遊びませんか？自分だけのピクミン隊列を育てて、一緒に世界を花でいっぱいにしましょう！アカウントを作成するときに招待コード {1} を入力して特典を受け取りましょう！ {0}",
       "PluralText": ""
     },
     {
@@ -10363,6 +10408,11 @@
     {
       "Id": -2616644659738580677,
       "Text": "{0}のフレンドコード",
+      "PluralText": ""
+    },
+    {
+      "Id": 2974952472524460290,
+      "Text": "ピクミンブルームを一緒に遊びましょう！わたしのフレンドコードは: {0}",
       "PluralText": ""
     },
     {
@@ -11952,407 +12002,407 @@
     },
     {
       "Id": 4285300141349289750,
-      "Text": "Narcissus",
+      "Text": "スイセン",
       "PluralText": ""
     },
     {
       "Id": 8998240693281418112,
-      "Text": "White Narcissus Petals",
+      "Text": "白色スイセンの花びら",
       "PluralText": ""
     },
     {
       "Id": 4552382659088154949,
-      "Text": "Yellow Narcissus Petals",
+      "Text": "黄色スイセンの花びら",
       "PluralText": ""
     },
     {
       "Id": 3973177253734728476,
-      "Text": "White Narcissus petals. Use them to plant White Narcissuss.",
+      "Text": "花植えに必要な白色スイセンの花びら。使うと白色のスイセンが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -7696831412514286087,
-      "Text": "Yellow Narcissus petals. Use them to plant Yellow Narcissuss.",
+      "Text": "花植えに必要な黄色スイセンの花びら。使うと黄色のスイセンが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -6031586623699898218,
-      "Text": "White Tulip Petals",
+      "Text": "白色チューリップの花びら",
       "PluralText": ""
     },
     {
       "Id": 5899040038572347915,
-      "Text": "Yellow Tulip Petals",
+      "Text": "黄色チューリップの花びら",
       "PluralText": ""
     },
     {
       "Id": -8187484038251939022,
-      "Text": "White Tulip petals. Use them to plant White Tulips.",
+      "Text": "花植えに必要な白色チューリップの花びら。使うと白色のチューリップが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1101381063767929693,
-      "Text": "Yellow Tulip petals. Use them to plant Yellow Tulips.",
+      "Text": "花植えに必要な黄色チューリップの花びら。使うと黄色のチューリップが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1784272282964391732,
-      "Text": "Blue Tulip Petals",
+      "Text": "青色チューリップの花びら",
       "PluralText": ""
     },
     {
       "Id": -1437045631554306115,
-      "Text": "Blue Tulip petals. Use them to plant Blue Tulips.",
+      "Text": "花植えに必要な青色チューリップの花びら。使うと青色のチューリップが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -7473356680511526017,
-      "Text": "Nemophila",
+      "Text": "ネモフィラ",
       "PluralText": ""
     },
     {
       "Id": 8576941482688470076,
-      "Text": "Blue Nemophila Petals",
+      "Text": "ネモフィラの花びら",
       "PluralText": ""
     },
     {
       "Id": -4740955000384069377,
-      "Text": "Blue Nemophila petals. Use them to plant Blue Nemophilas.",
+      "Text": "花植えに必要なネモフィラの花びら。使うとネモフィラが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 2970252592105738752,
-      "Text": "Carnation",
+      "Text": "カーネーション",
       "PluralText": ""
     },
     {
       "Id": 3454256421684511418,
-      "Text": "White Carnation Petals",
+      "Text": "白色カーネーションの花びら",
       "PluralText": ""
     },
     {
       "Id": -1906147900934440120,
-      "Text": "Red Carnation Petals",
+      "Text": "赤色カーネーションの花びら",
       "PluralText": ""
     },
     {
       "Id": 8766322790700916110,
-      "Text": "Blue Carnation Petals",
+      "Text": "青色カーネーションの花びら",
       "PluralText": ""
     },
     {
       "Id": 8757572585822398900,
-      "Text": "White Carnation petals. Use them to plant White Carnations.",
+      "Text": "花植えに必要な白色カーネーションの花びら。使うと白色のカーネーションが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1586650300279005373,
-      "Text": "Red Carnation petals. Use them to plant Red Carnations.",
+      "Text": "花植えに必要な赤色カーネーションの花びら。使うと赤色のカーネーションが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -4880512555513008858,
-      "Text": "Blue Carnation petals. Use them to plant Blue Carnations.",
+      "Text": "花植えに必要な青色カーネーションの花びら。使うと青色のカーネーションが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 8688302007952622591,
-      "Text": "Callalily",
+      "Text": "カラーリリー",
       "PluralText": ""
     },
     {
       "Id": -1274591195954698443,
-      "Text": "White Callalily Petals",
+      "Text": "白色カラーリリーの花びら",
       "PluralText": ""
     },
     {
       "Id": 7462992293292663627,
-      "Text": "Yellow Callalily Petals",
+      "Text": "黄色カラーリリーの花びら",
       "PluralText": ""
     },
     {
       "Id": -6461823435193095559,
-      "Text": "Red Callalily Petals",
+      "Text": "赤色カラーリリーの花びら",
       "PluralText": ""
     },
     {
       "Id": -2656784720020643610,
-      "Text": "Blue Callalily Petals",
+      "Text": "青色カラーリリーの花びら",
       "PluralText": ""
     },
     {
       "Id": -4417017424087384561,
-      "Text": "White Callalily petals. Use them to plant White Callalilys.",
+      "Text": "花植えに必要な白色カラーリリーの花びら。使うと白色のカラーリリーが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 7040613550868763583,
-      "Text": "Yellow Callalily petals. Use them to plant Yellow Callalilys.",
+      "Text": "花植えに必要な黄色カラーリリーの花びら。使うと黄色のカーネーションが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -658648576573979101,
-      "Text": "Red Callalily petals. Use them to plant Red Callalilys.",
+      "Text": "花植えに必要な赤色カラーリリーの花びら。使うと赤色のカラーリリーが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 6507687095730136982,
-      "Text": "Blue Callalily petals. Use them to plant Blue Callalilys.",
+      "Text": "花植えに必要な青色カラーリリーの花びら。使うと青色のカラーリリーが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 8367931998629619543,
-      "Text": "Hydrangea",
+      "Text": "あじさい",
       "PluralText": ""
     },
     {
       "Id": 3201846717814177145,
-      "Text": "White Hydrangea Petals",
+      "Text": "白色あじさいの花びら",
       "PluralText": ""
     },
     {
       "Id": 140722600331602029,
-      "Text": "Red Hydrangea Petals",
+      "Text": "赤色あじさいの花びら",
       "PluralText": ""
     },
     {
       "Id": -3880722439121792281,
-      "Text": "Blue Hydrangea Petals",
+      "Text": "青色あじさいの花びら",
       "PluralText": ""
     },
     {
       "Id": 4048166092808619354,
-      "Text": "White Hydrangea petals. Use them to plant White Hydrangeas.",
+      "Text": "花植えに必要な白色あじさいの花びら。使うと白色のあじさいが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -1745004269493221770,
-      "Text": "Red Hydrangea petals. Use them to plant Red Hydrangeas.",
+      "Text": "花植えに必要な赤色あじさいの花びら。使うと赤色のあじさいが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -1213773349147502088,
-      "Text": "Blue Hydrangea petals. Use them to plant Blue Hydrangeas.",
+      "Text": "花植えに必要な青色あじさいの花びら。使うと青色のあじさいが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -2636565225947653648,
-      "Text": "Lilium",
+      "Text": "ユリ",
       "PluralText": ""
     },
     {
       "Id": -104667595696946847,
-      "Text": "White Lilium Petals",
+      "Text": "白色ユリの花びら",
       "PluralText": ""
     },
     {
       "Id": -3355165791134297260,
-      "Text": "Yellow Lilium Petals",
+      "Text": "黄色ユリの花びら",
       "PluralText": ""
     },
     {
       "Id": -8187235828998644339,
-      "Text": "Red Lilium Petals",
+      "Text": "赤色ユリの花びら",
       "PluralText": ""
     },
     {
       "Id": 8920257467235647779,
-      "Text": "White Lilium petals. Use them to plant White Liliums.",
+      "Text": "花植えに必要な白色ユリの花びら。使うと白色のユリが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -1745071381590290293,
-      "Text": "Yellow Lilium petals. Use them to plant Yellow Liliums.",
+      "Text": "花植えに必要な黄色ユリの花びら。使うと黄色のユリが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -1578367391245024543,
-      "Text": "Red Lilium petals. Use them to plant Red Liliums.",
+      "Text": "花植えに必要な赤色ユリの花びら。使うと赤色のユリが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -8202543538756816578,
-      "Text": "Hibiscus",
+      "Text": "ハイビスカス",
       "PluralText": ""
     },
     {
       "Id": -6918084467590330916,
-      "Text": "White Hibiscus Petals",
+      "Text": "白色ハイビスカスの花びら",
       "PluralText": ""
     },
     {
       "Id": 7845839572168042968,
-      "Text": "Yellow Hibiscus Petals",
+      "Text": "黄色ハイビスカスの花びら",
       "PluralText": ""
     },
     {
       "Id": -314275422707408695,
-      "Text": "Red Hibiscus Petals",
+      "Text": "赤色ハイビスカスの花びら",
       "PluralText": ""
     },
     {
       "Id": 6634347525355177267,
-      "Text": "White Hibiscus petals. Use them to plant White Hibiscuss.",
+      "Text": "花植えに必要な白色ハイビスカスの花びら。使うと白色のハイビスカスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -2875787473066237874,
-      "Text": "Yellow Hibiscus petals. Use them to plant Yellow Hibiscuss.",
+      "Text": "花植えに必要な黄色ハイビスカスの花びら。使うと黄色のハイビスカスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -2064490092256077343,
-      "Text": "Red Hibiscus petals. Use them to plant Red Hibiscuss.",
+      "Text": "花植えに必要な赤色ハイビスカスの花びら。使うと赤色のハイビスカスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 889440286197463036,
-      "Text": "Plumeria",
+      "Text": "プルメリア",
       "PluralText": ""
     },
     {
       "Id": 5325131323105523691,
-      "Text": "White Plumeria Petals",
+      "Text": "白色プルメリアの花びら",
       "PluralText": ""
     },
     {
       "Id": -3331089450112370620,
-      "Text": "Yellow Plumeria Petals",
+      "Text": "黄色プルメリアの花びら",
       "PluralText": ""
     },
     {
       "Id": -1760164707560006543,
-      "Text": "Red Plumeria Petals",
+      "Text": "赤色プルメリアの花びら",
       "PluralText": ""
     },
     {
       "Id": 55568476704672030,
-      "Text": "White Plumeria petals. Use them to plant White Plumerias.",
+      "Text": "花植えに必要な白色プルメリアの花びら。使うと白色のプルメリアが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1026939791350155507,
-      "Text": "Yellow Plumeria petals. Use them to plant Yellow Plumerias.",
+      "Text": "花植えに必要な黄色プルメリアの花びら。使うと黄色のプルメリアが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -337686055151441426,
-      "Text": "Red Plumeria petals. Use them to plant Red Plumerias.",
+      "Text": "花植えに必要な赤色プルメリアの花びら。使うと赤色のプルメリアが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 5624114353811129954,
-      "Text": "Yellow Sunflower Petals",
+      "Text": "ひまわりの花びら",
       "PluralText": ""
     },
     {
       "Id": -4745910520429020125,
-      "Text": "Yellow Sunflower petals. Use them to plant Yellow Sunflowers.",
+      "Text": "花植えに必要なひまわりの花びら。使うとひまわりが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -1011963491538568878,
-      "Text": "Cluster Amaryllis",
+      "Text": "ヒガンバナ",
       "PluralText": ""
     },
     {
       "Id": -9061795752856351954,
-      "Text": "White Cluster Amaryllis Petals",
+      "Text": "白色ヒガンバナの花びら",
       "PluralText": ""
     },
     {
       "Id": -1738885223565105257,
-      "Text": "Yellow Cluster Amaryllis Petals",
+      "Text": "黄色ヒガンバナの花びら",
       "PluralText": ""
     },
     {
       "Id": -1475138922194842767,
-      "Text": "Red Cluster Amaryllis Petals",
+      "Text": "赤色ヒガンバナの花びら",
       "PluralText": ""
     },
     {
       "Id": 7322265121752730382,
-      "Text": "White Cluster Amaryllis petals. Use them to plant White Cluster Amarylliss.",
+      "Text": "花植えに必要な白色ヒガンバナの花びら。使うと白色のヒガンバナが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 726172433989197705,
-      "Text": "Yellow Cluster Amaryllis petals. Use them to plant Yellow Cluster Amarylliss.",
+      "Text": "花植えに必要な黄色ヒガンバナの花びら。使うと黄色のヒガンバナが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -5733863185349969221,
-      "Text": "Red Cluster Amaryllis petals. Use them to plant Red Cluster Amarylliss.",
+      "Text": "花植えに必要な赤色ヒガンバナの花びら。使うと赤色のヒガンバナが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -3561564102809291286,
-      "Text": "Cosmos",
+      "Text": "コスモス",
       "PluralText": ""
     },
     {
       "Id": -6429743440492135845,
-      "Text": "White Cosmos Petals",
+      "Text": "白色コスモスの花びら",
       "PluralText": ""
     },
     {
       "Id": 5651137006218529375,
-      "Text": "Yellow Cosmos Petals",
+      "Text": "黄色コスモスの花びら",
       "PluralText": ""
     },
     {
       "Id": 5690018059149365413,
-      "Text": "Red Cosmos Petals",
+      "Text": "赤色コスモスの花びら",
       "PluralText": ""
     },
     {
       "Id": -485631609149547274,
-      "Text": "White Cosmos petals. Use them to plant White Cosmoss.",
+      "Text": "花植えに必要な白色コスモスの花びら。使うと白色のコスモスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 846352848104763611,
-      "Text": "Yellow Cosmos petals. Use them to plant Yellow Cosmoss.",
+      "Text": "花植えに必要な黄色コスモスの花びら。使うと黄色のコスモスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 9009177250182160382,
-      "Text": "Red Cosmos petals. Use them to plant Red Cosmoss.",
+      "Text": "花植えに必要な赤色コスモスの花びら。使うと赤色のコスモスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 9119383357975226683,
-      "Text": "Cyclamen",
+      "Text": "シクラメン",
       "PluralText": ""
     },
     {
       "Id": -6663725392859944756,
-      "Text": "White Cyclamen Petals",
+      "Text": "白色シクラメンの花びら",
       "PluralText": ""
     },
     {
       "Id": -7271000700791911376,
-      "Text": "Red Cyclamen Petals",
+      "Text": "赤色シクラメンの花びら",
       "PluralText": ""
     },
     {
       "Id": -7352875204695728224,
-      "Text": "Blue Cyclamen Petals",
+      "Text": "青色シクラメンの花びら",
       "PluralText": ""
     },
     {
       "Id": 292323956326629615,
-      "Text": "White Cyclamen petals. Use them to plant White Cyclamens.",
+      "Text": "花植えに必要な白色シクラメンの花びら。使うと白色のシクラメンが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 5896804462713261421,
-      "Text": "Red Cyclamen petals. Use them to plant Red Cyclamens.",
+      "Text": "花植えに必要な赤色シクラメンの花びら。使うと赤色のシクラメンが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -6443286926966499533,
-      "Text": "Blue Cyclamen petals. Use them to plant Blue Cyclamens.",
+      "Text": "花植えに必要な青色シクラメンの花びら。使うと青色のシクラメンが植えられる。",
       "PluralText": ""
     },
     {
@@ -12702,322 +12752,322 @@
     },
     {
       "Id": 4148376729014285307,
-      "Text": "Narcissus Petals",
+      "Text": "白色スイセンの花びら",
       "PluralText": ""
     },
     {
       "Id": -4124189780614511968,
-      "Text": "Narcissus Petals",
+      "Text": "黄色スイセンの花びら",
       "PluralText": ""
     },
     {
       "Id": 56505834341519064,
-      "Text": "Narcissus petals. You can use them to plant Narcissus.",
+      "Text": "花植えに必要な白色スイセンの花びら。使うと白色のスイセンが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -6432695176533105496,
-      "Text": "Narcissus petals. You can use them to plant Narcissus.",
+      "Text": "花植えに必要な黄色スイセンの花びら。使うと黄色のスイセンが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 3922880167303567495,
-      "Text": "Tulip Petals",
+      "Text": "白色チューリップの花びら",
       "PluralText": ""
     },
     {
       "Id": 4318935807324170589,
-      "Text": "Tulip petals. You can use them to plant Tulip.",
+      "Text": "花植えに必要な白色チューリップの花びら。使うと白色のチューリップが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 5834523607808539615,
-      "Text": "Nemophila Petals",
+      "Text": "ネモフィラの花びら",
       "PluralText": ""
     },
     {
       "Id": -5162029697490024894,
-      "Text": "Nemophila petals. You can use them to plant Nemophila.",
+      "Text": "花植えに必要なネモフィラの花びら。使うとネモフィラが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 8839628789355110386,
-      "Text": "Carnation Petals",
+      "Text": "白色カーネーションの花びら",
       "PluralText": ""
     },
     {
       "Id": -253184266846189732,
-      "Text": "Carnation Petals",
+      "Text": "赤色カーネーションの花びら",
       "PluralText": ""
     },
     {
       "Id": 7824152154826914199,
-      "Text": "Carnation Petals",
+      "Text": "青色カーネーションの花びら",
       "PluralText": ""
     },
     {
       "Id": 5618635906769887388,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "花植えに必要な白色カーネーションの花びら。使うと白色のカーネーションが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -3067141909094691803,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "花植えに必要な赤色カーネーションの花びら。使うと赤色のカーネーションが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -3732595971846250068,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "花植えに必要な青色カーネーションの花びら。使うと青色のカーネーションが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -5901987525156979875,
-      "Text": "Callalily Petals",
+      "Text": "白色カラーリリーの花びら",
       "PluralText": ""
     },
     {
       "Id": -5717288456064606521,
-      "Text": "Callalily Petals",
+      "Text": "黄色カラーリリーの花びら",
       "PluralText": ""
     },
     {
       "Id": 430819613514735115,
-      "Text": "Callalily Petals",
+      "Text": "赤色カラーリリーの花びら",
       "PluralText": ""
     },
     {
       "Id": 6384021236662026200,
-      "Text": "Callalily Petals",
+      "Text": "青色カラーリリーの花びら",
       "PluralText": ""
     },
     {
       "Id": -7504133095471149737,
-      "Text": "Callalily petals. You can use them to plant Callalily.",
+      "Text": "花植えに必要な白色カラーリリーの花びら。使うと白色のカラーリリーが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 597426030369841197,
-      "Text": "Callalily petals. You can use them to plant Callalily.",
+      "Text": "花植えに必要な黄色カラーリリーの花びら。使うと黄色のカラーリリーが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -6279862765021697417,
-      "Text": "Callalily petals. You can use them to plant Callalily.",
+      "Text": "花植えに必要な赤色カラーリリーの花びら。使うと赤色のカラーリリーが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -2773876165168298651,
-      "Text": "Callalily petals. You can use them to plant Callalily.",
+      "Text": "花植えに必要な青色カラーリリーの花びら。使うと青色のカラーリリーが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1472624022930022573,
-      "Text": "Hydrangea Petals",
+      "Text": "白色あじさいの花びら",
       "PluralText": ""
     },
     {
       "Id": -1802774612447763038,
-      "Text": "Hydrangea Petals",
+      "Text": "赤色あじさいの花びら",
       "PluralText": ""
     },
     {
       "Id": -3341323601561712459,
-      "Text": "Hydrangea Petals",
+      "Text": "青色あじさいの花びら",
       "PluralText": ""
     },
     {
       "Id": -5181795043757657110,
-      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "Text": "花植えに必要な白色あじさいの花びら。使うと白色のあじさいが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 279708105547368249,
-      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "Text": "花植えに必要な赤色あじさいの花びら。使うと赤色のあじさいが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1475519866812723581,
-      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "Text": "花植えに必要な青色あじさいの花びら。使うと青色のあじさいが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -5899947725302217262,
-      "Text": "Lilium Petals",
+      "Text": "白色ユリの花びら",
       "PluralText": ""
     },
     {
       "Id": 7255236997108479680,
-      "Text": "Lilium Petals",
+      "Text": "黄色ユリの花びら",
       "PluralText": ""
     },
     {
       "Id": -2035285233830669725,
-      "Text": "Lilium Petals",
+      "Text": "赤色ユリの花びら",
       "PluralText": ""
     },
     {
       "Id": 4881947496496563129,
-      "Text": "Lilium petals. You can use them to plant Lilium.",
+      "Text": "花植えに必要な白色ユリの花びら。使うと白色のユリが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1569853509380345461,
-      "Text": "Lilium petals. You can use them to plant Lilium.",
+      "Text": "花植えに必要な黄色ユリの花びら。使うと黄色のユリが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 7365392599771270017,
-      "Text": "Lilium petals. You can use them to plant Lilium.",
+      "Text": "花植えに必要な赤色ユリの花びら。使うと赤色のユリが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 5599346766189073564,
-      "Text": "Hibiscus Petals",
+      "Text": "白色ハイビスカスの花びら",
       "PluralText": ""
     },
     {
       "Id": 8818007195346865099,
-      "Text": "Hibiscus Petals",
+      "Text": "黄色ハイビスカスの花びら",
       "PluralText": ""
     },
     {
       "Id": 7808884536265185723,
-      "Text": "Hibiscus Petals",
+      "Text": "赤色ハイビスカスの花びら",
       "PluralText": ""
     },
     {
       "Id": 2080881115714858951,
-      "Text": "Hibiscus petals. You can use them to plant Hibiscus.",
+      "Text": "花植えに必要な白色ハイビスカスの花びら。使うと白色のハイビスカスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 688972675442346803,
-      "Text": "Hibiscus petals. You can use them to plant Hibiscus.",
+      "Text": "花植えに必要な黄色ハイビスカスの花びら。使うと黄色のハイビスカスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 9018267298896797342,
-      "Text": "Hibiscus petals. You can use them to plant Hibiscus.",
+      "Text": "花植えに必要な赤色ハイビスカスの花びら。使うと赤色のハイビスカスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -7976191500567901766,
-      "Text": "Plumeria Petals",
+      "Text": "白色プルメリアの花びら",
       "PluralText": ""
     },
     {
       "Id": 3989436528327581470,
-      "Text": "Plumeria Petals",
+      "Text": "黄色プルメリアの花びら",
       "PluralText": ""
     },
     {
       "Id": 3362077143539821797,
-      "Text": "Plumeria Petals",
+      "Text": "赤色プルメリアの花びら",
       "PluralText": ""
     },
     {
       "Id": -2116401971441392476,
-      "Text": "Plumeria petals. You can use them to plant Plumeria.",
+      "Text": "花植えに必要な白色プルメリアの花びら。使うと白色のプルメリアが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 4785386222366469112,
-      "Text": "Plumeria petals. You can use them to plant Plumeria.",
+      "Text": "花植えに必要な黄色プルメリアの花びら。使うと黄色のプルメリアが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -2931863865338783416,
-      "Text": "Plumeria petals. You can use them to plant Plumeria.",
+      "Text": "花植えに必要な赤色プルメリアの花びら。使うと赤色のプルメリアが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 8373135272777223834,
-      "Text": "Cluster Amaryllis Petals",
+      "Text": "白色ヒガンバナの花びら",
       "PluralText": ""
     },
     {
       "Id": 7041090818970476195,
-      "Text": "Cluster Amaryllis Petals",
+      "Text": "黄色ヒガンバナの花びら",
       "PluralText": ""
     },
     {
       "Id": -6631920261382886174,
-      "Text": "Cluster Amaryllis Petals",
+      "Text": "赤色ヒガンバナの花びら",
       "PluralText": ""
     },
     {
       "Id": 1473256722674902528,
-      "Text": "Cluster Amaryllis petals. You can use them to plant Cluster Amaryllis.",
+      "Text": "花植えに必要な白色ヒガンバナの花びら。使うと白色のヒガンバナが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1226927866306835946,
-      "Text": "Cluster Amaryllis petals. You can use them to plant Cluster Amaryllis.",
+      "Text": "花植えに必要な黄色ヒガンバナの花びら。使うと黄色のヒガンバナが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 4783277660321417237,
-      "Text": "Cluster Amaryllis petals. You can use them to plant Cluster Amaryllis.",
+      "Text": "花植えに必要な赤色ヒガンバナの花びら。使うと赤色のヒガンバナが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 7063481772269488210,
-      "Text": "Cosmos Petals",
+      "Text": "白色コスモスの花びら",
       "PluralText": ""
     },
     {
       "Id": -2111421400716526970,
-      "Text": "Cosmos Petals",
+      "Text": "黄色コスモスの花びら",
       "PluralText": ""
     },
     {
       "Id": -572559388491682701,
-      "Text": "Cosmos Petals",
+      "Text": "赤色コスモスの花びら",
       "PluralText": ""
     },
     {
       "Id": 3220246146260603502,
-      "Text": "Cosmos petals. You can use them to plant Cosmos.",
+      "Text": "花植えに必要な白色コスモスの花びら。使うと白色のコスモスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 1495842930547672234,
-      "Text": "Cosmos petals. You can use them to plant Cosmos.",
+      "Text": "花植えに必要な黄色コスモスの花びら。使うと黄色のコスモスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 2432207928415705397,
-      "Text": "Cosmos petals. You can use them to plant Cosmos.",
+      "Text": "花植えに必要な赤色コスモスの花びら。使うと赤色のコスモスが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 5242045363165094037,
-      "Text": "Cyclamen Petals",
+      "Text": "白色シクラメンの花びら",
       "PluralText": ""
     },
     {
       "Id": 2155860144028620839,
-      "Text": "Cyclamen Petals",
+      "Text": "赤色シクラメンの花びら",
       "PluralText": ""
     },
     {
       "Id": 5034354571828634284,
-      "Text": "Cyclamen Petals",
+      "Text": "青色シクラメンの花びら",
       "PluralText": ""
     },
     {
       "Id": -49197201821552512,
-      "Text": "Cyclamen petals. You can use them to plant Cyclamen.",
+      "Text": "花植えに必要な白色シクラメンの花びら。使うと白色のシクラメンが植えられる。",
       "PluralText": ""
     },
     {
       "Id": 6317437324556766267,
-      "Text": "Cyclamen petals. You can use them to plant Cyclamen.",
+      "Text": "花植えに必要な赤色シクラメンの花びら。使うと赤色のシクラメンが植えられる。",
       "PluralText": ""
     },
     {
       "Id": -7652943238474281815,
-      "Text": "Cyclamen petals. You can use them to plant Cyclamen.",
+      "Text": "花植えに必要な青色シクラメンの花びら。使うと青色のシクラメンが植えられる。",
       "PluralText": ""
     },
     {
@@ -13288,6 +13338,121 @@
     {
       "Id": 110217096892885786,
       "Text": "理解しました",
+      "PluralText": ""
+    },
+    {
+      "Id": 1693613730535626830,
+      "Text": "お寿司屋さん",
+      "PluralText": ""
+    },
+    {
+      "Id": 4233010586609108525,
+      "Text": "お寿司",
+      "PluralText": ""
+    },
+    {
+      "Id": 8595996620366699356,
+      "Text": "赤ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8909094214759613912,
+      "Text": "黄ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8742502549483892506,
+      "Text": "青ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 6824064637991850964,
+      "Text": "お寿司",
+      "PluralText": ""
+    },
+    {
+      "Id": -8371629744304152733,
+      "Text": "お寿司",
+      "PluralText": ""
+    },
+    {
+      "Id": -4906820165958685634,
+      "Text": "お寿司",
+      "PluralText": ""
+    },
+    {
+      "Id": -4831962402194489789,
+      "Text": "チェスのコマ",
+      "PluralText": ""
+    },
+    {
+      "Id": -8202609903654207341,
+      "Text": "赤ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 5912434556819916912,
+      "Text": "黄ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2838510332052937609,
+      "Text": "青ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8340669356474258017,
+      "Text": "岩ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 5946904083283211184,
+      "Text": "羽ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2236583345452789051,
+      "Text": "紫ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 2352222102455245736,
+      "Text": "白ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": -3957461678017714046,
+      "Text": "チェスの駒",
+      "PluralText": ""
+    },
+    {
+      "Id": 1898740594893874674,
+      "Text": "チェスの駒",
+      "PluralText": ""
+    },
+    {
+      "Id": 6159117735239613501,
+      "Text": "チェスの駒",
+      "PluralText": ""
+    },
+    {
+      "Id": 2433399513730815690,
+      "Text": "チェスの駒",
+      "PluralText": ""
+    },
+    {
+      "Id": -2555179312702147528,
+      "Text": "チェスの駒",
+      "PluralText": ""
+    },
+    {
+      "Id": 4617506967498218274,
+      "Text": "チェスの駒",
+      "PluralText": ""
+    },
+    {
+      "Id": -3829438540758445639,
+      "Text": "チェスの駒",
       "PluralText": ""
     },
     {
@@ -13737,352 +13902,352 @@
     },
     {
       "Id": 5631335378871467645,
-      "Text": "Rare nectar that will make a Narcissus grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のスイセンが咲く。",
       "PluralText": ""
     },
     {
       "Id": 5885565023281846303,
-      "Text": "Rare nectar that will make a Narcissus grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に黄色のスイセンが咲く。",
       "PluralText": ""
     },
     {
       "Id": 9185703893455650866,
-      "Text": "Tulip Nectar",
+      "Text": "白色チューリップのエキス",
       "PluralText": ""
     },
     {
       "Id": -3999834673796882730,
-      "Text": "Tulip Nectar",
+      "Text": "黄色チューリップのエキス",
       "PluralText": ""
     },
     {
       "Id": 3781564832103967768,
-      "Text": "Tulip Nectar",
+      "Text": "赤色チューリップのエキス",
       "PluralText": ""
     },
     {
       "Id": -3255244715043770218,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のチューリップが咲く。",
       "PluralText": ""
     },
     {
       "Id": -93464290886712508,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に黄色のチューリップが咲く。",
       "PluralText": ""
     },
     {
       "Id": 5554182129859650248,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のチューリップが咲く。",
       "PluralText": ""
     },
     {
       "Id": 8758413008967315361,
-      "Text": "Tulip Nectar",
+      "Text": "青色チューリップのエキス",
       "PluralText": ""
     },
     {
       "Id": -5572361678970541141,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に青色のチューリップが咲く。",
       "PluralText": ""
     },
     {
       "Id": -994308668905278774,
-      "Text": "Nemophila Nectar",
+      "Text": "ネモフィラのエキス",
       "PluralText": ""
     },
     {
       "Id": 385334078457209541,
-      "Text": "Rare nectar that will make a Nemophila grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭にネモフィラが咲く。",
       "PluralText": ""
     },
     {
       "Id": 7493065690932867517,
-      "Text": "Carnation Nectar",
+      "Text": "白色カーネーションのエキス",
       "PluralText": ""
     },
     {
       "Id": 8106012987585575890,
-      "Text": "Carnation Nectar",
+      "Text": "赤色カーネーションのエキス",
       "PluralText": ""
     },
     {
       "Id": 456925336659337380,
-      "Text": "Carnation Nectar",
+      "Text": "青色カーネーションのエキス",
       "PluralText": ""
     },
     {
       "Id": -7189020798718681133,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のカーネーションが咲く。",
       "PluralText": ""
     },
     {
       "Id": 6308581681808231676,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のカーネーションが咲く。",
       "PluralText": ""
     },
     {
       "Id": 4490362610984332759,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に青色のカーネーションが咲く。",
       "PluralText": ""
     },
     {
       "Id": -259053663745202193,
-      "Text": "Callalily Nectar",
+      "Text": "白色カラーリリーのエキス",
       "PluralText": ""
     },
     {
       "Id": 8382517185243430917,
-      "Text": "Callalily Nectar",
+      "Text": "黄色カラーリリーのエキス",
       "PluralText": ""
     },
     {
       "Id": -4335846711497507016,
-      "Text": "Callalily Nectar",
+      "Text": "赤色カラーリリーのエキス",
       "PluralText": ""
     },
     {
       "Id": 3085489641509516925,
-      "Text": "Callalily Nectar",
+      "Text": "青色カラーのエキス",
       "PluralText": ""
     },
     {
       "Id": -5041526210408754359,
-      "Text": "Rare nectar that will make a Callalily grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のカラーが咲く。",
       "PluralText": ""
     },
     {
       "Id": -1503712260009450434,
-      "Text": "Rare nectar that will make a Callalily grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に黄色のカラーが咲く。",
       "PluralText": ""
     },
     {
       "Id": -3341328922745224300,
-      "Text": "Rare nectar that will make a Callalily grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のカラーが咲く。",
       "PluralText": ""
     },
     {
       "Id": 3284365956309640685,
-      "Text": "Rare nectar that will make a Callalily grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に青色のカラーが咲く。",
       "PluralText": ""
     },
     {
       "Id": -1455948860794901810,
-      "Text": "Hydrangea Nectar",
+      "Text": "白色あじさいのエキス",
       "PluralText": ""
     },
     {
       "Id": -4315866866260456215,
-      "Text": "Hydrangea Nectar",
+      "Text": "赤色あじさいのエキス",
       "PluralText": ""
     },
     {
       "Id": 104780273533430447,
-      "Text": "Hydrangea Nectar",
+      "Text": "青色あじさいのエキス",
       "PluralText": ""
     },
     {
       "Id": 8176092224478496919,
-      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のあじさいが咲く。",
       "PluralText": ""
     },
     {
       "Id": -1279814446344063928,
-      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のあじさいが咲く。",
       "PluralText": ""
     },
     {
       "Id": 4832539871091449461,
-      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に青色のあじさいが咲く。",
       "PluralText": ""
     },
     {
       "Id": -7974929863864699797,
-      "Text": "Lilium Nectar",
+      "Text": "白色ユリのエキス",
       "PluralText": ""
     },
     {
       "Id": 6010219776786455862,
-      "Text": "Lilium Nectar",
+      "Text": "黄色ユリのエキス",
       "PluralText": ""
     },
     {
       "Id": 9048645749259830977,
-      "Text": "Lilium Nectar",
+      "Text": "赤色ユリのエキス",
       "PluralText": ""
     },
     {
       "Id": 8235530693111691020,
-      "Text": "Rare nectar that will make a Lilium grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のユリが咲く。",
       "PluralText": ""
     },
     {
       "Id": -5759758324332692520,
-      "Text": "Rare nectar that will make a Lilium grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に黄色のユリが咲く。",
       "PluralText": ""
     },
     {
       "Id": 7519074559876519706,
-      "Text": "Rare nectar that will make a Lilium grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のユリが咲く。",
       "PluralText": ""
     },
     {
       "Id": -7350966598303012104,
-      "Text": "Hibiscus Nectar",
+      "Text": "白色ハイビスカスのエキス",
       "PluralText": ""
     },
     {
       "Id": 5504041177460613328,
-      "Text": "Hibiscus Nectar",
+      "Text": "黄色ハイビスカスのエキス",
       "PluralText": ""
     },
     {
       "Id": 121017744955452525,
-      "Text": "Hibiscus Nectar",
+      "Text": "赤色ハイビスカスのエキス",
       "PluralText": ""
     },
     {
       "Id": -8370875881850635758,
-      "Text": "Rare nectar that will make a Hibiscus grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のハイビスカスが咲く。",
       "PluralText": ""
     },
     {
       "Id": -7326140643086802774,
-      "Text": "Rare nectar that will make a Hibiscus grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に黄色のハイビスカスが咲く。",
       "PluralText": ""
     },
     {
       "Id": -7609687729738238045,
-      "Text": "Rare nectar that will make a Hibiscus grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のハイビスカスが咲く。",
       "PluralText": ""
     },
     {
       "Id": 5981232340735671119,
-      "Text": "Plumeria Nectar",
+      "Text": "白色プルメリアのエキス",
       "PluralText": ""
     },
     {
       "Id": 1889511570147078702,
-      "Text": "Plumeria Nectar",
+      "Text": "黄色プルメリアのエキス",
       "PluralText": ""
     },
     {
       "Id": 1069888913447866869,
-      "Text": "Plumeria Nectar",
+      "Text": "赤色プルメリアのエキス",
       "PluralText": ""
     },
     {
       "Id": -6025716001316034875,
-      "Text": "Rare nectar that will make a Plumeria grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のプルメリアが咲く。",
       "PluralText": ""
     },
     {
       "Id": 6915854074455703230,
-      "Text": "Rare nectar that will make a Plumeria grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に黄色のプルメリアが咲く。",
       "PluralText": ""
     },
     {
       "Id": 5715654992471689247,
-      "Text": "Rare nectar that will make a Plumeria grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のプルメリアが咲く。",
       "PluralText": ""
     },
     {
       "Id": -263095102676969046,
-      "Text": "Sunflower Nectar",
+      "Text": "ひまわりのエキス",
       "PluralText": ""
     },
     {
       "Id": 13779198006331301,
-      "Text": "Rare nectar that will make a Sunflower grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭にひまわりが咲く。",
       "PluralText": ""
     },
     {
       "Id": 8913725547355038280,
-      "Text": "Cluster Amaryllis Nectar",
+      "Text": "白色ヒガンバナのエキス",
       "PluralText": ""
     },
     {
       "Id": 1376056171535081599,
-      "Text": "Cluster Amaryllis Nectar",
+      "Text": "黄色ヒガンバナのエキス",
       "PluralText": ""
     },
     {
       "Id": 2347771963188317006,
-      "Text": "Cluster Amaryllis Nectar",
+      "Text": "赤色ヒガンバナのエキス",
       "PluralText": ""
     },
     {
       "Id": -6653635714730074325,
-      "Text": "Rare nectar that will make a Cluster Amaryllis grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のヒガンバナが咲く。",
       "PluralText": ""
     },
     {
       "Id": -376589002013997797,
-      "Text": "Rare nectar that will make a Cluster Amaryllis grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に黄色のヒガンバナが咲く。",
       "PluralText": ""
     },
     {
       "Id": -1120112124663007782,
-      "Text": "Rare nectar that will make a Cluster Amaryllis grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のヒガンバナが咲く。",
       "PluralText": ""
     },
     {
       "Id": 3451407740552605841,
-      "Text": "Cosmos Nectar",
+      "Text": "白色コスモスのエキス",
       "PluralText": ""
     },
     {
       "Id": -4980006934907995496,
-      "Text": "Cosmos Nectar",
+      "Text": "黄色コスモスのエキス",
       "PluralText": ""
     },
     {
       "Id": -2820694355337058665,
-      "Text": "Cosmos Nectar",
+      "Text": "赤色コスモスのエキス",
       "PluralText": ""
     },
     {
       "Id": -8785592524994546735,
-      "Text": "Rare nectar that will make a Cosmos grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のコスモスが咲く。",
       "PluralText": ""
     },
     {
       "Id": -82404680024907460,
-      "Text": "Rare nectar that will make a Cosmos grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に黄色のコスモスが咲く。",
       "PluralText": ""
     },
     {
       "Id": 8440197959792792334,
-      "Text": "Rare nectar that will make a Cosmos grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のコスモスが咲く。",
       "PluralText": ""
     },
     {
       "Id": 4718908740125540148,
-      "Text": "Cyclamen Nectar",
+      "Text": "白色シクラメンのエキス",
       "PluralText": ""
     },
     {
       "Id": 566193802165873138,
-      "Text": "Cyclamen Nectar",
+      "Text": "赤色シクラメンのエキス",
       "PluralText": ""
     },
     {
       "Id": 8171409123402884789,
-      "Text": "Cyclamen Nectar",
+      "Text": "青色シクラメンのエキス",
       "PluralText": ""
     },
     {
       "Id": -1900750473719989786,
-      "Text": "Rare nectar that will make a Cyclamen grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に白色のシクラメンが咲く。",
       "PluralText": ""
     },
     {
       "Id": 309050162140555771,
-      "Text": "Rare nectar that will make a Cyclamen grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に赤色のシクラメンが咲く。",
       "PluralText": ""
     },
     {
       "Id": 879791126844684885,
-      "Text": "Rare nectar that will make a Cyclamen grow on a Pikmin's head.",
+      "Text": "珍しいエキス。ピクミンが食べると、頭に青色のシクラメンが咲く。",
       "PluralText": ""
     },
     {
@@ -14248,6 +14413,11 @@
     {
       "Id": 1533898344558189390,
       "Text": "チャレンジ",
+      "PluralText": ""
+    },
+    {
+      "Id": 6038283208048095837,
+      "Text": "レベルアップのプレゼント",
       "PluralText": ""
     },
     {
@@ -14498,6 +14668,191 @@
     {
       "Id": 4678873459360921293,
       "Text": "既に {0} 個のプライバシーゾーンが保存されています。新しいゾーンを作るには、古いものを削除する必要があります。",
+      "PluralText": ""
+    },
+    {
+      "Id": 3484617631795916588,
+      "Text": "お世話画面では、ARフォトが撮影できます。ピクミンと一緒に写真を撮ったら、お友達にシェアしてみましょう！",
+      "PluralText": ""
+    },
+    {
+      "Id": 7200515630930266300,
+      "Text": "探知機は使い切ると、翌日に1回分無料でチャージされます。忘れずに使っておきましょう！",
+      "PluralText": ""
+    },
+    {
+      "Id": 6497422941931275781,
+      "Text": "ピクミンに毎日エキスをあげて、なかよし度を上げましょう。なかよくなると、素敵なことが起きるかも！",
+      "PluralText": ""
+    },
+    {
+      "Id": -4201989235065548635,
+      "Text": "ライフログには、あなたの好きな写真や文章を追加できます。日付の横の「＋ボタン」をタップしてみましょう。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8946294826485047552,
+      "Text": "ピクミンやポストカードのリストの上で長押しすると、複数選択ができますよ！",
+      "PluralText": ""
+    },
+    {
+      "Id": -2395680636257114384,
+      "Text": "ポストカードを届けにきたピクミンは、受け取ってもらえるまで、最長3日間待機するようです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 5555984097992198740,
+      "Text": "ビッグフラワーの周りに花を植えてみましょう。たくさん花植えすることで、ビッグフラワーが咲くようです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 2061307758073378667,
+      "Text": "開花したビッグフラワーが輝いている間に、近くで花植えしてみましょう。良いものが見つかるかもしれません！",
+      "PluralText": ""
+    },
+    {
+      "Id": 136491324792122571,
+      "Text": "花植え中は苗が早く育ちます。どんどん花植えして、ピクミンを引っこぬきましょう！",
+      "PluralText": ""
+    },
+    {
+      "Id": 8734263729113341237,
+      "Text": "花植えをしている間、一定量植えるごとにボーナスコインがもらえます。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2871577461391453943,
+      "Text": "花を植えたくない特定の場所があるときは、設定画面からプライバシーゾーンを設定しましょう。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8276595101407658895,
+      "Text": "自分の植えた花は、ライフログや設定画面から削除することもできます。",
+      "PluralText": ""
+    },
+    {
+      "Id": -6078735754954300967,
+      "Text": "お友達をPikmin Bloomに招待してみませんか？招待してくださった方には、プレゼントをご用意しています！",
+      "PluralText": ""
+    },
+    {
+      "Id": 6043986246212696603,
+      "Text": "わからないことがあったら、設定画面から「ヘルプ」を確認してみましょう。",
+      "PluralText": ""
+    },
+    {
+      "Id": -1824892194546110745,
+      "Text": "ピクミンをリストから選択する時、ソート機能を使うことで、お目当てのピクミンを選びやすくなりますよ！",
+      "PluralText": ""
+    },
+    {
+      "Id": 8639230601079919630,
+      "Text": "ニンテンドーアカウントの連携で、特別な苗をプレゼント！設定画面、またはMiiの編集画面から連携できます。",
+      "PluralText": ""
+    },
+    {
+      "Id": 7786551774778482299,
+      "Text": "隊列のピクミンを一気に入れ替えたい？それなら、ホイッスルを素早く３回タップ！待機中のピクミンに入れ替わります。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8454701317118302495,
+      "Text": "スペシャルスロットを使うと、通常より苗が早く成長します。ショップで購入できますよ。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8580761753237801017,
+      "Text": "ピクミンが身につけるアイテムは、苗の発見場所と関係がありそうです。苗・ピクミンの詳細画面で発見場所が確認できます。",
+      "PluralText": ""
+    },
+    {
+      "Id": 2631043907411713215,
+      "Text": "エキスを何個も投げるのが大変？それならエキスをつまんだまま、ピクミンたちの方へドラッグしてみましょう。",
+      "PluralText": ""
+    },
+    {
+      "Id": -996001821821169928,
+      "Text": "ピクミンの頭の花が無くなったら、隊列に入れていっしょに歩いてあげましょう。いつもより早く葉っぱに戻るようです。",
+      "PluralText": ""
+    },
+    {
+      "Id": -3835780318666546226,
+      "Text": "今までに出会ったデコピクミンの種類は、デコピクミンバッジの詳細画面から確認できますよ。",
+      "PluralText": ""
+    },
+    {
+      "Id": -6866303937684414829,
+      "Text": "お世話画面で、ピクミンを長押ししてつまみ上げてみましょう。虫眼鏡で観察することもできますよ。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8859530568136502550,
+      "Text": "ピクミンの詳細画面を、画面いっぱいに開いてみましょう。そのときにピクミンに触れてみると…？",
+      "PluralText": ""
+    },
+    {
+      "Id": -8973640527982702391,
+      "Text": "ピクミンをダブルタップして、注目している状態でエキスをあげると、そのピクミンだけがエキスを食べてくれますよ。",
+      "PluralText": ""
+    },
+    {
+      "Id": 3898184139024259658,
+      "Text": "スペシャルエキスをピクミンにあげると、なかよし度がハート1つ分アップ！お気に入りのピクミンにあげてみましょう。",
+      "PluralText": ""
+    },
+    {
+      "Id": 4965465548260462006,
+      "Text": "ピクミン・苗・エキス・花びらなどの所持上限は、ショップからアップグレードできますよ。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2013858795142751835,
+      "Text": "ホーム画面の大きな地図からは、ライフログやおつかい画面、ピクミンリストなどにアクセスできますよ。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8837181790264424549,
+      "Text": "おつかいリストのアイテムは、ピクミンを送らないままでいるとリスト上から消えてしまいます。古い順に並んでいるので、欲しいものは早めにおつかいしましょう。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8560538571010392068,
+      "Text": "羽ピクミンはおつかいのスピードがとても早いようです。ただし羽以外のピクミンと一緒に行くと、本領を発揮できないので注意！",
+      "PluralText": ""
+    },
+    {
+      "Id": 8321526828962939131,
+      "Text": "キノコチャレンジでは、キノコと同じ色のピクミンや、デコピクミン、花が咲いたピクミンなどが強力なようです。",
+      "PluralText": ""
+    },
+    {
+      "Id": -8845234256144901788,
+      "Text": "キノコチャレンジでは、クリアタイムが早ければ早いほど評価が高くなり、良いものがもらえるようです。",
+      "PluralText": ""
+    },
+    {
+      "Id": -2367939774841143747,
+      "Text": "キノコチャレンジで壊したキノコは、しばらくすると復活するようです。",
+      "PluralText": ""
+    },
+    {
+      "Id": -7210442754481933800,
+      "Text": "ピクミンとのなかよし度は、エキスをあげるほか、ピクミンをおつかいやチャレンジに出すことでも上がるようです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 8389710506546400265,
+      "Text": "ビッグフラワーは、その季節だけの花が咲くことがあります。今月はどんな花か、おしらせを確認してみましょう。",
+      "PluralText": ""
+    },
+    {
+      "Id": -1968907645343148781,
+      "Text": "フレンドになると、お互いの歩数やピクミン、獲得したバッジが見れたり、ポストカードを送り合うことができます。",
+      "PluralText": ""
+    },
+    {
+      "Id": 348878743656379735,
+      "Text": "新しい場所を歩くと、地図上の白い雲が晴れて行き、これまでに歩いたことがある場所を振り返ることができます。",
       "PluralText": ""
     }
   ]

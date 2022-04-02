@@ -52,13 +52,13 @@ id	constant	phrase	plural phrase
 4277095095918863174	BIRTHDAY_REENTER_REASON	2021年9月2日に施行されたThe UK Age Appropriate Design Codeに準拠するために、生年月日を再度入力する必要があります。	
 3792386460097383700	BIRTHDAY_REENTER_INCONSISTENT_ERROR	過去に別の生年月日を入力したことがあるようです。必ず正しい生年月日を入力してください。	
 704694032920532328	BIRTHDAY_REENTER_HELP	ヘルプ	
--3010812838262852898	CHEATING_WARNING_STRIKE_1_TITLE	WARNING	
-6478568743526151139	CHEATING_WARNING_STRIKE_1_MAIN_TEXT	We have detected activity on your account that indicates you are using modified client software or unauthorized third party software in violation of our Terms of Service.\n\nPlease be aware that the use of such software can result in the loss of your account. If you have been using such software, we strongly encourage you to stop. Any further transgressions will result in the suspension of your account.	
-9165786587232698230	CHEATING_WARNING_STRIKE_2_TITLE	ACCOUNT SUSPENDED	
--5265633432058391600	CHEATING_WARNING_STRIKE_2_MAIN_TEXT	Your account has been temporarily suspended for continued violation of the Terms of Service.\n\nYou will regain access to your account in approximately {0} days. Any further transgressions will result in a permanent account termination.	
--8720522393209134153	CHEATING_WARNING_STRIKE_3_TITLE	ACCOUNT TERMINATED	
--3682785770674810225	CHEATING_WARNING_STRIKE_3_MAIN_TEXT	Your account has been permanently terminated for violating the Terms of Service.	
-110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	I Understand	
+-3010812838262852898	CHEATING_WARNING_STRIKE_1_TITLE	警告	
+6478568743526151139	CHEATING_WARNING_STRIKE_1_MAIN_TEXT	利用規約に違反し、改変を行ったクライアントソフトウェアまたは認可されていない第三者のソフトウェアの利用を検出しました。\n\nこのようなソフトウェアをご利用されるとアカウントを停止する可能性があります。ご利用されている場合、ご利用をストップされることを強くおすすめします。引き続きの違反が見受けられた場合、アカウントを停止します。	
+9165786587232698230	CHEATING_WARNING_STRIKE_2_TITLE	アカウントの一時停止	
+-5265633432058391600	CHEATING_WARNING_STRIKE_2_MAIN_TEXT	利用規約への違反が続いたため、アカウントを一時的に停止しました。 \n\n約 {0} 日後にアカウントへのアクセスが回復します。これ以上違反があると、アカウントは永久に停止されます。	
+-8720522393209134153	CHEATING_WARNING_STRIKE_3_TITLE	アカウントの永久停止	
+-3682785770674810225	CHEATING_WARNING_STRIKE_3_MAIN_TEXT	利用規約に違反しているため、アカウントを永久に停止しました。	
+110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	理解しました	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	前のページへ戻る	
 8485757493794925261	ACTION_CANCEL	キャンセル	
 -897094175043611554	ACTION_CANT_SIGN_IN	ログインできませんか？	
@@ -102,5 +102,42 @@ id	constant	phrase	plural phrase
 9026675325510307464	ACTION_SUBMIT	送信	
 5971105615315949668	ACTION_SKIP	スキップ	
 -4558965017223283166	ACTION_SAVE_TO_DEVICE	画像を保存	
--7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	Couldn't connect to server.	
--6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Check your network connectivity.	
+-7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	サーバーに接続できませんでした。	
+-6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	ネットワークの状態を確認してください。	
+3484617631795916588	STARTUP_SCREEN_TIPS_0001	お世話画面では、ARフォトが撮影できます。ピクミンと一緒に写真を撮ったら、お友達にシェアしてみましょう！	
+7200515630930266300	STARTUP_SCREEN_TIPS_0002	探知機は使い切ると、翌日に1回分無料でチャージされます。忘れずに使っておきましょう！	
+6497422941931275781	STARTUP_SCREEN_TIPS_0003	ピクミンに毎日エキスをあげて、なかよし度を上げましょう。なかよくなると、素敵なことが起きるかも！	
+-4201989235065548635	STARTUP_SCREEN_TIPS_0004	ライフログには、あなたの好きな写真や文章を追加できます。日付の横の「＋ボタン」をタップしてみましょう。	
+-8946294826485047552	STARTUP_SCREEN_TIPS_0005	ピクミンやポストカードのリストの上で長押しすると、複数選択ができますよ！	
+-2395680636257114384	STARTUP_SCREEN_TIPS_0006	ポストカードを届けにきたピクミンは、受け取ってもらえるまで、最長3日間待機するようです。	
+5555984097992198740	STARTUP_SCREEN_TIPS_0007	ビッグフラワーの周りに花を植えてみましょう。たくさん花植えすることで、ビッグフラワーが咲くようです。	
+2061307758073378667	STARTUP_SCREEN_TIPS_0008	開花したビッグフラワーが輝いている間に、近くで花植えしてみましょう。良いものが見つかるかもしれません！	
+136491324792122571	STARTUP_SCREEN_TIPS_0009	花植え中は苗が早く育ちます。どんどん花植えして、ピクミンを引っこぬきましょう！	
+8734263729113341237	STARTUP_SCREEN_TIPS_0010	花植えをしている間、一定量植えるごとにボーナスコインがもらえます。	
+-2871577461391453943	STARTUP_SCREEN_TIPS_0011	花を植えたくない特定の場所があるときは、設定画面からプライバシーゾーンを設定しましょう。	
+8276595101407658895	STARTUP_SCREEN_TIPS_0012	自分の植えた花は、ライフログや設定画面から削除することもできます。	
+-6078735754954300967	STARTUP_SCREEN_TIPS_0013	お友達を、Pikmin Bloomに招待してみませんか？招待してくださった方には、プレゼントをご用意しています！	
+6043986246212696603	STARTUP_SCREEN_TIPS_0014	わからないことがあったら、設定画面から「ヘルプ」を確認してみましょう。	
+-1824892194546110745	STARTUP_SCREEN_TIPS_0015	ピクミンをリストから選択する時、ソート機能を使うことで、お目当てのピクミンを選びやすくなりますよ！	
+8639230601079919630	STARTUP_SCREEN_TIPS_0016	ニンテンドーアカウントの連携で、特別な苗をプレゼント！設定画面、またはMiiの編集画面から連携できます。	
+7786551774778482299	STARTUP_SCREEN_TIPS_0017	隊列のピクミンを一気に入れ替えたい？それなら、ホイッスルを素早く３回タップ！待機中のピクミンに入れ替わります。	
+-8454701317118302495	STARTUP_SCREEN_TIPS_0018	スペシャルスロットを使うと、通常より苗が早く成長します。ショップで購入できますよ。	
+-8580761753237801017	STARTUP_SCREEN_TIPS_0019	ピクミンが身につけるアイテムは、苗の発見場所と関係がありそうです。苗・ピクミンの詳細画面で発見場所が確認できます。	
+2631043907411713215	STARTUP_SCREEN_TIPS_0020	エキスを何個も投げるのが大変？それならエキスをつまんだまま、ピクミンたちの方へドラッグしてみましょう。	
+-996001821821169928	STARTUP_SCREEN_TIPS_0021	ピクミンの頭の花が無くなったら、隊列に入れていっしょに歩いてあげましょう。いつもより早く葉っぱに戻るようです。	
+-3835780318666546226	STARTUP_SCREEN_TIPS_0022	今までに出会ったデコピクミンの種類は、デコピクミンバッジの詳細画面から確認できますよ。	
+-6866303937684414829	STARTUP_SCREEN_TIPS_0023	お世話画面で、ピクミンを長押ししてつまみ上げてみましょう。虫眼鏡で観察することもできますよ。	
+-8859530568136502550	STARTUP_SCREEN_TIPS_0024	ピクミンの詳細画面を、画面いっぱいに開いてみましょう。そのときにピクミンに触れてみると…？	
+-8973640527982702391	STARTUP_SCREEN_TIPS_0025	ピクミンをダブルタップして、注目している状態でエキスをあげると、そのピクミンだけがエキスを食べてくれますよ。	
+3898184139024259658	STARTUP_SCREEN_TIPS_0026	スペシャルエキスをピクミンにあげると、なかよし度がハート1つ分アップ！お気に入りのピクミンにあげてみましょう。	
+4965465548260462006	STARTUP_SCREEN_TIPS_0027	ピクミン・苗・エキス・花びらなどの所持上限は、ショップからアップグレードできますよ。	
+-2013858795142751835	STARTUP_SCREEN_TIPS_0028	ホーム画面の大きな地図からは、ライフログやおつかい画面、ピクミンリストなどにアクセスできますよ。	
+8837181790264424549	STARTUP_SCREEN_TIPS_0029	おつかいリストのアイテムは、ピクミンを送らないままでいるとリスト上から消えてしまいます。古い順に並んでいるので、欲しいものは早めにおつかいしましょう。	
+-8560538571010392068	STARTUP_SCREEN_TIPS_0030	羽ピクミンはおつかいのスピードがとても早いようです。ただし羽以外のピクミンと一緒に行くと、本領を発揮できないので注意！	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	キノコチャレンジでは、キノコと同じ色のピクミンや、デコピクミン、花が咲いたピクミンなどが強力なようです。	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	キノコチャレンジでは、クリアタイムが早ければ早いほど評価が高くなり、良いものがもらえるようです。	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	キノコチャレンジで壊したキノコは、しばらくすると復活するようです。	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	ピクミンとのなかよし度は、エキスをあげるほか、ピクミンをおつかいやチャレンジに出すことでも上がるようです。	
+8389710506546400265	STARTUP_SCREEN_TIPS_0035	ビッグフラワーは、その季節だけの花が咲くことがあります。今月はどんな花か、おしらせを確認してみましょう。 	
+-1968907645343148781	STARTUP_SCREEN_TIPS_0036	フレンドになると、お互いの歩数やピクミン、獲得したバッジが見れたり、ポストカードを送り合うことができます。	
+348878743656379735	STARTUP_SCREEN_TIPS_0037	新しい場所を歩くと、地図上の白い雲が晴れて行き、これまでに歩いたことがある場所を振り返ることができます。	

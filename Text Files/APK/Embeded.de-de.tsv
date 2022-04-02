@@ -102,5 +102,42 @@ id	constant	phrase	plural phrase
 9026675325510307464	ACTION_SUBMIT	Abschicken	
 5971105615315949668	ACTION_SKIP	Überspringen	
 -4558965017223283166	ACTION_SAVE_TO_DEVICE	Speichern	
--7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	Couldn't connect to server.	
--6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Check your network connectivity.	
+-7006993197821614531	BOOT_ERROR_SERVER_UNREACHABLE_TITLE	Es konnte keine Verbindung zum Server hergestellt werden.	
+-6934986790882215623	BOOT_ERROR_UNKNOWN_DESCRIPTION	Bitte überprüfe die Verbindung \nzu deinem Netzwerk.	
+3484617631795916588	STARTUP_SCREEN_TIPS_0001	Mache AR-Fotos, wenn du deine Pikmin fütterst, und teile sie mit deinen Freunden!	
+7200515630930266300	STARTUP_SCREEN_TIPS_0002	Der Radar wird einmal pro Tag kostenlos aufgeladen, wenn er leer ist, also vergiss nicht, ihn aufzubrauchen!	
+6497422941931275781	STARTUP_SCREEN_TIPS_0003	Füttere deine Pikmin jeden Tag mit Nektar, um ihr Freundschaftslevel zu steigern. Wenn ihr beste Freunde werdet, können tolle Dinge passieren!	
+-4201989235065548635	STARTUP_SCREEN_TIPS_0004	Füge deine Lieblingsfotos hinzu und schreibe im Tagebuch über deinen Tag. Tippe auf die Schaltfläche „+“ neben dem Datum, um anzufangen.	
+-8946294826485047552	STARTUP_SCREEN_TIPS_0005	Tippe lang, um mehrere Objekte in deinen Pikmin- oder Postkartenlisten auszuwählen.	
+-2395680636257114384	STARTUP_SCREEN_TIPS_0006	Pikmin, die kommen, um Postkarten zuzustellen, warten bis zu drei Tage darauf, dass sie angenommen werden.	
+5555984097992198740	STARTUP_SCREEN_TIPS_0007	Pflanze Blumen um die Riesenblume, damit sie aufblüht.	
+2061307758073378667	STARTUP_SCREEN_TIPS_0008	Versuche, Blumen um eine Riesenblume zu pflanzen, die in voller Blüte leuchtet. Vielleicht findest du eine nette Überraschung!	
+136491324792122571	STARTUP_SCREEN_TIPS_0009	Keime wachsen schneller, während du Blumen pflanzt. Pflanze Blumen, um immer mehr Pikmin zu sammeln!	
+8734263729113341237	STARTUP_SCREEN_TIPS_0010	Verdiene Bonusmünzen, während du Blumen pflanzt.	
+-2871577461391453943	STARTUP_SCREEN_TIPS_0011	Richte in den Einstellungen private Zonen ein, um bestimmte Bereiche auszuschließen, in denen du keine Blumen pflanzen willst.	
+8276595101407658895	STARTUP_SCREEN_TIPS_0012	Du ganz gepflanzte Blumen vom Tagebuch und den Einstellungen aus löschen.	
+-6078735754954300967	STARTUP_SCREEN_TIPS_0013	Lade deine Freunde zu Pikmin Bloom ein und erhalte Belohnungen!	
+6043986246212696603	STARTUP_SCREEN_TIPS_0014	Wenn du Fragen hast, schaue im Hilfebereich in den Einstellungen nach.	
+-1824892194546110745	STARTUP_SCREEN_TIPS_0015	Nutze die Sortierungsfunktion in der Pikmin-Liste, um deine Pikmin leichter zu finden. 	
+8639230601079919630	STARTUP_SCREEN_TIPS_0016	Verbinde deinen Nintendo-Account, um einen besonderen Keim zu erhalten! Besuche die Einstellungen oder den Mii-Änderungsbildschirm.	
+7786551774778482299	STARTUP_SCREEN_TIPS_0017	Möchtest du alle Pikmin in deiner Gruppe gleichzeitig wechseln? Tippe schnell dreimal auf die Pfeife und sie werden mit Reserve-Pikmin ersetzt.	
+-8454701317118302495	STARTUP_SCREEN_TIPS_0018	Spezialmulden lassen Keime schneller als gewöhnlich wachsen. Du kannst sie im Shop kaufen.	
+-8580761753237801017	STARTUP_SCREEN_TIPS_0019	Wie es scheint, haben die Gegenstände, die Deko-Pikmin tragen, mit dem Fundort ihres Keims zu tun. Öffne die Keim-Info, um Details zu erfahren.	
+2631043907411713215	STARTUP_SCREEN_TIPS_0020	Zu beschäftigt, um jeden deiner Pikmin einzeln zu füttern? Versuche, lang auf das Nektar-Symbol zu tippen, während du es auf die Pikmin ziehst.	
+-996001821821169928	STARTUP_SCREEN_TIPS_0021	Wenn deine Pikmin die Blumen auf den Köpfen verlieren, füge sie deiner Gruppe hinzu und nimm sie auf einen Spaziergang mit. Das scheint ihre Blüten schneller neu sprießen zu lassen.	
+-3835780318666546226	STARTUP_SCREEN_TIPS_0022	Schau dir die Deko-Pikmin an, die du bisher gefunden hast, indem du die Deko-Pikmin-Medaillen-Detailansicht öffnest.	
+-6866303937684414829	STARTUP_SCREEN_TIPS_0023	Tippe lang auf ein Pikmin im Garten, um es aufzuheben. Du kannst es auch mit der Lupe genauer betrachten.	
+-8859530568136502550	STARTUP_SCREEN_TIPS_0024	Versuche, die Pikmin-Detailansicht im Vollbildmodus zu öffnen und schau, was passiert, wenn du dein Pikmin antippst.	
+-8973640527982702391	STARTUP_SCREEN_TIPS_0025	Wenn du einem bestimmten Pikmin Nektar geben möchtest, tippe es doppelt an, um heranzuzoomen.	
+3898184139024259658	STARTUP_SCREEN_TIPS_0026	Gib deinen Lieblingspikmin Spezialnektar, um ihr Freundschaftslevel um ein Herz zu erhöhen!	
+4965465548260462006	STARTUP_SCREEN_TIPS_0027	Du kannst deine Lagerkapazität für Pikmin, Keime, Nektar und Blütenblätter über den Shop erhöhen.	
+-2013858795142751835	STARTUP_SCREEN_TIPS_0028	Die große Karte auf dem Hauptbildschirm bietet leichten Zugriff auf Tagebuch, Expeditionsbildschirm und Pikmin-Liste.	
+8837181790264424549	STARTUP_SCREEN_TIPS_0029	Expeditionsgegenstände verschwinden nach 3 Tagen aus der Liste. Die Gegenstände werden von alt zu neu sortiert, also hol dir die gewünschten, bevor sie verschwinden.	
+-8560538571010392068	STARTUP_SCREEN_TIPS_0030	Flügel-Pikmin scheinen in Expeditionen sehr schnell zu sein, sofern sie nicht mit anderen Pikmin-Typen unterwegs sind.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	In den Pilz-Herausforderungen scheinen Pikmin von der Farbe des Pilzes, Deko-Pikmin und Pikmin mit Blumen am stärksten zu sein.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	In Pilz-Herausforderungen kommt es auf die Zeit an! Schließe sie so schnell du kannst ab, um höhere Wertungen und bessere Belohnungen zu erhalten.	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	In Herausforderungen zerstörte Pilze brauchen etwa 3 Stunden, um sich zu erholen.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Füttere deine Pikmin mit Nektar und schicke sie auf Expeditionen, um dein Freundschaftslevel zu erhöhen.	
+8389710506546400265	STARTUP_SCREEN_TIPS_0035	Manche Riesenblumen erblühen nur zu bestimmten Jahreszeiten. Lies die Neuigkeiten, um zu sehen, welche Blumen in diesem Monat Saison haben. 	
+-1968907645343148781	STARTUP_SCREEN_TIPS_0036	Füge Freunde hinzu, damit ihr einander Postkarten schicken und eure Pikmin und Medaillen vergleichen könnt.	
+348878743656379735	STARTUP_SCREEN_TIPS_0037	Wenn du einen neuen Ort besuchst, lichten sich die weißen Wolken auf der Karte, um den neuen Bereich aufzudecken. Benutze die Karte, um zu sehen, welche Orte du bisher besucht hast.	

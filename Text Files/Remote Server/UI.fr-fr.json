@@ -206,6 +206,11 @@
       "PluralText": ""
     },
     {
+      "Id": -96276456103343170,
+      "Text": "Mushroom Challenges",
+      "PluralText": ""
+    },
+    {
       "Id": 5795446491686635879,
       "Text": "Avez-vous un code d'invitation ?",
       "PluralText": ""
@@ -443,6 +448,11 @@
     {
       "Id": 7906285360239940228,
       "Text": "Fermer",
+      "PluralText": ""
+    },
+    {
+      "Id": -6681436196252445289,
+      "Text": "Remaining time",
       "PluralText": ""
     },
     {
@@ -1072,17 +1082,17 @@
     },
     {
       "Id": -7003964138057203322,
-      "Text": "Tulip Badge",
+      "Text": "Badge de tulipe",
       "PluralText": ""
     },
     {
       "Id": -4233857067769992934,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "Vous avez effectué 10 000 pas lors de la journée de la communauté d'avril !",
       "PluralText": ""
     },
     {
       "Id": 4646121118474962310,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Effectuez 10 000 pas lors de la journée de la communauté d'avril !",
       "PluralText": ""
     },
     {
@@ -1137,12 +1147,12 @@
     },
     {
       "Id": -6224646841727017497,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "You walked 10,000 steps during the June Community Day!",
       "PluralText": ""
     },
     {
       "Id": -4957616103423086890,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Walk 10,000 steps during the June Community Day!",
       "PluralText": ""
     },
     {
@@ -1167,12 +1177,12 @@
     },
     {
       "Id": -1864206099140360282,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "You walked 10,000 steps during the May Community Day!",
       "PluralText": ""
     },
     {
       "Id": 4341265496922598793,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Walk 10,000 steps during the May Community Day!",
       "PluralText": ""
     },
     {
@@ -1537,12 +1547,12 @@
     },
     {
       "Id": -7006993197821614531,
-      "Text": "Couldn't connect to server.",
+      "Text": "La connexion au serveur n'a pas pu être établie.",
       "PluralText": ""
     },
     {
       "Id": -6934986790882215623,
-      "Text": "Check your network connectivity.",
+      "Text": "Vérifiez l'état de votre réseau.",
       "PluralText": ""
     },
     {
@@ -5107,7 +5117,7 @@
     },
     {
       "Id": -6061706936715501273,
-      "Text": "Récoltez <b>{0} pétale</b> de fleur",
+      "Text": "Récoltez <b>{0} pétales</b> de fleurs",
       "PluralText": ""
     },
     {
@@ -5737,7 +5747,7 @@
     },
     {
       "Id": -6320859607873432806,
-      "Text": "{0} Pikmin",
+      "Text": "Pikmin : {1} {0}",
       "PluralText": ""
     },
     {
@@ -9676,6 +9686,36 @@
       "PluralText": ""
     },
     {
+      "Id": 8481807667962504414,
+      "Text": "Decor",
+      "PluralText": ""
+    },
+    {
+      "Id": 1017804344606554124,
+      "Text": "Reset to default",
+      "PluralText": ""
+    },
+    {
+      "Id": 4898751449553010730,
+      "Text": "Reset Pikmin name to default.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7007435731514555385,
+      "Text": "＊The name you currently typed will be discarded.\n＊You will no longer see this Pikmin name in Garden Scene when you press the whistle button.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8160463922470116096,
+      "Text": "Do you want to proceed?",
+      "PluralText": ""
+    },
+    {
+      "Id": 952110789839986926,
+      "Text": "Pikmin name has been reset to default.",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "Vous avez effectué {0} pas de plus qu'hier !",
       "PluralText": "Vous avez effectué {0} pas de plus qu'hier !"
@@ -10166,6 +10206,11 @@
       "PluralText": "{0} pas"
     },
     {
+      "Id": -1302362839224212364,
+      "Text": "You can see and share your mement cards in your  life log.",
+      "PluralText": ""
+    },
+    {
       "Id": -7171364068543964418,
       "Text": "Vous n'avez pas encore d'amis.",
       "PluralText": ""
@@ -10247,13 +10292,13 @@
     },
     {
       "Id": 4532780449312777931,
-      "Text": "Vous avez atteint le nombre maximum d'amis.",
-      "PluralText": "Vous avez atteint le nombre maximum d'amis."
+      "Text": "Le joueur que vous essayez d'inviter a atteint le nombre maximum d'amis.",
+      "PluralText": "Le joueur que vous essayez d'inviter a atteint le nombre maximum d'amis."
     },
     {
       "Id": -837182238931387011,
-      "Text": "Le joueur que vous essayez d'inviter a atteint le nombre maximum d'amis.",
-      "PluralText": "Le joueur que vous essayez d'inviter a atteint le nombre maximum d'amis."
+      "Text": "Vous avez atteint le nombre maximum d'amis.",
+      "PluralText": "Vous avez atteint le nombre maximum d'amis."
     },
     {
       "Id": 369300901328071057,
@@ -10332,7 +10377,7 @@
     },
     {
       "Id": -8839061826736048133,
-      "Text": "Rejoignez-moi sur Pikmin Bloom ! Venez faire pousser vos propres Pikmin, formez une belle équipe, et recouvrez de fleurs le monde qui nous entoure ! Pour cela, cliquez sur {0} ! Lorsque vous créerez votre compte, n'oubliez pas de saisir mon code de parrainage pour obtenir les récompenses spéciales suivantes : 20 pétales de fleurs et 10 nectars.",
+      "Text": "Rejoignez-moi sur Pikmin Bloom ! Venez faire pousser vos propres Pikmin, formez une belle équipe, et recouvrez de fleurs le monde qui nous entoure ! Pour cela, cliquez sur {0} ! Lorsque vous créerez votre compte, n'oubliez pas de saisir mon code de parrainage {1} pour obtenir les récompenses spéciales suivantes.",
       "PluralText": ""
     },
     {
@@ -10352,12 +10397,17 @@
     },
     {
       "Id": 4804797333152966006,
-      "Text": "Let's play Pikmin Bloom together!",
+      "Text": "Jouons ensemble à Pikmin Bloom !",
       "PluralText": ""
     },
     {
       "Id": -2616644659738580677,
-      "Text": "{0}'s Friend Code",
+      "Text": "Code ami de {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 2974952472524460290,
+      "Text": "Let's play Pikmin Bloom together! My friend code is: {0}",
       "PluralText": ""
     },
     {
@@ -11972,32 +12022,32 @@
     },
     {
       "Id": -6031586623699898218,
-      "Text": "White Tulip Petals",
+      "Text": "Pétales de tulipe blancs",
       "PluralText": ""
     },
     {
       "Id": 5899040038572347915,
-      "Text": "Yellow Tulip Petals",
+      "Text": "Pétales de tulipe jaunes",
       "PluralText": ""
     },
     {
       "Id": -8187484038251939022,
-      "Text": "White Tulip petals. Use them to plant White Tulips.",
+      "Text": "Pétales de tulipe blancs. Utilisez-les pour planter des tulipes blanches.",
       "PluralText": ""
     },
     {
       "Id": 1101381063767929693,
-      "Text": "Yellow Tulip petals. Use them to plant Yellow Tulips.",
+      "Text": "Pétales de tulipe jaunes. Utilisez-les pour planter des tulipes jaunes.",
       "PluralText": ""
     },
     {
       "Id": 1784272282964391732,
-      "Text": "Blue Tulip Petals",
+      "Text": "Pétales de tulipe bleus",
       "PluralText": ""
     },
     {
       "Id": -1437045631554306115,
-      "Text": "Blue Tulip petals. Use them to plant Blue Tulips.",
+      "Text": "Pétales de tulipe bleus. Utilisez-les pour planter des tulipes bleues.",
       "PluralText": ""
     },
     {
@@ -12717,12 +12767,12 @@
     },
     {
       "Id": 3922880167303567495,
-      "Text": "Tulip Petals",
+      "Text": "Pétales de tulipe blancs",
       "PluralText": ""
     },
     {
       "Id": 4318935807324170589,
-      "Text": "Tulip petals. You can use them to plant Tulip.",
+      "Text": "Pétales de tulipe blancs. Utilisez-les pour planter des tulipes blanches.",
       "PluralText": ""
     },
     {
@@ -13286,6 +13336,121 @@
       "PluralText": ""
     },
     {
+      "Id": 1693613730535626830,
+      "Text": "Restaurant de sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": 4233010586609108525,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": 8595996620366699356,
+      "Text": "C'est un Pikmin rouge.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8909094214759613912,
+      "Text": "C'est un Pikmin jaune.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8742502549483892506,
+      "Text": "C'est un Pikmin bleu.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6824064637991850964,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -8371629744304152733,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -4906820165958685634,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -4831962402194489789,
+      "Text": "Pièce d'échecs",
+      "PluralText": ""
+    },
+    {
+      "Id": -8202609903654207341,
+      "Text": "C'est un Pikmin rouge.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5912434556819916912,
+      "Text": "C'est un Pikmin jaune.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2838510332052937609,
+      "Text": "C'est un Pikmin bleu.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8340669356474258017,
+      "Text": "C'est un Pikmin roc.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5946904083283211184,
+      "Text": "C'est un Pikmin ailé.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2236583345452789051,
+      "Text": "C'est un Pikmin violet.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2352222102455245736,
+      "Text": "C'est un Pikmin blanc.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3957461678017714046,
+      "Text": "Pièce d'échecs",
+      "PluralText": ""
+    },
+    {
+      "Id": 1898740594893874674,
+      "Text": "Pièce d'échecs",
+      "PluralText": ""
+    },
+    {
+      "Id": 6159117735239613501,
+      "Text": "Pièce d'échecs",
+      "PluralText": ""
+    },
+    {
+      "Id": 2433399513730815690,
+      "Text": "Pièce d'échecs",
+      "PluralText": ""
+    },
+    {
+      "Id": -2555179312702147528,
+      "Text": "Pièce d'échecs",
+      "PluralText": ""
+    },
+    {
+      "Id": 4617506967498218274,
+      "Text": "Pièce d'échecs",
+      "PluralText": ""
+    },
+    {
+      "Id": -3829438540758445639,
+      "Text": "Pièce d'échecs",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "Pikmin déterré !",
       "PluralText": ""
@@ -13412,7 +13577,7 @@
     },
     {
       "Id": 1288781283542777354,
-      "Text": "Suite",
+      "Text": "Suivant",
       "PluralText": ""
     },
     {
@@ -13742,42 +13907,42 @@
     },
     {
       "Id": 9185703893455650866,
-      "Text": "Tulip Nectar",
+      "Text": "Nectar de tulipe blanche",
       "PluralText": ""
     },
     {
       "Id": -3999834673796882730,
-      "Text": "Tulip Nectar",
+      "Text": "Nectar de tulipe jaune",
       "PluralText": ""
     },
     {
       "Id": 3781564832103967768,
-      "Text": "Tulip Nectar",
+      "Text": "Nectar de tulipe rouge",
       "PluralText": ""
     },
     {
       "Id": -3255244715043770218,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "Un nectar rare qui fera éclore une tulipe sur la tête de vos Pikmin.",
       "PluralText": ""
     },
     {
       "Id": -93464290886712508,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "Un nectar rare qui fera éclore une tulipe sur la tête de vos Pikmin.",
       "PluralText": ""
     },
     {
       "Id": 5554182129859650248,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "Un nectar rare qui fera éclore une tulipe sur la tête de vos Pikmin.",
       "PluralText": ""
     },
     {
       "Id": 8758413008967315361,
-      "Text": "Tulip Nectar",
+      "Text": "Nectar de tulipe bleue",
       "PluralText": ""
     },
     {
       "Id": -5572361678970541141,
-      "Text": "Rare nectar that will make a Tulip grow on a Pikmin's head.",
+      "Text": "Un nectar rare qui fera éclore une tulipe sur la tête de vos Pikmin.",
       "PluralText": ""
     },
     {
@@ -14246,6 +14411,11 @@
       "PluralText": "défis"
     },
     {
+      "Id": 6038283208048095837,
+      "Text": "Level Up Rewards",
+      "PluralText": ""
+    },
+    {
       "Id": -5982153601342926839,
       "Text": "Annuler l'expédition",
       "PluralText": ""
@@ -14494,6 +14664,191 @@
       "Id": 4678873459360921293,
       "Text": "Impossible de créer plus de {0} zone. Pour créer une nouvelle zone, veuillez en supprimer une.",
       "PluralText": "Impossible de créer plus de {0} zones. Pour créer une nouvelle zone, veuillez en supprimer une."
+    },
+    {
+      "Id": 3484617631795916588,
+      "Text": "Prenez des photos en RA lorsque vous nourrissez vos Pikmin, et partagez-les avec vos amis !",
+      "PluralText": ""
+    },
+    {
+      "Id": 7200515630930266300,
+      "Text": "Le détecteur est utilisable gratuitement une fois par jour. \nN'oubliez pas d'en profiter !",
+      "PluralText": ""
+    },
+    {
+      "Id": 6497422941931275781,
+      "Text": "Nourrissez quotidiennement vos Pikmin avec du nectar pour augmenter leur niveau d'amitié. De grandes choses sont susceptibles de se produire si vous devenez les meilleurs amis du monde !",
+      "PluralText": ""
+    },
+    {
+      "Id": -4201989235065548635,
+      "Text": "Ajoutez vos photos préférées et racontez votre journée dans le journal de vie. Touchez le bouton « + » à côté de la date pour commencer.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8946294826485047552,
+      "Text": "Touchez longuement pour sélectionner plusieurs éléments dans vos listes de Pikmin ou de cartes postales.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2395680636257114384,
+      "Text": "Les Pikmin venus livrer des cartes postales attendront jusqu'à trois jours qu'elles soient réceptionnées.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5555984097992198740,
+      "Text": "Plantez des fleurs autour de la mégafleur pour l'aider à éclore.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2061307758073378667,
+      "Text": "Essayez de planter des fleurs autour d'une mégafleur brillante en pleine floraison. Une bonne surprise pourrait vous attendre !",
+      "PluralText": ""
+    },
+    {
+      "Id": 136491324792122571,
+      "Text": "Les pousses se développent plus rapidement lorsque vous plantez des fleurs. Plantez des fleurs pour récupérer davantage de Pikmin !",
+      "PluralText": ""
+    },
+    {
+      "Id": 8734263729113341237,
+      "Text": "Obtenez des pièces bonus en plantant des fleurs.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2871577461391453943,
+      "Text": "Configurez des espaces privés à partir de l'écran Paramètres pour exclure les zones où vous ne voulez pas planter de fleurs.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8276595101407658895,
+      "Text": "Vous pouvez supprimer les fleurs plantées à partir du journal de vie et de l'écran Paramètres.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6078735754954300967,
+      "Text": "Invitez vos amis à rejoindre Pikmin Bloom et obtenez des récompenses !",
+      "PluralText": ""
+    },
+    {
+      "Id": 6043986246212696603,
+      "Text": "Consultez la section d'aide de l'écran Paramètres si vous avez le moindre doute.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1824892194546110745,
+      "Text": "Utilisez la fonction de tri dans votre liste de Pikmin pour retrouver plus facilement vos Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8639230601079919630,
+      "Text": "Associez votre compte Nintendo pour recevoir une pousse spéciale ! Allez à l'écran Paramètres ou éditeurs de Mii.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7786551774778482299,
+      "Text": "Vous voulez permuter tous les Pikmin de votre équipe en une seule fois ? Touchez rapidement trois fois le sifflet, et ils seront remplacés par les Pikmin de réserve.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8454701317118302495,
+      "Text": "Des emplacements spéciaux permettent aux pousses de se développer plus rapidement que d'habitude. Vous pouvez les acheter à la boutique.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8580761753237801017,
+      "Text": "Les objets portés par les Pikmin déco sont liés à l'endroit où leur pousse a été découverte. Consultez l'écran d'information sur les pousses pour en savoir plus.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2631043907411713215,
+      "Text": "Pas le temps de nourrir vos Pikmin avec du nectar un par un ? Appuyez longuement sur l'icône de nectar et faites-la glisser vers les Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -996001821821169928,
+      "Text": "Lorsque vos Pikmin perdent les fleurs sur leur tête, ajoutez-les à votre équipe et emmenez-les faire une promenade. Cela devrait les aider à récupérer leurs feuilles plus rapidement.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3835780318666546226,
+      "Text": "Vérifiez les types de Pikmin déco que vous avez trouvés jusqu'à présent à partir de l'écran de détails du badge Pikmin déco.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6866303937684414829,
+      "Text": "Touchez longuement un Pikmin dans le jardin pour le récupérer. Vous pouvez également utiliser la loupe pour l'observer.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8859530568136502550,
+      "Text": "Essayez de faire passer la vue détaillée du Pikmin en plein écran et voyez ce qui se passe lorsque vous touchez votre Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8973640527982702391,
+      "Text": "Lorsque vous donnez du nectar à un Pikmin spécifique, touchez deux fois pour zoomer sur lui.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3898184139024259658,
+      "Text": "Donnez du nectar spécial à vos Pikmin préférés pour augmenter d'un cœur leur niveau d'amitié !",
+      "PluralText": ""
+    },
+    {
+      "Id": 4965465548260462006,
+      "Text": "Vous pouvez améliorer votre capacité de stockage de Pikmin, de pousses, de nectar et de pétales depuis la boutique.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2013858795142751835,
+      "Text": "La grande carte de l'écran d'accueil permet d'accéder facilement au journal de vie, aux expéditions, aux cartes postales et à la liste des Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8837181790264424549,
+      "Text": "Les objets d'expédition disparaîtront de la liste au bout de 3 jours. Les objets sont classés du plus ancien au plus récent, alors récupérez ceux qui vous intéressent avant qu'ils ne disparaissent.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8560538571010392068,
+      "Text": "Les Pikmin ailés sont très rapides lors des expéditions, sauf s'ils sont associés à d'autres types de Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8321526828962939131,
+      "Text": "Dans les défis champignons, les Pikmin de la même couleur que les champignons, les Pikmin déco et les Pikmin avec des fleurs sont les plus puissants.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8845234256144901788,
+      "Text": "Le temps joue contre vous dans les défis champignons ! Relevez le défi aussi vite que possible pour obtenir de meilleurs résultats et de plus belles récompenses.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2367939774841143747,
+      "Text": "Les champignons détruits lors des défis mettent environ 3 heures à se régénérer.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7210442754481933800,
+      "Text": "Nourrissez vos Pikmin avec du nectar et envoyez-les faire des expéditions et relever des défis pour augmenter leur niveau d'amitié.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8389710506546400265,
+      "Text": "Certaines mégafleurs se développent uniquement pendant certaines saisons. Consultez la section consacrée aux actualités pour savoir quelles sont les fleurs de saison ce mois-ci.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1968907645343148781,
+      "Text": "Élargissez votre cercle d'amis pour vous envoyer des cartes postales et regarder vos Pikmin et vos badges respectifs.",
+      "PluralText": ""
+    },
+    {
+      "Id": 348878743656379735,
+      "Text": "Lorsque vous visitez un nouvel endroit, les nuages blancs sur la carte s'effacent pour révéler ce nouvel espace. Utilisez la carte pour consulter les lieux que vous avez visités jusqu'à présent.",
+      "PluralText": ""
     }
   ]
 }

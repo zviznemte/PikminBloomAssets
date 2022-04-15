@@ -59,6 +59,8 @@ id	constant	phrase	plural phrase
 -8720522393209134153	CHEATING_WARNING_STRIKE_3_TITLE	ACCOUNT TERMINATED	
 -3682785770674810225	CHEATING_WARNING_STRIKE_3_MAIN_TEXT	Your account has been permanently terminated for violating the Terms of Service.	
 110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	I Understand	
+3518299777779390156	CHEATING_WARNING_STRIKE_2_CONFIRM	I Understand	
+7885683453870388931	CHEATING_WARNING_STRIKE_3_CONFIRM	Logout	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Back	
 8485757493794925261	ACTION_CANCEL	Cancel	
 -897094175043611554	ACTION_CANT_SIGN_IN	Trouble logging in?	
@@ -111,7 +113,7 @@ id	constant	phrase	plural phrase
 -8946294826485047552	STARTUP_SCREEN_TIPS_0005	Long tap to select multiple items in your Pikmin or postcard lists.	
 -2395680636257114384	STARTUP_SCREEN_TIPS_0006	Pikmin who have come to deliver postcards will wait up to three days until they are received.	
 5555984097992198740	STARTUP_SCREEN_TIPS_0007	Plant flowers around a big flower to help it bloom.	
-2061307758073378667	STARTUP_SCREEN_TIPS_0008	Try planting flowers around a big flower that’s glowing in full bloom. Maybe you will find a nice surprise!	
+2061307758073378667	STARTUP_SCREEN_TIPS_0008	Big flowers shine bright in the first hour of blooming. Try planting flowers around one and maybe you will find a nice surprise!	
 136491324792122571	STARTUP_SCREEN_TIPS_0009	Seedlings grow faster while planting flowers. Plant flowers to collect more and more Pikmin!	
 8734263729113341237	STARTUP_SCREEN_TIPS_0010	Get bonus coins while planting flowers.	
 -2871577461391453943	STARTUP_SCREEN_TIPS_0011	Set up privacy zones from the settings screen to exclude certain areas where you don't want to plant flowers.	

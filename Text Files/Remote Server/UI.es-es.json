@@ -316,6 +316,11 @@
       "PluralText": ""
     },
     {
+      "Id": 8634210522723303097,
+      "Text": "(Hasta {0} amigos)",
+      "PluralText": ""
+    },
+    {
       "Id": -3208216120833537346,
       "Text": "Error de conexión",
       "PluralText": ""
@@ -387,7 +392,7 @@
     },
     {
       "Id": 1755058594397429630,
-      "Text": "Peso",
+      "Text": "Peso:",
       "PluralText": ""
     },
     {
@@ -452,7 +457,7 @@
     },
     {
       "Id": -6681436196252445289,
-      "Text": "Tiempo restante",
+      "Text": "Tiempo restante:",
       "PluralText": ""
     },
     {
@@ -462,13 +467,53 @@
     },
     {
       "Id": 3277782968936121668,
-      "Text": "Quit",
+      "Text": "Salir",
       "PluralText": ""
     },
     {
       "Id": -5301263070916357664,
-      "Text": "{0} step",
-      "PluralText": "{0} steps"
+      "Text": "{0} paso",
+      "PluralText": "{0} pasos"
+    },
+    {
+      "Id": 947330292533100981,
+      "Text": "Se unió:",
+      "PluralText": ""
+    },
+    {
+      "Id": -4942180775376772179,
+      "Text": "Discovered New Pikmin",
+      "PluralText": ""
+    },
+    {
+      "Id": 9163035347564066012,
+      "Text": "{0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 162873950609628943,
+      "Text": "Until {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 1497181762195491883,
+      "Text": "MMM.d",
+      "PluralText": ""
+    },
+    {
+      "Id": 1513327897642302745,
+      "Text": "You",
+      "PluralText": ""
+    },
+    {
+      "Id": 5010106775700520181,
+      "Text": "You have a friend request from {0}!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5292529651124001390,
+      "Text": "You have a friend request from {0} and more!",
+      "PluralText": ""
     },
     {
       "Id": 9031174962354778674,
@@ -478,22 +523,22 @@
     {
       "Id": 7385503932590013787,
       "Text": "Insignia de Pikmin",
-      "PluralText": "Insignias de Pikmin"
+      "PluralText": "Insignia de Pikmin"
     },
     {
       "Id": 7631907132250824382,
       "Text": "Insignia de flor",
-      "PluralText": "Insignias de flor"
+      "PluralText": "Insignia de flor"
     },
     {
       "Id": -7947182485618978017,
       "Text": "Insignia de expedición",
-      "PluralText": "Insignias de expedición"
+      "PluralText": "Insignia de expedición"
     },
     {
       "Id": 883712973248936916,
       "Text": "Insignia de Pikmin disfrazado",
-      "PluralText": "Insignias de Pikmin disfrazado"
+      "PluralText": "Insignia de Pikmin disfrazado"
     },
     {
       "Id": -6504375686977536791,
@@ -1013,7 +1058,7 @@
     {
       "Id": -3412222707437735777,
       "Text": "Insignia de desafío",
-      "PluralText": "Insignias de desafío"
+      "PluralText": "Insignia de desafío"
     },
     {
       "Id": 7798884055473650454,
@@ -1127,17 +1172,17 @@
     },
     {
       "Id": -2656701519556274140,
-      "Text": "Carnation Badge",
+      "Text": "Insignia de flor de clavel",
       "PluralText": ""
     },
     {
       "Id": 7184783718607136150,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de mayo!",
       "PluralText": ""
     },
     {
       "Id": -255801751452098764,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Da 10 000 pasos en el Día de la Comunidad de mayo.",
       "PluralText": ""
     },
     {
@@ -6282,7 +6327,7 @@
     },
     {
       "Id": 2217044903477588215,
-      "Text": "Disfraz",
+      "Text": "Disfraz:",
       "PluralText": ""
     },
     {
@@ -9736,6 +9781,321 @@
       "PluralText": ""
     },
     {
+      "Id": -4903708731684575651,
+      "Text": "Desafío de amistad",
+      "PluralText": ""
+    },
+    {
+      "Id": -6634098154242787613,
+      "Text": "Abandonar desafío",
+      "PluralText": ""
+    },
+    {
+      "Id": -2240411938506482380,
+      "Text": "¿Seguro que quieres abandonar el desafío?\n\nNo podrás participar en otro desafío del mismo tipo durante esta semana.",
+      "PluralText": ""
+    },
+    {
+      "Id": -817327361115044846,
+      "Text": "FÁCIL",
+      "PluralText": ""
+    },
+    {
+      "Id": -2797506297507243922,
+      "Text": "NORMAL",
+      "PluralText": ""
+    },
+    {
+      "Id": 8649991118420477363,
+      "Text": "¡El desafío ha finalizado!",
+      "PluralText": ""
+    },
+    {
+      "Id": 9099198952944723551,
+      "Text": "Solo un poquito más...",
+      "PluralText": ""
+    },
+    {
+      "Id": 4151096831579189573,
+      "Text": "¡Buen intento!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2218505128065826969,
+      "Text": "¡Buen trabajo!",
+      "PluralText": ""
+    },
+    {
+      "Id": 2534982719477793638,
+      "Text": "¡Vuelve a intentarlo más tarde!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3282294312307777716,
+      "Text": "¡Vuelve a intentarlo más tarde!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5207277129719022183,
+      "Text": "¡Lo has conseguido! ¡Enhorabuena!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1399639629853138703,
+      "Text": "Amigos que participaron en el desafío",
+      "PluralText": ""
+    },
+    {
+      "Id": -3136992529152397218,
+      "Text": "¡Felicidades!",
+      "PluralText": ""
+    },
+    {
+      "Id": -7692034125272352075,
+      "Text": "¡Buen trabajo en equipo! ¿Por qué no compartes este logro tan especial con el mundo?",
+      "PluralText": ""
+    },
+    {
+      "Id": 8699857482763326418,
+      "Text": "¡Únete a un grupo para empezar!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5225976744236463246,
+      "Text": "Actualizar grupo",
+      "PluralText": ""
+    },
+    {
+      "Id": 2873275352592052261,
+      "Text": "Empezar desafío",
+      "PluralText": ""
+    },
+    {
+      "Id": -2040698735613030068,
+      "Text": "¿Todo listo?",
+      "PluralText": ""
+    },
+    {
+      "Id": 6551367328415555424,
+      "Text": "Solo puedes participar en un desafío de paseo a la semana.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4551003420149019061,
+      "Text": "¡Empieza el desafío!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5498978224560386169,
+      "Text": "¡Añade amigos para jugar!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2538423486464020536,
+      "Text": "Abierto",
+      "PluralText": ""
+    },
+    {
+      "Id": 8979926820082305446,
+      "Text": "¡Ya puedes jugar al desafío semanal!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5196390127739015416,
+      "Text": "¡Completa las tareas semanales antes de la fecha límite para ganar recompensas!",
+      "PluralText": ""
+    },
+    {
+      "Id": 453835262547177155,
+      "Text": "Colabora con tus amigos para completar difíciles desafíos.",
+      "PluralText": ""
+    },
+    {
+      "Id": 993195363786349440,
+      "Text": "¡Haz más amigos y prueba los desafíos semanales!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2669795582956331225,
+      "Text": "Los desafíos semanales se juegan en grupos de hasta cinco amigos de Pikmin Bloom.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1743715444502722978,
+      "Text": "Puedes unirte a un grupo de desafío si un amigo tuyo ya se ha unido a él.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3336201708481967541,
+      "Text": "Durante el desafío, los miembros del grupo podrán ver los datos de los demás, como sus nombres o sus pasos.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3030006912092453049,
+      "Text": "Puedes unirte a desafíos incluso si el grupo ya ha empezado a jugar.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6003783971167611782,
+      "Text": "¡Colaboremos para lograr el objetivo!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4211592520929528238,
+      "Text": "Acerca de los grupos",
+      "PluralText": ""
+    },
+    {
+      "Id": 9032630140625998547,
+      "Text": "Solo puedes participar en un desafío de paseo a la semana.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5483798081380754729,
+      "Text": "¡Sí, todo listo!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1876837767047230303,
+      "Text": "¿Todo listo para dar {0} paso conmigo?",
+      "PluralText": "¿Todo listo para dar {0} pasos juntos?"
+    },
+    {
+      "Id": -8233269633075203145,
+      "Text": "has joined the challenge!",
+      "PluralText": ""
+    },
+    {
+      "Id": -8788691162926694114,
+      "Text": "has taken the lead!",
+      "PluralText": ""
+    },
+    {
+      "Id": 361571090159435817,
+      "Text": "keeps the lead!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6585693073988444282,
+      "Text": "Failed to start the challenge.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3189676246000297572,
+      "Text": "Failed to join the challenge because the group was full.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1480818552175978519,
+      "Text": "Failed to quit the challenge.",
+      "PluralText": ""
+    },
+    {
+      "Id": -731063275554949223,
+      "Text": "Failed to complete the challenge.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6119478534254261133,
+      "Text": "Reached <size=75>1/3</size> of the goal!",
+      "PluralText": ""
+    },
+    {
+      "Id": -7723443323638991924,
+      "Text": "Reached <size=75>1/2</size> of the goal!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3422243408543760852,
+      "Text": "Just <size=75>a little more</size> until the goal!",
+      "PluralText": ""
+    },
+    {
+      "Id": 628933819033134149,
+      "Text": "Joined {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 3655146232096511042,
+      "Text": "Walked together from {0} to {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": -1496838818967236054,
+      "Text": "ends in {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": -6968615695292971536,
+      "Text": "Walk {0} step!",
+      "PluralText": "Walk {0} steps!"
+    },
+    {
+      "Id": -6229399436298083159,
+      "Text": "You’re doing great!",
+      "PluralText": ""
+    },
+    {
+      "Id": 7789722425690798982,
+      "Text": "Let’s take it easy!",
+      "PluralText": ""
+    },
+    {
+      "Id": 405332902640801399,
+      "Text": "Walking is a good way to refresh!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5984386957170523149,
+      "Text": "A thousand miles begins with a single step.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4106168948636050867,
+      "Text": "It’s time for you to walk the walk.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8315444530018116207,
+      "Text": "Everyone needs a break sometimes!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4602949182487638313,
+      "Text": "Stay hydrated out there!",
+      "PluralText": ""
+    },
+    {
+      "Id": 1421417760922623411,
+      "Text": "You did it!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2362589789842429503,
+      "Text": "{0} left the challenge.",
+      "PluralText": ""
+    },
+    {
+      "Id": -516428992870993148,
+      "Text": "{0} player has left the challenge.",
+      "PluralText": "{0} players have left the challenge."
+    },
+    {
+      "Id": 4774535054699253047,
+      "Text": "total steps",
+      "PluralText": ""
+    },
+    {
+      "Id": -6284436900426024372,
+      "Text": "total steps since {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 4043288374548824384,
+      "Text": "Walking Challenge",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "¡Has dado {0} paso más que ayer!",
       "PluralText": "¡Has dado {0} pasos más que ayer!"
@@ -10377,7 +10737,7 @@
     },
     {
       "Id": -2256089351193196341,
-      "Text": "1 semillero desechable\n(hasta 5 amigos)",
+      "Text": "1 semillero (1 uso)\n(hasta 5)",
       "PluralText": ""
     },
     {
@@ -10437,12 +10797,22 @@
     },
     {
       "Id": 744903378813560664,
-      "Text": "Check Friend List",
+      "Text": "Ver lista de amigos",
       "PluralText": ""
     },
     {
       "Id": -4224440711306580677,
-      "Text": "Send Friend Request",
+      "Text": "Enviar solicitud de amistad",
+      "PluralText": ""
+    },
+    {
+      "Id": 3691081604022742748,
+      "Text": "¡Juega conmigo a Pikmin Bloom! Ven a crear tu propio pelotón de Pikmin ¡y llenemos el mundo de flores! Cuando crees tu cuenta, no olvides introducir mi código de invitación ({1}) para conseguir las recompensas que se indican a continuación. {0}\n{2}",
+      "PluralText": ""
+    },
+    {
+      "Id": 7819386214416619956,
+      "Text": "Friend Request Sent",
       "PluralText": ""
     },
     {
@@ -12102,37 +12472,37 @@
     },
     {
       "Id": 2970252592105738752,
-      "Text": "Carnation",
+      "Text": "Clavel",
       "PluralText": ""
     },
     {
       "Id": 3454256421684511418,
-      "Text": "White Carnation Petals",
+      "Text": "Pétalos de clavel blanco",
       "PluralText": ""
     },
     {
       "Id": -1906147900934440120,
-      "Text": "Red Carnation Petals",
+      "Text": "Pétalos de clavel rojo",
       "PluralText": ""
     },
     {
       "Id": 8766322790700916110,
-      "Text": "Blue Carnation Petals",
+      "Text": "Pétalos de clavel azul",
       "PluralText": ""
     },
     {
       "Id": 8757572585822398900,
-      "Text": "White Carnation petals. Use them to plant White Carnations.",
+      "Text": "Si los plantas, saldrán claveles blancos.",
       "PluralText": ""
     },
     {
       "Id": 1586650300279005373,
-      "Text": "Red Carnation petals. Use them to plant Red Carnations.",
+      "Text": "Si los plantas, saldrán claveles rojos.",
       "PluralText": ""
     },
     {
       "Id": -4880512555513008858,
-      "Text": "Blue Carnation petals. Use them to plant Blue Carnations.",
+      "Text": "Si los plantas, saldrán claveles azules.",
       "PluralText": ""
     },
     {
@@ -12822,32 +13192,32 @@
     },
     {
       "Id": 8839628789355110386,
-      "Text": "Carnation Petals",
+      "Text": "Pétalos de clavel blanco",
       "PluralText": ""
     },
     {
       "Id": -253184266846189732,
-      "Text": "Carnation Petals",
+      "Text": "Pétalos de clavel rojo",
       "PluralText": ""
     },
     {
       "Id": 7824152154826914199,
-      "Text": "Carnation Petals",
+      "Text": "Pétalos de clavel azul",
       "PluralText": ""
     },
     {
       "Id": 5618635906769887388,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "Puedes usarlos para plantar claveles blancos.",
       "PluralText": ""
     },
     {
       "Id": -3067141909094691803,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "",
       "PluralText": ""
     },
     {
       "Id": -3732595971846250068,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "Puedes usarlos para plantar claveles azules.",
       "PluralText": ""
     },
     {
@@ -13371,6 +13741,16 @@
       "PluralText": ""
     },
     {
+      "Id": 3518299777779390156,
+      "Text": "I Understand",
+      "PluralText": ""
+    },
+    {
+      "Id": 7885683453870388931,
+      "Text": "Logout",
+      "PluralText": ""
+    },
+    {
       "Id": 1693613730535626830,
       "Text": "Restaurante de sushi",
       "PluralText": ""
@@ -13487,82 +13867,122 @@
     },
     {
       "Id": 5108706162607180765,
-      "Text": "Stadium",
+      "Text": "Llavero de balón",
       "PluralText": ""
     },
     {
       "Id": 3390375248293570513,
-      "Text": "Stadium",
+      "Text": "Estadio",
       "PluralText": ""
     },
     {
       "Id": 8830083834050071090,
-      "Text": "Keychain Accessories",
+      "Text": "Llavero de balón",
       "PluralText": ""
     },
     {
       "Id": 1705997845848680232,
-      "Text": "This is a Red Pikmin.",
+      "Text": "Este es un Pikmin rojo.",
       "PluralText": ""
     },
     {
       "Id": -2523482138720841881,
-      "Text": "Keychain Accessories",
+      "Text": "Llavero de balón",
       "PluralText": ""
     },
     {
       "Id": 2085759529113971732,
-      "Text": "This is a Blue Pikmin.",
+      "Text": "Este es un Pikmin azul.",
       "PluralText": ""
     },
     {
       "Id": 3716565711685399686,
-      "Text": "Keychain Accessories",
+      "Text": "Llavero de balón",
       "PluralText": ""
     },
     {
       "Id": 4400257157877103370,
-      "Text": "This is a Yellow Pikmin.",
+      "Text": "Este es un Pikmin amarillo.",
       "PluralText": ""
     },
     {
       "Id": 2263467397187003687,
-      "Text": "Mountains",
+      "Text": "Insignia de pin de montaña",
       "PluralText": ""
     },
     {
       "Id": 974272131245597232,
-      "Text": "Mountain",
+      "Text": "Montaña",
       "PluralText": ""
     },
     {
       "Id": 1908776735306925434,
-      "Text": "Mountain Badge",
+      "Text": "Insignia de pin de montaña",
       "PluralText": ""
     },
     {
       "Id": -7187392044717060551,
-      "Text": "This is a Red Pikmin.",
+      "Text": "Este es un Pikmin rojo.",
       "PluralText": ""
     },
     {
       "Id": -8998934942362608367,
-      "Text": "Mountain Badge",
+      "Text": "Insignia de pin de montaña",
       "PluralText": ""
     },
     {
       "Id": 1614243657280391359,
-      "Text": "This is a Blue Pikmin.",
+      "Text": "Este es un Pikmin azul.",
       "PluralText": ""
     },
     {
       "Id": -1865406682795794574,
-      "Text": "Mountain Badge",
+      "Text": "Insignia de pin de montaña",
       "PluralText": ""
     },
     {
       "Id": 8546798411566475097,
-      "Text": "This is a Yellow Pikmin.",
+      "Text": "Este es un Pikmin amarillo.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7979938583335388599,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -2984117961729358661,
+      "Text": "Este es un Pikmin blanco.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7507006416058561946,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -7351141712166386221,
+      "Text": "Este es un Pikmin morado.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2757392997541840867,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": 6394179925010223541,
+      "Text": "Este es un Pikmin pétreo.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7068330476289975049,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -930526396484558334,
+      "Text": "Este es un Pikmin alado.",
       "PluralText": ""
     },
     {
@@ -13582,7 +14002,7 @@
     },
     {
       "Id": -7541253031296121149,
-      "Text": "{0} ha traído una cosa de {1}.",
+      "Text": "{0} ha vuelto con un objeto de su lugar de origen.",
       "PluralText": ""
     },
     {
@@ -13622,7 +14042,7 @@
     },
     {
       "Id": 8859969091453911087,
-      "Text": "Un tipo de semillero especial que hace que los Pikmin crezcan un 30  más rápido. Desaparecerá cuando el Pikmin crezca y lo arranques.",
+      "Text": "Un tipo de semillero especial que hace que los Pikmin crezcan un 30 % más rápido. Desaparecerá cuando el Pikmin crezca y lo arranques.",
       "PluralText": ""
     },
     {
@@ -13777,7 +14197,12 @@
     },
     {
       "Id": 9128158318785344342,
-      "Text": "Friend has not yet received your postcard.",
+      "Text": "Tu amigo aún no ha recibido la última postal que le enviaste.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4678208832094013128,
+      "Text": "Already sent a postcard today.",
       "PluralText": ""
     },
     {
@@ -14077,32 +14502,32 @@
     },
     {
       "Id": 7493065690932867517,
-      "Text": "Carnation Nectar",
+      "Text": "Néctar de clavel blanco",
       "PluralText": ""
     },
     {
       "Id": 8106012987585575890,
-      "Text": "Carnation Nectar",
+      "Text": "Néctar de clavel rojo",
       "PluralText": ""
     },
     {
       "Id": 456925336659337380,
-      "Text": "Carnation Nectar",
+      "Text": "Néctar de clavel azul",
       "PluralText": ""
     },
     {
       "Id": -7189020798718681133,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "Hace crecer un clavel blanco en la cabeza de los Pikmin. Es un néctar raro.",
       "PluralText": ""
     },
     {
       "Id": 6308581681808231676,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "Hace crecer un clavel rojo en la cabeza de los Pikmin. Es un néctar raro.",
       "PluralText": ""
     },
     {
       "Id": 4490362610984332759,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "Hace crecer un clavel azul en la cabeza de los Pikmin. Es un néctar raro.",
       "PluralText": ""
     },
     {
@@ -14466,6 +14891,16 @@
       "PluralText": "¡Solo te faltan {0} pasos!"
     },
     {
+      "Id": 2770762559239835138,
+      "Text": "¡Evento del Día de la Madre en marcha!",
+      "PluralText": ""
+    },
+    {
+      "Id": 824311847962304281,
+      "Text": "Evento del Día de la Madre",
+      "PluralText": ""
+    },
+    {
       "Id": 4232141314118770660,
       "Text": "¡Ya puedes usar el detector para encontrar objetos cercanos!",
       "PluralText": ""
@@ -14482,13 +14917,13 @@
     },
     {
       "Id": 3351633235524086435,
-      "Text": "Completa <b>{0}</b> {2} con <b>{1}</b> o mejor en cada uno.",
+      "Text": "Completa <b>{0}</b> {2} con <b>{1}</b> o mayor en cada uno.",
       "PluralText": ""
     },
     {
       "Id": 1858672086238664994,
       "Text": "valoración de {0} estrella",
-      "PluralText": "valoraciones de {0} estrellas"
+      "PluralText": "valores de {0} estrella(s)"
     },
     {
       "Id": -6006900477331902916,
@@ -14507,23 +14942,23 @@
     },
     {
       "Id": 415753280128771118,
-      "Text": "desafío fácil",
-      "PluralText": "desafíos fáciles"
+      "Text": "desafío de champiñón pequeño",
+      "PluralText": "desafío de champiñones pequeños"
     },
     {
       "Id": 4066395018444766723,
-      "Text": "desafío normal",
-      "PluralText": "desafíos normales"
+      "Text": "desafío de champiñón normal",
+      "PluralText": "desafío de champiñones normales"
     },
     {
       "Id": -8677167862038456487,
-      "Text": "desafío difícil",
-      "PluralText": "desafíos difíciles"
+      "Text": "desafío de champiñón grande",
+      "PluralText": "desafío de champiñones grandes"
     },
     {
       "Id": 2719709734880893979,
-      "Text": "desafío superpicante",
-      "PluralText": "desafíos superpicantes"
+      "Text": "desafío de champiñón gigante",
+      "PluralText": "desafío de champiñones gigantes"
     },
     {
       "Id": 1533898344558189390,

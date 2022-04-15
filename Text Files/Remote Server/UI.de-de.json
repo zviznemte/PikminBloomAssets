@@ -316,6 +316,11 @@
       "PluralText": ""
     },
     {
+      "Id": 8634210522723303097,
+      "Text": "(Bis zu {0} Freunde)",
+      "PluralText": ""
+    },
+    {
       "Id": -3208216120833537346,
       "Text": "Verbindungsfehler",
       "PluralText": ""
@@ -387,7 +392,7 @@
     },
     {
       "Id": 1755058594397429630,
-      "Text": "Gewicht",
+      "Text": "Gewicht:",
       "PluralText": ""
     },
     {
@@ -452,7 +457,7 @@
     },
     {
       "Id": -6681436196252445289,
-      "Text": "Verbleibende Zeit",
+      "Text": "Verbleibende Zeit:",
       "PluralText": ""
     },
     {
@@ -462,13 +467,53 @@
     },
     {
       "Id": 3277782968936121668,
-      "Text": "Quit",
+      "Text": "Beenden",
       "PluralText": ""
     },
     {
       "Id": -5301263070916357664,
-      "Text": "{0} step",
-      "PluralText": "{0} steps"
+      "Text": "{0} Schritt",
+      "PluralText": "{0} Schritte"
+    },
+    {
+      "Id": 947330292533100981,
+      "Text": "Beigetreten am:",
+      "PluralText": ""
+    },
+    {
+      "Id": -4942180775376772179,
+      "Text": "Discovered New Pikmin",
+      "PluralText": ""
+    },
+    {
+      "Id": 9163035347564066012,
+      "Text": "{0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 162873950609628943,
+      "Text": "Until {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 1497181762195491883,
+      "Text": "MMM.d",
+      "PluralText": ""
+    },
+    {
+      "Id": 1513327897642302745,
+      "Text": "You",
+      "PluralText": ""
+    },
+    {
+      "Id": 5010106775700520181,
+      "Text": "You have a friend request from {0}!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5292529651124001390,
+      "Text": "You have a friend request from {0} and more!",
+      "PluralText": ""
     },
     {
       "Id": 9031174962354778674,
@@ -478,12 +523,12 @@
     {
       "Id": 7385503932590013787,
       "Text": "Pikmin-Medaille",
-      "PluralText": "Pikmin-Medaillen"
+      "PluralText": "Pikmin-Medaille"
     },
     {
       "Id": 7631907132250824382,
       "Text": "Blumenmedaille",
-      "PluralText": "Blumenmedaillen"
+      "PluralText": "Blumenmedaille"
     },
     {
       "Id": -7947182485618978017,
@@ -493,7 +538,7 @@
     {
       "Id": 883712973248936916,
       "Text": "Deko-Pikmin-Medaille",
-      "PluralText": "Deko-Pikmin-Medaillen"
+      "PluralText": "Deko-Pikmin-Medaille"
     },
     {
       "Id": -6504375686977536791,
@@ -1013,7 +1058,7 @@
     {
       "Id": -3412222707437735777,
       "Text": "Herausforderungsmedaille",
-      "PluralText": "Herausforderungsmedaillen"
+      "PluralText": "Herausforderungsmedaille"
     },
     {
       "Id": 7798884055473650454,
@@ -1032,7 +1077,7 @@
     },
     {
       "Id": -3292488467640343340,
-      "Text": "Pflaumenblüten-Medaillen",
+      "Text": "Pflaumenblüten-Medaille",
       "PluralText": ""
     },
     {
@@ -1127,17 +1172,17 @@
     },
     {
       "Id": -2656701519556274140,
-      "Text": "Carnation Badge",
+      "Text": "Nelken-Event",
       "PluralText": ""
     },
     {
       "Id": 7184783718607136150,
-      "Text": "You walked 10,000 steps during the March Community Day!",
+      "Text": "Am Community-Tag im Mai bist du 10.000 Schritte gelaufen!",
       "PluralText": ""
     },
     {
       "Id": -255801751452098764,
-      "Text": "Walk 10,000 steps during the March Community Day!",
+      "Text": "Laufe 10.000 Schritte am Community-Tag im Mai!",
       "PluralText": ""
     },
     {
@@ -2142,7 +2187,7 @@
     },
     {
       "Id": -5161684650932504556,
-      "Text": "Akzeptieren",
+      "Text": "Annehmen",
       "PluralText": ""
     },
     {
@@ -6277,7 +6322,7 @@
     },
     {
       "Id": 2217044903477588215,
-      "Text": "Deko",
+      "Text": "Deko:",
       "PluralText": ""
     },
     {
@@ -9707,7 +9752,7 @@
     },
     {
       "Id": 1017804344606554124,
-      "Text": "Auf Standard zurücksetzen",
+      "Text": "Zurücksetzen",
       "PluralText": ""
     },
     {
@@ -9728,6 +9773,321 @@
     {
       "Id": 952110789839986926,
       "Text": "Pikmin-Name wurde auf Standard zurückgesetzt.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4903708731684575651,
+      "Text": "Freundeherausforderung",
+      "PluralText": ""
+    },
+    {
+      "Id": -6634098154242787613,
+      "Text": "Herausforderung beenden",
+      "PluralText": ""
+    },
+    {
+      "Id": -2240411938506482380,
+      "Text": "Möchtest du die Herausforderung wirklich beenden?\n\nDu kannst dann diese Woche an keiner Herausforderung dieser Art mehr teilnehmen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -817327361115044846,
+      "Text": "EINFACH",
+      "PluralText": ""
+    },
+    {
+      "Id": -2797506297507243922,
+      "Text": "NORMAL",
+      "PluralText": ""
+    },
+    {
+      "Id": 8649991118420477363,
+      "Text": "Herausforderung beendet!",
+      "PluralText": ""
+    },
+    {
+      "Id": 9099198952944723551,
+      "Text": "Hmm, nur noch ein wenig ...",
+      "PluralText": ""
+    },
+    {
+      "Id": 4151096831579189573,
+      "Text": "Du hast dir wirklich Mühe gegeben!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2218505128065826969,
+      "Text": "Gut gemacht!",
+      "PluralText": ""
+    },
+    {
+      "Id": 2534982719477793638,
+      "Text": "Versuche es später noch mal!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3282294312307777716,
+      "Text": "Versuche es später noch mal!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5207277129719022183,
+      "Text": "Du hast es geschafft! Herzlichen Glückwunsch!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1399639629853138703,
+      "Text": "Freunde, die an der Herausforderung teilgenommen haben",
+      "PluralText": ""
+    },
+    {
+      "Id": -3136992529152397218,
+      "Text": "Glückwunsch!",
+      "PluralText": ""
+    },
+    {
+      "Id": -7692034125272352075,
+      "Text": "Das war tolle Teamarbeit! Warum teilst du diesen besonderen Erfolg nicht mit der Welt?",
+      "PluralText": ""
+    },
+    {
+      "Id": 8699857482763326418,
+      "Text": "Schließe dich einer Gruppe an, um loszulegen!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5225976744236463246,
+      "Text": "Gruppe aktualisieren",
+      "PluralText": ""
+    },
+    {
+      "Id": 2873275352592052261,
+      "Text": "Herausforderung starten",
+      "PluralText": ""
+    },
+    {
+      "Id": -2040698735613030068,
+      "Text": "Bist du bereit?",
+      "PluralText": ""
+    },
+    {
+      "Id": 6551367328415555424,
+      "Text": "Du kannst nur an einer Schrittherausforderung pro Woche teilnehmen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4551003420149019061,
+      "Text": "Herausforderung starten!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5498978224560386169,
+      "Text": "Füge Freunde zum Spielen hinzu!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2538423486464020536,
+      "Text": "Offen",
+      "PluralText": ""
+    },
+    {
+      "Id": 8979926820082305446,
+      "Text": "Jetzt kannst du die Wochenherausforderung spielen!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5196390127739015416,
+      "Text": "Schließe die wöchentlichen Aufgaben bis zur Deadline ab, um Belohnungen zu verdienen!",
+      "PluralText": ""
+    },
+    {
+      "Id": 453835262547177155,
+      "Text": "Arbeite mit deinen Freunden zusammen, um schwierige Herausforderungen zu meistern!",
+      "PluralText": ""
+    },
+    {
+      "Id": 993195363786349440,
+      "Text": "Finde mehr Freunde und probiere die Wochenherausforderung aus!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2669795582956331225,
+      "Text": "Die Wochenherausforderungen werden in Gruppen von bis zu fünf Freunden in Pikmin Bloom gespielt.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1743715444502722978,
+      "Text": "Du kannst dich einer Herausforderungsgruppe anschließen, wenn du mit einem Mitglied befreundet bist. \nNeben deinen Freunden können auch Freundesfreunde mitmachen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3336201708481967541,
+      "Text": "Während der Herausforderung werden Namen, Schrittanzahl etc. mit anderen Gruppenmitgliedern geteilt.",
+      "PluralText": ""
+    },
+    {
+      "Id": 3030006912092453049,
+      "Text": "Du kannst auch noch nach ihrem Beginn bei einer Gruppenherausforderung mitmachen. \nMach jetzt bei der Herausforderung mit, während du auf Freunde wartest.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6003783971167611782,
+      "Text": "Arbeiten wir gemeinsam an unserem Ziel!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4211592520929528238,
+      "Text": "Über Gruppen",
+      "PluralText": ""
+    },
+    {
+      "Id": 9032630140625998547,
+      "Text": "Du kannst nur an einer Schrittherausforderung pro Woche teilnehmen.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5483798081380754729,
+      "Text": "Ja, ich bin bereit!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1876837767047230303,
+      "Text": "Bist du bereit, {0} Schritt gemeinsam zu gehen?",
+      "PluralText": "Bist du bereit, {0} Schritte gemeinsam zu gehen?"
+    },
+    {
+      "Id": -8233269633075203145,
+      "Text": "has joined the challenge!",
+      "PluralText": ""
+    },
+    {
+      "Id": -8788691162926694114,
+      "Text": "has taken the lead!",
+      "PluralText": ""
+    },
+    {
+      "Id": 361571090159435817,
+      "Text": "keeps the lead!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6585693073988444282,
+      "Text": "Failed to start the challenge.",
+      "PluralText": ""
+    },
+    {
+      "Id": -3189676246000297572,
+      "Text": "Failed to join the challenge because the group was full.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1480818552175978519,
+      "Text": "Failed to quit the challenge.",
+      "PluralText": ""
+    },
+    {
+      "Id": -731063275554949223,
+      "Text": "Failed to complete the challenge.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6119478534254261133,
+      "Text": "Reached <size=75>1/3</size> of the goal!",
+      "PluralText": ""
+    },
+    {
+      "Id": -7723443323638991924,
+      "Text": "Reached <size=75>1/2</size> of the goal!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3422243408543760852,
+      "Text": "Just <size=75>a little more</size> until the goal!",
+      "PluralText": ""
+    },
+    {
+      "Id": 628933819033134149,
+      "Text": "Joined {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 3655146232096511042,
+      "Text": "Walked together from {0} to {1}",
+      "PluralText": ""
+    },
+    {
+      "Id": -1496838818967236054,
+      "Text": "ends in {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": -6968615695292971536,
+      "Text": "Walk {0} step!",
+      "PluralText": "Walk {0} steps!"
+    },
+    {
+      "Id": -6229399436298083159,
+      "Text": "You’re doing great!",
+      "PluralText": ""
+    },
+    {
+      "Id": 7789722425690798982,
+      "Text": "Let’s take it easy!",
+      "PluralText": ""
+    },
+    {
+      "Id": 405332902640801399,
+      "Text": "Walking is a good way to refresh!",
+      "PluralText": ""
+    },
+    {
+      "Id": -5984386957170523149,
+      "Text": "A thousand miles begins with a single step.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4106168948636050867,
+      "Text": "It’s time for you to walk the walk.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8315444530018116207,
+      "Text": "Everyone needs a break sometimes!",
+      "PluralText": ""
+    },
+    {
+      "Id": 4602949182487638313,
+      "Text": "Stay hydrated out there!",
+      "PluralText": ""
+    },
+    {
+      "Id": 1421417760922623411,
+      "Text": "You did it!",
+      "PluralText": ""
+    },
+    {
+      "Id": -2362589789842429503,
+      "Text": "{0} left the challenge.",
+      "PluralText": ""
+    },
+    {
+      "Id": -516428992870993148,
+      "Text": "{0} player has left the challenge.",
+      "PluralText": "{0} players have left the challenge."
+    },
+    {
+      "Id": 4774535054699253047,
+      "Text": "total steps",
+      "PluralText": ""
+    },
+    {
+      "Id": -6284436900426024372,
+      "Text": "total steps since {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 4043288374548824384,
+      "Text": "Walking Challenge",
       "PluralText": ""
     },
     {
@@ -10267,7 +10627,7 @@
     },
     {
       "Id": 639135638554473617,
-      "Text": "Wenn du diese Person in diesem Spiel als Freund hinzufügst, wird sie automatisch in allen Spielen von Niantic, die ihr beide spielt, dein Freund.",
+      "Text": "Wird die Person hier dein Freund, gilt das auch für alle anderen Spiele von Niantic, die ihr spielt.",
       "PluralText": ""
     },
     {
@@ -10362,7 +10722,7 @@
     },
     {
       "Id": -8050006314827239491,
-      "Text": "Erhalte besondere Belohnungen für jede Einladung.",
+      "Text": "Jede Einladung bringt besondere Belohnungen.",
       "PluralText": ""
     },
     {
@@ -10372,7 +10732,7 @@
     },
     {
       "Id": -2256089351193196341,
-      "Text": "1 Einmal-Keimnische\n(bis zu 5 Freunde)",
+      "Text": "1 Einmal-Keimnische\n(bis zu 5)",
       "PluralText": ""
     },
     {
@@ -10432,12 +10792,22 @@
     },
     {
       "Id": 744903378813560664,
-      "Text": "Check Friend List",
+      "Text": "Freundeliste ansehen",
       "PluralText": ""
     },
     {
       "Id": -4224440711306580677,
-      "Text": "Send Friend Request",
+      "Text": "Freundesanfrage schicken",
+      "PluralText": ""
+    },
+    {
+      "Id": 3691081604022742748,
+      "Text": "Spiele mit mir Pikmin Bloom! Komm, stelle deine eigene Pikmin-Gruppe zusammen und dann bedecken wir die Welt um uns herum gemeinsam mit Blumen! Wenn du dein Konto erstellst, vergiss nicht, meinen Einladungscode {1} einzugeben, um die folgenden Belohnungen zu erhalten: {0}\n{2}",
+      "PluralText": ""
+    },
+    {
+      "Id": 7819386214416619956,
+      "Text": "Friend Request Sent",
       "PluralText": ""
     },
     {
@@ -12097,37 +12467,37 @@
     },
     {
       "Id": 2970252592105738752,
-      "Text": "Carnation",
+      "Text": "Nelke",
       "PluralText": ""
     },
     {
       "Id": 3454256421684511418,
-      "Text": "White Carnation Petals",
+      "Text": "Weiße Nelken-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": -1906147900934440120,
-      "Text": "Red Carnation Petals",
+      "Text": "Rote Nelken-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": 8766322790700916110,
-      "Text": "Blue Carnation Petals",
+      "Text": "Blaue Nelken-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": 8757572585822398900,
-      "Text": "White Carnation petals. Use them to plant White Carnations.",
+      "Text": "Mit diesen Blütenblättern kannst du weiße Nelken pflanzen.",
       "PluralText": ""
     },
     {
       "Id": 1586650300279005373,
-      "Text": "Red Carnation petals. Use them to plant Red Carnations.",
+      "Text": "Mit diesen Blütenblättern kannst du rote Nelken pflanzen.",
       "PluralText": ""
     },
     {
       "Id": -4880512555513008858,
-      "Text": "Blue Carnation petals. Use them to plant Blue Carnations.",
+      "Text": "Mit diesen Blütenblättern kannst du blaue Nelken pflanzen.",
       "PluralText": ""
     },
     {
@@ -12817,32 +13187,32 @@
     },
     {
       "Id": 8839628789355110386,
-      "Text": "Carnation Petals",
+      "Text": "Weiße Nelken-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": -253184266846189732,
-      "Text": "Carnation Petals",
+      "Text": "Rote Nelken-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": 7824152154826914199,
-      "Text": "Carnation Petals",
+      "Text": "Blaue Nelken-Blütenblätter",
       "PluralText": ""
     },
     {
       "Id": 5618635906769887388,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "Mit diesen Blütenblättern kannst du weiße Nelken pflanzen.",
       "PluralText": ""
     },
     {
       "Id": -3067141909094691803,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "Mit diesen Blütenblättern kannst du rote Nelken pflanzen.",
       "PluralText": ""
     },
     {
       "Id": -3732595971846250068,
-      "Text": "Carnation petals. You can use them to plant Carnation.",
+      "Text": "Mit diesen Blütenblättern kannst du blaue Nelken pflanzen.",
       "PluralText": ""
     },
     {
@@ -13366,6 +13736,16 @@
       "PluralText": ""
     },
     {
+      "Id": 3518299777779390156,
+      "Text": "I Understand",
+      "PluralText": ""
+    },
+    {
+      "Id": 7885683453870388931,
+      "Text": "Logout",
+      "PluralText": ""
+    },
+    {
       "Id": 1693613730535626830,
       "Text": "Sushi-Restaurant",
       "PluralText": ""
@@ -13482,82 +13862,122 @@
     },
     {
       "Id": 5108706162607180765,
-      "Text": "Stadium",
+      "Text": "Ball-Schlüsselanhänger",
       "PluralText": ""
     },
     {
       "Id": 3390375248293570513,
-      "Text": "Stadium",
+      "Text": "Stadion",
       "PluralText": ""
     },
     {
       "Id": 8830083834050071090,
-      "Text": "Keychain Accessories",
+      "Text": "Ball-Schlüsselanhänger",
       "PluralText": ""
     },
     {
       "Id": 1705997845848680232,
-      "Text": "This is a Red Pikmin.",
+      "Text": "Dies ist ein rotes Pikmin.",
       "PluralText": ""
     },
     {
       "Id": -2523482138720841881,
-      "Text": "Keychain Accessories",
+      "Text": "Ball-Schlüsselanhänger",
       "PluralText": ""
     },
     {
       "Id": 2085759529113971732,
-      "Text": "This is a Blue Pikmin.",
+      "Text": "Dies ist ein blaues Pikmin.",
       "PluralText": ""
     },
     {
       "Id": 3716565711685399686,
-      "Text": "Keychain Accessories",
+      "Text": "Ball-Schlüsselanhänger",
       "PluralText": ""
     },
     {
       "Id": 4400257157877103370,
-      "Text": "This is a Yellow Pikmin.",
+      "Text": "Dies ist ein gelbes Pikmin.",
       "PluralText": ""
     },
     {
       "Id": 2263467397187003687,
-      "Text": "Mountains",
+      "Text": "Berg-Anstecknadel",
       "PluralText": ""
     },
     {
       "Id": 974272131245597232,
-      "Text": "Mountain",
+      "Text": "Berg",
       "PluralText": ""
     },
     {
       "Id": 1908776735306925434,
-      "Text": "Mountain Badge",
+      "Text": "Berg-Anstecknadel",
       "PluralText": ""
     },
     {
       "Id": -7187392044717060551,
-      "Text": "This is a Red Pikmin.",
+      "Text": "Dies ist ein rotes Pikmin.",
       "PluralText": ""
     },
     {
       "Id": -8998934942362608367,
-      "Text": "Mountain Badge",
+      "Text": "Berg-Anstecknadel",
       "PluralText": ""
     },
     {
       "Id": 1614243657280391359,
-      "Text": "This is a Blue Pikmin.",
+      "Text": "Dies ist ein blaues Pikmin.",
       "PluralText": ""
     },
     {
       "Id": -1865406682795794574,
-      "Text": "Mountain Badge",
+      "Text": "Berg-Anstecknadel",
       "PluralText": ""
     },
     {
       "Id": 8546798411566475097,
-      "Text": "This is a Yellow Pikmin.",
+      "Text": "Dies ist ein gelbes Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7979938583335388599,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -2984117961729358661,
+      "Text": "Dies ist ein weißes Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 7507006416058561946,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -7351141712166386221,
+      "Text": "Dies ist ein lila Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2757392997541840867,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": 6394179925010223541,
+      "Text": "Dies ist ein Fels-Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7068330476289975049,
+      "Text": "Sushi",
+      "PluralText": ""
+    },
+    {
+      "Id": -930526396484558334,
+      "Text": "Dies ist ein Flügel-Pikmin.",
       "PluralText": ""
     },
     {
@@ -13577,7 +13997,7 @@
     },
     {
       "Id": -7541253031296121149,
-      "Text": "{0} hat etwas aus der Nähe von {1} mitgebracht.",
+      "Text": "{0} ist mit einem Item vom Herkunftsort zurückgekommen.",
       "PluralText": ""
     },
     {
@@ -13617,7 +14037,7 @@
     },
     {
       "Id": 8859969091453911087,
-      "Text": "Eine besondere Mulde, in der Pikmin um 30  schneller wachsen. Sie verschwindet, wenn du das ausgewachsene Pikmin gepflückt hast.",
+      "Text": "Eine besondere Mulde, in der Pikmin um 30 % schneller wachsen. Sie verschwindet, wenn du das ausgewachsene Pikmin gepflückt hast.",
       "PluralText": ""
     },
     {
@@ -13772,7 +14192,12 @@
     },
     {
       "Id": 9128158318785344342,
-      "Text": "Friend has not yet received your postcard.",
+      "Text": "Dein Freund hat deine letzte Postkarte noch nicht erhalten.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4678208832094013128,
+      "Text": "Already sent a postcard today.",
       "PluralText": ""
     },
     {
@@ -14072,32 +14497,32 @@
     },
     {
       "Id": 7493065690932867517,
-      "Text": "Carnation Nectar",
+      "Text": "Weiße Nelke-Nektar",
       "PluralText": ""
     },
     {
       "Id": 8106012987585575890,
-      "Text": "Carnation Nectar",
+      "Text": "Rote Nelke-Nektar",
       "PluralText": ""
     },
     {
       "Id": 456925336659337380,
-      "Text": "Carnation Nectar",
+      "Text": "Blaue Nelke-Nektar",
       "PluralText": ""
     },
     {
       "Id": -7189020798718681133,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "Ein seltener Nektar, der auf dem Kopf eines Pikmin eine weiße Nelke erblühen lässt.",
       "PluralText": ""
     },
     {
       "Id": 6308581681808231676,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "Ein seltener Nektar, der auf dem Kopf eines Pikmin eine rote Nelke erblühen lässt.",
       "PluralText": ""
     },
     {
       "Id": 4490362610984332759,
-      "Text": "Rare nectar that will make a Carnation grow on a Pikmin's head.",
+      "Text": "Ein seltener Nektar, der auf dem Kopf eines Pikmin eine blaue Nelke erblühen lässt.",
       "PluralText": ""
     },
     {
@@ -14461,6 +14886,16 @@
       "PluralText": "Noch {0} Schritte"
     },
     {
+      "Id": 2770762559239835138,
+      "Text": "Das Muttertag-Event läuft!",
+      "PluralText": ""
+    },
+    {
+      "Id": 824311847962304281,
+      "Text": "Muttertag-Event",
+      "PluralText": ""
+    },
+    {
       "Id": 4232141314118770660,
       "Text": "Nun kannst du mit dem Detektor Items in der Nähe aufspüren!",
       "PluralText": ""
@@ -14477,13 +14912,13 @@
     },
     {
       "Id": 3351633235524086435,
-      "Text": "Schaffe <b>{0}</b> {2} jeweils auf <b>{1}</b> oder höher.",
+      "Text": "Schaffe <b>{0}</b> {2} auf <b>{1}</b> oder höher.",
       "PluralText": ""
     },
     {
       "Id": 1858672086238664994,
-      "Text": "{0}-Sterne-Bewertung",
-      "PluralText": "{0}-Sterne-Bewertungen"
+      "Text": "{0}-Stern",
+      "PluralText": "{0}-Sterne"
     },
     {
       "Id": -6006900477331902916,
@@ -14502,23 +14937,23 @@
     },
     {
       "Id": 415753280128771118,
-      "Text": "einfache Herausforderung",
-      "PluralText": "einfache Herausforderungen"
+      "Text": "kleine Pilz-Herausforderung",
+      "PluralText": "kleine Pilz-Herausforderungen"
     },
     {
       "Id": 4066395018444766723,
-      "Text": "normale Herausforderung",
-      "PluralText": "normale Herausforderungen"
+      "Text": "normale Pilz-Herausforderung",
+      "PluralText": "normale Pilz-Herausforderungen"
     },
     {
       "Id": -8677167862038456487,
-      "Text": "schwierige Herausforderung",
-      "PluralText": "schwierige Herausforderungen"
+      "Text": "große Pilz-Herausforderung",
+      "PluralText": "große Pilz-Herausforderungen"
     },
     {
       "Id": 2719709734880893979,
-      "Text": "ultra-motivierende Herausforderung",
-      "PluralText": "ultra-motivierende Herausforderungen"
+      "Text": "riesige Pilz-Herausforderung",
+      "PluralText": "riesige Pilz-Herausforderungen"
     },
     {
       "Id": 1533898344558189390,

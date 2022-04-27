@@ -37,7 +37,7 @@
     },
     {
       "Id": 6992688155314553685,
-      "Text": "Challenge",
+      "Text": "Mushroom",
       "PluralText": ""
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "Id": -4734699365799253773,
-      "Text": "Challenges",
+      "Text": "Mushrooms",
       "PluralText": ""
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "Id": 1723863176209661523,
-      "Text": "Challenge Start!",
+      "Text": "Start Now!",
       "PluralText": ""
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "Id": 7008647294709450481,
-      "Text": "Challenge clear!",
+      "Text": "Mushroom battle clear!",
       "PluralText": ""
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "Id": -6626892811565975355,
-      "Text": "This challenge has been cleared.",
+      "Text": "This mushroom battle has been cleared.",
       "PluralText": ""
     },
     {
@@ -192,22 +192,22 @@
     },
     {
       "Id": 26929745801502828,
-      "Text": "Send up to {0} Pikmin for this challenge",
+      "Text": "Send up to {0} Pikmin to this mushroom",
       "PluralText": ""
     },
     {
       "Id": -3189891252292873838,
-      "Text": "The challenge has been finished!",
+      "Text": "Mushroom defeated!",
       "PluralText": ""
     },
     {
       "Id": 5289152595084005204,
-      "Text": "Challenge score:",
+      "Text": "Mushroom score:",
       "PluralText": ""
     },
     {
       "Id": -96276456103343170,
-      "Text": "Mushroom Challenges",
+      "Text": "Mushrooms",
       "PluralText": ""
     },
     {
@@ -318,6 +318,11 @@
     {
       "Id": 8634210522723303097,
       "Text": "(Up to {0} friends)",
+      "PluralText": ""
+    },
+    {
+      "Id": -4331283860480754541,
+      "Text": "{0} x {1}",
       "PluralText": ""
     },
     {
@@ -516,6 +521,11 @@
       "PluralText": ""
     },
     {
+      "Id": -1292089371285146273,
+      "Text": "Activity List",
+      "PluralText": ""
+    },
+    {
       "Id": 9031174962354778674,
       "Text": "If you enable this setting, your information can be used to deliver personalized ads to you regarding Pikmin Bloom exclusive offers, promotions, and events.",
       "PluralText": ""
@@ -693,7 +703,7 @@
     {
       "Id": 8474721554388750520,
       "Text": "{0} to go",
-      "PluralText": "{0}s to go"
+      "PluralText": "{0} to go"
     },
     {
       "Id": 117988906828331991,
@@ -1391,6 +1401,11 @@
       "PluralText": ""
     },
     {
+      "Id": -30447872105544295,
+      "Text": "{0}x coin limit!",
+      "PluralText": ""
+    },
+    {
       "Id": 5513706700721524041,
       "Text": "Back",
       "PluralText": ""
@@ -1653,6 +1668,11 @@
     {
       "Id": -964901627478265242,
       "Text": "{0} pm",
+      "PluralText": ""
+    },
+    {
+      "Id": -5011394076120549191,
+      "Text": "hh:mm tt",
       "PluralText": ""
     },
     {
@@ -5268,7 +5288,7 @@
     {
       "Id": 398620021200513056,
       "Text": "{0} to go",
-      "PluralText": "{0}sto go"
+      "PluralText": "{0} to go"
     },
     {
       "Id": 1202386689887846480,
@@ -9667,7 +9687,7 @@
     },
     {
       "Id": -5134682839334563412,
-      "Text": "This Pikmin seems to be busy with a challenge!",
+      "Text": "This Pikmin seems to be busy with a mushroom!",
       "PluralText": ""
     },
     {
@@ -9682,7 +9702,7 @@
     },
     {
       "Id": -5074962087141296450,
-      "Text": "This Pikmin seems to be busy with a challenge!",
+      "Text": "This Pikmin seems to be busy with a mushroom!",
       "PluralText": ""
     },
     {
@@ -9807,7 +9827,7 @@
     },
     {
       "Id": 9099198952944723551,
-      "Text": "Come and challenge again!",
+      "Text": "Try again!",
       "PluralText": ""
     },
     {
@@ -9837,7 +9857,7 @@
     },
     {
       "Id": -1399639629853138703,
-      "Text": "Fellows of this challenge",
+      "Text": "Challenge participants",
       "PluralText": ""
     },
     {
@@ -9852,7 +9872,7 @@
     },
     {
       "Id": 8699857482763326418,
-      "Text": "Join a group and start the Challenge!",
+      "Text": "Join a group and start the challenge!",
       "PluralText": ""
     },
     {
@@ -9862,7 +9882,7 @@
     },
     {
       "Id": 2873275352592052261,
-      "Text": "Start Challenge",
+      "Text": "Start with this group",
       "PluralText": ""
     },
     {
@@ -9872,7 +9892,7 @@
     },
     {
       "Id": 6551367328415555424,
-      "Text": "You can only join one step challenge per week.",
+      "Text": "You can only participate in the weekly \nchallenge once per week.",
       "PluralText": ""
     },
     {
@@ -9887,7 +9907,7 @@
     },
     {
       "Id": -2538423486464020536,
-      "Text": "Open",
+      "Text": "ー",
       "PluralText": ""
     },
     {
@@ -9912,17 +9932,17 @@
     },
     {
       "Id": -2669795582956331225,
-      "Text": "The Challenge is played in groups of five.",
+      "Text": "The challenge is played in groups of five.",
       "PluralText": ""
     },
     {
       "Id": 1743715444502722978,
-      "Text": "You can join a challenge group if you are friends with a member who has already joined.",
+      "Text": "Your friends and your friend’s friends can participate in the group.",
       "PluralText": ""
     },
     {
       "Id": 3336201708481967541,
-      "Text": "During the challenge, group members will share each other's names, step counts, etc.",
+      "Text": "During the challenge, group members can see each other's names, step counts, etc.　You can also send friend requests to other participants.",
       "PluralText": ""
     },
     {
@@ -9942,7 +9962,7 @@
     },
     {
       "Id": 9032630140625998547,
-      "Text": "You can only join one step challenge per week.",
+      "Text": "You can only participate in the weekly \nchallenge once per week.",
       "PluralText": ""
     },
     {
@@ -9952,8 +9972,8 @@
     },
     {
       "Id": -1876837767047230303,
-      "Text": "Are you ready to walk {0} step together...?",
-      "PluralText": "Are you ready to walk {0} steps together...?"
+      "Text": "Are you ready to walk {0} step together?",
+      "PluralText": "Are you ready to walk {0} steps together?"
     },
     {
       "Id": -8233269633075203145,
@@ -10007,7 +10027,7 @@
     },
     {
       "Id": 628933819033134149,
-      "Text": "Joined {0}",
+      "Text": "Joined on {0}",
       "PluralText": ""
     },
     {
@@ -10017,17 +10037,17 @@
     },
     {
       "Id": -1496838818967236054,
-      "Text": "ends in {0}",
+      "Text": "ends in <b>{0}</b>",
       "PluralText": ""
     },
     {
       "Id": -6968615695292971536,
-      "Text": "Walk {0} step!",
-      "PluralText": "Walk {0} steps!"
+      "Text": "Walk <b>{0}</b> step!",
+      "PluralText": "Walk <b>{0}</b> steps!"
     },
     {
       "Id": -6229399436298083159,
-      "Text": "You’re doing great!",
+      "Text": "Keep up the hard work!",
       "PluralText": ""
     },
     {
@@ -10087,7 +10107,37 @@
     },
     {
       "Id": 4043288374548824384,
-      "Text": "Walking Challenge",
+      "Text": "Step Challenge",
+      "PluralText": ""
+    },
+    {
+      "Id": 8793383331390351101,
+      "Text": "Weekly Challenges",
+      "PluralText": ""
+    },
+    {
+      "Id": 8583269330314673916,
+      "Text": "Rewards",
+      "PluralText": ""
+    },
+    {
+      "Id": 375250244294756391,
+      "Text": "Finished!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4784723555280963659,
+      "Text": "Join a Weekly Challenge!",
+      "PluralText": ""
+    },
+    {
+      "Id": -8170036741556939000,
+      "Text": "About the weekly challenges",
+      "PluralText": ""
+    },
+    {
+      "Id": -8166575314305961428,
+      "Text": "There are no weekly challenges for you to join right now.",
       "PluralText": ""
     },
     {
@@ -10436,6 +10486,11 @@
       "PluralText": ""
     },
     {
+      "Id": 5324863160559205072,
+      "Text": "Daily Lookback Settings",
+      "PluralText": ""
+    },
+    {
       "Id": -3566549781637734677,
       "Text": "Pick up and hold a Pikmin here to see details",
       "PluralText": ""
@@ -10477,12 +10532,12 @@
     },
     {
       "Id": -3184764668860367983,
-      "Text": "You can now send your Pikmin on challenges!",
+      "Text": "You can now send your Pikmin to fight mushrooms!",
       "PluralText": ""
     },
     {
       "Id": 5352655594257116811,
-      "Text": "In the challenge, everyone sends their Pikmin to a single location to work together.",
+      "Text": "Everyone sends their Pikmin to a single location to defeat mushrooms together.",
       "PluralText": ""
     },
     {
@@ -10523,6 +10578,11 @@
     {
       "Id": 6782584004064353837,
       "Text": "You can see and share your memento cards in your lifelog.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4210733493591404853,
+      "Text": "You can now share cards of your newly plucked Pikmin. Introduce your new Pikmin to your friends!",
       "PluralText": ""
     },
     {
@@ -10587,7 +10647,7 @@
     },
     {
       "Id": -1302362839224212364,
-      "Text": "You can see and share your mement cards in your  life log.",
+      "Text": "You can see and share your memento cards in your lifelog.",
       "PluralText": ""
     },
     {
@@ -10807,7 +10867,7 @@
     },
     {
       "Id": 7819386214416619956,
-      "Text": "Friend Request Sent",
+      "Text": "Friend request sent",
       "PluralText": ""
     },
     {
@@ -10828,6 +10888,36 @@
     {
       "Id": 2812554371122531590,
       "Text": "Add note",
+      "PluralText": ""
+    },
+    {
+      "Id": 6563675451411165539,
+      "Text": "Daily Lookback time",
+      "PluralText": ""
+    },
+    {
+      "Id": -4570663082382712324,
+      "Text": "This is when your Daily Lookback is played. (The actual time may slightly change depending on connection status.)",
+      "PluralText": ""
+    },
+    {
+      "Id": -3681398910591734487,
+      "Text": "Around {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 3704648090845174214,
+      "Text": "Set the playback time of Daily Lookback to {0}. Are you sure?\n\n*The actual time may slightly change depending on connection status.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5439621946027186960,
+      "Text": "The playback time of Daily Lookback can be changed from the settings screen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6111134098206418666,
+      "Text": "The playback time of Daily Lookback was changed to {0}.",
       "PluralText": ""
     },
     {
@@ -10892,7 +10982,7 @@
     },
     {
       "Id": 3735418623733575292,
-      "Text": "Library",
+      "Text": "Library/bookstore",
       "PluralText": ""
     },
     {
@@ -13746,6 +13836,21 @@
       "PluralText": ""
     },
     {
+      "Id": -5796902989629339018,
+      "Text": "Continue with Facebook",
+      "PluralText": ""
+    },
+    {
+      "Id": -7588090401295854183,
+      "Text": "Continue with Apple",
+      "PluralText": ""
+    },
+    {
+      "Id": 5654056287002014806,
+      "Text": "Continue with Google",
+      "PluralText": ""
+    },
+    {
       "Id": 1693613730535626830,
       "Text": "Sushi Restaurant",
       "PluralText": ""
@@ -13862,7 +13967,7 @@
     },
     {
       "Id": 5108706162607180765,
-      "Text": "Sports ball keychain",
+      "Text": "Ball Keychain",
       "PluralText": ""
     },
     {
@@ -13872,7 +13977,7 @@
     },
     {
       "Id": 8830083834050071090,
-      "Text": "Sports ball keychain",
+      "Text": "Ball Keychain",
       "PluralText": ""
     },
     {
@@ -13882,7 +13987,7 @@
     },
     {
       "Id": -2523482138720841881,
-      "Text": "Sports ball keychain",
+      "Text": "Ball Keychain",
       "PluralText": ""
     },
     {
@@ -13892,7 +13997,7 @@
     },
     {
       "Id": 3716565711685399686,
-      "Text": "Sports ball keychain",
+      "Text": "Ball Keychain",
       "PluralText": ""
     },
     {
@@ -13902,7 +14007,7 @@
     },
     {
       "Id": 2263467397187003687,
-      "Text": "Mountain pin badge",
+      "Text": "Mountain Pin Badge",
       "PluralText": ""
     },
     {
@@ -13912,7 +14017,7 @@
     },
     {
       "Id": 1908776735306925434,
-      "Text": "Mountain pin badge",
+      "Text": "Mountain Pin Badge",
       "PluralText": ""
     },
     {
@@ -13922,7 +14027,7 @@
     },
     {
       "Id": -8998934942362608367,
-      "Text": "Mountain pin badge",
+      "Text": "Mountain Pin Badge",
       "PluralText": ""
     },
     {
@@ -13932,7 +14037,7 @@
     },
     {
       "Id": -1865406682795794574,
-      "Text": "Mountain pin badge",
+      "Text": "Mountain Pin Badge",
       "PluralText": ""
     },
     {
@@ -14037,7 +14142,12 @@
     },
     {
       "Id": 8859969091453911087,
-      "Text": "A special type of slot that grows Pikmin 30 faster. This slot will disappear after you pluck the grown Pikmin.",
+      "Text": "A special type of slot that grows Pikmin 30% faster. This slot will disappear after you pluck the grown Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6202844197732253073,
+      "Text": "Growth speed {0} times!",
       "PluralText": ""
     },
     {
@@ -14882,12 +14992,12 @@
     },
     {
       "Id": 2770762559239835138,
-      "Text": "Mother's Day event underway!",
+      "Text": "Mother's Day Event underway!",
       "PluralText": ""
     },
     {
       "Id": 824311847962304281,
-      "Text": "Mother's Day event",
+      "Text": "Mother's Day Event",
       "PluralText": ""
     },
     {
@@ -14897,7 +15007,7 @@
     },
     {
       "Id": 5571664699863725479,
-      "Text": "You can now send your Pikmin on challenges!",
+      "Text": "You can now send your Pikmin on mushrooms!",
       "PluralText": ""
     },
     {
@@ -14917,12 +15027,12 @@
     },
     {
       "Id": -6006900477331902916,
-      "Text": "expedition",
+      "Text": "expedition(s)",
       "PluralText": ""
     },
     {
       "Id": -7639829494892043723,
-      "Text": "challenge",
+      "Text": "mushroom(s)",
       "PluralText": ""
     },
     {
@@ -14932,28 +15042,28 @@
     },
     {
       "Id": 415753280128771118,
-      "Text": "small mushroom challenge",
-      "PluralText": "small mushroom challenges"
+      "Text": "small mushroom",
+      "PluralText": "small mushrooms"
     },
     {
       "Id": 4066395018444766723,
-      "Text": "normal mushroom challenge",
-      "PluralText": "normal mushroom challenges"
+      "Text": "normal mushroom",
+      "PluralText": "normal mushrooms"
     },
     {
       "Id": -8677167862038456487,
-      "Text": "large mushroom challenge",
-      "PluralText": "large mushroom challenges"
+      "Text": "large mushroom",
+      "PluralText": "large mushrooms"
     },
     {
       "Id": 2719709734880893979,
-      "Text": "giant mushroom challenge",
-      "PluralText": "giant mushroom challenges"
+      "Text": "giant mushroom",
+      "PluralText": "giant mushrooms"
     },
     {
       "Id": 1533898344558189390,
-      "Text": "challenge",
-      "PluralText": "challenges"
+      "Text": "mushroom",
+      "PluralText": "mushrooms"
     },
     {
       "Id": 6038283208048095837,
@@ -14997,8 +15107,8 @@
     },
     {
       "Id": -707141978154151807,
-      "Text": "{0} Challenge",
-      "PluralText": "{0} Challenges"
+      "Text": "{0} Mushroom",
+      "PluralText": "{0} Mushrooms"
     },
     {
       "Id": -6546911927841364814,
@@ -15007,12 +15117,12 @@
     },
     {
       "Id": -2477311914983404123,
-      "Text": "Pikmin are back from the Challenge at {1}!",
+      "Text": "Your Pikmin are back from the Mushroom at {1}!",
       "PluralText": ""
     },
     {
       "Id": 6380723899173965173,
-      "Text": "Expeditions",
+      "Text": "Seedlings & Fruits",
       "PluralText": ""
     },
     {
@@ -15362,22 +15472,22 @@
     },
     {
       "Id": 8321526828962939131,
-      "Text": "In the mushroom challenges, Pikmin of the same color as the mushrooms, Decor Pikmin, and Pikmin with flowers seem to be the most powerful.",
+      "Text": "When tackling mushrooms battles, Pikmin of the same color as the mushroom, Decor Pikmin, and Pikmin with flowers seem to be the most powerful.",
       "PluralText": ""
     },
     {
       "Id": -8845234256144901788,
-      "Text": "Time counts in the mushroom challenges! Clear the challenge as fast as you can to get higher ratings and better rewards.",
+      "Text": "Clear mushrooms battles as fast as you can to get higher ratings and better rewards!",
       "PluralText": ""
     },
     {
       "Id": -2367939774841143747,
-      "Text": "Mushrooms destroyed in challenges seem to take a while to recover.",
+      "Text": "It takes a while for mushrooms to recover after being destroyed.",
       "PluralText": ""
     },
     {
       "Id": -7210442754481933800,
-      "Text": "Feed your Pikmin nectar and send them on expeditions and challenges to raise their friendship level.",
+      "Text": "Feed your Pikmin nectar and send them on expeditions and mushrooms to raise their friendship level.",
       "PluralText": ""
     },
     {

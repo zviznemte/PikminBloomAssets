@@ -61,6 +61,9 @@ id	constant	phrase	plural phrase
 110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	Entiendo	
 3518299777779390156	CHEATING_WARNING_STRIKE_2_CONFIRM	I Understand	
 7885683453870388931	CHEATING_WARNING_STRIKE_3_CONFIRM	Logout	
+-5796902989629339018	CONTINUE_WITH_FACEBOOK	Continuar con Facebook	
+-7588090401295854183	CONTINUE_WITH_APPLE	Continuar con Apple	
+5654056287002014806	CONTINUE_WITH_GOOGLE	Continuar con Google	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Atrás	
 8485757493794925261	ACTION_CANCEL	Cancelar	
 -897094175043611554	ACTION_CANT_SIGN_IN	No puedo iniciar sesión.	
@@ -136,10 +139,10 @@ id	constant	phrase	plural phrase
 -2013858795142751835	STARTUP_SCREEN_TIPS_0028	El mapa grande de la pantalla de inicio te da acceso fácil al diario, la pantalla de expediciones y la lista de Pikmin.	
 8837181790264424549	STARTUP_SCREEN_TIPS_0029	Los objetos de expedición desaparecerán de la lista pasados 3 días. Los objetos se ordenan de más antiguo a más reciente, así que recoge los que quieras antes de que desaparezcan.	
 -8560538571010392068	STARTUP_SCREEN_TIPS_0030	Los Pikmin alados son muy rápidos durante las expediciones, a no ser que vayan con otros tipos de Pikmin.	
-8321526828962939131	STARTUP_SCREEN_TIPS_0031	En los desafíos de champiñones, los Pikmin del mismo color que el champiñón, los disfrazados y los que tengan flores parecen ser más poderosos.	
--8845234256144901788	STARTUP_SCREEN_TIPS_0032	¡En los desafíos de champiñones, el tiempo es importante! Complétalos lo más rápido posible para conseguir una puntuación más alta y mejores recompensas.	
--2367939774841143747	STARTUP_SCREEN_TIPS_0033	Los champiñones destruidos durante los desafíos tardan unas 3 horas en recuperarse.	
--7210442754481933800	STARTUP_SCREEN_TIPS_0034	Dales néctar a tus Pikmin y envíalos a expediciones y desafíos para aumentar su nivel de amistad.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	Al atacar champiñones, los Pikmin del mismo color que el champiñón, los disfrazados y los que tengan flores parecen ser más poderosos.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	¡Elimina champiñones lo más rápido posible para conseguir una puntuación más alta y mejores recompensas!	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	Tras ser destruidos, los champiñones tardan un poco en recuperarse.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Dales néctar a tus Pikmin y envíalos a expediciones y champiñones para aumentar su nivel de amistad.	
 8389710506546400265	STARTUP_SCREEN_TIPS_0035	Algunas flores gigantes solo florecerán durante estaciones determinadas. Echa un vistazo a la sección de noticias para ver las flores de temporada de este mes.	
 -1968907645343148781	STARTUP_SCREEN_TIPS_0036	Añade a gente a tu lista de amigos para poder enviaros postales y ver vuestros Pikmin e insignias.	
 348878743656379735	STARTUP_SCREEN_TIPS_0037	Cuando pasees por un lugar nuevo, desaparecerán las nubes blancas del mapa y aparecerá la nueva ubicación. Usa el mapa para ver los sitios que has visitado hasta el momento.	

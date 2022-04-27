@@ -61,6 +61,9 @@ id	constant	phrase	plural phrase
 110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	Accetto	
 3518299777779390156	CHEATING_WARNING_STRIKE_2_CONFIRM	I Understand	
 7885683453870388931	CHEATING_WARNING_STRIKE_3_CONFIRM	Logout	
+-5796902989629339018	CONTINUE_WITH_FACEBOOK	Continua con Facebook	
+-7588090401295854183	CONTINUE_WITH_APPLE	Continua con Apple	
+5654056287002014806	CONTINUE_WITH_GOOGLE	Continua con Google	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Indietro	
 8485757493794925261	ACTION_CANCEL	Annulla	
 -897094175043611554	ACTION_CANT_SIGN_IN	Problemi con l'accesso?	
@@ -137,10 +140,10 @@ id	constant	phrase	plural phrase
 -2013858795142751835	STARTUP_SCREEN_TIPS_0028	La grande mappa sulla schermata iniziale fornisce un comodo accesso al diario, alla schermata delle spedizioni, alle cartoline e all'elenco dei Pikmin.	
 8837181790264424549	STARTUP_SCREEN_TIPS_0029	Le piantine recuperabili con le spedizioni spariranno, se non invii Pikmin a prenderle in tempo. Gli oggetti sono elencati dal più vecchio al più recente, quindi prendi quelli che più ti interessano prima che spariscano.	
 -8560538571010392068	STARTUP_SCREEN_TIPS_0030	I Pikmin alati sembrano essere molto veloci nelle spedizioni, a meno che non vadano con altri tipi di Pikmin.	
-8321526828962939131	STARTUP_SCREEN_TIPS_0031	Nelle sfide dei funghi, i Pikmin dello stesso colore dei funghi, i Pikmin decorati e i Pikmin con i fiori sembrano essere i più potenti.	
--8845234256144901788	STARTUP_SCREEN_TIPS_0032	Il tempo conta nelle sfide dei funghi! Supera la sfida il più velocemente possibile per ottenere valutazioni più alte e ricompense migliori.	
--2367939774841143747	STARTUP_SCREEN_TIPS_0033	I funghi distrutti nelle sfide sembrano richiedere del tempo per riprendersi.	
--7210442754481933800	STARTUP_SCREEN_TIPS_0034	Nutri i tuoi Pikmin con il nettare e mandali in spedizioni e sfide per aumentare il vostro livello di amicizia.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	Quando affronti i funghi, i Pikmin dello stesso colore dei funghi, i Pikmin decorati e i Pikmin con i fiori sembrano essere i più potenti.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	Elimina i funghi il più velocemente possibile per ottenere valutazioni più alte e ricompense migliori!	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	Ci vuole un po' di tempo perché i funghi si ricostituiscano dopo essere stati distrutti.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Dai il nettare ai tuoi Pikmin e mandali in spedizioni e presso i funghi per aumentare il vostro livello di amicizia.	
 8389710506546400265	STARTUP_SCREEN_TIPS_0035	Alcuni megafiori potrebbero sbocciare solo durante certe stagioni. Controlla la sezione "Notizie" per vedere quali fiori sono di stagione nel mese attuale.	
 -1968907645343148781	STARTUP_SCREEN_TIPS_0036	Fai amicizia per scambiare cartoline e guardare i passi, i Pikmin e i distintivi degli altri giocatori.	
 348878743656379735	STARTUP_SCREEN_TIPS_0037	Quando attraversi un nuovo luogo, le nuvole bianche sulla mappa si dissolvono per rivelare la nuova posizione. Usa la mappa per vedere i luoghi che hai visitato finora.	

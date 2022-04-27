@@ -61,6 +61,9 @@ id	constant	phrase	plural phrase
 110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	Je comprends	
 3518299777779390156	CHEATING_WARNING_STRIKE_2_CONFIRM	I Understand	
 7885683453870388931	CHEATING_WARNING_STRIKE_3_CONFIRM	Logout	
+-5796902989629339018	CONTINUE_WITH_FACEBOOK	Continuer avec Facebook	
+-7588090401295854183	CONTINUE_WITH_APPLE	Continuer avec Apple	
+5654056287002014806	CONTINUE_WITH_GOOGLE	Continuer avec Google	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Retour	
 8485757493794925261	ACTION_CANCEL	Annuler	
 -897094175043611554	ACTION_CANT_SIGN_IN	Vous n'arrivez pas à vous connecter ?	
@@ -136,10 +139,10 @@ id	constant	phrase	plural phrase
 -2013858795142751835	STARTUP_SCREEN_TIPS_0028	La grande carte de l'écran d'accueil permet d'accéder facilement au journal de vie, aux expéditions, aux cartes postales et à la liste des Pikmin.	
 8837181790264424549	STARTUP_SCREEN_TIPS_0029	Les objets d'expédition disparaîtront de la liste au bout de 3 jours. Les objets sont classés du plus ancien au plus récent, alors récupérez ceux qui vous intéressent avant qu'ils ne disparaissent.	
 -8560538571010392068	STARTUP_SCREEN_TIPS_0030	Les Pikmin ailés sont très rapides lors des expéditions, sauf s'ils sont associés à d'autres types de Pikmin.	
-8321526828962939131	STARTUP_SCREEN_TIPS_0031	Dans les défis champignons, les Pikmin de la même couleur que les champignons, les Pikmin déco et les Pikmin avec des fleurs sont les plus puissants.	
--8845234256144901788	STARTUP_SCREEN_TIPS_0032	Le temps joue contre vous dans les défis champignons ! Relevez le défi aussi vite que possible pour obtenir de meilleurs résultats et de plus belles récompenses.	
--2367939774841143747	STARTUP_SCREEN_TIPS_0033	Les champignons détruits lors des défis mettent environ 3 heures à se régénérer.	
--7210442754481933800	STARTUP_SCREEN_TIPS_0034	Nourrissez vos Pikmin avec du nectar et envoyez-les faire des expéditions et relever des défis pour augmenter leur niveau d'amitié.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	Lorsque vous vous attaquez aux champignons, les Pikmin de la même couleur que le champignon, les Pikmin déco et les Pikmin avec des fleurs sont les plus puissants.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	Éliminez les champignons aussi vite que possible pour obtenir de meilleurs résultats et de meilleures récompenses !	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	Il faut un certain temps aux champignons pour se régénérer après avoir été détruits.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Nourrissez vos Pikmin avec du nectar et envoyez-les faire des expéditions et détruire des champignons pour augmenter leur niveau d'amitié.	
 8389710506546400265	STARTUP_SCREEN_TIPS_0035	Certaines mégafleurs se développent uniquement pendant certaines saisons. Consultez la section consacrée aux actualités pour savoir quelles sont les fleurs de saison ce mois-ci.	
 -1968907645343148781	STARTUP_SCREEN_TIPS_0036	Élargissez votre cercle d'amis pour vous envoyer des cartes postales et regarder vos Pikmin et vos badges respectifs.	
 348878743656379735	STARTUP_SCREEN_TIPS_0037	Lorsque vous visitez un nouvel endroit, les nuages blancs sur la carte s'effacent pour révéler ce nouvel espace. Utilisez la carte pour consulter les lieux que vous avez visités jusqu'à présent.	

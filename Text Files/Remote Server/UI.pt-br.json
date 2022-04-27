@@ -37,7 +37,7 @@
     },
     {
       "Id": 6992688155314553685,
-      "Text": "Desafio",
+      "Text": "Cogumelo",
       "PluralText": ""
     },
     {
@@ -87,12 +87,12 @@
     },
     {
       "Id": -6682069631007085030,
-      "Text": "Seus Pikmin estão cansados. Tente novamente amanhã.",
+      "Text": "Os Pikmin estão cansados. Tente novamente amanhã.",
       "PluralText": ""
     },
     {
       "Id": -4734699365799253773,
-      "Text": "Desafios",
+      "Text": "Cogumelos",
       "PluralText": ""
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "Id": 1723863176209661523,
-      "Text": "Desafio iniciado!",
+      "Text": "Comece agora!",
       "PluralText": ""
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "Id": 7008647294709450481,
-      "Text": "Desafio concluído!",
+      "Text": "Cogumelo eliminado!",
       "PluralText": ""
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "Id": -6626892811565975355,
-      "Text": "Este desafio foi concluído.",
+      "Text": "Este cogumelo foi eliminado.",
       "PluralText": ""
     },
     {
@@ -192,22 +192,22 @@
     },
     {
       "Id": 26929745801502828,
-      "Text": "Envie até {0} Pikmin a este desafio",
+      "Text": "Envie até {0} Pikmin para este cogumelo",
       "PluralText": ""
     },
     {
       "Id": -3189891252292873838,
-      "Text": "Este desafio foi concluído!",
+      "Text": "Cogumelo derrotado!",
       "PluralText": ""
     },
     {
       "Id": 5289152595084005204,
-      "Text": "Pontuação do desafio:",
+      "Text": "Pontuação de cogumelos:",
       "PluralText": ""
     },
     {
       "Id": -96276456103343170,
-      "Text": "Desafios de Cogumelo",
+      "Text": "Cogumelos",
       "PluralText": ""
     },
     {
@@ -318,6 +318,11 @@
     {
       "Id": 8634210522723303097,
       "Text": "(Até {0} amigos)",
+      "PluralText": ""
+    },
+    {
+      "Id": -4331283860480754541,
+      "Text": "{0} x {1}",
       "PluralText": ""
     },
     {
@@ -482,7 +487,7 @@
     },
     {
       "Id": -4942180775376772179,
-      "Text": "Discovered New Pikmin",
+      "Text": "Novo Pikmin descoberto",
       "PluralText": ""
     },
     {
@@ -492,7 +497,7 @@
     },
     {
       "Id": 162873950609628943,
-      "Text": "Until {0}",
+      "Text": "Até {0}",
       "PluralText": ""
     },
     {
@@ -502,17 +507,22 @@
     },
     {
       "Id": 1513327897642302745,
-      "Text": "You",
+      "Text": "Você",
       "PluralText": ""
     },
     {
       "Id": 5010106775700520181,
-      "Text": "You have a friend request from {0}!",
+      "Text": "Você tem um pedido de amizade de {0}!",
       "PluralText": ""
     },
     {
       "Id": -5292529651124001390,
-      "Text": "You have a friend request from {0} and more!",
+      "Text": "Você tem um pedido de amizade de {0} e mais!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1292089371285146273,
+      "Text": "Lista de atividades",
       "PluralText": ""
     },
     {
@@ -1391,6 +1401,11 @@
       "PluralText": ""
     },
     {
+      "Id": -30447872105544295,
+      "Text": "{0}x coin limit!",
+      "PluralText": ""
+    },
+    {
       "Id": 5513706700721524041,
       "Text": "Voltar",
       "PluralText": ""
@@ -1653,6 +1668,11 @@
     {
       "Id": -964901627478265242,
       "Text": "{0} pm",
+      "PluralText": ""
+    },
+    {
+      "Id": -5011394076120549191,
+      "Text": "hh:mm tt",
       "PluralText": ""
     },
     {
@@ -9672,7 +9692,7 @@
     },
     {
       "Id": -5134682839334563412,
-      "Text": "O Pikmin está ocupado com um desafio!",
+      "Text": "O Pikmin está ocupado com um cogumelo!",
       "PluralText": ""
     },
     {
@@ -9687,7 +9707,7 @@
     },
     {
       "Id": -5074962087141296450,
-      "Text": "O Pikmin está ocupado com um desafio!",
+      "Text": "O Pikmin está ocupado com um cogumelo!",
       "PluralText": ""
     },
     {
@@ -9782,7 +9802,7 @@
     },
     {
       "Id": -4903708731684575651,
-      "Text": "Desafio de amigo",
+      "Text": "Desafio de Amigo",
       "PluralText": ""
     },
     {
@@ -9812,7 +9832,7 @@
     },
     {
       "Id": 9099198952944723551,
-      "Text": "Hmmm, só mais um pouquinho...",
+      "Text": "Venha e desafie novamente!",
       "PluralText": ""
     },
     {
@@ -9842,7 +9862,7 @@
     },
     {
       "Id": -1399639629853138703,
-      "Text": "Amigos que participaram do desafio",
+      "Text": "Parceiros de desafio",
       "PluralText": ""
     },
     {
@@ -9867,7 +9887,7 @@
     },
     {
       "Id": 2873275352592052261,
-      "Text": "Iniciar desafio",
+      "Text": "Começar com este grupo",
       "PluralText": ""
     },
     {
@@ -9877,7 +9897,7 @@
     },
     {
       "Id": 6551367328415555424,
-      "Text": "Você só pode se juntar a um desafio de caminhada por semana.",
+      "Text": "Você só pode participar do desafio \nsemanal uma vez por semana.",
       "PluralText": ""
     },
     {
@@ -9892,7 +9912,7 @@
     },
     {
       "Id": -2538423486464020536,
-      "Text": "Abrir",
+      "Text": "ー",
       "PluralText": ""
     },
     {
@@ -9922,12 +9942,12 @@
     },
     {
       "Id": 1743715444502722978,
-      "Text": "Você pode se juntar a um grupo de desafio se tiver amigos que já façam parte. \nAlém de seus amigos, os amigos de seus amigos também podem participar.",
+      "Text": "Seus amigos e os amigos de seus amigos podem participar do grupo.",
       "PluralText": ""
     },
     {
       "Id": 3336201708481967541,
-      "Text": "Durante o desafio, membros do grupo vão compartilhar os nomes uns dos outros, contagem de passos, etc.",
+      "Text": "Durante o desafio, membros do grupo podem ver os nomes uns dos outros, contagem de passos, etc. Você também pode enviar pedidos de amizade aos outros participantes.",
       "PluralText": ""
     },
     {
@@ -9947,7 +9967,7 @@
     },
     {
       "Id": 9032630140625998547,
-      "Text": "Você só pode se juntar a um desafio de caminhada por semana.",
+      "Text": "Você só pode participar do desafio \nsemanal uma vez por semana.",
       "PluralText": ""
     },
     {
@@ -9962,137 +9982,167 @@
     },
     {
       "Id": -8233269633075203145,
-      "Text": "has joined the challenge!",
+      "Text": "entrou no desafio!",
       "PluralText": ""
     },
     {
       "Id": -8788691162926694114,
-      "Text": "has taken the lead!",
+      "Text": "assumiu a liderança!",
       "PluralText": ""
     },
     {
       "Id": 361571090159435817,
-      "Text": "keeps the lead!",
+      "Text": "mantém a liderança!",
       "PluralText": ""
     },
     {
       "Id": 6585693073988444282,
-      "Text": "Failed to start the challenge.",
+      "Text": "Falha ao iniciar o desafio.",
       "PluralText": ""
     },
     {
       "Id": -3189676246000297572,
-      "Text": "Failed to join the challenge because the group was full.",
+      "Text": "Falha ao se juntar ao desafio porque o grupo estava cheio.",
       "PluralText": ""
     },
     {
       "Id": -1480818552175978519,
-      "Text": "Failed to quit the challenge.",
+      "Text": "Falha ao desistir do desafio.",
       "PluralText": ""
     },
     {
       "Id": -731063275554949223,
-      "Text": "Failed to complete the challenge.",
+      "Text": "Falha ao completar o desafio.",
       "PluralText": ""
     },
     {
       "Id": 6119478534254261133,
-      "Text": "Reached <size=75>1/3</size> of the goal!",
+      "Text": "Alcançou <size=75>1/3</size> do objetivo!",
       "PluralText": ""
     },
     {
       "Id": -7723443323638991924,
-      "Text": "Reached <size=75>1/2</size> of the goal!",
+      "Text": "Alcançou <size=75>1/2</size> do objetivo!",
       "PluralText": ""
     },
     {
       "Id": 3422243408543760852,
-      "Text": "Just <size=75>a little more</size> until the goal!",
+      "Text": "Só <size=75>mais um pouquinho</size> até o objetivo!",
       "PluralText": ""
     },
     {
       "Id": 628933819033134149,
-      "Text": "Joined {0}",
+      "Text": "Juntou-se em {0}",
       "PluralText": ""
     },
     {
       "Id": 3655146232096511042,
-      "Text": "Walked together from {0} to {1}",
+      "Text": "Caminharam juntos de {0} a {1}",
       "PluralText": ""
     },
     {
       "Id": -1496838818967236054,
-      "Text": "ends in {0}",
+      "Text": "acaba em <b>{0}</b>",
       "PluralText": ""
     },
     {
       "Id": -6968615695292971536,
-      "Text": "Walk {0} step!",
-      "PluralText": "Walk {0} steps!"
+      "Text": "Ande <b>{0}</b> passo!",
+      "PluralText": "Ande <b>{0}</b> passos!"
     },
     {
       "Id": -6229399436298083159,
-      "Text": "You’re doing great!",
+      "Text": "Continue o trabalho duro!",
       "PluralText": ""
     },
     {
       "Id": 7789722425690798982,
-      "Text": "Let’s take it easy!",
+      "Text": "Vamos com calma!",
       "PluralText": ""
     },
     {
       "Id": 405332902640801399,
-      "Text": "Walking is a good way to refresh!",
+      "Text": "Caminhar é uma boa maneira de se refrescar!",
       "PluralText": ""
     },
     {
       "Id": -5984386957170523149,
-      "Text": "A thousand miles begins with a single step.",
+      "Text": "Mil quilômetros começam com um único passo.",
       "PluralText": ""
     },
     {
       "Id": -4106168948636050867,
-      "Text": "It’s time for you to walk the walk.",
+      "Text": "Hora de você começar a caminhada.",
       "PluralText": ""
     },
     {
       "Id": 8315444530018116207,
-      "Text": "Everyone needs a break sometimes!",
+      "Text": "Todo mundo precisa de um intervalo às vezes!",
       "PluralText": ""
     },
     {
       "Id": 4602949182487638313,
-      "Text": "Stay hydrated out there!",
+      "Text": "Lembre de se hidratar!",
       "PluralText": ""
     },
     {
       "Id": 1421417760922623411,
-      "Text": "You did it!",
+      "Text": "Você conseguiu!",
       "PluralText": ""
     },
     {
       "Id": -2362589789842429503,
-      "Text": "{0} left the challenge.",
+      "Text": "{0} abandonou o desafio.",
       "PluralText": ""
     },
     {
       "Id": -516428992870993148,
-      "Text": "{0} player has left the challenge.",
-      "PluralText": "{0} players have left the challenge."
+      "Text": "{0} jogador(a) abandonou o desafio.",
+      "PluralText": "{0} jogadores abandonaram o desafio."
     },
     {
       "Id": 4774535054699253047,
-      "Text": "total steps",
+      "Text": "passos totais",
       "PluralText": ""
     },
     {
       "Id": -6284436900426024372,
-      "Text": "total steps since {0}",
+      "Text": "passos totais desde {0}",
       "PluralText": ""
     },
     {
       "Id": 4043288374548824384,
-      "Text": "Walking Challenge",
+      "Text": "Desafio de passos",
+      "PluralText": ""
+    },
+    {
+      "Id": 8793383331390351101,
+      "Text": "Desafios semanais",
+      "PluralText": ""
+    },
+    {
+      "Id": 8583269330314673916,
+      "Text": "Recompensas",
+      "PluralText": ""
+    },
+    {
+      "Id": 375250244294756391,
+      "Text": "Pronto!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4784723555280963659,
+      "Text": "Participe de um desafio semanal!",
+      "PluralText": ""
+    },
+    {
+      "Id": -8170036741556939000,
+      "Text": "Sobre os desafios semanais",
+      "PluralText": ""
+    },
+    {
+      "Id": -8166575314305961428,
+      "Text": "Não há desafios semanais para você participar no momento",
       "PluralText": ""
     },
     {
@@ -10441,6 +10491,11 @@
       "PluralText": ""
     },
     {
+      "Id": 5324863160559205072,
+      "Text": "Daily Lookback Settings",
+      "PluralText": ""
+    },
+    {
       "Id": -3566549781637734677,
       "Text": "Pegue um Pikmin e o mantenha aqui para ver os detalhes",
       "PluralText": ""
@@ -10482,12 +10537,12 @@
     },
     {
       "Id": -3184764668860367983,
-      "Text": "Agora você pode enviar seus Pikmin em desafios!",
+      "Text": "Agora você pode enviar Pikmin para enfrentar cogumelos!",
       "PluralText": ""
     },
     {
       "Id": 5352655594257116811,
-      "Text": "No desafio, todos enviam os Pikmin para o mesmo local.",
+      "Text": "Todos enviam os Pikmin para o mesmo local, para colaborar na destruição dos cogumelos.",
       "PluralText": ""
     },
     {
@@ -10528,6 +10583,11 @@
     {
       "Id": 6782584004064353837,
       "Text": "Você pode ver e compartilhar seus cartões de memórias no diário.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4210733493591404853,
+      "Text": "You can now share cards of your newly plucked Pikmin. Introduce your new Pikmin to your friends!",
       "PluralText": ""
     },
     {
@@ -10737,7 +10797,7 @@
     },
     {
       "Id": -2256089351193196341,
-      "Text": "1 espaço temporário\n(até 5)",
+      "Text": "1 espaço temporário\n(até 5 amigos)",
       "PluralText": ""
     },
     {
@@ -10812,7 +10872,7 @@
     },
     {
       "Id": 7819386214416619956,
-      "Text": "Friend Request Sent",
+      "Text": "Pedido de amizade enviado",
       "PluralText": ""
     },
     {
@@ -10833,6 +10893,36 @@
     {
       "Id": 2812554371122531590,
       "Text": "Anotação",
+      "PluralText": ""
+    },
+    {
+      "Id": 6563675451411165539,
+      "Text": "Daily Lookback time",
+      "PluralText": ""
+    },
+    {
+      "Id": -4570663082382712324,
+      "Text": "This is when your Daily Lookback is played. (The actual time may slightly change depending on connection status.)",
+      "PluralText": ""
+    },
+    {
+      "Id": -3681398910591734487,
+      "Text": "Around {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 3704648090845174214,
+      "Text": "Set the playback time of Daily Lookback to {0}. Are you sure?\n\n*The actual time may slightly change depending on connection status.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5439621946027186960,
+      "Text": "The playback time of Daily Lookback can be changed from the settings screen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6111134098206418666,
+      "Text": "The playback time of Daily Lookback was changed to {0}.",
       "PluralText": ""
     },
     {
@@ -13751,6 +13841,21 @@
       "PluralText": ""
     },
     {
+      "Id": -5796902989629339018,
+      "Text": "Continuar com o Facebook",
+      "PluralText": ""
+    },
+    {
+      "Id": -7588090401295854183,
+      "Text": "Continuar com a Apple",
+      "PluralText": ""
+    },
+    {
+      "Id": 5654056287002014806,
+      "Text": "Continuar com a Google",
+      "PluralText": ""
+    },
+    {
       "Id": 1693613730535626830,
       "Text": "Restaurante de Sushi",
       "PluralText": ""
@@ -14042,7 +14147,12 @@
     },
     {
       "Id": 8859969091453911087,
-      "Text": "Um tipo de espaço especial em que o Pikmin cresce 30 mais rápido. Desaparece depois que você colhe o Pikmin crescido.",
+      "Text": "Um tipo de espaço especial em que o Pikmin cresce 30% mais rápido. Desaparece depois que você colhe o Pikmin crescido.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6202844197732253073,
+      "Text": "Growth speed {0} times!",
       "PluralText": ""
     },
     {
@@ -14202,7 +14312,7 @@
     },
     {
       "Id": -4678208832094013128,
-      "Text": "Already sent a postcard today.",
+      "Text": "Já enviou um cartão-postal hoje.",
       "PluralText": ""
     },
     {
@@ -14927,12 +15037,12 @@
     },
     {
       "Id": -6006900477331902916,
-      "Text": "expedição",
+      "Text": "expedição(ões)",
       "PluralText": ""
     },
     {
       "Id": -7639829494892043723,
-      "Text": "desafio",
+      "Text": "cogumelo(s)",
       "PluralText": ""
     },
     {
@@ -14942,28 +15052,28 @@
     },
     {
       "Id": 415753280128771118,
-      "Text": "desafio de cogumelo pequeno",
-      "PluralText": "desafios de cogumelo pequeno"
+      "Text": "cogumelo pequeno",
+      "PluralText": "cogumelos pequenos"
     },
     {
       "Id": 4066395018444766723,
-      "Text": "desafio de cogumelo normal",
-      "PluralText": "desafios de cogumelo normal"
+      "Text": "cogumelo normal",
+      "PluralText": "cogumelos normais"
     },
     {
       "Id": -8677167862038456487,
-      "Text": "desafio de cogumelo grande",
-      "PluralText": "desafios de cogumelo grande"
+      "Text": "cogumelo grande",
+      "PluralText": "cogumelos grandes"
     },
     {
       "Id": 2719709734880893979,
-      "Text": "desafio de cogumelo gigante",
-      "PluralText": "desafios de cogumelo gigante"
+      "Text": "cogumelo gigante",
+      "PluralText": "cogumelos gigantes"
     },
     {
       "Id": 1533898344558189390,
-      "Text": "desafio",
-      "PluralText": "desafios"
+      "Text": "cogumelo",
+      "PluralText": "cogumelos"
     },
     {
       "Id": 6038283208048095837,
@@ -15007,8 +15117,8 @@
     },
     {
       "Id": -707141978154151807,
-      "Text": "{0} desafio",
-      "PluralText": "{0} desafios"
+      "Text": "{0} cogumelo",
+      "PluralText": "{0} Cogumelos"
     },
     {
       "Id": -6546911927841364814,
@@ -15017,12 +15127,12 @@
     },
     {
       "Id": -2477311914983404123,
-      "Text": "Os Pikmin voltaram do desafio em {1}!",
+      "Text": "Seus Pikmin voltaram do cogumelo em {1}!",
       "PluralText": ""
     },
     {
       "Id": 6380723899173965173,
-      "Text": "Expedições",
+      "Text": "Plântulas e frutas",
       "PluralText": ""
     },
     {
@@ -15372,22 +15482,22 @@
     },
     {
       "Id": 8321526828962939131,
-      "Text": "Nos desafios de cogumelo, Pikmin da mesma cor dos cogumelos, Pikmin decorados e Pikmin com flores parecem ser os mais fortes.",
+      "Text": "Ao lidar com cogumelos, Pikmin da mesma cor do cogumelo, Pikmin decorados e Pikmin com flores parecem ser os mais fortes.",
       "PluralText": ""
     },
     {
       "Id": -8845234256144901788,
-      "Text": "O tempo conta nos desafios de cogumelo! Complete o desafio o mais rápido que puder para ganhar avaliações e recompensas melhores.",
+      "Text": "Elimine os cogumelos o mais rápido que puder para ganhar avaliações e recompensas melhores.",
       "PluralText": ""
     },
     {
       "Id": -2367939774841143747,
-      "Text": "Cogumelos destruídos nos desafios parecem levar um tempo para se recuperar.",
+      "Text": "Leva um tempo para os cogumelos se recuperarem depois que forem destruídos.",
       "PluralText": ""
     },
     {
       "Id": -7210442754481933800,
-      "Text": "Alimente seus Pikmin com néctar e mande-os em expedições e desafios para aumentar seu nível de amizade.",
+      "Text": "Alimente seus Pikmin com néctar e mande-os atrás de expedições e cogumelos para aumentar seu nível de amizade.",
       "PluralText": ""
     },
     {

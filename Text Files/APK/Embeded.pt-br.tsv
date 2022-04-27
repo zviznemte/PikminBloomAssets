@@ -61,6 +61,9 @@ id	constant	phrase	plural phrase
 110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	Eu compreendo	
 3518299777779390156	CHEATING_WARNING_STRIKE_2_CONFIRM	I Understand	
 7885683453870388931	CHEATING_WARNING_STRIKE_3_CONFIRM	Logout	
+-5796902989629339018	CONTINUE_WITH_FACEBOOK	Continuar com o Facebook	
+-7588090401295854183	CONTINUE_WITH_APPLE	Continuar com a Apple	
+5654056287002014806	CONTINUE_WITH_GOOGLE	Continuar com a Google	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Voltar	
 8485757493794925261	ACTION_CANCEL	Cancelar	
 -897094175043611554	ACTION_CANT_SIGN_IN	Problemas ao iniciar a sessão?	
@@ -136,10 +139,10 @@ id	constant	phrase	plural phrase
 -2013858795142751835	STARTUP_SCREEN_TIPS_0028	O mapa grande na tela inicial dá acesso conveniente ao diário, tela de expedição, cartões-postais e lista de Pikmin.	
 8837181790264424549	STARTUP_SCREEN_TIPS_0029	Plântulas de expedição desaparecem da lista se você não mandar Pikmin para buscá-las. Itens são listados dos mais antigos aos mais novos, então pegue os que quiser antes que desapareçam.	
 -8560538571010392068	STARTUP_SCREEN_TIPS_0030	Pikmin alados podem ser muito rápidos em expedições, a não ser que estejam acompanhados de outro tipo de Pikmin.	
-8321526828962939131	STARTUP_SCREEN_TIPS_0031	Nos desafios de cogumelo, Pikmin da mesma cor dos cogumelos, Pikmin decorados e Pikmin com flores parecem ser os mais fortes.	
--8845234256144901788	STARTUP_SCREEN_TIPS_0032	O tempo conta nos desafios de cogumelo! Complete o desafio o mais rápido que puder para ganhar avaliações e recompensas melhores.	
--2367939774841143747	STARTUP_SCREEN_TIPS_0033	Cogumelos destruídos nos desafios parecem levar um tempo para se recuperar.	
--7210442754481933800	STARTUP_SCREEN_TIPS_0034	Alimente seus Pikmin com néctar e mande-os em expedições e desafios para aumentar seu nível de amizade.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	Ao lidar com cogumelos, Pikmin da mesma cor do cogumelo, Pikmin decorados e Pikmin com flores parecem ser os mais fortes.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	Elimine os cogumelos o mais rápido que puder para ganhar avaliações e recompensas melhores.	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	Leva um tempo para os cogumelos se recuperarem depois que forem destruídos.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Alimente seus Pikmin com néctar e mande-os atrás de expedições e cogumelos para aumentar seu nível de amizade.	
 8389710506546400265	STARTUP_SCREEN_TIPS_0035	Algumas flores enormes só desabrocham em certas estações. Confira a seção de notícias para ver quais flores estão em época este mês.	
 -1968907645343148781	STARTUP_SCREEN_TIPS_0036	Faça amigos para trocar cartões-postais e conferir os Pikmin e insígnias uns dos outros.	
 348878743656379735	STARTUP_SCREEN_TIPS_0037	Quando caminhar por um lugar novo, as nuvens brancas do mapa serão limpas para revelar a nova localização. Use o mapa para ver os lugares que já visitou.	

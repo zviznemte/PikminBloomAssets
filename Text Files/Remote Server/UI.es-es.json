@@ -37,7 +37,7 @@
     },
     {
       "Id": 6992688155314553685,
-      "Text": "Desafío",
+      "Text": "Champiñón",
       "PluralText": ""
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "Id": -4734699365799253773,
-      "Text": "Desafíos",
+      "Text": "Champiñones",
       "PluralText": ""
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "Id": 1723863176209661523,
-      "Text": "¡Adelante!",
+      "Text": "Empezar ya",
       "PluralText": ""
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "Id": 7008647294709450481,
-      "Text": "¡Desafío superado!",
+      "Text": "¡Champiñón eliminado!",
       "PluralText": ""
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "Id": -6626892811565975355,
-      "Text": "Se ha completado este desafío.",
+      "Text": "Se ha eliminado este champiñón.",
       "PluralText": ""
     },
     {
@@ -192,22 +192,22 @@
     },
     {
       "Id": 26929745801502828,
-      "Text": "Envía hasta {0} Pikmin para este desafío.",
+      "Text": "Envía hasta {0} Pikmin a este champiñón.",
       "PluralText": ""
     },
     {
       "Id": -3189891252292873838,
-      "Text": "¡Ha finalizado el desafío!",
+      "Text": "¡Champiñón derrotado!",
       "PluralText": ""
     },
     {
       "Id": 5289152595084005204,
-      "Text": "Puntuación de desafío:",
+      "Text": "Puntuación de champiñón:",
       "PluralText": ""
     },
     {
       "Id": -96276456103343170,
-      "Text": "Desafíos de champiñones",
+      "Text": "Champiñones",
       "PluralText": ""
     },
     {
@@ -318,6 +318,11 @@
     {
       "Id": 8634210522723303097,
       "Text": "(Hasta {0} amigos)",
+      "PluralText": ""
+    },
+    {
+      "Id": -4331283860480754541,
+      "Text": "{0} x {1}",
       "PluralText": ""
     },
     {
@@ -482,7 +487,7 @@
     },
     {
       "Id": -4942180775376772179,
-      "Text": "Discovered New Pikmin",
+      "Text": "Nuevo Pikmin descubierto",
       "PluralText": ""
     },
     {
@@ -492,7 +497,7 @@
     },
     {
       "Id": 162873950609628943,
-      "Text": "Until {0}",
+      "Text": "Hasta {0}",
       "PluralText": ""
     },
     {
@@ -502,17 +507,22 @@
     },
     {
       "Id": 1513327897642302745,
-      "Text": "You",
+      "Text": "Tú",
       "PluralText": ""
     },
     {
       "Id": 5010106775700520181,
-      "Text": "You have a friend request from {0}!",
+      "Text": "¡Tienes una solicitud de amistad de {0}!",
       "PluralText": ""
     },
     {
       "Id": -5292529651124001390,
-      "Text": "You have a friend request from {0} and more!",
+      "Text": "¡Tienes una solicitud de amistad de {0} y más!",
+      "PluralText": ""
+    },
+    {
+      "Id": -1292089371285146273,
+      "Text": "Lista de actividad",
       "PluralText": ""
     },
     {
@@ -1391,6 +1401,11 @@
       "PluralText": ""
     },
     {
+      "Id": -30447872105544295,
+      "Text": "{0}x coin limit!",
+      "PluralText": ""
+    },
+    {
       "Id": 5513706700721524041,
       "Text": "Atrás",
       "PluralText": ""
@@ -1653,6 +1668,11 @@
     {
       "Id": -964901627478265242,
       "Text": "{0} p. m.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5011394076120549191,
+      "Text": "hh:mm tt",
       "PluralText": ""
     },
     {
@@ -9672,7 +9692,7 @@
     },
     {
       "Id": -5134682839334563412,
-      "Text": "¡Parece que este Pikmin está ocupado con un desafío!",
+      "Text": "¡Parece que este Pikmin está ocupado con un champiñón!",
       "PluralText": ""
     },
     {
@@ -9687,7 +9707,7 @@
     },
     {
       "Id": -5074962087141296450,
-      "Text": "¡Parece que este Pikmin está ocupado con un desafío!",
+      "Text": "¡Parece que este Pikmin está ocupado con un champiñón!",
       "PluralText": ""
     },
     {
@@ -9812,7 +9832,7 @@
     },
     {
       "Id": 9099198952944723551,
-      "Text": "Solo un poquito más...",
+      "Text": "¡Ven y desafía otra vez!",
       "PluralText": ""
     },
     {
@@ -9842,7 +9862,7 @@
     },
     {
       "Id": -1399639629853138703,
-      "Text": "Amigos que participaron en el desafío",
+      "Text": "Compañeros del desafío",
       "PluralText": ""
     },
     {
@@ -9867,7 +9887,7 @@
     },
     {
       "Id": 2873275352592052261,
-      "Text": "Empezar desafío",
+      "Text": "Empezar con este grupo",
       "PluralText": ""
     },
     {
@@ -9877,7 +9897,7 @@
     },
     {
       "Id": 6551367328415555424,
-      "Text": "Solo puedes participar en un desafío de paseo a la semana.",
+      "Text": "Solo puedes participar en el desafío semanal \nuna vez a la semana.",
       "PluralText": ""
     },
     {
@@ -9892,7 +9912,7 @@
     },
     {
       "Id": -2538423486464020536,
-      "Text": "Abierto",
+      "Text": "ー",
       "PluralText": ""
     },
     {
@@ -9922,12 +9942,12 @@
     },
     {
       "Id": 1743715444502722978,
-      "Text": "Puedes unirte a un grupo de desafío si un amigo tuyo ya se ha unido a él.",
+      "Text": "Tus amigos y los suyos pueden unirse al grupo.",
       "PluralText": ""
     },
     {
       "Id": 3336201708481967541,
-      "Text": "Durante el desafío, los miembros del grupo podrán ver los datos de los demás, como sus nombres o sus pasos.",
+      "Text": "Durante el desafío, los miembros del grupo pueden ver los datos de los demás, como sus nombres o sus pasos. También puedes enviar solicitudes de amistad a otros participantes.",
       "PluralText": ""
     },
     {
@@ -9947,7 +9967,7 @@
     },
     {
       "Id": 9032630140625998547,
-      "Text": "Solo puedes participar en un desafío de paseo a la semana.",
+      "Text": "Solo puedes participar en el desafío semanal \nuna vez a la semana.",
       "PluralText": ""
     },
     {
@@ -9957,142 +9977,172 @@
     },
     {
       "Id": -1876837767047230303,
-      "Text": "¿Todo listo para dar {0} paso conmigo?",
+      "Text": "¿Todo listo para dar {0} paso juntos?",
       "PluralText": "¿Todo listo para dar {0} pasos juntos?"
     },
     {
       "Id": -8233269633075203145,
-      "Text": "has joined the challenge!",
+      "Text": "se ha unido al desafío.",
       "PluralText": ""
     },
     {
       "Id": -8788691162926694114,
-      "Text": "has taken the lead!",
+      "Text": "ha tomado la delantera.",
       "PluralText": ""
     },
     {
       "Id": 361571090159435817,
-      "Text": "keeps the lead!",
+      "Text": "sigue a la delantera.",
       "PluralText": ""
     },
     {
       "Id": 6585693073988444282,
-      "Text": "Failed to start the challenge.",
+      "Text": "Error al empezar el desafío.",
       "PluralText": ""
     },
     {
       "Id": -3189676246000297572,
-      "Text": "Failed to join the challenge because the group was full.",
+      "Text": "Error al unirse al desafío porque el grupo estaba lleno.",
       "PluralText": ""
     },
     {
       "Id": -1480818552175978519,
-      "Text": "Failed to quit the challenge.",
+      "Text": "Error al abandonar el desafío.",
       "PluralText": ""
     },
     {
       "Id": -731063275554949223,
-      "Text": "Failed to complete the challenge.",
+      "Text": "Error al completar el desafío.",
       "PluralText": ""
     },
     {
       "Id": 6119478534254261133,
-      "Text": "Reached <size=75>1/3</size> of the goal!",
+      "Text": "¡Se ha alcanzado <size=75>1/3</size> del objetivo!",
       "PluralText": ""
     },
     {
       "Id": -7723443323638991924,
-      "Text": "Reached <size=75>1/2</size> of the goal!",
+      "Text": "¡Se ha alcanzado <size=75>1/2</size> del objetivo!",
       "PluralText": ""
     },
     {
       "Id": 3422243408543760852,
-      "Text": "Just <size=75>a little more</size> until the goal!",
+      "Text": "¡Solo <size=75>un poco más</size> para cumplir el objetivo!",
       "PluralText": ""
     },
     {
       "Id": 628933819033134149,
-      "Text": "Joined {0}",
+      "Text": "Se unió el {0}",
       "PluralText": ""
     },
     {
       "Id": 3655146232096511042,
-      "Text": "Walked together from {0} to {1}",
+      "Text": "Habéis paseado juntos de {0} a {1}.",
       "PluralText": ""
     },
     {
       "Id": -1496838818967236054,
-      "Text": "ends in {0}",
+      "Text": "acaba en <b>{0}</b>",
       "PluralText": ""
     },
     {
       "Id": -6968615695292971536,
-      "Text": "Walk {0} step!",
-      "PluralText": "Walk {0} steps!"
+      "Text": "¡Camina <b>{0}</b> paso!",
+      "PluralText": "¡Camina <b>{0}</b> pasos!"
     },
     {
       "Id": -6229399436298083159,
-      "Text": "You’re doing great!",
+      "Text": "¡Sigue así!",
       "PluralText": ""
     },
     {
       "Id": 7789722425690798982,
-      "Text": "Let’s take it easy!",
+      "Text": "¡Tomémoslo con calma!",
       "PluralText": ""
     },
     {
       "Id": 405332902640801399,
-      "Text": "Walking is a good way to refresh!",
+      "Text": "¡Pasear es una buena forma de despejarse!",
       "PluralText": ""
     },
     {
       "Id": -5984386957170523149,
-      "Text": "A thousand miles begins with a single step.",
+      "Text": "Caminante, no hay camino; se hace camino al andar.",
       "PluralText": ""
     },
     {
       "Id": -4106168948636050867,
-      "Text": "It’s time for you to walk the walk.",
+      "Text": "Ha llegado la hora de pasear.",
       "PluralText": ""
     },
     {
       "Id": 8315444530018116207,
-      "Text": "Everyone needs a break sometimes!",
+      "Text": "¡Todos necesitamos un descanso de vez en cuando!",
       "PluralText": ""
     },
     {
       "Id": 4602949182487638313,
-      "Text": "Stay hydrated out there!",
+      "Text": "¡No te olvides de beber agua!",
       "PluralText": ""
     },
     {
       "Id": 1421417760922623411,
-      "Text": "You did it!",
+      "Text": "¡Lo has conseguido!",
       "PluralText": ""
     },
     {
       "Id": -2362589789842429503,
-      "Text": "{0} left the challenge.",
+      "Text": "{0} ha abandonado el desafío.",
       "PluralText": ""
     },
     {
       "Id": -516428992870993148,
-      "Text": "{0} player has left the challenge.",
-      "PluralText": "{0} players have left the challenge."
+      "Text": "{0} jugador ha abandonado el desafío.",
+      "PluralText": "{0} jugadores han abandonado el desafío."
     },
     {
       "Id": 4774535054699253047,
-      "Text": "total steps",
+      "Text": "total de pasos",
       "PluralText": ""
     },
     {
       "Id": -6284436900426024372,
-      "Text": "total steps since {0}",
+      "Text": "total de pasos desde el {0}",
       "PluralText": ""
     },
     {
       "Id": 4043288374548824384,
-      "Text": "Walking Challenge",
+      "Text": "Desafío de pasos",
+      "PluralText": ""
+    },
+    {
+      "Id": 8793383331390351101,
+      "Text": "Desafíos semanales",
+      "PluralText": ""
+    },
+    {
+      "Id": 8583269330314673916,
+      "Text": "Recompensas",
+      "PluralText": ""
+    },
+    {
+      "Id": 375250244294756391,
+      "Text": "¡Finalizado!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4784723555280963659,
+      "Text": "Participar en un desafío semanal",
+      "PluralText": ""
+    },
+    {
+      "Id": -8170036741556939000,
+      "Text": "Acerca de los desafíos semanales",
+      "PluralText": ""
+    },
+    {
+      "Id": -8166575314305961428,
+      "Text": "Ahora mismo no te puedes unir a ningún desafío semanal.",
       "PluralText": ""
     },
     {
@@ -10441,6 +10491,11 @@
       "PluralText": ""
     },
     {
+      "Id": 5324863160559205072,
+      "Text": "Daily Lookback Settings",
+      "PluralText": ""
+    },
+    {
       "Id": -3566549781637734677,
       "Text": "Elige un Pikmin y colócalo aquí para ver más detalles.",
       "PluralText": ""
@@ -10482,12 +10537,12 @@
     },
     {
       "Id": -3184764668860367983,
-      "Text": "¡Ya puedes mandar a tus Pikmin a los desafíos!",
+      "Text": "¡Ya puedes mandar a tus Pikmin a eliminar champiñones!",
       "PluralText": ""
     },
     {
       "Id": 5352655594257116811,
-      "Text": "En un desafío, todo el mundo envía a sus Pikmin a una sola ubicación para que colaboren.",
+      "Text": "Todo el mundo envía a sus Pikmin a una sola ubicación para que colaboren y destruyan juntos los champiñones.",
       "PluralText": ""
     },
     {
@@ -10528,6 +10583,11 @@
     {
       "Id": 6782584004064353837,
       "Text": "Puedes ver y compartir tus tarjetas de recuerdo en el diario.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4210733493591404853,
+      "Text": "You can now share cards of your newly plucked Pikmin. Introduce your new Pikmin to your friends!",
       "PluralText": ""
     },
     {
@@ -10737,7 +10797,7 @@
     },
     {
       "Id": -2256089351193196341,
-      "Text": "1 semillero (1 uso)\n(hasta 5)",
+      "Text": "1 semillero desechable\n(hasta 5 amigos)",
       "PluralText": ""
     },
     {
@@ -10812,7 +10872,7 @@
     },
     {
       "Id": 7819386214416619956,
-      "Text": "Friend Request Sent",
+      "Text": "Solicitud de amistad enviada",
       "PluralText": ""
     },
     {
@@ -10833,6 +10893,36 @@
     {
       "Id": 2812554371122531590,
       "Text": "Añadir nota",
+      "PluralText": ""
+    },
+    {
+      "Id": 6563675451411165539,
+      "Text": "Daily Lookback time",
+      "PluralText": ""
+    },
+    {
+      "Id": -4570663082382712324,
+      "Text": "This is when your Daily Lookback is played. (The actual time may slightly change depending on connection status.)",
+      "PluralText": ""
+    },
+    {
+      "Id": -3681398910591734487,
+      "Text": "Around {0}",
+      "PluralText": ""
+    },
+    {
+      "Id": 3704648090845174214,
+      "Text": "Set the playback time of Daily Lookback to {0}. Are you sure?\n\n*The actual time may slightly change depending on connection status.",
+      "PluralText": ""
+    },
+    {
+      "Id": -5439621946027186960,
+      "Text": "The playback time of Daily Lookback can be changed from the settings screen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6111134098206418666,
+      "Text": "The playback time of Daily Lookback was changed to {0}.",
       "PluralText": ""
     },
     {
@@ -13751,6 +13841,21 @@
       "PluralText": ""
     },
     {
+      "Id": -5796902989629339018,
+      "Text": "Continuar con Facebook",
+      "PluralText": ""
+    },
+    {
+      "Id": -7588090401295854183,
+      "Text": "Continuar con Apple",
+      "PluralText": ""
+    },
+    {
+      "Id": 5654056287002014806,
+      "Text": "Continuar con Google",
+      "PluralText": ""
+    },
+    {
       "Id": 1693613730535626830,
       "Text": "Restaurante de sushi",
       "PluralText": ""
@@ -13872,7 +13977,7 @@
     },
     {
       "Id": 3390375248293570513,
-      "Text": "Estadio",
+      "Text": "estadio",
       "PluralText": ""
     },
     {
@@ -14042,7 +14147,12 @@
     },
     {
       "Id": 8859969091453911087,
-      "Text": "Un tipo de semillero especial que hace que los Pikmin crezcan un 30 % más rápido. Desaparecerá cuando el Pikmin crezca y lo arranques.",
+      "Text": "Un tipo de semillero especial que hace que los Pikmin crezcan un 30% más rápido. Desaparecerá cuando el Pikmin crezca y lo arranques.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6202844197732253073,
+      "Text": "Growth speed {0} times!",
       "PluralText": ""
     },
     {
@@ -14202,7 +14312,7 @@
     },
     {
       "Id": -4678208832094013128,
-      "Text": "Already sent a postcard today.",
+      "Text": "Ya has enviado una postal hoy.",
       "PluralText": ""
     },
     {
@@ -14927,12 +15037,12 @@
     },
     {
       "Id": -6006900477331902916,
-      "Text": "expedición",
+      "Text": "expedición(es)",
       "PluralText": ""
     },
     {
       "Id": -7639829494892043723,
-      "Text": "desafío",
+      "Text": "champiñón(es)",
       "PluralText": ""
     },
     {
@@ -14942,28 +15052,28 @@
     },
     {
       "Id": 415753280128771118,
-      "Text": "desafío de champiñón pequeño",
-      "PluralText": "desafío de champiñones pequeños"
+      "Text": "champiñón pequeño",
+      "PluralText": "champiñones pequeños"
     },
     {
       "Id": 4066395018444766723,
-      "Text": "desafío de champiñón normal",
-      "PluralText": "desafío de champiñones normales"
+      "Text": "champiñón normal",
+      "PluralText": "champiñones normales"
     },
     {
       "Id": -8677167862038456487,
-      "Text": "desafío de champiñón grande",
-      "PluralText": "desafío de champiñones grandes"
+      "Text": "champiñón grande",
+      "PluralText": "champiñones grandes"
     },
     {
       "Id": 2719709734880893979,
-      "Text": "desafío de champiñón gigante",
-      "PluralText": "desafío de champiñones gigantes"
+      "Text": "champiñón gigante",
+      "PluralText": "champiñones gigantes"
     },
     {
       "Id": 1533898344558189390,
-      "Text": "desafío",
-      "PluralText": "desafíos"
+      "Text": "champiñón",
+      "PluralText": "champiñones"
     },
     {
       "Id": 6038283208048095837,
@@ -15007,8 +15117,8 @@
     },
     {
       "Id": -707141978154151807,
-      "Text": "{0} desafío",
-      "PluralText": "{0} desafíos"
+      "Text": "Champiñón {0}",
+      "PluralText": "Champiñones {0}"
     },
     {
       "Id": -6546911927841364814,
@@ -15017,12 +15127,12 @@
     },
     {
       "Id": -2477311914983404123,
-      "Text": "¡Los Pikmin han regresado del desafío en {1}!",
+      "Text": "¡Los Pikmin han regresado del champiñón en {1}!",
       "PluralText": ""
     },
     {
       "Id": 6380723899173965173,
-      "Text": "Expediciones",
+      "Text": "Plántulas y frutas",
       "PluralText": ""
     },
     {
@@ -15372,22 +15482,22 @@
     },
     {
       "Id": 8321526828962939131,
-      "Text": "En los desafíos de champiñones, los Pikmin del mismo color que el champiñón, los disfrazados y los que tengan flores parecen ser más poderosos.",
+      "Text": "Al atacar champiñones, los Pikmin del mismo color que el champiñón, los disfrazados y los que tengan flores parecen ser más poderosos.",
       "PluralText": ""
     },
     {
       "Id": -8845234256144901788,
-      "Text": "¡En los desafíos de champiñones, el tiempo es importante! Complétalos lo más rápido posible para conseguir una puntuación más alta y mejores recompensas.",
+      "Text": "¡Elimina champiñones lo más rápido posible para conseguir una puntuación más alta y mejores recompensas!",
       "PluralText": ""
     },
     {
       "Id": -2367939774841143747,
-      "Text": "Los champiñones destruidos durante los desafíos tardan unas 3 horas en recuperarse.",
+      "Text": "Tras ser destruidos, los champiñones tardan un poco en recuperarse.",
       "PluralText": ""
     },
     {
       "Id": -7210442754481933800,
-      "Text": "Dales néctar a tus Pikmin y envíalos a expediciones y desafíos para aumentar su nivel de amistad.",
+      "Text": "Dales néctar a tus Pikmin y envíalos a expediciones y champiñones para aumentar su nivel de amistad.",
       "PluralText": ""
     },
     {

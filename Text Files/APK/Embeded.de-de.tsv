@@ -61,6 +61,9 @@ id	constant	phrase	plural phrase
 110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	Verstanden	
 3518299777779390156	CHEATING_WARNING_STRIKE_2_CONFIRM	I Understand	
 7885683453870388931	CHEATING_WARNING_STRIKE_3_CONFIRM	Logout	
+-5796902989629339018	CONTINUE_WITH_FACEBOOK	Mit Facebook fortfahren	
+-7588090401295854183	CONTINUE_WITH_APPLE	Mit Apple fortfahren	
+5654056287002014806	CONTINUE_WITH_GOOGLE	Mit Google fortfahren	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Zurück	
 8485757493794925261	ACTION_CANCEL	Abbrechen	
 -897094175043611554	ACTION_CANT_SIGN_IN	Probleme beim Anmelden?	
@@ -136,10 +139,11 @@ id	constant	phrase	plural phrase
 -2013858795142751835	STARTUP_SCREEN_TIPS_0028	Die große Karte auf dem Hauptbildschirm bietet leichten Zugriff auf Tagebuch, Expeditionsbildschirm und Pikmin-Liste.	
 8837181790264424549	STARTUP_SCREEN_TIPS_0029	Expeditionsgegenstände verschwinden nach 3 Tagen aus der Liste. Die Gegenstände werden von alt zu neu sortiert, also hol dir die gewünschten, bevor sie verschwinden.	
 -8560538571010392068	STARTUP_SCREEN_TIPS_0030	Flügel-Pikmin scheinen in Expeditionen sehr schnell zu sein, sofern sie nicht mit anderen Pikmin-Typen unterwegs sind.	
-8321526828962939131	STARTUP_SCREEN_TIPS_0031	In den Pilz-Herausforderungen scheinen Pikmin von der Farbe des Pilzes, Deko-Pikmin und Pikmin mit Blumen am stärksten zu sein.	
--8845234256144901788	STARTUP_SCREEN_TIPS_0032	In Pilz-Herausforderungen kommt es auf die Zeit an! Schließe sie so schnell du kannst ab, um höhere Wertungen und bessere Belohnungen zu erhalten.	
--2367939774841143747	STARTUP_SCREEN_TIPS_0033	In Herausforderungen zerstörte Pilze brauchen etwa 3 Stunden, um sich zu erholen.	
--7210442754481933800	STARTUP_SCREEN_TIPS_0034	Füttere deine Pikmin mit Nektar und schicke sie auf Expeditionen, um dein Freundschaftslevel zu erhöhen.	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	In den Pilz-Herausforderungen scheinen Pikmin von der Farbe des Pilzes, Deko-Pikmin und Pikmin mit Blumen am stärksten zu sein.
+	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	Besiege Pilze so schnell du kannst, um höhere Wertungen und bessere Belohnungen zu erhalten.	
+-2367939774841143747	STARTUP_SCREEN_TIPS_0033	Nachdem sie zerstört wurden, dauert es eine Weile, bis die Pilze nachwachsen.	
+-7210442754481933800	STARTUP_SCREEN_TIPS_0034	Füttere deine Pikmin mit Nektar und schicke sie auf Expeditionen und zu Pilzen, um dein Freundschaftslevel zu erhöhen.	
 8389710506546400265	STARTUP_SCREEN_TIPS_0035	Manche Riesenblumen erblühen nur zu bestimmten Jahreszeiten. Lies die Neuigkeiten, um zu sehen, welche Blumen in diesem Monat Saison haben. 	
 -1968907645343148781	STARTUP_SCREEN_TIPS_0036	Füge Freunde hinzu, damit ihr einander Postkarten schicken und eure Pikmin und Medaillen vergleichen könnt.	
 348878743656379735	STARTUP_SCREEN_TIPS_0037	Wenn du einen neuen Ort besuchst, lichten sich die weißen Wolken auf der Karte, um den neuen Bereich aufzudecken. Benutze die Karte, um zu sehen, welche Orte du bisher besucht hast.	

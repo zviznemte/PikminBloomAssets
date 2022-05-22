@@ -1402,7 +1402,7 @@
     },
     {
       "Id": -30447872105544295,
-      "Text": "{0}x coin limit!",
+      "Text": "コイン獲得上限 {0}倍！",
       "PluralText": ""
     },
     {
@@ -1672,7 +1672,7 @@
     },
     {
       "Id": -5011394076120549191,
-      "Text": "hh:mm tt",
+      "Text": "tt hh：mm",
       "PluralText": ""
     },
     {
@@ -6491,36 +6491,6 @@
       "PluralText": ""
     },
     {
-      "Id": 3993937173320983063,
-      "Text": "新バージョンを利用できます",
-      "PluralText": ""
-    },
-    {
-      "Id": 5648725559762369317,
-      "Text": "TestFlightで最新の{0}に更新してください",
-      "PluralText": ""
-    },
-    {
-      "Id": 2548737511917523606,
-      "Text": "AppStoreで最新の{0}に更新してください",
-      "PluralText": ""
-    },
-    {
-      "Id": -1209747675421550686,
-      "Text": "Play Storeで最新の{0}に更新してください",
-      "PluralText": ""
-    },
-    {
-      "Id": -8520605552873553084,
-      "Text": "更新",
-      "PluralText": ""
-    },
-    {
-      "Id": -3891059507693249479,
-      "Text": "後で",
-      "PluralText": ""
-    },
-    {
       "Id": 8663811736835974388,
       "Text": "ピクミンから贈り物があるようです。受け取るまで野にかえすことはできません。",
       "PluralText": ""
@@ -9922,7 +9892,7 @@
     },
     {
       "Id": -5196390127739015416,
-      "Text": "週替わりで出される目標を期限内にクリアすると、素敵なものをゲットできます。",
+      "Text": "週替わりで出されるお題を期限内にクリアすると、素敵なものをゲットできます。",
       "PluralText": ""
     },
     {
@@ -9937,7 +9907,7 @@
     },
     {
       "Id": -2669795582956331225,
-      "Text": "ウィークリーチャレンジは、最大5人のグループで行われます。",
+      "Text": "ウィークリーチャレンジは、最大5人までのグループで行います。",
       "PluralText": ""
     },
     {
@@ -9957,7 +9927,7 @@
     },
     {
       "Id": 6003783971167611782,
-      "Text": "みんなで力を合わせて、目標のクリアを目指しましょう！",
+      "Text": "みんなで力を合わせて、お題のクリアを目指しましょう！",
       "PluralText": ""
     },
     {
@@ -10143,6 +10113,36 @@
     {
       "Id": -8166575314305961428,
       "Text": "現在参加可能なウィークリーチャレンジはありません",
+      "PluralText": ""
+    },
+    {
+      "Id": -8042222329245148645,
+      "Text": "Invite Friends",
+      "PluralText": ""
+    },
+    {
+      "Id": -2488461890009981399,
+      "Text": "Successfully invited friends.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1177663886285962017,
+      "Text": "Cannot invite one or more friends.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2306711633656319021,
+      "Text": "Parental permission required.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2233907719351861742,
+      "Text": "Please make some friends before inviting them.",
+      "PluralText": ""
+    },
+    {
+      "Id": 245609607349066162,
+      "Text": "No more slot available to invite friends.",
       "PluralText": ""
     },
     {
@@ -10492,12 +10492,17 @@
     },
     {
       "Id": 5324863160559205072,
-      "Text": "Daily Lookback Settings",
+      "Text": "一日のふりかえり設定",
       "PluralText": ""
     },
     {
       "Id": -3566549781637734677,
       "Text": "詳細を表示するには、ここにピクミンをドラッグしてください",
+      "PluralText": ""
+    },
+    {
+      "Id": 5754988935831773244,
+      "Text": "周辺に花がありません。 ARモードで表示するには、表示する花の {0}以内に近付く必要があります。",
       "PluralText": ""
     },
     {
@@ -10587,7 +10592,17 @@
     },
     {
       "Id": -4210733493591404853,
-      "Text": "You can now share cards of your newly plucked Pikmin. Introduce your new Pikmin to your friends!",
+      "Text": "新しく引っこぬいたピクミンのカードを共有できるようになりました。あなたのピクミンを友達に紹介しましょう！",
+      "PluralText": ""
+    },
+    {
+      "Id": 5508268365596968714,
+      "Text": "引っこぬいた日",
+      "PluralText": ""
+    },
+    {
+      "Id": 8421441053191154721,
+      "Text": "ARモードで、植えた花やビッグフラワーが見えるようになります。見ることができるのは、あなたの位置の近くにある花です。",
       "PluralText": ""
     },
     {
@@ -10897,32 +10912,32 @@
     },
     {
       "Id": 6563675451411165539,
-      "Text": "Daily Lookback time",
+      "Text": "一日のふりかえりの時間",
       "PluralText": ""
     },
     {
       "Id": -4570663082382712324,
-      "Text": "This is when your Daily Lookback is played. (The actual time may slightly change depending on connection status.)",
+      "Text": "一日のふりかえりを自動再生する時間を設定します。（通信状況により、実際の再生時間は前後することがあります）",
       "PluralText": ""
     },
     {
       "Id": -3681398910591734487,
-      "Text": "Around {0}",
+      "Text": "{0} ごろ",
       "PluralText": ""
     },
     {
       "Id": 3704648090845174214,
-      "Text": "Set the playback time of Daily Lookback to {0}. Are you sure?\n\n*The actual time may slightly change depending on connection status.",
+      "Text": "一日のふりかえりの再生時間を {0} に設定します。よろしいですか？\n\n*通信状況により、実際の再生時間は前後することがあります。",
       "PluralText": ""
     },
     {
       "Id": -5439621946027186960,
-      "Text": "The playback time of Daily Lookback can be changed from the settings screen.",
+      "Text": "一日のふりかえりの再生時間は、設定画面から変更できます。",
       "PluralText": ""
     },
     {
       "Id": -6111134098206418666,
-      "Text": "The playback time of Daily Lookback was changed to {0}.",
+      "Text": "一日のふりかえりの再生時間を {0} に変更しました。",
       "PluralText": ""
     },
     {
@@ -13561,6 +13576,46 @@
       "PluralText": ""
     },
     {
+      "Id": -2623044025280708884,
+      "Text": "Challenge Gray Avatar",
+      "PluralText": ""
+    },
+    {
+      "Id": 573987017440894174,
+      "Text": "Challenge Gray Avatar Description",
+      "PluralText": ""
+    },
+    {
+      "Id": 5189498570164727560,
+      "Text": "Challenge Blue Avatar",
+      "PluralText": ""
+    },
+    {
+      "Id": -8146343171272103050,
+      "Text": "Challenge Blue Avatar Description",
+      "PluralText": ""
+    },
+    {
+      "Id": 8792689724536825433,
+      "Text": "Challenge Pink Avatar",
+      "PluralText": ""
+    },
+    {
+      "Id": 5559647814930727191,
+      "Text": "Challenge Pink Avatar Description",
+      "PluralText": ""
+    },
+    {
+      "Id": -1880388111476376154,
+      "Text": "Challenge Yellow Avatar",
+      "PluralText": ""
+    },
+    {
+      "Id": 1387008874825819317,
+      "Text": "Challenge Yellow Avatar Description",
+      "PluralText": ""
+    },
+    {
       "Id": 4512608309946328130,
       "Text": "NIANTIC KIDS",
       "PluralText": ""
@@ -13856,6 +13911,36 @@
       "PluralText": ""
     },
     {
+      "Id": 3993937173320983063,
+      "Text": "New version available!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5648725559762369317,
+      "Text": "Use TestFlight to update to version {0}.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2548737511917523606,
+      "Text": "Use the App Store to update to version {0}.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1209747675421550686,
+      "Text": "Use the Google Play Store to update to version {0}.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8520605552873553084,
+      "Text": "Update",
+      "PluralText": ""
+    },
+    {
+      "Id": -3891059507693249479,
+      "Text": "Skip",
+      "PluralText": ""
+    },
+    {
       "Id": 1693613730535626830,
       "Text": "お寿司屋さん",
       "PluralText": ""
@@ -14091,6 +14176,56 @@
       "PluralText": ""
     },
     {
+      "Id": -1398689144691600878,
+      "Text": "雨：葉っぱの帽子",
+      "PluralText": ""
+    },
+    {
+      "Id": 1211884764558815201,
+      "Text": "天気",
+      "PluralText": ""
+    },
+    {
+      "Id": 8871653166806868603,
+      "Text": "雨：葉っぱの帽子",
+      "PluralText": ""
+    },
+    {
+      "Id": 6642817661556372921,
+      "Text": "青ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 805250065568277062,
+      "Text": "雨：葉っぱの帽子",
+      "PluralText": ""
+    },
+    {
+      "Id": 1230800812757800831,
+      "Text": "雨：葉っぱの帽子",
+      "PluralText": ""
+    },
+    {
+      "Id": 8924433801584734155,
+      "Text": "青ピクミンです。",
+      "PluralText": ""
+    },
+    {
+      "Id": 6409707670397970953,
+      "Text": "雨：葉っぱの帽子",
+      "PluralText": ""
+    },
+    {
+      "Id": -6871347795427263280,
+      "Text": "雨：葉っぱの帽子",
+      "PluralText": ""
+    },
+    {
+      "Id": 8294356473201853688,
+      "Text": "青ピクミンです。",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "{0} が、{1} を身につけた！",
       "PluralText": ""
@@ -14152,7 +14287,7 @@
     },
     {
       "Id": 6202844197732253073,
-      "Text": "Growth speed {0} times!",
+      "Text": "苗の成長速度 {0} 倍！",
       "PluralText": ""
     },
     {

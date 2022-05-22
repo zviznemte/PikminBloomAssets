@@ -64,6 +64,12 @@ id	constant	phrase	plural phrase
 -5796902989629339018	CONTINUE_WITH_FACEBOOK	Continue with Facebook	
 -7588090401295854183	CONTINUE_WITH_APPLE	Continue with Apple	
 5654056287002014806	CONTINUE_WITH_GOOGLE	Continue with Google	
+3993937173320983063	APP_UPGRADE_MESSAGE_TITLE	New version available!	
+5648725559762369317	APP_UPGRADE_MESSAGE_BODY_TESTFLIGHT	Use TestFlight to update to version %s.	
+2548737511917523606	APP_UPGRADE_MESSAGE_BODY_APP_STORE	Use the App Store to update to version %s.	
+-1209747675421550686	APP_UPGRADE_MESSAGE_BODY_PLAY_STORE	Use the Google Play Store to update to version %s.	
+-8520605552873553084	APP_UPGRADE_ACCEPT_BUTTON	Update	
+-3891059507693249479	APP_UPGRADE_SKIP_BUTTON	Skip	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Back	
 8485757493794925261	ACTION_CANCEL	Cancel	
 -897094175043611554	ACTION_CANT_SIGN_IN	Trouble logging in?	
@@ -139,8 +145,8 @@ id	constant	phrase	plural phrase
 -2013858795142751835	STARTUP_SCREEN_TIPS_0028	Tap the big map on the home screen to access your lifelog, expeditions, postcards, Pikmin list and more!	
 8837181790264424549	STARTUP_SCREEN_TIPS_0029	Expedition items will disappear if you don't send Pikmin to retrieve them. Items are listed from oldest to newest, so get the ones you want before they are gone.	
 -8560538571010392068	STARTUP_SCREEN_TIPS_0030	Winged Pikmin seem to be very fast in expeditions, unless they go with other types of Pikmin.	
-8321526828962939131	STARTUP_SCREEN_TIPS_0031	When tackling mushrooms, Pikmin of the same color as the mushroom, Decor Pikmin, and Pikmin with flowers seem to be the most powerful.	
--8845234256144901788	STARTUP_SCREEN_TIPS_0032	Clear mushrooms as fast as you can to get higher ratings and better rewards!	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	When tackling mushroom battles, Pikmin of the same color as the mushroom, Decor Pikmin, and Pikmin with flowers seem to be the most powerful.	
+-8845234256144901788	STARTUP_SCREEN_TIPS_0032	Clear mushroom battles as fast as you can to get higher ratings and better rewards!	
 -2367939774841143747	STARTUP_SCREEN_TIPS_0033	It takes a while for mushrooms to recover after being destroyed.	
 -7210442754481933800	STARTUP_SCREEN_TIPS_0034	Feed your Pikmin nectar and send them on expeditions and mushrooms to raise their friendship level.	
 8389710506546400265	STARTUP_SCREEN_TIPS_0035	Some big flowers may bloom only during certain seasons. Check the news section to see what flowers are in season this month.	

@@ -1402,7 +1402,7 @@
     },
     {
       "Id": -30447872105544295,
-      "Text": "{0}x coin limit!",
+      "Text": "{0}x max coins!",
       "PluralText": ""
     },
     {
@@ -6486,36 +6486,6 @@
       "PluralText": ""
     },
     {
-      "Id": 3993937173320983063,
-      "Text": "New version available!",
-      "PluralText": ""
-    },
-    {
-      "Id": 5648725559762369317,
-      "Text": "Use TestFlight to update to version {0}.",
-      "PluralText": ""
-    },
-    {
-      "Id": 2548737511917523606,
-      "Text": "Use the App Store to update to version {0}.",
-      "PluralText": ""
-    },
-    {
-      "Id": -1209747675421550686,
-      "Text": "Use the Google Play Store to update to version {0}.",
-      "PluralText": ""
-    },
-    {
-      "Id": -8520605552873553084,
-      "Text": "Update",
-      "PluralText": ""
-    },
-    {
-      "Id": -3891059507693249479,
-      "Text": "Skip",
-      "PluralText": ""
-    },
-    {
       "Id": 8663811736835974388,
       "Text": "You haven't earned a gift from this Pikmin yet, so it can't be released.",
       "PluralText": ""
@@ -9932,7 +9902,7 @@
     },
     {
       "Id": -2669795582956331225,
-      "Text": "The challenge is played in groups of five.",
+      "Text": "You can play the weekly challenges in groups of up to 5 people.",
       "PluralText": ""
     },
     {
@@ -10138,6 +10108,36 @@
     {
       "Id": -8166575314305961428,
       "Text": "There are no weekly challenges for you to join right now.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8042222329245148645,
+      "Text": "Invite Friends",
+      "PluralText": ""
+    },
+    {
+      "Id": -2488461890009981399,
+      "Text": "Successfully invited friends.",
+      "PluralText": ""
+    },
+    {
+      "Id": 1177663886285962017,
+      "Text": "Cannot invite one or more friends.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2306711633656319021,
+      "Text": "Parental permission required.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2233907719351861742,
+      "Text": "Please make some friends before inviting them.",
+      "PluralText": ""
+    },
+    {
+      "Id": 245609607349066162,
+      "Text": "No more slot available to invite friends.",
       "PluralText": ""
     },
     {
@@ -10496,6 +10496,11 @@
       "PluralText": ""
     },
     {
+      "Id": 5754988935831773244,
+      "Text": "There are no flowers in this area. Flowers must be within {0}m to appear in AR mode.",
+      "PluralText": ""
+    },
+    {
       "Id": 6114122300227207603,
       "Text": "Hello! How are you?",
       "PluralText": "Hello plurals"
@@ -10583,6 +10588,16 @@
     {
       "Id": -4210733493591404853,
       "Text": "You can now share cards of your newly plucked Pikmin. Introduce your new Pikmin to your friends!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5508268365596968714,
+      "Text": "Discovered on",
+      "PluralText": ""
+    },
+    {
+      "Id": 8421441053191154721,
+      "Text": "You can view planted flowers and big flowers in AR flower mode. Flowers must be within a certain radius from your location.",
       "PluralText": ""
     },
     {
@@ -10892,12 +10907,12 @@
     },
     {
       "Id": 6563675451411165539,
-      "Text": "Daily Lookback time",
+      "Text": "Daily Lookback Time",
       "PluralText": ""
     },
     {
       "Id": -4570663082382712324,
-      "Text": "This is when your Daily Lookback is played. (The actual time may slightly change depending on connection status.)",
+      "Text": "Set the time when your daily lookback is played every day. (Actual time may change slightly depending on your connection status.)",
       "PluralText": ""
     },
     {
@@ -10907,17 +10922,17 @@
     },
     {
       "Id": 3704648090845174214,
-      "Text": "Set the playback time of Daily Lookback to {0}. Are you sure?\n\n*The actual time may slightly change depending on connection status.",
+      "Text": "Setting the time when your daily lookback is played to {0}. Are you sure?\n\n*The actual time may change slightly depending on your connection status.",
       "PluralText": ""
     },
     {
       "Id": -5439621946027186960,
-      "Text": "The playback time of Daily Lookback can be changed from the settings screen.",
+      "Text": "Go to the settings screen to change the time your daily lookback plays every day.",
       "PluralText": ""
     },
     {
       "Id": -6111134098206418666,
-      "Text": "The playback time of Daily Lookback was changed to {0}.",
+      "Text": "Your daily lookback will now play every day at {0}.",
       "PluralText": ""
     },
     {
@@ -12307,7 +12322,7 @@
     },
     {
       "Id": 8760720666328505322,
-      "Text": "White Pansy petals. Use them to plant white Pansies.",
+      "Text": "White pansy petals. Use them to plant white pansies.",
       "PluralText": ""
     },
     {
@@ -12317,7 +12332,7 @@
     },
     {
       "Id": 2775128269575278624,
-      "Text": "Red Pansy petals. Use them to plant Red Pansies.",
+      "Text": "Red pansy petals. Use them to plant red pansies.",
       "PluralText": ""
     },
     {
@@ -12327,7 +12342,7 @@
     },
     {
       "Id": -8109495854269944586,
-      "Text": "Blue Pansy petals. Use them to plant Blue Pansies.",
+      "Text": "Blue pansy petals. Use them to plant blue pansies.",
       "PluralText": ""
     },
     {
@@ -12337,7 +12352,7 @@
     },
     {
       "Id": -1060765266957413044,
-      "Text": "Yellow Pansy petals. Use them to plant Yellow Pansies.",
+      "Text": "Yellow pansy petals. Use them to plant yellow pansies.",
       "PluralText": ""
     },
     {
@@ -12347,7 +12362,7 @@
     },
     {
       "Id": -6165802160051300339,
-      "Text": "White Rose petals. Use them to plant white Roses.",
+      "Text": "White Rose petals. Use them to plant White Roses.",
       "PluralText": ""
     },
     {
@@ -12357,7 +12372,7 @@
     },
     {
       "Id": 1508411244671005125,
-      "Text": "Red Rose petals. Use them to plant Red Roses.",
+      "Text": "Red rose petals. Use them to plant red roses.",
       "PluralText": ""
     },
     {
@@ -12367,7 +12382,7 @@
     },
     {
       "Id": 8361518207792523393,
-      "Text": "Blue Rose petals. Use them to plant Blue Roses.",
+      "Text": "Blue rose petals. Use them to plant blue roses.",
       "PluralText": ""
     },
     {
@@ -12377,7 +12392,7 @@
     },
     {
       "Id": -8523663784203673214,
-      "Text": "Yellow Rose petals. Use them to plant Yellow Roses.",
+      "Text": "Yellow rose petals. Use them to plant yellow roses.",
       "PluralText": ""
     },
     {
@@ -12422,7 +12437,7 @@
     },
     {
       "Id": 3432387438224822155,
-      "Text": "White Poinsettia petals. Use them to plant White Poinsettias.",
+      "Text": "White poinsettia petals. Use them to plant white poinsettias.",
       "PluralText": ""
     },
     {
@@ -12432,7 +12447,7 @@
     },
     {
       "Id": -8608357451649418120,
-      "Text": "Red Poinsettia petals. Use them to plant Red Poinsettias.",
+      "Text": "Red poinsettia petals. Use them to plant red poinsettias.",
       "PluralText": ""
     },
     {
@@ -12442,7 +12457,7 @@
     },
     {
       "Id": 7357396080572608376,
-      "Text": "White Camellia petals. Use them to plant White Camellias.",
+      "Text": "White camellia petals. Use them to plant white camellias.",
       "PluralText": ""
     },
     {
@@ -12452,7 +12467,7 @@
     },
     {
       "Id": 6603547891947695934,
-      "Text": "Red Camellia petals. Use them to plant Red Camellias.",
+      "Text": "Red camellia petals. Use them to plant red camellias.",
       "PluralText": ""
     },
     {
@@ -12502,12 +12517,12 @@
     },
     {
       "Id": 3973177253734728476,
-      "Text": "White Narcissus petals. Use them to plant White Narcissuss.",
+      "Text": "White narcissus petals. Use them to plant white narcissuss.",
       "PluralText": ""
     },
     {
       "Id": -7696831412514286087,
-      "Text": "Yellow Narcissus petals. Use them to plant Yellow Narcissuss.",
+      "Text": "Yellow narcissus petals. Use them to plant yellow narcissuss.",
       "PluralText": ""
     },
     {
@@ -12552,7 +12567,7 @@
     },
     {
       "Id": -4740955000384069377,
-      "Text": "Blue Nemophila petals. Use them to plant Blue Nemophilas.",
+      "Text": "Blue nemophila petals. Use them to plant blue nemophilas.",
       "PluralText": ""
     },
     {
@@ -12577,17 +12592,17 @@
     },
     {
       "Id": 8757572585822398900,
-      "Text": "White Carnation petals. Use them to plant white carnations.",
+      "Text": "White carnation petals. Use them to plant white carnations.",
       "PluralText": ""
     },
     {
       "Id": 1586650300279005373,
-      "Text": "Red carnation petals. Use them to plant red Carnations.",
+      "Text": "Red carnation petals. Use them to plant red carnations.",
       "PluralText": ""
     },
     {
       "Id": -4880512555513008858,
-      "Text": "Blue carnation petals. Use them to plant blue Carnations.",
+      "Text": "Blue carnation petals. Use them to plant blue carnations.",
       "PluralText": ""
     },
     {
@@ -12657,17 +12672,17 @@
     },
     {
       "Id": 4048166092808619354,
-      "Text": "White Hydrangea petals. Use them to plant White Hydrangeas.",
+      "Text": "White hydrangea petals. Use them to plant white hydrangeas.",
       "PluralText": ""
     },
     {
       "Id": -1745004269493221770,
-      "Text": "Red Hydrangea petals. Use them to plant Red Hydrangeas.",
+      "Text": "Red hydrangea petals. Use them to plant red hydrangeas.",
       "PluralText": ""
     },
     {
       "Id": -1213773349147502088,
-      "Text": "Blue Hydrangea petals. Use them to plant Blue Hydrangeas.",
+      "Text": "Blue hydrangea petals. Use them to plant blue hydrangeas.",
       "PluralText": ""
     },
     {
@@ -12692,17 +12707,17 @@
     },
     {
       "Id": 8920257467235647779,
-      "Text": "White Lilium petals. Use them to plant White Liliums.",
+      "Text": "White lilium petals. Use them to plant white liliums.",
       "PluralText": ""
     },
     {
       "Id": -1745071381590290293,
-      "Text": "Yellow Lilium petals. Use them to plant Yellow Liliums.",
+      "Text": "Yellow lilium petals. Use them to plant yellow liliums.",
       "PluralText": ""
     },
     {
       "Id": -1578367391245024543,
-      "Text": "Red Lilium petals. Use them to plant Red Liliums.",
+      "Text": "Red lilium petals. Use them to plant red liliums.",
       "PluralText": ""
     },
     {
@@ -12727,17 +12742,17 @@
     },
     {
       "Id": 6634347525355177267,
-      "Text": "White Hibiscus petals. Use them to plant White Hibiscuss.",
+      "Text": "White hibiscus petals. Use them to plant white hibiscuss.",
       "PluralText": ""
     },
     {
       "Id": -2875787473066237874,
-      "Text": "Yellow Hibiscus petals. Use them to plant Yellow Hibiscuss.",
+      "Text": "Yellow hibiscus petals. Use them to plant yellow hibiscuss.",
       "PluralText": ""
     },
     {
       "Id": -2064490092256077343,
-      "Text": "Red Hibiscus petals. Use them to plant Red Hibiscuss.",
+      "Text": "Red hibiscus petals. Use them to plant red hibiscuss.",
       "PluralText": ""
     },
     {
@@ -13347,32 +13362,32 @@
     },
     {
       "Id": 1472624022930022573,
-      "Text": "Hydrangea Petals",
+      "Text": "White Hydrangea Petals",
       "PluralText": ""
     },
     {
       "Id": -1802774612447763038,
-      "Text": "Hydrangea Petals",
+      "Text": "Red Hydrangea Petals",
       "PluralText": ""
     },
     {
       "Id": -3341323601561712459,
-      "Text": "Hydrangea Petals",
+      "Text": "Blue Hydrangea Petals",
       "PluralText": ""
     },
     {
       "Id": -5181795043757657110,
-      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "Text": "White hydrangea petals. You can use them to plant white hydrangeas.",
       "PluralText": ""
     },
     {
       "Id": 279708105547368249,
-      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "Text": "Red hydrangea petals. You can use them to plant red hydrangeas.",
       "PluralText": ""
     },
     {
       "Id": 1475519866812723581,
-      "Text": "Hydrangea petals. You can use them to plant Hydrangea.",
+      "Text": "Blue hydrangea petals. You can use them to plant blue hydrangeas.",
       "PluralText": ""
     },
     {
@@ -13553,6 +13568,46 @@
     {
       "Id": -7652943238474281815,
       "Text": "Cyclamen petals. You can use them to plant Cyclamen.",
+      "PluralText": ""
+    },
+    {
+      "Id": -2623044025280708884,
+      "Text": "Challenge Gray Avatar",
+      "PluralText": ""
+    },
+    {
+      "Id": 573987017440894174,
+      "Text": "Challenge Gray Avatar Description",
+      "PluralText": ""
+    },
+    {
+      "Id": 5189498570164727560,
+      "Text": "Challenge Blue Avatar",
+      "PluralText": ""
+    },
+    {
+      "Id": -8146343171272103050,
+      "Text": "Challenge Blue Avatar Description",
+      "PluralText": ""
+    },
+    {
+      "Id": 8792689724536825433,
+      "Text": "Challenge Pink Avatar",
+      "PluralText": ""
+    },
+    {
+      "Id": 5559647814930727191,
+      "Text": "Challenge Pink Avatar Description",
+      "PluralText": ""
+    },
+    {
+      "Id": -1880388111476376154,
+      "Text": "Challenge Yellow Avatar",
+      "PluralText": ""
+    },
+    {
+      "Id": 1387008874825819317,
+      "Text": "Challenge Yellow Avatar Description",
       "PluralText": ""
     },
     {
@@ -13851,6 +13906,36 @@
       "PluralText": ""
     },
     {
+      "Id": 3993937173320983063,
+      "Text": "New version available!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5648725559762369317,
+      "Text": "Use TestFlight to update to version {0}.",
+      "PluralText": ""
+    },
+    {
+      "Id": 2548737511917523606,
+      "Text": "Use the App Store to update to version {0}.",
+      "PluralText": ""
+    },
+    {
+      "Id": -1209747675421550686,
+      "Text": "Use the Google Play Store to update to version {0}.",
+      "PluralText": ""
+    },
+    {
+      "Id": -8520605552873553084,
+      "Text": "Update",
+      "PluralText": ""
+    },
+    {
+      "Id": -3891059507693249479,
+      "Text": "Skip",
+      "PluralText": ""
+    },
+    {
       "Id": 1693613730535626830,
       "Text": "Sushi Restaurant",
       "PluralText": ""
@@ -14086,6 +14171,56 @@
       "PluralText": ""
     },
     {
+      "Id": -1398689144691600878,
+      "Text": "Rainy: Leaf Hat",
+      "PluralText": ""
+    },
+    {
+      "Id": 1211884764558815201,
+      "Text": "Weather",
+      "PluralText": ""
+    },
+    {
+      "Id": 8871653166806868603,
+      "Text": "Rainy: Leaf Hat",
+      "PluralText": ""
+    },
+    {
+      "Id": 6642817661556372921,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 805250065568277062,
+      "Text": "Rainy: Leaf Hat",
+      "PluralText": ""
+    },
+    {
+      "Id": 1230800812757800831,
+      "Text": "Rainy: Leaf Hat",
+      "PluralText": ""
+    },
+    {
+      "Id": 8924433801584734155,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6409707670397970953,
+      "Text": "Rainy: Leaf Hat",
+      "PluralText": ""
+    },
+    {
+      "Id": -6871347795427263280,
+      "Text": "Rainy: Leaf Hat",
+      "PluralText": ""
+    },
+    {
+      "Id": 8294356473201853688,
+      "Text": "This is a Blue Pikmin.",
+      "PluralText": ""
+    },
+    {
       "Id": 1355270577328243417,
       "Text": "Pikmin plucked!",
       "PluralText": ""
@@ -14147,7 +14282,7 @@
     },
     {
       "Id": 6202844197732253073,
-      "Text": "Growth speed {0} times!",
+      "Text": "Seedlings grow {0} times faster!",
       "PluralText": ""
     },
     {
@@ -14672,32 +14807,32 @@
     },
     {
       "Id": -1455948860794901810,
-      "Text": "Hydrangea Nectar",
+      "Text": "White Hydrangea Nectar",
       "PluralText": ""
     },
     {
       "Id": -4315866866260456215,
-      "Text": "Hydrangea Nectar",
+      "Text": "Red Hydrangea Nectar",
       "PluralText": ""
     },
     {
       "Id": 104780273533430447,
-      "Text": "Hydrangea Nectar",
+      "Text": "Blue Hydrangea Nectar",
       "PluralText": ""
     },
     {
       "Id": 8176092224478496919,
-      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "Text": "Rare nectar that will make a white hydrangea grow on a Pikmin's head.",
       "PluralText": ""
     },
     {
       "Id": -1279814446344063928,
-      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "Text": "Rare nectar that will make a red hydrangea grow on a Pikmin's head.",
       "PluralText": ""
     },
     {
       "Id": 4832539871091449461,
-      "Text": "Rare nectar that will make a Hydrangea grow on a Pikmin's head.",
+      "Text": "Rare nectar that will make a blue hydrangea grow on a Pikmin's head.",
       "PluralText": ""
     },
     {
@@ -14952,7 +15087,7 @@
     },
     {
       "Id": -6560102870785273981,
-      "Text": "Mini-mart",
+      "Text": "Corner Store",
       "PluralText": ""
     },
     {
@@ -15012,7 +15147,7 @@
     },
     {
       "Id": 8393074450420646987,
-      "Text": "Complete <b>{0} expeditions</b>",
+      "Text": "Complete <b>{0} expedition(s)</b>",
       "PluralText": ""
     },
     {
@@ -15022,8 +15157,8 @@
     },
     {
       "Id": 1858672086238664994,
-      "Text": "{0}-star rating",
-      "PluralText": "{0}-star ratings"
+      "Text": "{0} star",
+      "PluralText": "{0} stars"
     },
     {
       "Id": -6006900477331902916,
@@ -15472,12 +15607,12 @@
     },
     {
       "Id": 8321526828962939131,
-      "Text": "When tackling mushrooms battles, Pikmin of the same color as the mushroom, Decor Pikmin, and Pikmin with flowers seem to be the most powerful.",
+      "Text": "When tackling mushroom battles, Pikmin of the same color as the mushroom, Decor Pikmin, and Pikmin with flowers seem to be the most powerful.",
       "PluralText": ""
     },
     {
       "Id": -8845234256144901788,
-      "Text": "Clear mushrooms battles as fast as you can to get higher ratings and better rewards!",
+      "Text": "Clear mushroom battles as fast as you can to get higher ratings and better rewards!",
       "PluralText": ""
     },
     {

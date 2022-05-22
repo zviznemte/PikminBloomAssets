@@ -59,11 +59,17 @@ id	constant	phrase	plural phrase
 -8720522393209134153	CHEATING_WARNING_STRIKE_3_TITLE	KONTO GESPERRT	
 -3682785770674810225	CHEATING_WARNING_STRIKE_3_MAIN_TEXT	Dein Konto wurde aufgrund von Verstößen gegen unsere Nutzungsbedingungen permanent gesperrt.	
 110217096892885786	CHEATING_WARNING_STRIKE_1_CONFIRM	Verstanden	
-3518299777779390156	CHEATING_WARNING_STRIKE_2_CONFIRM	I Understand	
-7885683453870388931	CHEATING_WARNING_STRIKE_3_CONFIRM	Logout	
+3518299777779390156	CHEATING_WARNING_STRIKE_2_CONFIRM	Ich verstehe	
+7885683453870388931	CHEATING_WARNING_STRIKE_3_CONFIRM	Abmelden	
 -5796902989629339018	CONTINUE_WITH_FACEBOOK	Mit Facebook fortfahren	
 -7588090401295854183	CONTINUE_WITH_APPLE	Mit Apple fortfahren	
 5654056287002014806	CONTINUE_WITH_GOOGLE	Mit Google fortfahren	
+3993937173320983063	APP_UPGRADE_MESSAGE_TITLE	New version available!	
+5648725559762369317	APP_UPGRADE_MESSAGE_BODY_TESTFLIGHT	Use TestFlight to update to version %s.	
+2548737511917523606	APP_UPGRADE_MESSAGE_BODY_APP_STORE	Use the App Store to update to version %s.	
+-1209747675421550686	APP_UPGRADE_MESSAGE_BODY_PLAY_STORE	Use the Google Play Store to update to version %s.	
+-8520605552873553084	APP_UPGRADE_ACCEPT_BUTTON	Update	
+-3891059507693249479	APP_UPGRADE_SKIP_BUTTON	Skip	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Zurück	
 8485757493794925261	ACTION_CANCEL	Abbrechen	
 -897094175043611554	ACTION_CANT_SIGN_IN	Probleme beim Anmelden?	
@@ -120,7 +126,7 @@ id	constant	phrase	plural phrase
 136491324792122571	STARTUP_SCREEN_TIPS_0009	Keime wachsen schneller, während du Blumen pflanzt. Pflanze Blumen, um immer mehr Pikmin zu sammeln!	
 8734263729113341237	STARTUP_SCREEN_TIPS_0010	Verdiene Bonusmünzen, während du Blumen pflanzt.	
 -2871577461391453943	STARTUP_SCREEN_TIPS_0011	Richte in den Einstellungen private Zonen ein, um bestimmte Bereiche auszuschließen, in denen du keine Blumen pflanzen willst.	
-8276595101407658895	STARTUP_SCREEN_TIPS_0012	Du ganz gepflanzte Blumen vom Tagebuch und den Einstellungen aus löschen.	
+8276595101407658895	STARTUP_SCREEN_TIPS_0012	Du kannst gepflanzte Blumen vom Tagebuch und den Einstellungen aus löschen.	
 -6078735754954300967	STARTUP_SCREEN_TIPS_0013	Lade deine Freunde zu Pikmin Bloom ein und erhalte Belohnungen!	
 6043986246212696603	STARTUP_SCREEN_TIPS_0014	Wenn du Fragen hast, schaue im Hilfebereich in den Einstellungen nach.	
 -1824892194546110745	STARTUP_SCREEN_TIPS_0015	Nutze die Sortierungsfunktion in der Pikmin-Liste, um deine Pikmin leichter zu finden. 	
@@ -139,8 +145,7 @@ id	constant	phrase	plural phrase
 -2013858795142751835	STARTUP_SCREEN_TIPS_0028	Die große Karte auf dem Hauptbildschirm bietet leichten Zugriff auf Tagebuch, Expeditionsbildschirm und Pikmin-Liste.	
 8837181790264424549	STARTUP_SCREEN_TIPS_0029	Expeditionsgegenstände verschwinden nach 3 Tagen aus der Liste. Die Gegenstände werden von alt zu neu sortiert, also hol dir die gewünschten, bevor sie verschwinden.	
 -8560538571010392068	STARTUP_SCREEN_TIPS_0030	Flügel-Pikmin scheinen in Expeditionen sehr schnell zu sein, sofern sie nicht mit anderen Pikmin-Typen unterwegs sind.	
-8321526828962939131	STARTUP_SCREEN_TIPS_0031	In den Pilz-Herausforderungen scheinen Pikmin von der Farbe des Pilzes, Deko-Pikmin und Pikmin mit Blumen am stärksten zu sein.
-	
+8321526828962939131	STARTUP_SCREEN_TIPS_0031	Bei der Bekämpfung von Pilzen scheinen Pikmin von der Farbe des Pilzes, Deko-Pikmin und Pikmin mit Blumen am stärksten zu sein.	
 -8845234256144901788	STARTUP_SCREEN_TIPS_0032	Besiege Pilze so schnell du kannst, um höhere Wertungen und bessere Belohnungen zu erhalten.	
 -2367939774841143747	STARTUP_SCREEN_TIPS_0033	Nachdem sie zerstört wurden, dauert es eine Weile, bis die Pilze nachwachsen.	
 -7210442754481933800	STARTUP_SCREEN_TIPS_0034	Füttere deine Pikmin mit Nektar und schicke sie auf Expeditionen und zu Pilzen, um dein Freundschaftslevel zu erhöhen.	

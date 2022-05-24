@@ -487,7 +487,7 @@
     },
     {
       "Id": -4942180775376772179,
-      "Text": "Discovered New Pikmin!",
+      "Text": "New Pikmin!",
       "PluralText": ""
     },
     {
@@ -1404,6 +1404,41 @@
       "Id": -30447872105544295,
       "Text": "{0}x max coins!",
       "PluralText": ""
+    },
+    {
+      "Id": 1484702133869108776,
+      "Text": "Until the next coin",
+      "PluralText": ""
+    },
+    {
+      "Id": -8275021222583807251,
+      "Text": "Acquired",
+      "PluralText": ""
+    },
+    {
+      "Id": -3538772140139544564,
+      "Text": "Reached the acquisition limit",
+      "PluralText": ""
+    },
+    {
+      "Id": -1958298773285633642,
+      "Text": "Bonus Coin",
+      "PluralText": ""
+    },
+    {
+      "Id": 3312096529805648822,
+      "Text": "total",
+      "PluralText": ""
+    },
+    {
+      "Id": -4481782860752924148,
+      "Text": "coins",
+      "PluralText": ""
+    },
+    {
+      "Id": 7854455458011493277,
+      "Text": "flower",
+      "PluralText": "flowers"
     },
     {
       "Id": 5513706700721524041,
@@ -10141,6 +10176,116 @@
       "PluralText": ""
     },
     {
+      "Id": -4107015867354474027,
+      "Text": "{0} invites you!",
+      "PluralText": ""
+    },
+    {
+      "Id": -990616512877456398,
+      "Text": "Inviting",
+      "PluralText": ""
+    },
+    {
+      "Id": -3991709418255093730,
+      "Text": "Select friends to invite!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3640817763366296736,
+      "Text": "Max participants reached",
+      "PluralText": ""
+    },
+    {
+      "Id": 6766423031344121366,
+      "Text": "Busy with Challenge",
+      "PluralText": ""
+    },
+    {
+      "Id": -824540429381226387,
+      "Text": "Too many invites from other users",
+      "PluralText": ""
+    },
+    {
+      "Id": -1598760653727299664,
+      "Text": "Already participating",
+      "PluralText": ""
+    },
+    {
+      "Id": 2535654176506135959,
+      "Text": "Already invited",
+      "PluralText": ""
+    },
+    {
+      "Id": 8594375751473538598,
+      "Text": "<b>{0}</b> invites you!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3828357932619263481,
+      "Text": "<b>{0}</b> and {1} more person invites you!",
+      "PluralText": "<b>{0}</b> and {1} more people invite you!"
+    },
+    {
+      "Id": -7547827704568260888,
+      "Text": "<b>{0}</b> invites you to a challenge!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6109320265512113035,
+      "Text": "Inviting {0} failed.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7339865067392254182,
+      "Text": "Inviting {0} and {1} other friend failed.",
+      "PluralText": "Inviting {0} and {1} other friends failed."
+    },
+    {
+      "Id": -140015772890758602,
+      "Text": "<b>Challenges have been improved!</b>\n・You can now invite friends!\n・If you quit a challenge, you can join a different one!\n* Caution: When you quit a challenge, your progress up to now will be erased.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4935744151017041010,
+      "Text": "Weekly challenges can be done in groups of up to 5 people.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6815048360513916240,
+      "Text": "In addition to your friends, friends of friends can join groups.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6890815996913752691,
+      "Text": "During a challenge, group members can see each others' names, step counts, etc.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5863862213992096740,
+      "Text": "Play with more group members by inviting friends and participating in other groups.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8713808826679634958,
+      "Text": "Work together with others, and try to clear the goal!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4149423054431971880,
+      "Text": "* You can leave and join another group even after the challenge has started",
+      "PluralText": ""
+    },
+    {
+      "Id": -4134672385888914516,
+      "Text": "Are you sure you want to quit this challenge?\n\nThe amount of steps will be erased from this challege. Your steps will be reset to zero when you join another challenge after.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4916879079270060652,
+      "Text": "This user is not on your friend list.",
+      "PluralText": ""
+    },
+    {
       "Id": 8174743795630125355,
       "Text": "You have walked {0} more step than yesterday!",
       "PluralText": "You have walked {0} more steps than yesterday!"
@@ -10497,7 +10642,7 @@
     },
     {
       "Id": 5754988935831773244,
-      "Text": "There are no flowers in this area. Flowers must be within {0}m to appear in AR mode.",
+      "Text": "There are no flowers in this area. POI Flowers must be within {0}m to appear and planted flowers must be within {1}m to appear in AR mode.",
       "PluralText": ""
     },
     {
@@ -10588,11 +10733,6 @@
     {
       "Id": -4210733493591404853,
       "Text": "You can now share cards of your newly plucked Pikmin. Introduce your new Pikmin to your friends!",
-      "PluralText": ""
-    },
-    {
-      "Id": 5508268365596968714,
-      "Text": "Discovered on",
       "PluralText": ""
     },
     {
@@ -13936,6 +14076,11 @@
       "PluralText": ""
     },
     {
+      "Id": -9113594676134512808,
+      "Text": "Your account has been temporarily suspended for continued violation of the Terms of Service.\n\nAny further transgressions will result in a permanent account termination.",
+      "PluralText": ""
+    },
+    {
       "Id": 1693613730535626830,
       "Text": "Sushi Restaurant",
       "PluralText": ""
@@ -15133,6 +15278,26 @@
     {
       "Id": 824311847962304281,
       "Text": "Mother's Day Event",
+      "PluralText": ""
+    },
+    {
+      "Id": -4248854122450662949,
+      "Text": "Father's Day Event underway!",
+      "PluralText": ""
+    },
+    {
+      "Id": 7510008838311629838,
+      "Text": "Father's Day Event",
+      "PluralText": ""
+    },
+    {
+      "Id": -1941980709435745324,
+      "Text": "Let's plant common flowers and make {0} big flowers bloom!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5360646223845616496,
+      "Text": "Plant {0} flowers and get {1}!",
       "PluralText": ""
     },
     {

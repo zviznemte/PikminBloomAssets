@@ -1212,17 +1212,17 @@
     },
     {
       "Id": -8180804013065248508,
-      "Text": "Hydrangea Badge",
+      "Text": "Insignia de hortensia",
       "PluralText": ""
     },
     {
       "Id": -6224646841727017497,
-      "Text": "You walked 10,000 steps during the June Community Day!",
+      "Text": "¡Diste 10 000 pasos en el Día de la Comunidad de junio!",
       "PluralText": ""
     },
     {
       "Id": -4957616103423086890,
-      "Text": "Walk 10,000 steps during the June Community Day!",
+      "Text": "Da 10 000 pasos en el Día de la Comunidad de junio.",
       "PluralText": ""
     },
     {
@@ -1404,6 +1404,41 @@
       "Id": -30447872105544295,
       "Text": "¡Máx. monedas x{0}!",
       "PluralText": ""
+    },
+    {
+      "Id": 1484702133869108776,
+      "Text": "Until the next coin",
+      "PluralText": ""
+    },
+    {
+      "Id": -8275021222583807251,
+      "Text": "Acquired",
+      "PluralText": ""
+    },
+    {
+      "Id": -3538772140139544564,
+      "Text": "Reached the acquisition limit",
+      "PluralText": ""
+    },
+    {
+      "Id": -1958298773285633642,
+      "Text": "Bonus Coin",
+      "PluralText": ""
+    },
+    {
+      "Id": 3312096529805648822,
+      "Text": "total",
+      "PluralText": ""
+    },
+    {
+      "Id": -4481782860752924148,
+      "Text": "coins",
+      "PluralText": ""
+    },
+    {
+      "Id": 7854455458011493277,
+      "Text": "flower",
+      "PluralText": "flowers"
     },
     {
       "Id": 5513706700721524041,
@@ -10117,32 +10152,142 @@
     },
     {
       "Id": -8042222329245148645,
-      "Text": "Invite Friends",
+      "Text": "Invitar amigos",
       "PluralText": ""
     },
     {
       "Id": -2488461890009981399,
-      "Text": "Successfully invited friends.",
+      "Text": "Se han invitado amigos correctamente.",
       "PluralText": ""
     },
     {
       "Id": 1177663886285962017,
-      "Text": "Cannot invite one or more friends.",
+      "Text": "No se ha podido invitar a algunos amigos.",
       "PluralText": ""
     },
     {
       "Id": 2306711633656319021,
-      "Text": "Parental permission required.",
+      "Text": "Para usar esta función, tu tutor/a tiene que darte permiso.",
       "PluralText": ""
     },
     {
       "Id": 2233907719351861742,
-      "Text": "Please make some friends before inviting them.",
+      "Text": "No tienes amigos a quienes puedas invitar.",
       "PluralText": ""
     },
     {
       "Id": 245609607349066162,
-      "Text": "No more slot available to invite friends.",
+      "Text": "No quedan huecos para invitar amigos.",
+      "PluralText": ""
+    },
+    {
+      "Id": -4107015867354474027,
+      "Text": "¡{0} te ha invitado!",
+      "PluralText": ""
+    },
+    {
+      "Id": -990616512877456398,
+      "Text": "Invitando",
+      "PluralText": ""
+    },
+    {
+      "Id": -3991709418255093730,
+      "Text": "Select friends to invite!",
+      "PluralText": ""
+    },
+    {
+      "Id": 3640817763366296736,
+      "Text": "Max participants reached",
+      "PluralText": ""
+    },
+    {
+      "Id": 6766423031344121366,
+      "Text": "Busy with Challenge",
+      "PluralText": ""
+    },
+    {
+      "Id": -824540429381226387,
+      "Text": "Too many invites from other users",
+      "PluralText": ""
+    },
+    {
+      "Id": -1598760653727299664,
+      "Text": "Already participating",
+      "PluralText": ""
+    },
+    {
+      "Id": 2535654176506135959,
+      "Text": "Already invited",
+      "PluralText": ""
+    },
+    {
+      "Id": 8594375751473538598,
+      "Text": "<b>{0}</b> invites you!",
+      "PluralText": ""
+    },
+    {
+      "Id": -3828357932619263481,
+      "Text": "<b>{0}</b> and {1} more person invites you!",
+      "PluralText": "<b>{0}</b> and {1} more people invite you!"
+    },
+    {
+      "Id": -7547827704568260888,
+      "Text": "<b>{0}</b> invites you to a challenge!",
+      "PluralText": ""
+    },
+    {
+      "Id": 6109320265512113035,
+      "Text": "Inviting {0} failed.",
+      "PluralText": ""
+    },
+    {
+      "Id": -7339865067392254182,
+      "Text": "Inviting {0} and {1} other friend failed.",
+      "PluralText": "Inviting {0} and {1} other friends failed."
+    },
+    {
+      "Id": -140015772890758602,
+      "Text": "<b>Challenges have been improved!</b>\n・You can now invite friends!\n・If you quit a challenge, you can join a different one!\n* Caution: When you quit a challenge, your progress up to now will be erased.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4935744151017041010,
+      "Text": "Weekly challenges can be done in groups of up to 5 people.",
+      "PluralText": ""
+    },
+    {
+      "Id": -6815048360513916240,
+      "Text": "In addition to your friends, friends of friends can join groups.",
+      "PluralText": ""
+    },
+    {
+      "Id": 6890815996913752691,
+      "Text": "During a challenge, group members can see each others' names, step counts, etc.",
+      "PluralText": ""
+    },
+    {
+      "Id": 5863862213992096740,
+      "Text": "Play with more group members by inviting friends and participating in other groups.",
+      "PluralText": ""
+    },
+    {
+      "Id": 8713808826679634958,
+      "Text": "Work together with others, and try to clear the goal!",
+      "PluralText": ""
+    },
+    {
+      "Id": -4149423054431971880,
+      "Text": "* You can leave and join another group even after the challenge has started",
+      "PluralText": ""
+    },
+    {
+      "Id": -4134672385888914516,
+      "Text": "Are you sure you want to quit this challenge?\n\nThe amount of steps will be erased from this challege. Your steps will be reset to zero when you join another challenge after.",
+      "PluralText": ""
+    },
+    {
+      "Id": 4916879079270060652,
+      "Text": "This user is not on your friend list.",
       "PluralText": ""
     },
     {
@@ -10593,11 +10738,6 @@
     {
       "Id": -4210733493591404853,
       "Text": "Ahora puedes compartir tarjetas de tus Pikmin recién arrancados. ¡Preséntales tus Pikmin nuevos a tus amigos!",
-      "PluralText": ""
-    },
-    {
-      "Id": 5508268365596968714,
-      "Text": "Descubierto el",
       "PluralText": ""
     },
     {
@@ -12657,37 +12797,37 @@
     },
     {
       "Id": 8367931998629619543,
-      "Text": "Hydrangea",
+      "Text": "Hortensia",
       "PluralText": ""
     },
     {
       "Id": 3201846717814177145,
-      "Text": "White Hydrangea Petals",
+      "Text": "Pétalos de hortensia blanca",
       "PluralText": ""
     },
     {
       "Id": 140722600331602029,
-      "Text": "Red Hydrangea Petals",
+      "Text": "Pétalos de hortensia roja",
       "PluralText": ""
     },
     {
       "Id": -3880722439121792281,
-      "Text": "Blue Hydrangea Petals",
+      "Text": "Pétalos de hortensia azul",
       "PluralText": ""
     },
     {
       "Id": 4048166092808619354,
-      "Text": "White hydrangea petals. Use them to plant white hydrangeas.",
+      "Text": "Si los plantas, saldrán hortensias blancas.",
       "PluralText": ""
     },
     {
       "Id": -1745004269493221770,
-      "Text": "Red hydrangea petals. Use them to plant red hydrangeas.",
+      "Text": "Si los plantas, saldrán hortensias rojas.",
       "PluralText": ""
     },
     {
       "Id": -1213773349147502088,
-      "Text": "Blue hydrangea petals. Use them to plant blue hydrangeas.",
+      "Text": "Si los plantas, saldrán hortensias azules.",
       "PluralText": ""
     },
     {
@@ -13367,32 +13507,32 @@
     },
     {
       "Id": 1472624022930022573,
-      "Text": "White Hydrangea Petals",
+      "Text": "Pétalos de hortensia blanca",
       "PluralText": ""
     },
     {
       "Id": -1802774612447763038,
-      "Text": "Red Hydrangea Petals",
+      "Text": "Pétalos de hortensia roja",
       "PluralText": ""
     },
     {
       "Id": -3341323601561712459,
-      "Text": "Blue Hydrangea Petals",
+      "Text": "Pétalos de hortensia azul",
       "PluralText": ""
     },
     {
       "Id": -5181795043757657110,
-      "Text": "White hydrangea petals. You can use them to plant white hydrangeas.",
+      "Text": "Si los plantas, saldrán hortensias blancas.",
       "PluralText": ""
     },
     {
       "Id": 279708105547368249,
-      "Text": "Red hydrangea petals. You can use them to plant red hydrangeas.",
+      "Text": "Si los plantas, saldrán hortensias rojas.",
       "PluralText": ""
     },
     {
       "Id": 1475519866812723581,
-      "Text": "Blue hydrangea petals. You can use them to plant blue hydrangeas.",
+      "Text": "Si los plantas, saldrán hortensias azules.",
       "PluralText": ""
     },
     {
@@ -13938,6 +14078,11 @@
     {
       "Id": -3891059507693249479,
       "Text": "Skip",
+      "PluralText": ""
+    },
+    {
+      "Id": -9113594676134512808,
+      "Text": "Your account has been temporarily suspended for continued violation of the Terms of Service.\n\nAny further transgressions will result in a permanent account termination.",
       "PluralText": ""
     },
     {
@@ -14817,32 +14962,32 @@
     },
     {
       "Id": -1455948860794901810,
-      "Text": "White Hydrangea Nectar",
+      "Text": "Néctar de hortensia blanca",
       "PluralText": ""
     },
     {
       "Id": -4315866866260456215,
-      "Text": "Red Hydrangea Nectar",
+      "Text": "Néctar de hortensia roja",
       "PluralText": ""
     },
     {
       "Id": 104780273533430447,
-      "Text": "Blue Hydrangea Nectar",
+      "Text": "Néctar de hortensia azul",
       "PluralText": ""
     },
     {
       "Id": 8176092224478496919,
-      "Text": "Rare nectar that will make a white hydrangea grow on a Pikmin's head.",
+      "Text": "Hace crecer una hortensia blanca en la cabeza de los Pikmin. Es un néctar poco común.",
       "PluralText": ""
     },
     {
       "Id": -1279814446344063928,
-      "Text": "Rare nectar that will make a red hydrangea grow on a Pikmin's head.",
+      "Text": "Hace crecer una hortensia roja en la cabeza de los Pikmin. Es un néctar poco común.",
       "PluralText": ""
     },
     {
       "Id": 4832539871091449461,
-      "Text": "Rare nectar that will make a blue hydrangea grow on a Pikmin's head.",
+      "Text": "Hace crecer una hortensia azul en la cabeza de los Pikmin. Es un néctar poco común.",
       "PluralText": ""
     },
     {
@@ -15143,6 +15288,26 @@
     {
       "Id": 824311847962304281,
       "Text": "Evento del Día de la Madre",
+      "PluralText": ""
+    },
+    {
+      "Id": -4248854122450662949,
+      "Text": "Father's Day Event underway!",
+      "PluralText": ""
+    },
+    {
+      "Id": 7510008838311629838,
+      "Text": "Father's Day Event",
+      "PluralText": ""
+    },
+    {
+      "Id": -1941980709435745324,
+      "Text": "Let's plant common flowers and make {0} big flowers bloom!",
+      "PluralText": ""
+    },
+    {
+      "Id": 5360646223845616496,
+      "Text": "Plant {0} flowers and get {1}!",
       "PluralText": ""
     },
     {

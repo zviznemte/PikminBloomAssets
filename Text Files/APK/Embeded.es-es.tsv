@@ -65,11 +65,12 @@ id	constant	phrase	plural phrase
 -7588090401295854183	CONTINUE_WITH_APPLE	Continuar con Apple	
 5654056287002014806	CONTINUE_WITH_GOOGLE	Continuar con Google	
 3993937173320983063	APP_UPGRADE_MESSAGE_TITLE	New version available!	
-5648725559762369317	APP_UPGRADE_MESSAGE_BODY_TESTFLIGHT	Use TestFlight to update to version %s.	
+5648725559762369317	APP_UPGRADE_MESSAGE_BODY_TESTFLIGHT	Please update to the latest version of %s in TestFlight.	
 2548737511917523606	APP_UPGRADE_MESSAGE_BODY_APP_STORE	Use the App Store to update to version %s.	
 -1209747675421550686	APP_UPGRADE_MESSAGE_BODY_PLAY_STORE	Use the Google Play Store to update to version %s.	
 -8520605552873553084	APP_UPGRADE_ACCEPT_BUTTON	Update	
 -3891059507693249479	APP_UPGRADE_SKIP_BUTTON	Skip	
+-9113594676134512808	CHEATING_WARNING_STRIKE_2_MAIN_TEXT_NO_DAYS	Se ha bloqueado temporalmente tu cuenta debido a que has incumplido repetidamente las Condiciones de Servicio.\n\nSi vuelves a hacerlo, la cuenta se eliminará de forma permanente.	
 5513706700721524041	ACTION_BACK_TO_PREVIOUS	Atrás	
 8485757493794925261	ACTION_CANCEL	Cancelar	
 -897094175043611554	ACTION_CANT_SIGN_IN	No puedo iniciar sesión.	

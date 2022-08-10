@@ -48,7 +48,7 @@ id	constant	phrase	plural phrase
 3321219507815418696	DIALOG_DO_NOT_DISPLAY_AGAIN	Non mostrare più	
 1932032625298045791	FACEBOOK_LOGIN_PERMISSION_FAILED	Le autorizzazioni necessarie non sono state concesse.	
 -5635259498562488152	FACEBOOK_LOGIN_REQUIRES_APP_TRACKING_PERMISSION	Devi autorizzare Pikmin Bloom a usare la tua attività nelle app e nei siti web per poter utilizzare il tuo account Facebook.\nNota: se il tracciamento non è autorizzato nelle impostazioni della privacy, segui queste istruzioni per abilitarlo (dovrai anche configurare le impostazioni individuali per Pikmin Bloom una volta concessa l'autorizzazione): \n\n1. Apri le impostazioni e vai su "Privacy".\n2. Tocca "Tracciamento" e attiva "Richiesta tracciamento attività".	
--4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Scollega l'account Facebook	
+-4791526398844371231	FACEBOOK_LOGIN_UNLINK_UNLESS_PERMISSION_GRANTED	Scollega account Facebook	
 -7190375469370652674	FAQ_PARENTAL_PERMISSION_URL	https://niantic.helpshift.com/a/pikmin-bloom/?p=web&amp%3Bs=release-notes-and-known-issues&amp%3Bf=faq-and-known-issues&amp%3Bl=it&l=it	
 -806278199259073555	FLOWER_PLANTING_FINISHED	Finito di piantare fiori!	
 -5805314665824740601	FLOWER_PLANTING_FINISHED_PUSH_TITLE	Pikmin Bloom	
